@@ -9,7 +9,9 @@ from pathlib import Path
 def show_about_content(selected_option):
     st.write("Author: Paul Dunlop + Amazon Q For Developers")
     st.write("V2 - Jan 2025")
-    st.write("This app is allows more review of the AWS Whats new RSS Feed info etc")
+    st.write(
+        "This app is allows more review of the AWS Whats New feed : https://aws.amazon.com/new/"
+    )
     st.write("Is a WIP! :D")
     st.write("HTTPS://AWSBUILDERS.KIWI")
 
@@ -77,12 +79,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         if group_by == "Day of Month":
             grouped_data = filtered_data.groupby(filtered_data["Date"].dt.date)
             # Iterate
-            for date, group in grouped_data:
+            # for date, group in grouped_data:
+            for date, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
                 # Write the date as a header
                 st.markdown(f"**{date.strftime('%d/%m/%Y')}**")
 
                 # List all titles for that date
-                for _, row in group.iterrows():
+                # for _, row in group.iterrows():
+                for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
                         st.markdown(f"- {row['Title']} [Link]({row['Link']})")
                     else:
@@ -94,12 +98,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
                 filtered_data["Date"].dt.to_period("M")
             )
             # Iterate
-            for month, group in grouped_data:
+            # for month, group in grouped_data:
+            for month, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
                 # Write the month as a header
                 st.markdown(f"**{month}**")
 
                 # List all titles for that month
-                for _, row in group.iterrows():
+                # for _, row in group.iterrows():
+                for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
                         st.markdown(f"- {row['Title']} [Link]({row['Link']})")
                     else:
@@ -110,12 +116,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         elif group_by == "Year":
             grouped_data = filtered_data.groupby(filtered_data["Date"].dt.year)
             # Iterate
-            for year, group in grouped_data:
+            # for year, group in grouped_data:
+            for year, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
                 # Write the year as a header
                 st.markdown(f"**{year}**")
 
                 # List all titles for that year
-                for _, row in group.iterrows():
+                # for _, row in group.iterrows():
+                for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
                         st.markdown(f"- {row['Title']} [Link]({row['Link']})")
                     else:
@@ -126,12 +134,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         elif group_by == "Category":
             grouped_data = filtered_data.groupby(filtered_data["Category"])
             # Iterate
-            for category, group in grouped_data:
+            # for category, group in grouped_data:
+            for category, group in sorted(grouped_data):
                 # Write the date as a header
                 st.markdown(f"**{category}**")
 
                 # List all titles for that date
-                for _, row in group.iterrows():
+                # for _, row in group.iterrows():
+                for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
                         st.markdown(
                             f"- {row['Title']}  [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
@@ -148,12 +158,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
             exploded_df = filtered_data.explode("Services")
             grouped_data = exploded_df.groupby("Services")
             # Iterate
-            for service, group in grouped_data:
+            # for service, group in grouped_data:
+            for service, group in sorted(grouped_data):
                 # Write the service as a header
                 st.markdown(f"**{service}**")
 
                 # List all titles for that service
-                for _, row in group.iterrows():
+                # for _, row in group.iterrows():
+                for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
                         st.markdown(
                             f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
@@ -313,7 +325,9 @@ def main():
             years = [None] + list(
                 st.session_state.whats_new_data["Date"].dt.year.unique()
             )
-            year_index = years.index(current_year) if current_year in years else 0
+
+            # year_index = years.index(current_year) if current_year in years else 0
+            year_index = 11
             year = st.selectbox("Select Year", years, index=year_index)
             month = st.selectbox("Select Month", [None] + list(range(1, 13)))
             day = st.selectbox("Select Day", [None] + list(range(1, 32)))
