@@ -7,7 +7,12 @@ from pathlib import Path
 
 
 def show_about_content(selected_option):
+    st.write("Author: Paul Dunlop + Amazon Q For Developers")
+    st.write("V2 - Jan 2025")
+
     st.write("This app is allows more review of the AWS Whats new RSS Feed info etc")
+
+    st.write("Is a WIP! :D")
 
 
 def display_posts_per_year(data):
