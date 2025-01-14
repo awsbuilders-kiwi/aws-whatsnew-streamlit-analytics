@@ -281,7 +281,7 @@ def main():
 
     # Top menu bar
     with st.container():
-        col1, col2, col3 = st.columns(3, gap="small", vertical_alignment="top")
+        col1, col2, col3, col4 = st.columns(4, gap="small", vertical_alignment="top")
         with col1:
             if st.button("About"):
                 st.session_state.active_menu = "About"
@@ -291,7 +291,10 @@ def main():
         with col3:
             if st.button("Whats New Data Filter"):
                 st.session_state.active_menu = "Whats New Data Filter"
-
+        with col4:
+            st.write(
+                "-= " + version + " .:.  Last Scraped: " + last_scaped_date + " =-"
+            )
     st.markdown("---")
 
     # Create two columns - sidebar and main content
