@@ -9,10 +9,9 @@ from pathlib import Path
 def show_about_content(selected_option):
     st.write("Author: Paul Dunlop + Amazon Q For Developers")
     st.write("V2 - Jan 2025")
-
     st.write("This app is allows more review of the AWS Whats new RSS Feed info etc")
-
     st.write("Is a WIP! :D")
+    st.write("HTTPS://AWSBUILDERS.KIWI")
 
 
 def display_posts_per_year(data):
@@ -170,20 +169,6 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         st.write("No announcements found for the selected filters.")
 
 
-def show_builders_content(selected_option):
-    if selected_option == "Email Us":
-        st.write("Send us an email")
-        st.text_input("Your Email")
-        st.text_area("Message")
-        st.button("Send Message")
-    elif selected_option == "Office Locations":
-        st.write("Our Offices")
-        st.write("📍 New York\n📍 London\n📍 Tokyo")
-    elif selected_option == "Social Media":
-        st.write("Follow Us")
-        st.write("Twitter | LinkedIn | Facebook")
-
-
 def generate_report_1(df):
     st.subheader("Summary of Announcements")
 
@@ -275,7 +260,7 @@ def main():
 
     # Top menu bar
     with st.container():
-        col1, col2, col3, col4 = st.columns(4, gap="small", vertical_alignment="top")
+        col1, col2, col3 = st.columns(3, gap="small", vertical_alignment="top")
         with col1:
             if st.button("About"):
                 st.session_state.active_menu = "About"
@@ -285,11 +270,8 @@ def main():
         with col3:
             if st.button("Whats New Data Filter"):
                 st.session_state.active_menu = "Whats New Data Filter"
-        with col4:
-            if st.button("AWSBuilders.kiwi"):
-                st.session_state.active_menu = "AWSBuilders.kiwi"
 
-        st.markdown("---")
+    st.markdown("---")
 
     # Create two columns - sidebar and main content
     col_sidebar, col_main = st.columns([1, 4])
