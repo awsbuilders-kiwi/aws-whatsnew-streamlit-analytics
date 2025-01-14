@@ -344,7 +344,7 @@ def main():
             )
 
             # year_index = years.index(current_year) if current_year in years else 0
-            year_index = 11
+            year_index = 1
             year = st.selectbox("Select Year", years, index=year_index)
             month = st.selectbox("Select Month", [None] + list(range(1, 13)))
             day = st.selectbox("Select Day", [None] + list(range(1, 32)))
