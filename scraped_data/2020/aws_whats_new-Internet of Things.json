@@ -1,0 +1,386 @@
+[
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise Monitor now supports AWS CloudFormation",
+        "Date": "12/30/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS now supports over-the-air update (OTA) for multiple file types",
+        "Date": "12/23/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Updated AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available",
+        "Date": "12/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Greengrass 2.0 provides an open source edge runtime and new capabilities for building and operating IoT device software",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-greengrass-2-0-provides-open-source-edge-runtime-capabilities-building-operating-iot-device-software/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Enhanced error handling capabilities in AWS IoT Analytics data processing pipelines",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/enhanced-error-handling-capabilities-in-aws-iot-analytics-data-processing-pipelines/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing AWS IoT EduKit",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing FreeRTOS Long Term Support",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-freertos-long-term-support/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing Amazon Sidewalk Integration for AWS IoT Core",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-sidewalk-integration-for-aws-iot-core/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core Device Advisor now available in preview",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core adds the ability to deliver data to Apache Kafka clusters",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management introduces Fleet Hub, a new, easy way to monitor and interact with IoT device fleets",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing AWS IoT Core for LoRaWAN: connect and manage LoRaWAN devices at scale easily and cost-effectively",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing AWS IoT SiteWise plugin for Grafana",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise launches support for Modbus TCP and EtherNet/IP protocols with enhancements to OPC-UA data ingestion",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Analytics can now store processed IoT data in data stores using Apache Parquet format",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-analytics-store-processed-iot-data-data-stores-apache-parquet-format/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing support for Alarms (Preview) in AWS IoT Events and AWS IoT SiteWise",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-support-alarms-preview-aws-iot-events-aws-iot-sitewise/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS adds cellular LTE-M interface library to support cellular IoT based applications",
+        "Date": "12/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SDK for Embedded C version 202012.00 includes over-the-air update (OTA) library and PKCS #11 implementation",
+        "Date": "12/14/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Analytics now supports notifications for and reprocessing of late data",
+        "Date": "11/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-analytics-now-supports-notifications-for-and-reprocessing-of-late-data/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now allows ingestion of data that is up to 7 days old",
+        "Date": "11/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-allows-ingestion-of-data-up-to-7-days-in-past/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Greengrass is now available in AWS GovCloud (US-East) Region",
+        "Date": "11/19/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-greengrass-available-aws-govcloud-us-east-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing new features for AWS IoT SiteWise",
+        "Date": "11/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-features-aws-iot-sitewise/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel",
+        "Date": "11/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity",
+        "Date": "11/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SDK for Embedded C version 202011.00 now includes refactored coreHTTP, AWS IoT Device Defender, and AWS IoT Jobs libraries",
+        "Date": "11/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sdk-embedded-c-version-includes-refactored-corehttp-aws-iot-device-defender-aws-iot-jobs-libraries/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports AWS CloudFormation",
+        "Date": "11/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines",
+        "Date": "11/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-new-visualization-features-in-aws-iot-sitewise-status-charts-scatter-plot-and-trend-lines/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise launches support for VPC private links",
+        "Date": "10/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-launches-support-for-vpc-private-links/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise is now available in Asia Pacific (Singapore) and Asia Pacific (Sydney) AWS regions",
+        "Date": "10/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-available-singapore-sydney/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core Adds the Ability to Stream Time-series Data to Amazon Timestream",
+        "Date": "10/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-iot-core-adds-ability-stream-time-series-data-amazon-timestream/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Greengrass introduces System Health Telemetry, adds new Stream Manager features, and support for Python 3.8",
+        "Date": "09/19/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-iot-greengrass-introduces-system-health-telemetry-adds-stream-manager-features-support-for-python-3-8/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SDK for Embedded C version 202009.00 now available with refactored MQTT, JSON, and AWS IoT device shadow libraries",
+        "Date": "09/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-iot-sdk-for-embedded-c-version-202009-00-now-available-with-refactored-mqtt-json-and-aws-iot-device-shadow-libraries/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS kernel v10.4.0 now available with new features and enhanced ports",
+        "Date": "09/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/freertos-kernel-v10-4-0-now-available-with-new-features-and-enhanced-ports/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender now available in the AWS GovCloud (US-East) Region",
+        "Date": "09/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-iot-device-defender-available-govcloud-us-east/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "New AWS Solutions consulting offer - Rubix IoT Fleet Management",
+        "Date": "09/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/new-aws-solutions-consulting-offer-rubix-iot-fleet-management/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS announces a 86%+ price reduction for AWS IoT Events",
+        "Date": "09/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-announces-price-reduction-aws-iot-events/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "New AWS Solutions Consulting Offer - Serverless IoT Platform Accelerator",
+        "Date": "09/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/new-aws-solutions-consulting-offer-serverless-iot-platform-accelerator/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core and AWS IoT Device Management now available in the AWS GovCloud (US-East) Region",
+        "Date": "09/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-iot-core-iot-device-management-available-govcloud-us-east/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core expands Custom Authentication options",
+        "Date": "08/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-iot-core-expands-custom-authentication-options/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender adds audit finding suppression capability",
+        "Date": "08/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-iot-device-defender-adds-audit-finding-suppression-capability/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "New AWS Solutions Consulting Offer – IoT Foundations",
+        "Date": "08/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/new-aws-solutions-consulting-offer-iot-foundations/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management increases the limit for concurrent Active Jobs to 1,000 per AWS account per region",
+        "Date": "08/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-iot-device-management-increases-limit-for-concurrent-active-jobs/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Cypress PSoC 64 Standard Secure Microcontroller is Qualified for FreeRTOS",
+        "Date": "07/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/cypress-psoc-64-standard-secure-microcontroller-qualified-freertos/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS now supports over-the-air update (OTA) suspend and resume operations",
+        "Date": "07/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/freertos-supports-over-the-air-update-suspend-resume-operations/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Tester v3.1.0 for FreeRTOS is now available",
+        "Date": "07/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-iot-device-tester-v3-1-0-for-freertos-is-now-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Analytics is now available in the Sydney AWS Region",
+        "Date": "07/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-iot-analytics-available-aws-sydney-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS Service Catalog is now available in Africa (Cape Town) and Europe (Milan)",
+        "Date": "07/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-service-catalog-is-now-available-in-africa-cape-town-and-europe-milan/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing Amazon Virtual Andon 2.0: Andon system for manufacturers",
+        "Date": "07/14/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/introducing-amazon-virtual-andon-2/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise is now generally available",
+        "Date": "07/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-iot-sitewise-generally-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Tester v3.1.0 for AWS IoT Greengrass is now available",
+        "Date": "06/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-iot-device-tester-v3-1-0-aws-iot-greengrass-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS over-the-air update (OTA) now supports new job configurations",
+        "Date": "06/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/freertos-over-the-air-update-ota-now-supports-new-job-configurations/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "NXP’s EdgeLock™ SE050 Secure Element now qualified for use with AWS IoT Core Multi-Account Registration and AWS IoT Greengrass",
+        "Date": "05/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/nxps-edgelock-se050-secure-element-now-qualified-for-use-aws-iot-core-multi-account-registration/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Espressif’s ESP32-WROOM-32SE module is now qualified for use with AWS IoT Multi-Account Registration",
+        "Date": "05/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/espressifs-esp32-wroom-32se-module-now-qualified-for-aws-iot-multi-account-registration/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Events actions now support AWS IoT SiteWise and Amazon DynamoDB as targets",
+        "Date": "04/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-iot-events-actions-support-aws-iot-sitewise-amazon-dynamodb-as-targets/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Events adds support for custom actions payloads and custom timers",
+        "Date": "04/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-iot-events-adds-support-for-custom-actions-payloads-and-custom-timers/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender Now Available in the AWS China (Beijing) Region, operated by Sinnet, and the AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "04/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-iot-device-defender-now-available-in-the-aws-china-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Tester now supports automatic updates for test suites",
+        "Date": "04/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-iot-device-tester-now-supports-automatic-updates-for-test-suites/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender now supports Dimensions for topic-based metric monitoring",
+        "Date": "04/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-iot-device-defender-now-supports-dimensions-for-topic-based-metric-monitoring/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Tester v2.3.0 for AWS IoT Greengrass is now available",
+        "Date": "02/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-iot-device-tester-v2-3-0-for-aws-iot-greengrass-is-now-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS Service Catalog is now available in Hong Kong and Bahrain",
+        "Date": "02/26/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-service-catalog-is-now-available-in-hong-kong-and-bahrain/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Greengrass now supports Advanced Package Tool (APT) package management",
+        "Date": "02/26/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-iot-greengrass-now-supports-advanced-package-tool-apt-package-management/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Tester v1.7.0 for FreeRTOS is now available",
+        "Date": "02/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-iot-device-tester-v170-for-freertos-now-available/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Greengrass Core SDK for Node.js (v1.6.0) now supports Greengrass Stream Manager",
+        "Date": "01/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-iot-greengrass-core-sdk-node-js-supports-greengrass-stream-manager/"
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall now supports IPv6 Service Endpoints",
+        "Date": "21/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-network-firewall-ipv6-service-endpoints/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Backup now supports dual-stack (IPv4 and IPv6) environments",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-dual-stack-ipv4-ipv6-environments/",
+        "Services": [
+            "AWS Backup"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map now supports Service Level Attributes",
+        "Date": "14/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloud-map-service-level-attributes",
+        "Services": [
+            "AWS Cloud Map"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location in Osaka, Japan",
+        "Date": "14/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-direct-connect-location-osaka-japan/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces access to VPC resources over AWS PrivateLink",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/access-vpc-resources-aws-privatelink/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall expands the list of supported protocols and keywords in firewall rules",
+        "Date": "27/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-network-firewall-list-protocols-keywords-firewall/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Application Recovery Controller zonal shift and zonal autoshift support Application Load Balancers",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-recovery-controller-zonal-shift-autoshift-load-balancers/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces Media Quality-Aware Resiliency for live streaming",
+        "Date": "22/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-media-quality-aware-resiliency-live-streaming",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway now supports Custom Domain Name for private REST APIs",
+        "Date": "22/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-api-gateway-custom-domain-name-private-rest-apis/",
+        "Services": [
+            "Amazon API Gateway"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces origin modifications using CloudFront Functions",
+        "Date": "22/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-origin-modifications-cloudfront-functions",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports additional log formats and destinations for access logs",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces VPC origins",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-vpc-origins/",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Load Balancer Capacity Unit Reservation for Application and Network Load Balancers",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/load-balancer-capacity-unit-reservation-application-balancers/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports gRPC delivery",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-supports-grpc-delivery/",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC IP Address Manager is now available in Asia Pacific (Malaysia) Region",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-ip-address-manager-malaysia-region",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces Block Public Access for Amazon Virtual Private Cloud",
+        "Date": "20/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/block-public-access-amazon-virtual-private-cloud/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Lattice now supports Amazon Elastic Container Service (Amazon ECS)",
+        "Date": "19/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-lattice-elastic-container-service/",
+        "Services": [
+            "Amazon Elastic Container Service",
+            "Amazon VPC Lattice",
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Application Load Balancer announces CloudFront integration with built-in WAF",
+        "Date": "16/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports the latest Ubuntu OS versions - 22.04 LTS and 24.04 LTS",
+        "Date": "14/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-client-vpn-supports-latest-ubuntu-os-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront no longer charges for requests blocked by AWS WAF",
+        "Date": "07/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-charges-requests-blocked-aws-waf",
+        "Services": [
+            "AWS WAF",
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new edge location in Qatar",
+        "Date": "02/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-edge-location-qatar",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 announces HTTPS, SSHFP, SVCB, and TLSA DNS resource record support",
+        "Date": "31/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-https-sshfp-svcb-tlsa-dns-support/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall now supports configurable TCP idle timeout",
+        "Date": "31/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-network-firewall-configurable-tcp-idle-timeout/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud launches new security group sharing features",
+        "Date": "31/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-virtual-private-cloud-security-group-sharing",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces EFA update for scalability with AI/ML applications",
+        "Date": "25/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-efa-updates-scalability-ai-ml-applications/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Cross-zone enabled Network Load Balancer now supports zonal shift and zonal autoshift",
+        "Date": "12/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/cross-zone-network-load-balancer-zonal-shift-autoshift/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches support for JA4 fingerprinting",
+        "Date": "12/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudfront-ja4-fingerprinting/",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) now supports BYOIP and BYOASN in all AWS Local Zones",
+        "Date": "03/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-virtual-private-cloud-byoip-byoasn-local-zones/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Gateway Load Balancer now supports configurable TCP idle timeout",
+        "Date": "06/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Load Balancer now supports configurable TCP idle timeout",
+        "Date": "04/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-load-balancer-tcp-idle-timeout/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches new edge location in Cairo, Egypt",
+        "Date": "30/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-global-accelerator-edge-cairo-egypt/",
+        "Services": [
+            "AWS Global Accelerator"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces Amazon-provided contiguous IPv4 blocks",
+        "Date": "29/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-provided-contiguous-ipv4-blocks/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver Endpoints now available in the Asia Pacific (Malaysia) Region",
+        "Date": "23/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia",
+        "Date": "22/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC IPAM now supports BYOIP for IPs registered with any Internet Registry",
+        "Date": "23/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-vpc-ipam-byoip-ips-registered-internet-registry/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Elastic Fabric Adapter (EFA) now supports cross-subnet communication",
+        "Date": "03/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/elastic-fabric-adapter-cross-subnet-communication/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location in Chicago, Illinois",
+        "Date": "24/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/aws-new-direct-connect-location-chicago-illinois/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new edge location in Egypt",
+        "Date": "23/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/new-edge-location-egypt/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application Load Balancer launches IPv6 only support for internet clients",
+        "Date": "16/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/application-load-balancer-ipv6-internet-clients/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver DNS Firewall now available in the Canada West (Calgary) Region",
+        "Date": "03/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-canada-west-calgary-region/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection",
+        "Date": "01/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location in Aurora, Illinois",
+        "Date": "30/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-aurora-illinois/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator now supports endpoints in the AWS Canada West (Calgary) Region",
+        "Date": "25/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-global-accelerator-endpoints-calgary-region/",
+        "Services": [
+            "AWS Global Accelerator"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing Amazon Route 53 Profiles",
+        "Date": "22/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-route-53-profiles/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Manager is now available in AWS Israel (Tel Aviv) Region",
+        "Date": "16/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-network-manager-israel-tel-aviv-region/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS PrivateLink now supports Amazon QuickSight",
+        "Date": "15/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/",
+        "Services": [
+            "AWS PrivateLink",
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports Origin Access Control (OAC) for Lambda function URL origins",
+        "Date": "11/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-lambda-function-url-origins/",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "VPC Traffic Mirroring is now available in seven additional regions",
+        "Date": "02/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/vpc-traffic-mirroring-seven-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud WAN and AWS Network Manager are now available in AWS Asia Pacific (Jakarta) Region",
+        "Date": "28/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloud-wan-network-manager-asia-pacific-jakarta-region/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator adds support for five new Amazon CloudWatch metrics",
+        "Date": "27/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-five-cloudwatch-metrics/",
+        "Services": [
+            "AWS Global Accelerator",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application Load Balancer enables configuring HTTP client keepalive duration",
+        "Date": "14/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-http-keepalive-duration/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing new Amazon VPC DHCPv6 setting to adjust IPv6 preferred lease time",
+        "Date": "07/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-vpc-dhcpv6-setting-ipv6-lease-time/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location in Honolulu, Hawaii",
+        "Date": "29/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC now supports idempotency for route table and network ACL creation",
+        "Date": "25/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-vpc-idempotency-route-table-network-acl/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway WebSocket APIs now available in the Middle East (UAE) Region",
+        "Date": "18/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/",
+        "Services": [
+            "Amazon API Gateway"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud Prefix Lists now available in Canada West (Calgary) Region",
+        "Date": "10/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-virtual-private-cloud-canada-calgary-region/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 expands geoproximity routing",
+        "Date": "10/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    }
+]

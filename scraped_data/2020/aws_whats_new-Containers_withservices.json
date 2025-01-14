@@ -1,0 +1,474 @@
+[
+    {
+        "Category": "Containers",
+        "Title": "Amazon Elastic Container Service launches new management console",
+        "Date": "31/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/",
+        "Services": [
+            "Amazon Elastic Container Service"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App2Container now supports remote execution of containerization workflows",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/",
+        "Services": [
+            "AWS App2Container"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Software providers on AWS Marketplace can now use the self-service management portal to update their Container products",
+        "Date": "19/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/",
+        "Services": [
+            "AWS Marketplace"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Distributed Load Testing v1.2",
+        "Date": "19/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Simplify running Apache Spark jobs with Amazon EMR on Amazon EKS",
+        "Date": "09/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-running-apache-spark-jobs-amazon-emr-amazon-eks/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS adds built-in logging support for AWS Fargate",
+        "Date": "02/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-adds-built-in-logging-support-for-aws-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS adds support for EC2 Spot Instances in managed node groups",
+        "Date": "01/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-support-ec2-spot-instances-managed-node-groups/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App2Container now supports authenticated Windows applications deployment to EKS and Custom AWS Profiles",
+        "Date": "25/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app2container-now-supports-authenticated-windows-application/",
+        "Services": [
+            "AWS App2Container"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS adds support for P4d instance types",
+        "Date": "25/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-adds-support-p4d-instance-types/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Cluster Auto Scaling now offers more responsive scaling",
+        "Date": "24/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot CLI is now Generally Available",
+        "Date": "24/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-copilot-cli-now-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Cloud Map now supports FIPS 140-2 compliant endpoints",
+        "Date": "21/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloud-map-supports-fips-140-2-compliant-endpoints/",
+        "Services": [
+            "AWS Cloud Map"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Video On Demand on AWS Foundation",
+        "Date": "18/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS extensions for AWS CDK is now generally available",
+        "Date": "17/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-extensions-for-aws-cdk-is-now-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh introduces circuit breaker capabilities",
+        "Date": "10/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports the use of Amazon FSx for persistent, shared storage for Windows containers",
+        "Date": "10/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-use-of-amazon-fsx-windows-file-server/",
+        "Services": [
+            "Amazon FSx"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode",
+        "Date": "07/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate for Amazon ECS launches features focused on configuration and metrics",
+        "Date": "05/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-fargate-for-amazon-ecs-launches-features-focused-on-configuration-and-metrics/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "New AWS Solutions Consulting Offer - Antares Cloud Management",
+        "Date": "04/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-claranet-antares-cloud-management/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions",
+        "Date": "27/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/",
+        "Services": [
+            "AWS Auto Scaling"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation",
+        "Date": "27/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
+        "Services": [
+            "AWS Fargate",
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more",
+        "Date": "23/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh supports cross account sharing of ACM Private Certificate Authority",
+        "Date": "23/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh increases default limits on several resources",
+        "Date": "23/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-increases-default-limits-on-several-resources/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports Configurable Job Retries",
+        "Date": "21/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-batch-supports-configurable-job-retries/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Fluent Bit supports Amazon S3 as a destination to route container logs",
+        "Date": "14/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/fluent-bit-supports-amazon-s3-destination-route-container-logs/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Distributed Load Testing v1.1",
+        "Date": "06/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot CLI launches v0.4 focused on autoscaling and operations",
+        "Date": "25/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-copilot-cli-launches-v0-4-focused-on-autoscaling-and-operations/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS is now available in the Los Angeles AWS Local Zones",
+        "Date": "24/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-ecs-available-los-angeles-aws-local-zones/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate increases default resource count service quotas",
+        "Date": "22/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-fargate-increases-default-resource-count-service-quotas/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh controller for Kubernetes Version 1.1.1 now available with support for new mesh configuration controls",
+        "Date": "09/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-app-mesh-controller-kubernetes-version-1-1-1-available-support-new-mesh-configuration-controls/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon CloudWatch now monitors Prometheus metrics from Container environments",
+        "Date": "09/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-cloudwatch-monitors-prometheus-metrics-container-environments/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing the General Availability of Bottlerocket, a new open source Linux-based operating system purpose-built to run containers",
+        "Date": "01/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/announcing-general-availability-of-bottlerocket/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh controller for Kubernetes Version 1.1.1 now available with support for new mesh configuration controls",
+        "Date": "26/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-app-mesh-controller-kubernetes-version-1-1-1-available-support-new-mesh-configuration-controls/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot CLI launches v0.3 focused on operations and configuration",
+        "Date": "15/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-copilot-cli-launches-v0-3-operations-configurations/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now launches the Amazon ECS Optimized Inferentia AMI",
+        "Date": "14/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ecs-launches-amazon-ecs-optimized-inferentia-ami/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate for Amazon EKS now included in Compute Savings Plans",
+        "Date": "11/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-fargate-aws-eks-included-compute-savings-plan/",
+        "Services": [
+            "AWS Fargate",
+            "Savings Plans"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh introduces new default mesh configuration",
+        "Date": "05/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-app-mesh-introduces-new-default-mesh-configuration/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate launches Usage Metrics and applied Service Quotas visibility",
+        "Date": "04/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-fargate-launches-usage-metrics-applied-service-quotas-visibility/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS announces CloudFormation support for Amazon EFS volumes",
+        "Date": "03/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ecs-announces-cloudformation-support-for-amazon-efs-volumes/",
+        "Services": [
+            "Amazon EFS"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "ECR now supports encryption of images using AWS KMS keys",
+        "Date": "30/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/ecr-supports-encryption-images-aws-kms-keys/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh achieves HIPAA eligibility",
+        "Date": "23/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-app-mesh-achieves-hipaa-eligibility/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Fluent Bit supports Amazon Elasticsearch Service as a destination to route container logs",
+        "Date": "15/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/fluent-bit-supports-amazon-elasticsearch-destination-route-container-logs/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh launches ingress support with virtual gateways",
+        "Date": "13/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-app-mesh-launches-ingress-support-for-virtual-gateways/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Docker and AWS collaborate to help deploy applications to Amazon ECS on AWS Fargate",
+        "Date": "10/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/docker-and-aws-collaborate-to-help-deploy-applications-to-amazon-ecs-on-aws-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS announces increased service quotas",
+        "Date": "07/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-ecs-announces-increase-service-quota-limits/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing AWS App2Container - Containerize and Migrate Applications to the AWS Cloud",
+        "Date": "02/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-aws-app2container/",
+        "Services": [
+            "AWS App2Container"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Management Console now supports custom capacity provider strategy with run task",
+        "Date": "25/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ecs-management-console-now-supports-custom-capacity-provider-strategy-with-run-task/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Cloud Map now supports resource tagging API and tags-on-create",
+        "Date": "22/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-cloudmap-now-supports-resource-tagging-api-and-tags-on-create/",
+        "Services": [
+            "AWS Cloud Map"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh introduces timeout configuration support",
+        "Date": "18/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-app-mesh-introduces-timeout-configuration-support/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh controller for Kubernetes is now generally available",
+        "Date": "18/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-app-mesh-controller-for-kubernetes-is-now-generally-available/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Capacity Providers Now Support Delete Functionality",
+        "Date": "16/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ecs-capacity-providers-support-delete-functionality/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Cluster Auto Scaling now available in seven additional regions",
+        "Date": "09/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ecs-cluster-auto-scaling-available-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS adds support for AWS PrivateLink in three additional regions",
+        "Date": "06/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ecs-adds-support-for-aws-privatelink-in-additional-regions/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Amazon RDS Ready Partners",
+        "Date": "05/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/introducing-amazon-rds-ready-partners/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing the new AWS SaaS Competency",
+        "Date": "05/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/introducing-the-new-aws-saas-competency/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "ECR now supports Manifest Lists for multi-architecture images",
+        "Date": "01/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/ecr-now-supports-manifest-lists-for-multi-architecture-images/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Bottlerocket, a new open source Linux-based operating system purpose-built to run containers",
+        "Date": "10/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-bottlerocket-a-new-open-source-linux-based-operating-system-optimized-to-run-containers/",
+        "Services": []
+    }
+]

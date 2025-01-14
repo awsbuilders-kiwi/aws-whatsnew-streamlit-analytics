@@ -1,0 +1,1407 @@
+[
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports deployments with CloudFormation StackSets",
+        "Date": "30/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now available in Asia Pacific (Hong Kong) region",
+        "Date": "23/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-available-hong-kong/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing FHIR Works on AWS",
+        "Date": "23/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports MariaDB version 10.4",
+        "Date": "23/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-now-supports-mariadb-version-10-4/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports parallel apply when using Redshift as a target during on-going replications",
+        "Date": "23/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-supports-parallel-apply-cdc-mode-using-redshift-target/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS App2Container now supports remote execution of containerization workflows",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/",
+        "Services": [
+            "AWS App2Container"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in the Africa (Cape Town) Region",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codebuild-is-now-available-in-the-africa-cape-town-region/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Porting Assistant for .NET supports automated code translation",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "EC2 Hibernation feature is now available in AWS GovCloud (US) Regions",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-hibernation-feature-is-now-available-in-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the General Availability of Amazon Corretto 11 for Linux on ARM32 and for Windows on x86 (32-bit)",
+        "Date": "21/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-general-availability-of-amazon-corretto-11-for-arm32-linux-on-arm32-and-for-windows-on-x86-32bit/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Distributed Load Testing v1.2",
+        "Date": "19/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS CloudShell",
+        "Date": "16/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/",
+        "Services": [
+            "AWS CloudShell"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for JavaScript version 3 is now generally available",
+        "Date": "15/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IDE Toolkit now available for AWS Cloud9",
+        "Date": "12/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud9-support-aws-ide-toolkit/",
+        "Services": [
+            "AWS Cloud9"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary",
+        "Date": "08/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-profiler-adds-memory-profiling-heap-summary/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Python Support for Amazon CodeGuru is available in Preview",
+        "Date": "04/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Well-Architected Tool now Supports AWS SaaS Lens",
+        "Date": "04/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-well-architected-tool-supports-aws-saas-lens/",
+        "Services": [
+            "AWS Well-Architected Tool"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon CloudWatch Lambda Insights (General Availability)",
+        "Date": "04/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer announces Security Detectors to help improve code security",
+        "Date": "02/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-reviewer-announces-security-detectors-improve-code-security/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Porting Assistant for .NET adds support for .NET 5",
+        "Date": "28/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/porting-assistant-net-adds-support-net-5/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Ubertas Consulting Foundations for AWS Well-Architected",
+        "Date": "28/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-ubertas-consulting-foundations-for-aws-well-architected/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Modules for AWS CloudFormation",
+        "Date": "25/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-modules-for-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS App2Container now supports authenticated Windows applications deployment to EKS and Custom AWS Profiles",
+        "Date": "25/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app2container-now-supports-authenticated-windows-application/",
+        "Services": [
+            "AWS App2Container"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework",
+        "Date": "25/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeArtifact now supports NuGet",
+        "Date": "24/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-supports-nuget/",
+        "Services": [
+            "AWS CodeArtifact"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics launches enhancements for API monitoring",
+        "Date": "24/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-launches-enhancements-for-api-monitoring/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics now supports custom browser launch settings",
+        "Date": "19/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-now-supports-custom-browser-launch-settings/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Video On Demand on AWS Foundation",
+        "Date": "18/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon ECS extensions for AWS CDK is now generally available",
+        "Date": "17/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-extensions-for-aws-cdk-is-now-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics now supports Environment Variables",
+        "Date": "17/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Atlassian Managed Hosting",
+        "Date": "13/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-kreuzwerker-atlassian-managed-hosting/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline Source Action for AWS CodeCommit Supports git clone",
+        "Date": "12/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
+        "Services": [
+            "AWS CodeCommit",
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler simplifies profiling for AWS Lambda functions",
+        "Date": "09/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
+        "Services": [
+            "AWS Lambda",
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB 4.0 compatibility) as a target",
+        "Date": "09/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-amazon-documentdb-with-mongodb-4-0-compatibility-as-a-target/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Antares Cloud Management",
+        "Date": "04/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-claranet-antares-cloud-management/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeArtifact now supports resource tagging",
+        "Date": "03/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/",
+        "Services": [
+            "AWS CodeArtifact"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service Now Supports Parallel Full Load for Amazon DocumentDB (with MongoDB compatibility) and MongoDB",
+        "Date": "30/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-parallel-full-load-amazon-documentdb-mongodb-compatibility-mongodb/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 8u272, 11.0.9, 15.0.1 quarterly updates are now available",
+        "Date": "27/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more",
+        "Date": "23/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Use existing Cognito User Pools & Identity Pools for your Amplify project",
+        "Date": "22/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/use-existing-cognito-user-pools-identity-pools-for-amplify-project/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Jira Software Data Center Implementation",
+        "Date": "21/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-software-data-center-implementation/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Porting Assistant for .NET is now open source",
+        "Date": "19/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Jira Service Desk Data Center Implementation",
+        "Date": "15/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-service-desk-data-center-implementation/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Solutions Consulting Offer - Infosys Data Testing Workbench",
+        "Date": "14/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-infosys-data-testing-workbench/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeArtifact now supports AWS CloudFormation",
+        "Date": "09/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-code-artifact-supports-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation",
+            "AWS CodeArtifact"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon CloudWatch Lambda Insights (preview)",
+        "Date": "08/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudwatch-lambda-insights-preview/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Distributed Load Testing v1.1",
+        "Date": "06/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS and Grafana Labs launch AWS X-Ray data source plugin",
+        "Date": "05/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-and-grafana-labs-launch-aws-xray-data-source-plugin/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing general availability of waiters in the AWS SDK for Java 2.x",
+        "Date": "02/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-general-availability-of-waiters-in-aws-sdk-for-java-2x/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CRT HTTP Client in the AWS SDK for Java 2.x",
+        "Date": "01/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-crt-http-client-in-aws-sdk-for-java-2x/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now Supports GitHub Enterprise Server",
+        "Date": "30/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-codepipeline-supports-github-enterprise-server/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now Supports git clone for Source Actions",
+        "Date": "30/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-codepipeline-now-supports-git-clone-for-source-actions/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Pinpoint launches Event-Triggered Journeys",
+        "Date": "30/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-pinpoint-launches-event-triggered-journeys/",
+        "Services": [
+            "Amazon Pinpoint"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in the Europe (Milan) Region",
+        "Date": "28/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-codebuild-is-now-available-in-the-europe-milan-region/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot CLI launches v0.4 focused on autoscaling and operations",
+        "Date": "25/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-copilot-cli-launches-v0-4-focused-on-autoscaling-and-operations/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the General Availability of Amazon Corretto 15",
+        "Date": "24/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/announcing-general-availability-amazon-corretto-15/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Now available AWS SSO credential profile support in the AWS Toolkit for JetBrains IDEs",
+        "Date": "23/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/now-available-aws-sso-credential-profile-support-in-aws-toolkit-for-jetbrains-ides/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeCommit is now available in the EU (Milan) region",
+        "Date": "18/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-codecommit-is-now-available-in-the-eu-milan-region/",
+        "Services": [
+            "AWS CodeCommit"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS and Docker extend collaboration to launch new features in Docker Desktop",
+        "Date": "16/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-and-docker-extend-collaboration-to-launch-new-features-in-docker-desktop/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Step Functions adds support for AWS X-Ray",
+        "Date": "14/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
+        "Services": [
+            "AWS X-Ray",
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Paginators in AWS SDK for .NET V3.5",
+        "Date": "09/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/paginators-aws-sdk-net-v3-5/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler now supports AWS PrivateLink",
+        "Date": "08/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-codeguru-profiler-supports-aws-privatelink/",
+        "Services": [
+            "AWS PrivateLink",
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray launches anomaly detection-based actionable insights in preview",
+        "Date": "05/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-xray-launches-anomaly-detection-based-actionable-insights-preview/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray launches Auto-Instrumentation Agent for Java",
+        "Date": "04/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-x-ray-launches-auto-instrumentation-agent-for-java/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 15 Release Candidate (RC)",
+        "Date": "31/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-corretto-15-release-candidate-rc/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Pause and Resume Workloads on M5a and R5a Instances with Amazon EC2 Hibernation",
+        "Date": "29/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/pause-resume-workloads-m5a-r5a-instances-amazon-ec2-hibernation/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray now supports controlling access to X-Ray resources using tags",
+        "Date": "27/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-x-ray-now-supports-controlling-access-to-x-ray-resources-using-tags/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Logs features now available in the AWS Toolkit for Visual Studio Code",
+        "Date": "26/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-cloudwatch-logs-features-available-aws-toolkit-visual-studio-code/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports MongoDB 4.0 as a source",
+        "Date": "25/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-database-migration-service-supports-mongodb-4-0-source/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for .NET v3.5 is now generally available",
+        "Date": "24/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-sdk-for-net-3-5-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 8 & 11 support extended",
+        "Date": "21/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-corretto-8-11-support-extended/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the AWS Controllers for Kubernetes Preview",
+        "Date": "19/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/announcing-the-aws-controllers-for-kubernetes-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud9 releases enhanced VPC support",
+        "Date": "19/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-cloud9-releases-enhanced-vpc-support/",
+        "Services": [
+            "AWS Cloud9"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot CLI launches v0.3 focused on operations and configuration",
+        "Date": "15/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-copilot-cli-launches-v0-3-operations-configurations/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS Solution: Improving Forecast Accuracy with Machine Learning",
+        "Date": "13/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/introducing-aws-solution-improving-forecast-accuracy-with-machine-learning/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy now supports deployments to VPC endpoints",
+        "Date": "11/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-codedeploy-now-supports-deployments-to-virtual-private-cloud-endpoints/",
+        "Services": [
+            "AWS CodeDeploy"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud9 is now available in the EU (Milan) region",
+        "Date": "06/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-cloud9-now-available-milan/",
+        "Services": [
+            "AWS Cloud9"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy Agent has improved compatibility for Amazon Linux 2, Windows and Ubuntu",
+        "Date": "05/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-codedeploy-agent-improved-compatibility-amazon-linux-windows-ubuntu/",
+        "Services": [
+            "AWS CodeDeploy"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon ECS announces CloudFormation support for Amazon EFS volumes",
+        "Date": "03/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ecs-announces-cloudformation-support-for-amazon-efs-volumes/",
+        "Services": [
+            "Amazon EFS"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon S3 features now available in the AWS Toolkits for Visual Studio Code",
+        "Date": "30/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-s3-features-now-available-aws-toolkits-for-visual-studio-code/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild supports code coverage reporting",
+        "Date": "30/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-codebuild-supports-code-coverage-reporting/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports parallel and coordinated executions of a build project",
+        "Date": "30/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-codebuild-now-supports-parallel-and-coordinated-executions-of-a-build-project/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray .NET Auto-Instrumentation Agent is now available in beta",
+        "Date": "22/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-x-ray-net-auto-instrumentation-agent-available-beta/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for Java v2 - Metrics Module now available as Developer Preview",
+        "Date": "22/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-sdk-for-java-v2-metrics-module-now-available-as-developer-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports accessing Build Environments with AWS Session Manager",
+        "Date": "21/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-codebuild-now-supports-accessing-build-environments-with-aws-session-manager/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing CDK Pipelines Preview, continuous delivery for AWS CDK applications",
+        "Date": "16/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-cdk-pipelines-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 8u262 & Corretto 11.0.8 are now available",
+        "Date": "15/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-corretto-8u262-corretto-11-0-8-now-available/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon ECS announces AWS Copilot, a new CLI to deploy and operate containers in AWS",
+        "Date": "10/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-ecs-announces-aws-copilot/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amplify CLI adds support for Lambda layers to easily share code & assets across Lambda functions",
+        "Date": "07/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amplify-cli-adds-support-for-lambda-layers-to-easily-share-code-assets-across-lambda-functions/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Porting Assistant for .NET - an analytic tool to help migrate .NET Framework to .NET Core",
+        "Date": "02/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/introducing-porting-assistance-for-net-analytic-tool-migrate-net-framework-net-core/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for C++ Version 1.8 \u2013 General Availability",
+        "Date": "01/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-sdk-version-1-8-general-availability/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild supports resource utilization metrics in CloudWatch",
+        "Date": "30/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-codebuild-supports-resource-utilization-metrics-in-cloudwatch/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy now enables automated installation and scheduled updates of the CodeDeploy Agent",
+        "Date": "30/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-codedeploy-now-enables-automated-installation-and-scheduled-updates-of-the-codedeploy-agent/",
+        "Services": [
+            "AWS CodeDeploy"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline Supports AWS AppConfig as a New Deploy Action type",
+        "Date": "26/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-codepipeline-supports-aws-appconfig-as-a-new-deploy-action-type/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild Now Supports Additional Shell Environments",
+        "Date": "26/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-codebuild-now-supports-additional-shell-environments/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Announces .NET Core on Linux Platform",
+        "Date": "24/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-elastic-beanstalk-announces-net-core-on-linux-platform/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeCommit now supports Emoji Reactions to Comments",
+        "Date": "24/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-codecommit-now-supports-emoji-reactions-to-comments/",
+        "Services": [
+            "AWS CodeCommit"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Config integrates with the AWS CloudFormation Registry",
+        "Date": "24/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-config-integrates-aws-cloudformation-registry/",
+        "Services": [
+            "AWS CloudFormation",
+            "AWS Config"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS Solutions Constructs",
+        "Date": "22/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-solutions-constructs/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New Amazon Builders\u2019 Library Article: Automating safe, hands-off deployments",
+        "Date": "18/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/new-abl-article-automating-safe-hands-off-deployments/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto for Alpine Linux now in preview",
+        "Date": "17/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-corretto-for-alpine-linux-now-in-preview/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig announces the launch of hosted configurations",
+        "Date": "17/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-appconfig-announces-launch-of-hosted-configurations/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS CodeArtifact: A fully managed software artifact repository service",
+        "Date": "10/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/introducing-aws-codeartifact-a-fully-managed-software-artifact-repository-service/",
+        "Services": [
+            "AWS CodeArtifact"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk announces General Availability of Amazon Linux 2 Based Tomcat platforms",
+        "Date": "04/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-elastic-beanstalk-announces-general-availability-of-amazon-linux-2-based-tomcat-platforms/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkit for JetBrains announces support for CLion, PhpStorm, GoLand and RubyMine IDEs",
+        "Date": "29/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-toolkit-for-jetbrains-anounces-support-for-clion-phpstorm-goland-rubymine-ides/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CodePipeline supports invoking Step Functions with a new action type",
+        "Date": "28/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/codepipeline-supports-invoking-step-functions-with-a-new-action-type/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing General Availability of Amplify iOS and Amplify Android, with new authentication, data, and AI/ML support",
+        "Date": "28/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/announcing-general-availability-amplify-ios-android-authentication-data-ai-ml-support/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM adds support for AWS Step Functions",
+        "Date": "27/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-sam-adds-support-for-aws-step-functions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon ECS launches container health checks and load balancer views in Spinnaker v1.20",
+        "Date": "27/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-ecs-launches-container-health-checks-and-load-balancer-views-in-spinnaker-v1-20/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild Test Reporting is now Generally Available",
+        "Date": "22/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-codebuild-test-reporting-is-now-generally-available/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk adds Traffic Splitting Deployment Policy",
+        "Date": "19/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-elastic-beanstalk-traffic-splitting-deployment-policy/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation now supports blue/green deployments for Amazon ECS",
+        "Date": "19/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-cloudformation-now-supports-blue-green-deployments-for-amazon-ecs/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud9 is now available in 5 more regions",
+        "Date": "14/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-cloud9-is-now-available-in-5-more-regions/",
+        "Services": [
+            "AWS Cloud9"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer announces support for Bitbucket repositories and enhancements",
+        "Date": "14/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-codeguru-reviewer-announces-support-for-bitbucket-repositories-and-enhancements/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru announces -javaagent switch to start Profiler",
+        "Date": "14/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-codeguru-announces-javaagent-switch-to-start-profiler/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud9 is now available with a new default theme",
+        "Date": "13/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-cloud9-now-available-with-new-default-theme/",
+        "Services": [
+            "AWS Cloud9"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing the CDK for Kubernetes, a New Software Development Framework and Open Source Project for Defining Kubernetes Applications Using Code",
+        "Date": "13/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/introducing-the-cdk-for-kubernetes-a-new-software-development-framework-and-open-source-project-for-defining-kubernetes-applications-using-code/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Kendra is now generally available",
+        "Date": "11/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-kendra-is-now-generally-available/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Heapothesys - An Open-Source Garbage Collector Latency Benchmark with Predictable Allocation Rates",
+        "Date": "11/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/introducing-heapothesys-an-open-source-garbage-collector-latency-benchmark-with-predictable-allocation-rates/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer announces pull request dashboard",
+        "Date": "07/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-codeguru-reviewer-announces-pull-request-dashboard/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler announces availability of hourly recommendation reports to remediate issues quickly",
+        "Date": "04/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-codeguru-profiler-announces-availability-of-hourly-recommendation-reports-to-remediate-issues-quickly/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer launches new, more cost-effective pricing model",
+        "Date": "02/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-codeguru-reviewer-launches-new-pricing-model/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EventBridge schema registry is now generally available",
+        "Date": "30/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-eventbridge-schema-registry-now-generally-available/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Announces General Availability of Amazon Linux 2 Based Node.js, PHP, Go, and Ruby Platforms",
+        "Date": "30/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-announces-general-availability-of-amazon-linux-2-based-node-js-php-go-and-ruby-platforms/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeCommit is Now Available in the AWS China (Beijing) Region, Operated by Sinnet, and in the AWS China (Ningxia) Region, Operated by NWCD",
+        "Date": "29/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-codecommit-available-aws-china-beijing-sinnet-ningxia-nwcd/",
+        "Services": [
+            "AWS CodeCommit"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Genomics Secondary Analysis using AWS Step Functions and AWS Batch",
+        "Date": "28/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
+        "Services": [
+            "AWS Batch",
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler improves process for authorizing new applications",
+        "Date": "28/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-codeguru-profiler-improves-process-for-authorizing-new-applications/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing TorchServe: a PyTorch model serving framework",
+        "Date": "21/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-torchserve/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics now supports monitoring private endpoints in a VPC",
+        "Date": "17/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-cloudwatch-synthetics-supports-monitoring-private-endpoints-in-vpc/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkit for JetBrains IDEs Adds New CloudWatch Logs Integration",
+        "Date": "16/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-toolkit-for-jetbrains-ides-adds-new-coudwatch-logs-integration/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray SDK for Go is now generally available",
+        "Date": "16/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-x-ray-sdk-for-go-is-now-generally-available/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New AWS Elastic Beanstalk console now available",
+        "Date": "10/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/new-aws-elastic-beanstalk-console-now-available/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now available in the AWS GovCloud (US-West) Region",
+        "Date": "09/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-codepipeline-now-available-in-aws-govcloud-us-region/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk adds API support for listing platform branches",
+        "Date": "09/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-adds-api-support-for-listing-platform-branches/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Announces General Availability of Amazon Linux 2 Based Docker, Corretto, and Python Platforms",
+        "Date": "08/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-announces-general-availability-of-amazon-linux-2-based-docker-corretto-and-python-platforms/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amplify CLI adds support for additional Lambda runtimes (Java, Go, .NET and Python) and Lambda cron jobs",
+        "Date": "07/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amplify-cli-adds-support-for-additional-lambda-runtimes-and-cron-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Launches support for AWS PrivateLink",
+        "Date": "06/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
+        "Services": [
+            "AWS PrivateLink",
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Serverless Application Repository allows sharing public applications from all commercial AWS regions",
+        "Date": "04/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-serverless-application-repository-allows-sharing-public-applications-from-all-commercial-aws-regions/",
+        "Services": [
+            "AWS Serverless Application Repository"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler now includes support for AWS CloudFormation",
+        "Date": "02/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-codeguru-profiler-now-includes-support-for-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Profiler flame graphs are now easier to use",
+        "Date": "02/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-codeguru-profiler-flame-graphs-are-now-easier-to-use/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Receive Notifications for AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, and AWS CodePipeline in Slack",
+        "Date": "02/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
+        "Services": [
+            "AWS CodeCommit",
+            "AWS CodeBuild",
+            "AWS CodeDeploy",
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "The AWS Toolkit for Visual Studio Code now supports AWS Step Functions",
+        "Date": "01/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-toolkit-for-visual-studio-code-supports-aws-step-functions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EC2 Hibernation now Lets you Pause and Resume Your Workloads on T2 Instance Types",
+        "Date": "19/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-ec2-hibernation-now-lets-you-pause-and-resume-workloads-on-t2-instance-types/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Customizations for AWS Control Tower solution",
+        "Date": "17/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/introducing-customizations-aws-control-tower-solution/",
+        "Services": [
+            "AWS Control Tower"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig announces integration with Amazon S3",
+        "Date": "13/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-appconfig-announces-integration-with-amazon-s3/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Provision AWS Chatbot configurations with AWS CloudFormation",
+        "Date": "07/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/provision-aws-chatbot-configurations-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation",
+            "AWS Chatbot"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeCommit Introduces git-remote-codecommit, a New Git Credential Helper",
+        "Date": "05/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-codecommit-introduces-open-source-remote-helper/",
+        "Services": [
+            "AWS CodeCommit"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch now allows you to combine multiple alarms",
+        "Date": "04/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-cloudwatch-now-allows-you-to-combine-multiple-alarms/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray now available in AWS GovCloud (US) Regions",
+        "Date": "27/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-x-ray-now-available-in-aws-govcloud-us-regions/",
+        "Services": [
+            "AWS X-Ray"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Chatbot Now Supports Amazon CloudWatch Metrics and Logs",
+        "Date": "25/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
+        "Services": [
+            "AWS Chatbot",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "You can now receive notifications about pull request approvals in AWS CodeCommit",
+        "Date": "19/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/receive-notifications-pull-request-approvals-aws-codecommit/",
+        "Services": [
+            "AWS CodeCommit"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Now enable Amazon EC2 Hibernation for On-Demand and Reserved Instances through AWS CloudFormation",
+        "Date": "14/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/now-enable-amazon-ec2-hibernation-on-demand-reserved-instances-aws-cloudformation/",
+        "Services": [
+            "Amazon EC2",
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Notification rules for AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy are now available in Hong Kong and Bahrain",
+        "Date": "13/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
+        "Services": [
+            "AWS CodeCommit",
+            "AWS CodeBuild",
+            "AWS CodeDeploy"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig launches support for AWS CloudFormation",
+        "Date": "13/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-appconfig-launches-support-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "EC2 Hibernation adds support for Ubuntu 16.04 LTS",
+        "Date": "11/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/ec2-hibernation-adds-support-for-ubuntu-16-04-lts/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Elastic Container Service has added support for canary deployments",
+        "Date": "07/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-elastic-container-service-support-canary-deployments/",
+        "Services": [
+            "Amazon Elastic Container Service"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild Adds Support for Amazon EFS",
+        "Date": "07/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-codebuild-adds-support-for-amazon-efs/",
+        "Services": [
+            "AWS CodeBuild",
+            "Amazon EFS"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Cloud9 launches support for tagging new and existing environments",
+        "Date": "05/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/cloud9-launches-support-for-tagging-new-and-existing-environments/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics is now available in 13 additional regions",
+        "Date": "22/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-cloudwatch-synthetics-available-13-additional-regions/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics is now available in 13 additional regions",
+        "Date": "22/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-cloudwatch-synthetics-available-13-additional-countries/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline Enables Stopping Pipeline Executions",
+        "Date": "21/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-codepipeline-enables-stopping-pipeline-executions/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Command Line Interface (EBCLI) is now open source",
+        "Date": "17/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-elastic-beanstalk-command-line-interface-now-open-source/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Device Farm announces Desktop Browser Testing using Selenium",
+        "Date": "14/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-device-farm-announces-desktop-browser-testing-using-selenium/",
+        "Services": [
+            "AWS Device Farm"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "The Amazon Builders\u2019 Library is Now Available in 16 Languages",
+        "Date": "10/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/the-amazon-builders-library-is-now-available-in-16-languages/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Elastic Beanstalk Launches Public Roadmap",
+        "Date": "09/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-elastic-beanstalk-launches-public-roadmap/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    }
+]

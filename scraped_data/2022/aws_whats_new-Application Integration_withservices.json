@@ -1,0 +1,521 @@
+[
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.9.24",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Announcing 4 new connectors for Amazon AppFlow",
+        "Date": "15/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-4-new-connectors/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports Microsoft SharePoint Online as a source",
+        "Date": "15/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-microsoft-sharepoint-online-source/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in the Middle East (UAE) Region",
+        "Date": "14/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Pipes is now generally available",
+        "Date": "02/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SageMaker Data Wrangler now supports over 40 third-party applications as data sources",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-over-40-third-party-applications-data-sources/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports over 50 Connectors",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-supports-over-50-connectors/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS adds support for payload-based message filtering",
+        "Date": "23/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge introduces new capabilities that make it simpler to build rules",
+        "Date": "21/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-capabilities-build-rules/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Simplify cross-account access for your AWS services with AWS Step Functions",
+        "Date": "19/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/simplify-cross-account-access-aws-services-step-functions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Managed Workflows for Apache Airflow (MWAA) now offers container, queue, and database metrics",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-container-queue-database-metrics/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow launches monitoring with Amazon CloudWatch metrics",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-monitoring-amazon-cloudwatch-metrics/",
+        "Services": [
+            "Amazon AppFlow",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Application Load Balancers now support turning off cross zone load balancing per target group",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS announces enhanced integration with AWS Service Quotas",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-enhanced-integration-aws-service-quotas/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports AWS Glue Data Catalog integration and provides enhanced data preparation",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/",
+        "Services": [
+            "AWS Glue",
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Resilience Hub adds support for Amazon Simple Notification Service (SNS) and AWS Trusted Advisor",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-resilience-hub-amazon-simple-notification-service-sns-trusted-advisor/",
+        "Services": [
+            "AWS Trusted Advisor",
+            "Amazon Simple Notification Service"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Zoom Meeting Media Plugin for Windows is now generally available on Amazon WorkSpaces",
+        "Date": "17/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-zoom-media-plugin-windows/",
+        "Services": [
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.10",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS announces native AOT tooling support for .NET applications on AWS Lambda",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Catalog API now supports Tag-Based Authorization of resources",
+        "Date": "15/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports enhanced filtering capabilities",
+        "Date": "15/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-enhanced-filtering-capabilities/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Managed Workflows for Apache Airflow (MWAA) is now HIPAA eligible",
+        "Date": "15/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Launches New Scheduler",
+        "Date": "11/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-launches-new-scheduler/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS increases the default quota for subscription filter policies by 50x to 10,000 per account",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-increases-default-quota-subscription-filter-policies-account/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports ActiveMQ version 5.17.2 and increased connection limits for ActiveMQ",
+        "Date": "09/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-activemq-5-17-2-increased-connection-limits/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS message data protection is now generally available with real-time data redaction and masking",
+        "Date": "04/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-message-data-protection-available-real-time-data-redaction-masking/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds new execution observability features for Express Workflows",
+        "Date": "20/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS announces increased throughput quota for FIFO High Throughput (HT) mode to up to 6,000 Transactions Per Second (TPS)",
+        "Date": "20/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-ht-mode-6000-transactions-per-second-tps/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports message signatures based on SHA256 hashing",
+        "Date": "20/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AppFlow now supports deleting records in Salesforce",
+        "Date": "16/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/appflow-now-supports-deleting-records-salesforce/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SWF launches new console experience",
+        "Date": "13/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Applications using Amazon SNS to send SMS can now be hosted in four new regions",
+        "Date": "10/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds 14 new intrinsic functions so you can process data more efficiently in workflows.",
+        "Date": "31/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions",
+        "Date": "31/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports Jira Cloud as a source",
+        "Date": "30/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions continues to expand its AWS SDK integrations with support for 3 additional AWS Services and 195 more API Actions",
+        "Date": "27/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.30",
+        "Date": "19/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-8-30/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.9.16",
+        "Date": "19/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-9-16/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Announcing new workflow observability features for AWS Step Functions",
+        "Date": "09/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud (US-West) Region",
+        "Date": "25/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud (US-West) Region",
+        "Date": "25/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions expands support for over 20 new AWS SDK integrations",
+        "Date": "20/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge introduces Global endpoints for automatic failover and recovery",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Connect Wisdom now supports Zendesk connector",
+        "Date": "04/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Schema Registry extends support to Go language",
+        "Date": "28/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in the Asia Pacific (Jakarta) Region",
+        "Date": "01/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.27",
+        "Date": "28/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync adds support for custom response headers",
+        "Date": "23/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in Africa (Cape Town) Region",
+        "Date": "17/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.9.13",
+        "Date": "14/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Connect now provides CloudFormation support for integrations with third-party data",
+        "Date": "14/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow launches Custom Connector SDK",
+        "Date": "03/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud (US) Regions",
+        "Date": "02/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.2 and Web Server Plugins",
+        "Date": "27/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS",
+        "Date": "27/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.26",
+        "Date": "18/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports Attribute-based access controls (ABAC)",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/",
+        "Services": []
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing the Auto Query feature for AWS IoT TwinMaker",
+        "Date": "12/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core allows customers to use their own CAs with fleet provisioning",
+        "Date": "12/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-core-customers-cas-fleet-provisioning/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS announces new no-code dashboard application to visualize IoT data",
+        "Date": "12/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS announces availability of modular and composable OTA libraries",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise Edge Now Available on Siemens Industrial Edge Marketplace (Preview)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-siemens-industrial-edge-marketplace-preview/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "FreeRTOS roadmap and code contribution process now published on freertos.org",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/freertos-roadmap-code-contribution-process-published-freertos-org/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Announcing vision system data from AWS IoT FleetWise (Preview)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise announces a new storage tier for industrial data",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-storage-tier-industrial-data/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports Asset model components",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-supports-asset-model-components/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports user-defined unique identifiers",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-user-defined-unique-identifiers/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now support bulk import, export and update of metadata",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-support-bulk-import-export-update-metadata/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports multi-variate anomaly detection with Amazon Lookout for Equipment",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-multi-variate-anomaly-detection-amazon-lookout-equipment/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise supports ingestion of buffered and batched measurement data",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-buffered-batched-measurement-data/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise announces Query API for metadata, and telemetry data retrieval",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-query-api-metadata-telemetry-retrieval/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management adds support for indexing and querying device location",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender now supports export of Detect metrics to other services",
+        "Date": "11/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-defender-export-detect-metrics/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Extended Protocol Support for AWS IoT SiteWise Edge through EasyEdge",
+        "Date": "11/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-easy-edge-protocol-support/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Kinesis Video Streams WebRTC Ingestion is now generally available",
+        "Date": "11/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT ExpressLink announces Technical Specification v1.2 with BLE connectivity",
+        "Date": "10/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-expresslink-technical-specification-v1-2-ble-connectivity/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core Credential Provider supports Virtual Private Cloud endpoints",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-core-credential-provider-virtual-private-cloud-endpoints/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT TwinMaker is now available in Tokyo, Seoul, and Mumbai",
+        "Date": "10/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-twinmaker-tokyo-seoul-mumbai/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management announces general availability of Software Package Catalog",
+        "Date": "10/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-device-management-general-availability-software-package-catalog/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core for LoRaWAN announces support for public LoRaWAN networks (GA)",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-lorawan-public-networks-ga/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action",
+        "Date": "09/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service is now available in AWS GovCloud (US-West) Region",
+        "Date": "09/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-service-aws-govcloud-us-west-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second",
+        "Date": "08/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core announces new certificate signing & key generation algorithms",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-new-certificate-signing-key-generation-algorithms/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core announces MQTT support for Device Location feature",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-mqtt-device-location-feature/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender now supports monitoring of device disconnect durations",
+        "Date": "07/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service now supports publishing device position updates on EventBridge",
+        "Date": "07/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service now supports API Keys for Maps, Places, and Routes",
+        "Date": "07/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-services-api-keys-maps-places-routes/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT TwinMaker Knowledge Graph now supports showing query results in scenes",
+        "Date": "07/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-twinmaker-knowledge-graph-showing-query-results-scenes/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Kinesis Video Streams Edge Agent is now generally available",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service now supports geofence metadata",
+        "Date": "06/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service adds support for place categories",
+        "Date": "06/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Management introduces Software Package Catalog",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT FleetWise now supports object storage in Amazon S3",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-iot-fleetwise-object-storage-amazon-s3/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise formula builder improvements",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-formula-builder-improvements/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core registry adds additional AWS CloudFormation resource types",
+        "Date": "05/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-registry-cloudformation-resource-types/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise enhances optimized storage in hot path data for higher throughput",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-optimized-storage-hot-path-data/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports 15-minute intervals for automatically computing aggregated asset property values",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-15-minute-intervals/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Device Defender and secure tunneling is now available in Middle East (UAE) region",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core announces TLS 1.3 support through Configurable Endpoints",
+        "Date": "05/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Amazon Location Service adds support for long distance matrix routing",
+        "Date": "04/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core Device Advisor announces support for MQTT over WebSocket",
+        "Date": "04/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes",
+        "Date": "04/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet (Preview)",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core announces general availability for MQTT5 Shared Subscriptions and new CloudWatch metrics",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-mqtt5-shared-subscriptions-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core deepens integration with Amazon Sidewalk",
+        "Date": "03/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-core-deepens-integration-amazon-sidewalk/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT TwinMaker is now available in the AWS GovCloud (US-West) Region",
+        "Date": "03/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-twinmaker-aws-govcloud-us-west-region/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "Introducing maintenance window feature for AWS IoT Device Management Jobs",
+        "Date": "03/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-device-management-jobs-maintenance-window-feature/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT SiteWise now supports Time-Weighted Average and Standard Deviation",
+        "Date": "03/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-sitewise-time-weighted-average-standard-deviation/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS Panorama simplifies ordering of Panorama Appliances",
+        "Date": "02/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/"
+    },
+    {
+        "Category": "Internet of Things",
+        "Title": "AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/"
+    }
+]

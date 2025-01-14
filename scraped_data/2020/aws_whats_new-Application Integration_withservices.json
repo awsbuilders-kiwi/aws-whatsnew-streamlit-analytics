@@ -1,0 +1,489 @@
+[
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now provides data integration with Upsolver",
+        "Date": "22/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-data-integration-upsolver/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now stores credentials in customers\u2019 AWS Secrets Manager account",
+        "Date": "19/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
+        "Services": [
+            "Amazon AppFlow",
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Now Supports a High Throughput Mode for FIFO Queues (Preview)",
+        "Date": "17/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sqs-supports-high-throughput-fifo-queues-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now provides Amazon Honeycode connectivity to several cloud applications",
+        "Date": "02/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-amazon-honeycode-connectivity-cloud-applications/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow expands integrations with ServiceNow",
+        "Date": "24/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-appflow-expands-integration-with-servicenow/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions now supports Amazon API Gateway service integration",
+        "Date": "18/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/",
+        "Services": [
+            "Amazon API Gateway",
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Lambda now supports Amazon MQ for Apache ActiveMQ as an event source",
+        "Date": "06/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/",
+        "Services": [
+            "AWS Lambda",
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS introduces new console experience in AWS GovCloud (US) regions",
+        "Date": "05/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sqs-introduces-new-console-experience-in-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge is now available in AWS GovCloud (US) Regions",
+        "Date": "04/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-event-bridge-is-now-available-in-aws-govcloud-us-regions/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Honeycode releases three new app templates that help teams manage work",
+        "Date": "02/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-releases-three-new-app-templates-that-help-teams-manage-work/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports selecting the origination number when sending SMS messages",
+        "Date": "24/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages",
+        "Date": "23/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-introduces-fifo-topics-with-strict-ordering-and-deduplication-of-messages/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions now supports Amazon Athena service integration",
+        "Date": "22/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
+        "Services": [
+            "AWS Step Functions",
+            "Amazon Athena"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports ActiveMQ version 5.15.13",
+        "Date": "22/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-now-supports-activemq-version-5-15-13/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Porting Assistant for .NET is now open source",
+        "Date": "19/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge announces support for Dead Letter Queues",
+        "Date": "09/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eventbridge-announces-support-dead-letter-queues/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Applications using Amazon SNS to send SMS can now be hosted in Europe (London) and Canada (Central) regions",
+        "Date": "07/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/applications-amazon-sns-send-sms-hosted-europe-london-canada-central-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow supports new options for updating records",
+        "Date": "06/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-new-options-updating-records/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow supports new options for schedule triggered flows",
+        "Date": "06/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-new-options-schedule-triggered-flows/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in the Europe (Milan) region",
+        "Date": "01/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-is-now-available-in-the-europe-milan-region/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync adds support for AWS WAF",
+        "Date": "01/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-appsync-adds-support-for-aws-waf/",
+        "Services": [
+            "AWS WAF",
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Schema Registry announces support for JSON Schema",
+        "Date": "30/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-eventbridge-schema-registry-announces-support-for-json-schema/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppStream 2.0 releases self-guided workshop to deploy the End User Computing dashboard",
+        "Date": "22/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-appstream-2-0-releases-self-guided-workshop-to-deploy-the-end-user-computing-dashboard/",
+        "Services": [
+            "Amazon AppStream 2.0"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "New AWS Solutions Consulting Offer - Confluence Data Center Implementation",
+        "Date": "16/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/new-aws-solutions-consulting-offer-confluence-data-center-implementation/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds support for AWS X-Ray",
+        "Date": "14/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
+        "Services": [
+            "AWS X-Ray",
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Applications using Amazon SNS to send SMS text messages can now be hosted in US West (N. California)",
+        "Date": "10/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/applications-amazon-sns-send-sms-text-messages-hosted-us-west-california/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync simplifies GraphQL query prototyping in the AWS Console with GraphiQL Explorer and Cognito integration improvements",
+        "Date": "04/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-appsync-improves-the-experience-to-query-graphql-apis-in-the-aws-console/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions increases payload size to 256KB",
+        "Date": "04/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-increases-payload-size-to-256kb/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Introducing the Amazon AppFlow APIs and SDK",
+        "Date": "28/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/introducing-amazon-appflow-apis-and-sdk/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS launches client library supporting message payloads of up to 2 GB",
+        "Date": "26/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-sns-launches-client-library-supporting-message-payloads-of-up-to-2-gb/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports Amazon EventBridge as a destination",
+        "Date": "26/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-appflow-now-supports-amazon-eventbridge-as-a-destination/",
+        "Services": [
+            "Amazon AppFlow",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds support for string manipulation, new comparison operators, and improved output processing",
+        "Date": "14/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-step-functions-support-string-manipulation-comparison-operators-improved-output-processing/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppStream 2.0 now supports local printer redirection",
+        "Date": "11/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-appstream-2-now-supports-local-printer-redirection/",
+        "Services": [
+            "Amazon AppStream 2.0"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync releases Direct Lambda Resolvers for GraphQL APIs",
+        "Date": "05/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-appsync-releases-direct-lambda-resolvers-for-graphql-apis/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds support for Amazon SageMaker Processing",
+        "Date": "05/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-step-functions-adds-support-for-amazon-sagemaker-processing/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS now provides results for the \u201cList Queues\" and \"List Dead Letter Source Queues\" requests in AWS GovCloud (US) Regions",
+        "Date": "21/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-sqs-provides-results-for-list-queues-list-dead-letter-source-queues-requests-in-aws-us-govcloud-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Now Supports New Console Experience",
+        "Date": "20/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-sqs-now-supports-new-console-experience/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ adds support for new micro broker (mq.t3.micro)",
+        "Date": "18/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-mq-adds-support-for-new-micro-broker/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync introduces new 12xlarge instance for server-side API caching",
+        "Date": "01/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-appsync-introduces-new-instance-server-side-api-caching/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync Now Available in EU (Paris and Stockholm), Canada (Central), South America (Sao Paulo) and US (N. California)",
+        "Date": "01/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-appsync-now-available-paris-stockholm-central-canada-sao-paulo-california/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppStream 2.0 Now Supports Drawing Tablets",
+        "Date": "26/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-appstream-supports-drawing-tablets/",
+        "Services": [
+            "Amazon AppStream 2.0"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS now provides results for the \u201cList Queues\" and \"List Dead Letter Source Queues\" requests in multiple pages",
+        "Date": "23/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-sqs-provides-results-for-list-queues-list-dead-letter-queues-requests-multiple-pages/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS FIFO Queues are now available in the EU (Milano) region",
+        "Date": "23/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-sqs-fifo-queues-now-available-milano/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge schema registry is now generally available",
+        "Date": "30/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-eventbridge-schema-registry-now-generally-available/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync enables support for generic WebSockets clients with GraphQL real-time subscriptions",
+        "Date": "24/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-appsync-enables-support-for-generic-websockets-clients-graphql-real-time-subscriptions/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Introducing Amazon AppFlow",
+        "Date": "22/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-amazon-appflow/",
+        "Services": [
+            "Amazon AppFlow"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Applications using Amazon SNS to send SMS can now be hosted in the AWS GovCloud (US-West) Region",
+        "Date": "20/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/applications-using-amazon-sns-to-send-sms-can-now-be-hosted-in-the-aws-govcloud-us-west-region/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Applications using Amazon SNS to send SMS can now be hosted in the Asia Pacific (Mumbai) and Europe (Frankfurt) regions",
+        "Date": "09/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/applications-using-amazon-sns-to-send-sms-can-now-be-hosted-in-the-asia-pacific-mumbai-and-europe-frankfurt-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Console Mobile Application Launches a New Android Version",
+        "Date": "06/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-console-mobile-application-launches-a-new-android-version/",
+        "Services": [
+            "AWS Console Mobile Application"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon VPC Endpoints For Amazon SQS Are Now Available In The Middle East (Bahrain) Region",
+        "Date": "03/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-vpc-endpoints-for-amazon-sqs-are-now-available-in-the-middle-east-bahrain-region/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Introducing content filtering for Amazon EventBridge",
+        "Date": "11/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/introducing-content-filtering-amazon-eventbridge/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync releases integration with AWS X-Ray and GraphQL Info object support",
+        "Date": "07/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-appsync-releases-integration-with-aws-x-ray-and-graphql-info-object-support/",
+        "Services": [
+            "AWS X-Ray",
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is Now Available in Asia Pacific (Hong Kong), and Middle East (Bahrain) regions",
+        "Date": "06/02/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-mq-now-available-in-asia-pacific-hong-kong-middle-east-bahrain-regions/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports ActiveMQ Version 5.15.10",
+        "Date": "23/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-mq-supports-activemq-version-5-15-10/",
+        "Services": [
+            "Amazon MQ"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon CloudWatch Synthetics is now available in 13 additional regions",
+        "Date": "22/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-cloudwatch-synthetics-available-13-additional-regions/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon CloudWatch Synthetics is now available in 13 additional regions",
+        "Date": "22/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-cloudwatch-synthetics-available-13-additional-countries/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Now Supports 1-Minute CloudWatch Metrics In All Commercial Regions",
+        "Date": "09/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-sqs-now-supports-1-minute-cloudwatch-metrics-in-all-commercial-regions/",
+        "Services": []
+    }
+]

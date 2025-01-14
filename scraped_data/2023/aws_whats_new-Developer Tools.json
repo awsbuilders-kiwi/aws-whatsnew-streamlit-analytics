@@ -1,0 +1,968 @@
+[
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon CloudWatch metrics support in AWS CodeArtifact",
+        "Date": "12/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metrics-support-aws-codeartifact/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CodePipeline supports GitLab self-managed",
+        "Date": "12/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Customer Managed Key (CMK) support in AWS CodeCommit",
+        "Date": "12/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/customer-managed-key-support-aws-codecommit/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing SSH support for Amazon CodeCatalyst Dev Environments",
+        "Date": "12/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/ssh-support-amazon-codecatalyst-dev-environments/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud9 now supports Amazon Linux 2023",
+        "Date": "12/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloud9-amazon-linux-2023/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst Dev Environments now supports Virtual Private Cloud",
+        "Date": "12/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-codecatalyst-dev-environments-private-cloud/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify",
+        "Date": "12/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing managed package repository support for Amazon CodeCatalyst",
+        "Date": "12/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell has migrated to Amazon Linux 2023 (AL2023)",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudshell-migrated-al2023/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy now supports application stop hooks during Amazon EC2 Auto Scaling Group scale-ins",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-application-stop-hooks-ec2-auto-scaling-group-scale-ins/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy now provides zonal deployment for Amazon EC2",
+        "Date": "12/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-zonal-deployment-amazon-ec2/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig Agent launches write to disk, backups, and permission mapping",
+        "Date": "12/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Code Editor, based on Code-OSS (VS Code – Open Source), in Amazon SageMaker Studio",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/code-editor-amazon-sagemaker-studio/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing an Integrated Development Environment (IDE) extension for AWS Application Composer",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Service launches two highly requested scenarios",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Solution Building Enablement for Partners",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/solution-building-enablement-partners/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Stable Diffusion XL 1.0 foundation model from Stability AI is now generally available in Amazon Bedrock",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Llama 2 70B foundation model from Meta is now available in Amazon Bedrock",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Titan Multimodal Embeddings foundation model now generally available in Amazon Bedrock",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-multimodal-embeddings-model-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Titan Text models—Express and Lite—now generally available in Amazon Bedrock",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing feature development capability of Amazon Q (Preview) in Amazon CodeCatalyst",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/feature-development-capability-amazon-q-preview-codecatalyst/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Continued pre-training in Amazon Bedrock now available in preview",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/continued-pre-training-amazon-bedrock-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Titan Image Generator foundation model in Amazon Bedrock now available in preview",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-image-generator-model-bedrock-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Multi-Account Experiments for AWS Fault Injection Service",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/multi-account-experiments-aws-fault-injection-service/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Application Composer announces AWS Step Functions Workflow Studio integration",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon SageMaker launches a new version of Large Model Inference DLC with TensorRT-LLM support",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-large-model-inference-dlc-tensorrt-llm-support/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing custom blueprints for Amazon CodeCatalyst",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-custom-blueprints/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for Rust is now generally available",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-rust/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing the Amazon CodeCatalyst Enterprise Tier",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-enterprise-tier/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for Kotlin is now generally available",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation introduces Git management of stacks",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-git-management-stacks/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing new enhancements to Amazon CodeWhisperer",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon S3 Batch Operations now manages buckets or prefixes in a single step",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-batch-operations-buckets-prefixes-single-step/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports starting a pipeline execution with source revision overrides",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-pipeline-execution-source-revision-overrides/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Hosting extends server-side rendering (SSR) support to additional frameworks",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Amazon CodeWhisperer for command line (preview)",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports Virtual Private Cloud",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-virtual-private-cloud/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports single sign-on using AWS IAM Identity Center",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-single-sign-on-aws-iam-identity-center/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS DMS now supports Amazon Timestream as a target",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-dms-amazon-timestream-target/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing teams for Amazon CodeCatalyst",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-teams/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation simplifies resource import with a new parameter for ChangeSets",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-import-parameter-changesets/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Integrated Application Test Kit (preview)",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-test-kit-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Integrated Application Test Kit (preview)",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-integrated-application-test-kit-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Microservice Extractor simplifies porting of large .NET applications to Linux",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/microservice-extractor-porting-net-linux/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports Terraform",
+        "Date": "11/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-terraform/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Lambda now allows to view and export the function’s template to AWS Application Composer",
+        "Date": "11/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-view-export-functions-template-aws-application-composer/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline is now available in seven additional regions",
+        "Date": "11/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-seven-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Cohere’s Command Light, Embed English, and multilingual models now available in Amazon Bedrock",
+        "Date": "11/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Llama 2 Chat 13B foundation model from Meta is now available in Amazon Bedrock",
+        "Date": "11/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-chat-13b-model-meta-amazon-bedrock/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Device Farm announces upgraded test environment for Android Devices",
+        "Date": "11/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-device-farm-upgraded-test-environment-android-devices/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Deploy your stack sets faster with ConcurrencyMode in AWS CloudFormation",
+        "Date": "11/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/deploy-stack-sets-faster-concurrencymode-aws-cloudformation/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator announces scenarios and scheduled experiments",
+        "Date": "11/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Marketplace launches programmatic notifications for AWS Marketplace Management Portal (AMMP) and Catalog API request completion",
+        "Date": "11/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-programmatic-notifications-ammp-catalog-api-request-completion/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing new user roles for Amazon CodeCatalyst",
+        "Date": "11/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EMR Studio adds support for interactive analytics on Amazon EMR Serverless",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray now supports W3C format trace IDs for distributed tracing",
+        "Date": "10/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-x-ray-w3c-format-trace-ids-distributed-tracing/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports parameterized pipelines",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-parameterized-pipelines/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports triggering on git tags",
+        "Date": "10/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-triggering-git-tags/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto October, 2023 Quarterly Updates",
+        "Date": "10/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing Amazon CodeWhisperer customization capability (Preview)",
+        "Date": "10/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage",
+        "Date": "10/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports scheduled workflow triggers",
+        "Date": "10/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codecatalyst-scheduled-workflow-triggers/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "New features for cdk8s include synthesize and import Helm charts and resolve cloud tokens",
+        "Date": "10/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/cdk8s-synthesize-import-helm-charts-cloud-tokens/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Catalog API now supports JSON object alongside String for “Details” attribute",
+        "Date": "10/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/catalog-api-json-object-string-details-attribute/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline can use external source providers in Europe (Milan) and AWS GovCloud (US-East)",
+        "Date": "10/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Lambda test events are now available in AWS SAM CLI",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EC2 Hibernate now supports more operating systems",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core for LoRaWAN announces support for public LoRaWAN networks (GA)",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-lorawan-public-networks-ga/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core’s Rules Engine announces capability to retrieve source IP of an IoT client",
+        "Date": "09/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-cores-rules-engine-source-ip-client/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing AWS Amplify JavaScript v6 developer preview",
+        "Date": "09/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-amplify-javascript-v6-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action",
+        "Date": "09/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Application Composer now supports all 1000+ AWS CloudFormation resources",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-composer-1000-cloudformation-resources/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 21 is now generally available",
+        "Date": "09/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Swift Package Manager support in AWS CodeArtifact",
+        "Date": "09/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0",
+        "Date": "09/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud",
+        "Date": "09/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CodePipeline support for GitLab Groups",
+        "Date": "09/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/codepipeline-gitlab-groups/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI announces local testing and debugging support on Terraform projects",
+        "Date": "09/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-sam-cli-local-testing-debugging-terraform-projects/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon CodeCatalyst’s Launch in Europe (Ireland)",
+        "Date": "09/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for SAP ABAP is now available in Amazon Web Services China Regions",
+        "Date": "09/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-sdk-sap-abap-china-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Microservice Extractor now supports visualizing very large enterprise applications",
+        "Date": "08/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-microservice-extractor-visualizing-enterprise-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances",
+        "Date": "08/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets is now available in AWS Israel (Tel Aviv) Region",
+        "Date": "08/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cloudformation-stacksets-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now supports GitLab",
+        "Date": "08/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Terraform support for Amazon OpenSearch Serverless deployments",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/terraform-amazon-opensearch-serverless-deployments/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Application Composer updates: Undo and Redo, Export Canvas, and Local Sync Mode",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-composer-updates-undo-redo-export-local-sync/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation enhances deletion policies to accelerate dev-test cycle",
+        "Date": "07/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cloudformation-deletion-policies-dev-test-cycle/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service",
+        "Date": "07/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Accelerate your CloudFormation authoring experience with looping function",
+        "Date": "07/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/accelerate-cloudformation-authoring-experience-looping-function/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Access resource and stack drift information directly in AWS CloudFormation StackSets",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2",
+        "Date": "07/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests",
+        "Date": "07/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS simplifies writing .NET 6 Lambda functions",
+        "Date": "07/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS DMS now supports Amazon Redshift Serverless as a target",
+        "Date": "07/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports GitHub Actions",
+        "Date": "07/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing the AWS .NET Distributed Cache Provider for DynamoDB",
+        "Date": "07/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-net-distributed-cache-provider-dynamodb/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation launches Guard 3.0 with support for stateful rules",
+        "Date": "06/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-guard-3-0-stateful-rules/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SDK for SAP ABAP now generally available",
+        "Date": "06/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "RStudio on Amazon SageMaker now provides improved developer productivity",
+        "Date": "06/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI announces remote invoke feature for AWS Lambda",
+        "Date": "06/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS launches AWS AppSync abstraction",
+        "Date": "06/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing nightly builds of Amazon Corretto",
+        "Date": "06/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/nightly-builds-amazon-corretto/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation accelerates dev-test cycle with new ChangeSets parameter",
+        "Date": "06/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-accelerates-dev-test-cycle-changesets-parameter/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell is now available in 12 additional regions",
+        "Date": "06/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Security is now available in preview",
+        "Date": "06/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-codeguru-security-available-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets skips suspended accounts for faster deployments",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets is now available in 3 additional AWS Regions",
+        "Date": "05/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-stacksets-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot announces Static Site pattern to host single-page web applications",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-copilot-static-site-pattern-single-page-web-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in AWS Asia Pacific (Melbourne) Region",
+        "Date": "05/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codebuild-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core registry adds additional AWS CloudFormation resource types",
+        "Date": "05/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-registry-cloudformation-resource-types/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeWhisperer now available as extension in JupyterLab and Amazon SageMaker Studio",
+        "Date": "05/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codewhisperer-extension-jupyterlab-sagemaker-studio/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 4.0",
+        "Date": "05/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-4-0/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline is now available in AWS GovCloud (US-East)",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codepipeline-govcloud-us-east/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator now supports Amazon EC2 Instance disk fill",
+        "Date": "04/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-fault-injection-simulator-amazon-ec2-instance-disk-fill/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core Device Advisor announces support for MQTT over WebSocket",
+        "Date": "04/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the general availability of Amazon CodeCatalyst",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI announces local testing support for API Gateway Lambda authorizers",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto April, 2023 Quarterly Updates",
+        "Date": "04/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify supports Push Notifications for mobile and cross platform apps",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-push-notifications-mobile-cross-platform-apps/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Dev Environment dashboard for Amazon CodeCatalyst (Preview)",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-preview-dev-environment-dashboard/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet (Preview)",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeWhisperer is now generally available",
+        "Date": "04/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codewhisperer-generally-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeCatalyst Dev Environments now supports GitHub repositories",
+        "Date": "04/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets is now available in 2 additional AWS Regions",
+        "Date": "04/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-stacksets-2-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline is now available in three additional regions",
+        "Date": "04/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codepipeline-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in three additional AWS Regions",
+        "Date": "04/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codebuild-three-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing policies validations during synthesis time with AWS Cloud Development Kit (CDK)",
+        "Date": "04/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-development-kit-cdk-policies-validations/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Console Toolbar is now generally available for AWS CloudShell",
+        "Date": "04/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/console-toolbar-generally-available-aws-cloudshell/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkits for JetBrains and VS Code now support AWS SAM Accelerate to speed up application iteration",
+        "Date": "03/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-toolkits-jetbrains-vs-code-sam-accelerate/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild supports Arm-based workloads in five additional AWS Regions",
+        "Date": "03/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-arm-based-workloads-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot adds support for full customization with AWS CDK or YAML overrides",
+        "Date": "03/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-copilot-customization-cdk-yaml-overrides/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation language extensions transform is now available in 5 additional AWS Regions",
+        "Date": "03/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudformation-language-extensions-transform-5-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 20 is now generally available",
+        "Date": "03/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports a small GPU machine type",
+        "Date": "03/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports S3 data validation",
+        "Date": "03/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-s3-data-validation/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Application Composer is now generally available",
+        "Date": "03/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-composer-generally-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell now supports the modular variant of AWS Tools for PowerShell",
+        "Date": "03/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudshell-modular-variant-aws-tools-powershell/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI announces preview of Rust build support",
+        "Date": "02/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-preview-rust-build-support/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS launches AWS SAM connectors as a resource parameter",
+        "Date": "02/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon SNS now supports AWS X-Ray active tracing to visualize, analyze, and debug application performance",
+        "Date": "02/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sns-x-ray-active-tracing-visualize-analyze-debug-application-performance/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the general availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x",
+        "Date": "02/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-crt-http-client-sdk-java-2-x/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops",
+        "Date": "02/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources",
+        "Date": "02/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes",
+        "Date": "01/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator announces increased quotas for target resources",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-increased-quotas-target-resources/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in AWS Middle East (UAE) Region",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-codebuild-aws-uae-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Validate AWS Serverless Application Model (SAM) templates with CloudFormation Linter to speed up development",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/validate-aws-serverless-application-model-templates-cloudformation-linter/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto January, 2023 Quarterly Updates",
+        "Date": "01/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS AppConfig allows tracking of stale feature flags, improving code hygiene",
+        "Date": "01/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-appconfig-tracking-stale-feature-flags-code-hygiene/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell is now Health Insurance Portability and Accountability Act (HIPAA) eligible",
+        "Date": "01/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudshell-health-insurance-portability-accountability-act-hipaa-eligible/"
+    }
+]

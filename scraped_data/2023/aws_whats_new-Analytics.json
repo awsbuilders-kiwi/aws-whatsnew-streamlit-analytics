@@ -1,0 +1,2252 @@
+[
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Release 7.0 now supports Amazon Linux 2023",
+        "Date": "12/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose now supports zero buffering",
+        "Date": "12/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio now supports user level permissions for Git Repositories",
+        "Date": "12/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-studio-user-level-permissions-git-repositories/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless supports fine-grained access control via AWS Lake Formation (Preview)",
+        "Date": "12/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms expands support for customer compliance with ISO and SOC",
+        "Date": "12/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-clean-rooms-support-customer-compliance-iso-soc/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose is now available in the AWS Canada West (Calgary) region",
+        "Date": "12/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service adds multimodal support for Neural Search",
+        "Date": "12/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift supports single sign-on with Amazon QuickSight and AWS Lake Formation",
+        "Date": "12/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose supports delivery of decompressed CloudWatch Logs to destinations",
+        "Date": "12/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-decompressed-cloudwatch-logs-destinations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EC2 now supports high-availability instance fleets configuration",
+        "Date": "12/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-ec2-high-availability-fleets-configuration/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Data Exchange now supports data grants for sharing data across organizations",
+        "Date": "12/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-data-exchange-data-grants-sharing-organizations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless is now available in Middle East (UAE) Region",
+        "Date": "12/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK extends AWS IAM support to all programming languages for existing clusters",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights introduces Dataviews for sharing database caches across kdb clusters",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-dataviews/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute",
+        "Date": "12/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena now supports user identities for data access and audit",
+        "Date": "12/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces enhancements to Advisor sort and distribution key recommendations",
+        "Date": "12/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-advisor-sort-distribution-key-recommendations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights now works with TorQ framework",
+        "Date": "12/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Migration Assistant for Amazon OpenSearch Service",
+        "Date": "12/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion",
+        "Date": "12/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications",
+        "Date": "12/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift extends SUPER data type column size support to 16 MB",
+        "Date": "12/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Code Editor, based on Code-OSS (VS Code – Open Source), in Amazon SageMaker Studio",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/code-editor-amazon-sagemaker-studio/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces OR1 for Amazon OpenSearch Service",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/or1-amazon-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms ML is now available in preview",
+        "Date": "11/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-ml-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift now supports metadata security to simplify multi-tenant applications",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-metadata-security-tenant-applications/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces general availability of support for Apache Iceberg",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-apache-iceberg/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces general availability of row-level security enhancements",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms Differential Privacy is now available in preview",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-differential-privacy-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Vector engine for Amazon OpenSearch Serverless now generally available",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Q generative SQL is now available in Amazon Redshift Query Editor (preview)",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service zero-ETL integration with Amazon S3 preview now available",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-zero-etl-integration-s3-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing enhanced manageability and usability features for Amazon Redshift Serverless",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Connect Contact Lens now provides real-time conversational analytics for chat",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-real-time-conversational-analytics-chat/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift (Public Preview)",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Q in QuickSight simplifies data exploration with Generative BI capabilities (Preview)",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-quicksight-data-exploration-generative-bi-capabilities-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Accelerate data processing and analysis with Amazon EMR and Amazon S3 Express One Zone",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/data-processing-analysis-amazon-emr-s3-express-one-zone/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon RDS for MySQL zero-ETL integration with Amazon Redshift (Public Preview)",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Accelerate data lake queries with Amazon Athena and Amazon S3 Express One Zone",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing the Amazon S3 Express One Zone storage class",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Connect provides Zero-ETL analytics data lake to access contact center data (preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-zero-etl-data-lake-center-data-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon DynamoDB zero-ETL integration with Amazon Redshift",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Q offers help to optimize EC2 instance type selection (preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-optimal-ec2-instance-selection-workload/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AI recommendations for descriptions in Amazon DataZone (Preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/ai-descriptions-amazon-datazone-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift adds support for incremental refresh for materialized views on data lake tables (preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-incremental-refresh-materialized-views-data-lake-tables-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Catalog supports multi engine views with AWS Analytics Engines",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-multi-engine-views-analytics-engines/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces Multidimensional Data Layouts to optimize your query performance (preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Amazon Redshift Serverless with AI-driven scaling and optimizations (Preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces new fine-grained access control capabilities to nested objects (preview)",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-fine-grained-access-control-capabilities-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK now supports Graviton3-based M7g instances for new provisioned clusters",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-graviton3-m7g-instances-provisioned-clusters/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces support for large language models in Amazon Redshift ML (Preview)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-large-language-models-amazon-redshift-ml-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift now supports multi-data warehouse writes through data sharing (preview)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-data-warehouse-writes-data-sharing-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing the Cost and Usage Dashboard powered by Amazon QuickSight",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/cost-usage-dashboard-amazon-quicksight/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Redshift provisioned concurrency scaling and serverless autoscaling now supports Create Table As Select (CTAS)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/redshift-provisioned-concurrency-scaling-serverless-autoscaling-ctas/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Managed Service for Prometheus launches an agentless collector for Prometheus metrics from Amazon EKS",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-managed-service-prometheus-agentless-collector-metrics-eks/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Quality announces anomaly detection and dynamic rules",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS CloudTrail Lake data now available for zero-ETL analysis in Amazon Athena",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-zero-etl-anlysis-athena/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports Neural Sparse Retrieval",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-service-supports-neural-sparse-retrieval/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams launches cross-account access with AWS Lambda",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches a new redesigned analysis experience",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-redesigned-analysis-experience/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio now supports Amazon CodeWhisperer",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-amazon-codewhisperer/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio is now available in 4 new AWS Regions",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight supports SPICE capacity auto-purchase",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-spice-capacity-auto-purchase/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation data filters now support permissions on nested data",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-data-filters-permissions-nested-data/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Customers can now launch their Amazon EMR on EC2 clusters in 5 minutes or less",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-ec2-clusters-5-minutes-less/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Apache Flink is now generally available for Amazon EMR on EKS",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/apache-flink-available-amazon-emr-eks/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports asset events using Amazon EventBridge",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-asset-events-amazon-eventbridge/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports runtime filtering for embedded dashboards and visuals",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-filtering-embedded-dashboards-visuals/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports export and import of asset permissions and tags",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-export-import-asset-permissions-tags/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports runtime theming for embedded dashboards and visuals",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-theming-embedded-dashboards-visuals/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on Amazon EKS is now available in 3 additional regions",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-eks-3-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena adds CloudWatch metrics for Provisioned Capacity",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now Supports Connectivity to Google BigQuery",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-connectivity-google-bigquery/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue announces entity-level actions to manage sensitive data",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing AWS Glue serverless Spark UI and observability metrics",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-serverless-spark-ui-observability-metrics/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces integration with AWS Glue column-level statistics",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports OpenSearch version 2.11",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Serverless is now generally available in the AWS China (Beijing) Region",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight launches Custom Time Zone",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-time-zone/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion announces support for persistent buffering",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-support-persistent-buffering/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless is now available in 4 new AWS Regions",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion is now available in 3 additional commercial regions",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion now supports migrating your ElasticSearch indexes to Amazon OpenSearch Service",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-migrating-elasticsearch-indexes-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight launches Custom Week Start",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-week-start/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue launches native connectivity to 6 databases",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-launches-native-connectivity-6-databases/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports programmatic user access management by assigning groups to roles",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-programmatic-user-access-management/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches custom access to capabilities based on roles",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Catalog now supports generating column-level statistics",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-generating-column-level-statistics/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena adds cost-based optimizer to enhance query performance",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cost-based-optimizer-enhance-query-performance/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Enforce fine-grained access control via AWS Lake Formation with Open Table Formats on Amazon EMR",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-formats-emr-fine-grained-control/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces support for CNAME",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-cname/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio adds interactive query editor powered by Amazon Athena",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-query-editor-athena/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue for Apache Spark announces native connectivity for Amazon OpenSearch Service",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-apache-spark-native-connectivity-opensearch/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK now sends storage capacity alerts",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-storage-capacity-alerts/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "New JDBC driver now available for Amazon Athena",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-jdbc-driver/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Catalog supports automatic compaction for Apache Iceberg tables",
+        "Date": "11/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-compaction-iceberg-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches shared restricted folders and a folder Contributor role to govern asset sharing",
+        "Date": "11/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-shared-restricted-folders-contributor-role/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports hybrid query score normalization",
+        "Date": "11/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-hybrid-query-score-normalization/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms announces configurability for collaboration payment",
+        "Date": "11/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-configurability-collaboration-payment/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK Serverless now supports all programming languages",
+        "Date": "11/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-serverless-all-programming-languages/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK extends AWS IAM support to all programming languages for new clusters",
+        "Date": "11/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-iam-programming-languages-clusters/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Glue Studio Visual now supports interactive data previews",
+        "Date": "11/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service introduces Neural Search",
+        "Date": "11/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-neural-search/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift launches MaxRPU, a new compute cost control setting for Redshift Serverless",
+        "Date": "11/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-maxrpu-compute-cost-control-redshift-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight launches FLOAT data type support for SPICE datasets",
+        "Date": "11/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-float-data-type-spice-datasets/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces general availability of Amazon Aurora MySQL zero-ETL integration with Amazon Redshift",
+        "Date": "11/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds check for too many partitions to AWS Trusted Advisor",
+        "Date": "11/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration",
+        "Date": "11/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio",
+        "Date": "11/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Multi-AZ is generally available for RA3 clusters",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing provider-generated notifications for AWS Data Exchange",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/provider-generated-notifications-aws-data-exchange/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio adds support for interactive analytics on Amazon EMR Serverless",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights clusters now support code updates without restarting",
+        "Date": "10/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena announces one hour reservations for Provisioned Capacity",
+        "Date": "10/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-athena-one-hour-reservations-provisioned-capacity/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches Custom Total for Table and Pivot table charts",
+        "Date": "10/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-custom-total-table-pivot-table-charts/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams increases On-Demand write throughput limit to 2 GB/s",
+        "Date": "10/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports efficient vector query filters for FAISS",
+        "Date": "10/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-vector-query-filters-faiss/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "10/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-ipv6/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights adds more historical database cache options",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now offers example jobs, drag-and-drop, and a preview-first layout",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-example-jobs-drag-drop-preview-layout/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless now supports automated time-based data deletion",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-serverless-automated-time-based-data-deletion/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights now available in five additional regions",
+        "Date": "10/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-five-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports direct connectivity to Starburst",
+        "Date": "10/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-starburst/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports direct connectivity to Trino",
+        "Date": "10/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-trino/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Managed Scaling is now available in Indonesia (Jakarta)",
+        "Date": "10/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-managed-scaling-indonesia-jakarta/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now offers Amazon EC2 Im4gn instances",
+        "Date": "10/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-amazon-ec2-im4gn-instances/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue for Apache Spark announces native connectivity for Google BigQuery",
+        "Date": "10/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-apache-spark-connectivity-google-bigquery/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service announces new administrative options",
+        "Date": "10/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-administrative-options/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK announces MSK Replicator for cross-region and same-region streaming data replication",
+        "Date": "10/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-replicator-cross-same-region-data-replication/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service adds support for four new language analyzers",
+        "Date": "10/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-four-language-analyzers/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Autocomplete suggestions are now available on Amazon Redshift Query Editor V2",
+        "Date": "10/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-query-editor-v2-autocomplete/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon Redshift integration with Visual Studio Code",
+        "Date": "10/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-visual-studio-code/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Security analytics in OpenSearch Service now supports OCSF and custom logs",
+        "Date": "10/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Step Functions launches Optimized Integration for Amazon EMR Serverless",
+        "Date": "10/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Search Pipelines for OpenSearch",
+        "Date": "10/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds total positioning options for pivot table",
+        "Date": "10/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-total-positioning-pivot-table/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports running queries as an IAM role for Redshift data sources",
+        "Date": "10/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now supports GitLab, BitBucket in its Git integration feature",
+        "Date": "10/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-gitlab-bitbucket-git-integration-feature/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight announces predictive analytics using Amazon SageMaker Canvas",
+        "Date": "10/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-predictive-analytics-sagemaker-canvas/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon DataZone is now generally available",
+        "Date": "10/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports alerting and anomalies on dashboards",
+        "Date": "10/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-alerting-anomalies-dashboards/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Connect Contact Lens now provides manager alerts on real-time metrics",
+        "Date": "10/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-lens-manager-alerts-real-time-metrics/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service announced Amazon OpenSearch Service Integrations",
+        "Date": "10/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integrations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS Interactive Endpoints is now generally available",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-eks-interactive-endpoints-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service version 2.9 expands geospatial aggregations support",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-version-2-9-geospatial-aggregations-support/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports OpenSearch version 2.9",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Quality is now generally available in AWS GovCloud (US)",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Generative BI dashboard authoring capabilities for Amazon QuickSight (Preview)",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/generative-bi-dashboard-authoring-capabilities-amazon-quicksight-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now provides improved visibility into Auto-Tune actions",
+        "Date": "09/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-service-improved-visibility-auto-tune-actions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose",
+        "Date": "09/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches contextual row subtotals for pivot tables",
+        "Date": "09/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-contextual-row-subtotals-pivot-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless introduces application-wide default job configurations",
+        "Date": "09/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now supports custom icons",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-studios-custom-icons/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.5.1",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation launches Hybrid Access Mode for AWS Glue Data Catalog",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight now supports tagging users for cost allocation",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/quicksight-tagging-users-cost-allocation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports freeze/unfreeze columns in Tables",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces role-based access control support in workload management (WLM)",
+        "Date": "09/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-role-based-access-control-wlm/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Quality can now identify records that failed the CustomSQL rule type",
+        "Date": "09/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-data-quality-identify-records-failed-customsql-rule-type/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Interactive Sessions releases new kernel and support IAM Conditionals",
+        "Date": "09/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-interactive-sessions-kernel-support-iam-conditionals/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds new layout and sparkline to KPI visual",
+        "Date": "09/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-layout-sparkline-kpi-visual/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports Apache Flink (Public Preview)",
+        "Date": "09/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-apache-flink-public-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches pixel based font size and text highlighting for textbox visual",
+        "Date": "09/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-pixel-based-font-size-text-highlighting/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Streaming now supports Kinesis Data Streams enhanced fan-out feature",
+        "Date": "09/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-streaming-data-streams-fan-out-feature/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports Amazon Linux 2023",
+        "Date": "09/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-linux-2023/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless extends auto-scaling to handle high query rates",
+        "Date": "09/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-serverless-auto-scaling-query-rates/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces cross-region data sharing support through AWS Lake Formation",
+        "Date": "09/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing Amazon EC2 R7iz instances",
+        "Date": "09/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK is now available in Israel (Tel Aviv) Region",
+        "Date": "09/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon AppFlow now supports concurrent processing for data transfers from SAP applications",
+        "Date": "09/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches scaled shared folders for asset sharing at scale in a multi-tenant setup",
+        "Date": "09/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quick-sight-scaled-shared-folders-asset-sharing-scale-multi-tenant-setup/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK",
+        "Date": "08/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms launches new capabilities for increased configurability",
+        "Date": "08/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-clean-rooms-capabilities-increased-configurability/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing Amazon Managed Service for Apache Flink",
+        "Date": "08/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-managed-service-apache-flink/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless now supports AWS User Notifications",
+        "Date": "08/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-user-notifications/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds scheduled and programmatic export to Excel format",
+        "Date": "08/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-scheduled-programmatic-export-excel-format/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena is now available in AWS Israel (Tel Aviv) Region",
+        "Date": "08/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-athena-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Sagemaker Data Wrangler now supports S3 access points",
+        "Date": "08/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-s3-access-points/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio Visual ETL adds 5 new visual transforms",
+        "Date": "08/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-visual-etl-new-visual-transforms/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now makes it easier to specify fine grained log configurations",
+        "Date": "08/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific (Singapore) region",
+        "Date": "08/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS IAM Identity Center integration is now generally available for Amazon QuickSight",
+        "Date": "08/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches hierarchy layout for pivot tables",
+        "Date": "08/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Analytics is now available in Israel (Tel Aviv) AWS Region",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-data-analytics-israel-tel-aviv-aws-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports embedded callback actions",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-embedded-workflows-callback-actions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now supports Amazon CodeWhisperer in additional regions",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control",
+        "Date": "08/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK Serverless expands availability to three additional AWS Regions",
+        "Date": "08/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker announces a new direct integration with Salesforce Data Cloud",
+        "Date": "08/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning",
+        "Date": "08/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation is now available in two additional AWS Regions",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lake-formation-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose is now available in Israel (Tel Aviv) AWS Region",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-data-firehose-israel-tel-aviv-aws-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces open sourced Amazon Redshift integration for Apache Spark",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-redshift-integration-apache-spark/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena is now available in new AWS Europe and AWS Asia Pacific regions",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-athena-aws-europe-asia-pacific-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless adds API support for Application UIs",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS is now available in Africa (Cape Town) and Europe (Milan)",
+        "Date": "07/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-africa-cape-town-europe-milan/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing custom query and template capabilities for AWS Clean Rooms",
+        "Date": "07/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation launches Read-Only Administrator role",
+        "Date": "07/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now available in 2 new regions",
+        "Date": "07/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-new-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now supports retrieving secrets from AWS Secrets Manager",
+        "Date": "07/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-retrieving-secrets-aws-secrets-manager/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Access and Query are now generally available for Amazon Managed Blockchain",
+        "Date": "07/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-blockchain-access-query/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Entity Resolution is now generally available",
+        "Date": "07/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now supports Amazon CodeWhisperer",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Vector engine for Amazon OpenSearch Serverless now in preview",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now supports storing logs in Amazon CloudWatch",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight introduces Analysis file menu",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-analysis-file-menu/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue jobs can now include AWS Glue DataBrew Recipes",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces automatic mounting of AWS Glue Data Catalog",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now supports Amazon Redshift Serverless",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EC2 announces support for native LDAP authentication",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift now supports querying Apache Iceberg tables",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports Snapshot Export APIs",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Snowflake connectivity for AWS Glue for Apache Spark is now generally available",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR launches new capabilities to enhance EMR on EC2 cluster scaling experience",
+        "Date": "07/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-capabilities-emr-ec2-cluster-scaling-experience/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation now supports delegation of LF-Tag management",
+        "Date": "07/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "EMR on EKS now supports Apache Spark with Java 17",
+        "Date": "07/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift ML announces integration with Amazon Forecast",
+        "Date": "07/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement",
+        "Date": "07/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS adds programmatic execution for managed endpoints",
+        "Date": "07/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches unified color experience for analysis and dashboards",
+        "Date": "07/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds axis customization options for small multiples and radar chart",
+        "Date": "07/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports OpenSearch version 2.7",
+        "Date": "07/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawlers now supports Apache Iceberg Tables",
+        "Date": "07/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-iceberg-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now lets you provision higher IOPS and throughput for gp3 volumes",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-provision-iops-throughput-gp3-volumes/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena is now available in the AWS Middle East (UAE) Region",
+        "Date": "06/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena now supports querying restored data in S3 Glacier",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Analytics Studio now supports Apache Flink version 1.15",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-analytics-studio-apache-flink-version-1-15/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Timestream now offers a free trial",
+        "Date": "06/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-free-trial/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon Aurora MySQL zero-ETL integration with Amazon Redshift (Public Preview)",
+        "Date": "06/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now lets you update cluster manager nodes without blue/green",
+        "Date": "06/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-cluster-manager-nodes-blue-green/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker Data Wrangler now enables direct connection to Snowflake data",
+        "Date": "06/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-data-wrangler-direct-connection-snowflake-data/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces native console integration with ThoughtSpot",
+        "Date": "06/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now supports native Snowflake connectivity with new ETL capabilities (preview)",
+        "Date": "06/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connectivity-etl-capabilities-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion now supports ingesting events from Amazon Security Lake",
+        "Date": "06/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-ingestion-events-security-lake/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now provides data previews for Glue Streaming jobs",
+        "Date": "06/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now can detect 250 sensitive entity types from over 50 countries",
+        "Date": "06/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-250-entity-types-50-countries/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift improves the experience for encrypting the data warehouse",
+        "Date": "06/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-experience-encrypting-data-warehouse/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR now publishes events for insufficient instance capacity errors",
+        "Date": "06/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-insufficient-capacity-errors/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "EMR on EKS now supports custom job scheduling",
+        "Date": "06/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-custom-job-scheduling/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless",
+        "Date": "06/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation and Glue Data Catalog now support cross-Region table access",
+        "Date": "06/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale",
+        "Date": "06/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon AppFlow announces 4 new data connectors",
+        "Date": "06/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-appflow-new-data-connectors/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "EMR on EKS now supports container log rotation for Apache Spark",
+        "Date": "06/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-container-log-rotation-apache-spark/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Skip unavailable clusters during cross-cluster search in Amazon OpenSearch Service",
+        "Date": "06/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-skip-cross-cluster-search/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR supports price-capacity-optimized allocation strategy for EC2 Spot Instances",
+        "Date": "06/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-price-allocation-ec2-spot-instances/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena for Apache Spark now supports custom Java libraries",
+        "Date": "06/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake",
+        "Date": "06/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight now provides standardized user level cost and usage data",
+        "Date": "06/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/quicksight-standardized-user-level-cost-usage-data/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports APIs to automate and accelerate assets deployment",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-apis-automate-accelerate-assets-deployment/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Serverless now supports query scheduling and Single sign-on support",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Quality is now generally available",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports Spark Operator and spark-submit",
+        "Date": "06/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue for Ray is now generally available",
+        "Date": "06/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-ray-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon FinSpace with Managed kdb Insights is now generally available",
+        "Date": "06/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches geospatial heatmap for points on maps",
+        "Date": "06/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-geospatial-heatmap-points-maps/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EventBridge announces open-source connector for Kafka Connect",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing AWS Glue 4.0 for AWS GovCloud (US-West) Region",
+        "Date": "05/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-4-0-govcloud-us-west-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK is now available in Asia Pacific (Melbourne) Region",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena updates data source connectors to improve performance and reduce cost",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-data-source-connectors-performance-cost/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces support for auto-commit statements in stored procedure",
+        "Date": "05/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-auto-commit-statements-stored-procedures/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "QuickSight dashboards now available for seller reporting and insights in AWS Marketplace",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/quicksight-dashboards-reporting-insights-aws-marketplace/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena now supports IPv6 endpoints for inbound connections",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-ipv6-endpoints-inbound-connections/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "The new Amazon EMR Console is now available in AWS GovCloud (US) Regions",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS User Notifications is now generally available for AWS Data Exchange",
+        "Date": "05/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-aws-data-exchange/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization",
+        "Date": "05/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms is now Health Insurance Portability and Accountability Act (HIPAA) eligible",
+        "Date": "05/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-clean-room-hipaa-eligible/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawler now support custom JDBC drivers",
+        "Date": "05/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-crawler-custom-jdbc-drivers/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose adds support for document ID that is auto-generated by Amazon OpenSearch Service",
+        "Date": "05/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-firehose-document-id-amazon-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless is now available in Amazon Web Services China Regions",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-serverless-china-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue large instance types are now generally available",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds new scatterplot options supporting additional use cases",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena now supports Apache Hudi 0.12.2",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Data Sharing now available in AWS China Regions",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-data-sharing-aws-china-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports VPC Connections via public APIs with Multi-AZ support",
+        "Date": "05/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-vpc-public-apis-multi-az-support/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches dataset parameters to optimize slicing and dicing experiences",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-dataset-parameters-slicing-dicing-experiences/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.4.0",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-apache-kafka-version-3-4-0/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS launches vertical autoscaling to auto-tune application resources",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-vertical-auto-scaling/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Analytics is now available in the Asia Pacific (Melbourne) region",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-analytics-melbourne-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Multi-AZ with Standby for Amazon OpenSearch Service",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-multi-az-standby-amazon-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions",
+        "Date": "05/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK now offers multi-VPC private connectivity and cross-account access",
+        "Date": "04/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-multi-vpc-private-connectivity-cross-account-access/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions",
+        "Date": "04/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Provisioned Capacity for Amazon Athena",
+        "Date": "04/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-provisioned-capacity/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches two suites of data ingestion APIs",
+        "Date": "04/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-data-ingestion-apis/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service announces Amazon OpenSearch Ingestion",
+        "Date": "04/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawlers now support creating partition indexes",
+        "Date": "04/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces general availability of MERGE SQL command",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces general availability of Dynamic Data Masking",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-dynamic-data-masking/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation",
+        "Date": "04/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation and Glue Data Catalog now manage Apache Hive Metastore resources",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR now makes troubleshooting easier with enhanced error details",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-enhanced-error-details/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless adds job-level billed resources for efficient cost management",
+        "Date": "04/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue launches new capability to monitor usage of Glue resources",
+        "Date": "04/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-monitor-usage-resources/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Studio now available in Middle East (Bahrain), Asia Pacific (Hong Kong) Regions",
+        "Date": "04/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-studio-bahrain-hong-kong-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions",
+        "Date": "04/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift enhances string query performance by up to 63x",
+        "Date": "04/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-string-query-performance-up-to-63x/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK is now available in Hyderabad, Spain, and Zurich Regions",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-hyderabad-spain-zurich-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation is now available in AWS Europe (Spain) Region",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-spain-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation is now available in AWS Europe (Zurich) Region",
+        "Date": "04/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-zurich-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue visual ETL now supports new native Amazon Redshift capabilities",
+        "Date": "04/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports Row Level Security tags with OR condition",
+        "Date": "04/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-rls-tags-or-condition/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker now supports sharing predictions with Amazon QuickSight",
+        "Date": "04/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-sharing-predictions-quicksight/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "EMR on EKS now supports Apache Spark with Java 11",
+        "Date": "04/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now available in AWS Europe (Spain) and AWS Europe (Zurich)",
+        "Date": "04/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-available-europe-spain-zurich/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Analytics is now available in additional AWS regions",
+        "Date": "04/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena adds view support for external data sources",
+        "Date": "04/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio visual ETL adds 10 new visual transforms",
+        "Date": "04/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-studio-visual-etl-new-visual-transforms/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation now available in AWS Middle East (UAE) Region",
+        "Date": "03/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-available-middle-east-uae-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena for Apache Spark is now available in 4 new regions",
+        "Date": "03/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-apache-spark-4-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces Amazon DataZone (Preview)",
+        "Date": "03/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena adds minimum encryption to enhance query result security",
+        "Date": "03/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-minimum-encryption-query-result-security/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawler now supports enhanced crawl capabilities in the AWS GovCloud (US) Regions",
+        "Date": "03/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-crawler-crawl-capabilities-aws-govcloud-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Analyze log patterns, metrics and Jaeger traces with new observability features in Amazon OpenSearch Service",
+        "Date": "03/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/log-patterns-metrics-jaeger-traces-amazon-opensearch-service/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.3.2 in AWS GovCloud (US) Regions",
+        "Date": "03/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS adds support for JEG pod placement for managed endpoints",
+        "Date": "03/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS adds managed and self-managed node groups support for managed endpoints",
+        "Date": "03/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS announces a new guided Amazon Redshift getting started experience",
+        "Date": "03/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-guided-amazon-redshift-getting-started-experience/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms is now generally available",
+        "Date": "03/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR now supports Amazon EC2 C7g (Graviton3) instances",
+        "Date": "03/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing fine-grained access controls with AWS Lake Formation and Apache Hive on Amazon EMR",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-apache-hive-emr-fine-grained-access-controls/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service introduces security analytics",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-security-analytics/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports OpenSearch version 2.5",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose is now available in Asia Pacific (Melbourne) AWS Region",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-asia-pacific-melbourne-aws-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight adds hide collapsed columns control for Pivot table",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-hide-collapsed-columns-control-pivot-table/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints",
+        "Date": "03/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight enhances the developer experience with SDK 2.0",
+        "Date": "03/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-developer-experience-sdk-2-0/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now provides continuous logs in AWS Glue Job Monitoring",
+        "Date": "03/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift adds support for 200K tables",
+        "Date": "03/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue introduces faster and simpler permissions setup",
+        "Date": "03/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-faster-simpler-permissions-setup/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose now supports data delivery to Elastic",
+        "Date": "03/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-data-delivery-elastic/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue 4.0 now supports Streaming ETL",
+        "Date": "03/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-4-0-streaming-etl/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Query Editor V2 is now available in the AWS GovCloud (US) Regions",
+        "Date": "03/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-query-editor-v2-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK is now available in Middle East (UAE) AWS Region",
+        "Date": "03/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-middle-east-uae-aws-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service extends Amazon Graviton2 (C6g, M6g, R6g) instances support in four additional regions",
+        "Date": "03/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.3.2",
+        "Date": "03/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now supports application log encryption with Customer Managed Keys (CMK)",
+        "Date": "03/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-serverless-log-encryption-customer-managed-keys/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams increases On-Demand write throughput limit to 1 GB/s",
+        "Date": "03/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-streams-on-demand-write-throughput-1gb/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift announces general availability of ROLLUP, CUBE, and GROUPING SETS in GROUP BY clause",
+        "Date": "02/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-redshift-rollup-cube-grouping-sets-group-by-clause/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation extends Data Filters to all regions for supported services",
+        "Date": "02/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawlers now support integration with Lake Formation",
+        "Date": "02/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-integration-lake-formation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS is now available in the AWS GovCloud (US) Regions",
+        "Date": "02/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena",
+        "Date": "02/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lake Formation is now available in AWS Asia Pacific (Jakarta) Region",
+        "Date": "02/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-aws-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours",
+        "Date": "02/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Analytics is now available in the Middle East (UAE) region",
+        "Date": "02/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation for Global Tables",
+        "Date": "02/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now supports large worker sizes to run more compute or memory intensive workloads",
+        "Date": "02/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-worker-sizes-compute-memory-workloads/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS adds support for job execution retries",
+        "Date": "02/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless now supports HIPAA, HITRUST, SOC, and PCI DSS workloads",
+        "Date": "02/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-hipaa-hitrust-soc-pci-dss-workloads/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Crawlers now support MongoDB Atlas",
+        "Date": "02/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Firehose is now available in Europe (Zurich), Europe (Spain), Asia Pacific (Hyderabad) AWS regions",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-firehose-europe-zurich-spain-hyderabad-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports enabling SAML during domain creation",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-enabling-saml-domain-creation/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift launches Concurrency Scaling in the China (Beijing, operated by Sinnet), and China (Ningxia, operated by NWCD) Regions",
+        "Date": "02/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-redshift-concurrency-scaling-china-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena releases data source connector for Google Cloud Storage",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon AppFlow announces 4 new data connectors",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-4-new-data-connectors/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service simplifies remote reindex for VPC domains",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio Visual ETL now supports 5 new transforms",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-visual-etl-5-new-transforms/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue is now available in the AWS Middle East (UAE) Region",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-middle-east-uae-region/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches Radar chart",
+        "Date": "01/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-radar-chart/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless is now generally available",
+        "Date": "01/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-serverless-available/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Increased field limits and performance improvements for Pivot table in Amazon QuickSight",
+        "Date": "01/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-increased-field-limits-improvements-pivot-table/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches data bars for tables",
+        "Date": "01/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-data-bars-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service announces enhanced dry run for configuration changes",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-enhanced-dry-run-configuration-changes/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR Serverless introduces account-level vCPU-based service quota",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-account-level-vcpu-based-service-quota/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on Amazon Elastic Compute Cloud clusters launch up to 30% faster in private subnets with Amazon EMR",
+        "Date": "01/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-elastic-compute-cloud-clusters-30-percent-faster-private-subnets/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms is now available in preview",
+        "Date": "01/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-clean-rooms-now-available-preview/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing Amazon EMR Serverless Custom images: Bring your own libraries and application dependencies",
+        "Date": "01/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-custom-images-libraries-application-dependencies/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio Job Notebooks are now available in the Asia Pacific (Jakarta) AWS region",
+        "Date": "01/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-job-notebooks-asia-pacific-jakarta-region/"
+    }
+]

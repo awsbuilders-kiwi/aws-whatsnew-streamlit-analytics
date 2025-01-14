@@ -1,0 +1,476 @@
+[
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Python 3.12",
+        "Date": "12/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS now supports configuring delivery status logging with AWS CloudFormation",
+        "Date": "12/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-configuring-delivery-status-logging-aws-cloudformation/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console",
+        "Date": "12/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda functions now scale up to 12X faster",
+        "Date": "12/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces increased throughput quota for FIFO High Throughput mode",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Application Composer announces AWS Step Functions Workflow Studio integration",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Streams launches cross-account access with AWS Lambda",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Amplify Hosting extends server-side rendering (SSR) support to additional frameworks",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless is now available in 4 new AWS Regions",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Java 21",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces support for logging data events in AWS CloudTrail",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports failed-event destinations for Kafka event source mappings",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-failed-event-destinations-kafka-event-source-mappings/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-controls-search-filter-aggregate-lambda-function-logs/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now allows to view and export the function’s template to AWS Application Composer",
+        "Date": "11/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-view-export-functions-template-aws-application-composer/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda enhances auto scaling for Kafka event sources",
+        "Date": "11/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-auto-scaling-kafka-event-sources/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda makes it easier to troubleshoot errors and timeouts of Init and Restore phase",
+        "Date": "11/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-troubleshoot-errors-timeouts-init-restore-phases/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Fargate now enables Amazon ECS tasks to selectively leverage SOCI",
+        "Date": "11/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-amazon-ecs-tasks-selectively-leverage-soci/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Studio adds support for interactive analytics on Amazon EMR Serverless",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS now supports in-place message archiving and replay for FIFO topics",
+        "Date": "10/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-in-place-message-archiving-replay-fifo-topics/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports automated time-based data deletion",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-serverless-automated-time-based-data-deletion/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces increased throughput quota for FIFO High Throughput mode",
+        "Date": "10/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon MSK announces Amazon EventBridge Pipes console integration",
+        "Date": "10/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing AWS Lambda’s support for Internet Protocol Version 6 (IPv6) for outbound connections in VPC",
+        "Date": "10/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Lambda test events are now available in AWS SAM CLI",
+        "Date": "10/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner adds support for Monorepos",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-monorepos/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Pipes now available in three additional regions",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eventbridge-pipes-new-additional-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS message data protection can now de-identify outbound messages via redaction or masking",
+        "Date": "09/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI announces local testing and debugging support on Terraform projects",
+        "Date": "09/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-sam-cli-local-testing-debugging-terraform-projects/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "App Runner adds support for Bitbucket source code repository",
+        "Date": "08/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/app-runner-bitbucket-source-code-repository/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless now makes it easier to specify fine grained log configurations",
+        "Date": "08/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless expands support for larger workloads and collections",
+        "Date": "08/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Schema Registry and Schema Discovery now in additional regions",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing Terraform support for Amazon OpenSearch Serverless deployments",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/terraform-amazon-opensearch-serverless-deployments/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon MSK Serverless expands availability to three additional AWS Regions",
+        "Date": "08/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces increased throughput quota for FIFO High Throughput mode",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless adds API support for Application UIs",
+        "Date": "08/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Python 3.11",
+        "Date": "07/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-python-3-11/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Vector engine for Amazon OpenSearch Serverless now in preview",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless now supports storing logs in Amazon CloudWatch",
+        "Date": "07/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Fargate enables faster container startup using Seekable OCI",
+        "Date": "07/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-fargate-container-startup-seekable-oci/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda and Amazon EventBridge Pipes now support enhanced filtering",
+        "Date": "07/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI in AWS GovCloud (US) Regions",
+        "Date": "07/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner adds support to update and rebuild a failed service",
+        "Date": "07/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS announces Amazon Aurora MySQL zero-ETL integration with Amazon Redshift (Public Preview)",
+        "Date": "06/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI announces remote invoke feature for AWS Lambda",
+        "Date": "06/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Ruby 3.2 in the AWS GovCloud (US) Regions",
+        "Date": "06/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-ruby-3-2-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS launches AWS AppSync abstraction",
+        "Date": "06/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Athena for Apache Spark now supports custom Java libraries",
+        "Date": "06/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake",
+        "Date": "06/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Ruby 3.2",
+        "Date": "06/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing the general availability of AWS Database Migration Service Serverless",
+        "Date": "06/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-database-migration-service-serverless/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge announces open-source connector for Kafka Connect",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports Kafka and Amazon MQ event sources in AWS GovCloud (US) Regions",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports AWS X-Ray tracing for SnapStart-enabled functions",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Aurora Serverless v2 is now available in 4 additional regions",
+        "Date": "05/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-additional-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS now supports message data protection in five additional regions",
+        "Date": "05/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Java 17",
+        "Date": "04/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-java-17/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing Amazon GuardDuty support for AWS Lambda",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI announces local testing support for API Gateway Lambda authorizers",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Python 3.10",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Node.js 18 in the AWS GovCloud (US) Regions",
+        "Date": "04/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-node-js-18-govcloud-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda introduces response payload streaming",
+        "Date": "04/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions",
+        "Date": "03/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda Powertools for .NET is now generally available",
+        "Date": "03/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-powertools-net-generally-available/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI announces preview of Rust build support",
+        "Date": "02/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-preview-rust-build-support/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM connectors now supports multiple destinations",
+        "Date": "02/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner adds service level concurrency, CPU and Memory utilization metrics",
+        "Date": "02/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-concurrency-cpu-memory-utilization-metrics/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS launches AWS SAM connectors as a resource parameter",
+        "Date": "02/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda launches new CloudWatch metrics for asynchronous invocations",
+        "Date": "02/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources",
+        "Date": "02/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports HTTP 1.0 protocol",
+        "Date": "02/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing runtime management controls for AWS Lambda",
+        "Date": "01/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager",
+        "Date": "01/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/"
+    }
+]

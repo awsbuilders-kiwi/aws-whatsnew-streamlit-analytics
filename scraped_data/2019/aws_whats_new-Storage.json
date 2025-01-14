@@ -1,0 +1,338 @@
+[
+    {
+        "Category": "Storage",
+        "Title": "Amazon EKS Announces Beta Release of Amazon FSx for Lustre CSI Driver",
+        "Date": "12/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New enhancements for moving data between Amazon FSx for Lustre and Amazon S3",
+        "Date": "12/23/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System Now Supports Service-Linked Roles",
+        "Date": "12/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-elastic-file-system-now-supports-service-linked-roles/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx adds enhancements to the AWS Management Console",
+        "Date": "12/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-fsx-adds-enhancements-to-aws-management-console/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Access Points makes it simple to manage access at scale for applications using shared data sets on S3",
+        "Date": "12/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-s3-access-points-manage-data-access-at-scale-shared-data-sets/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 Nitro System Based Instances Now Support 36% Faster Amazon EBS-Optimized Instance Performance",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing AWS Local Zone in Los Angeles, CA",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-local-zone-in-los-angeles-ca/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS launches EBS direct APIs that provide read access to EBS snapshot data, enabling backup providers to achieve faster backups of EBS volumes at lower costs",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-launches-ebs-direct-apis-that-provide-read-access-to-ebs-snapshot-data-enabling-backup-providers-to-achieve-faster-backups-of-ebs-volumes-at-lower-costs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Access Analyzer for Amazon S3 to review access policies",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-access-analyzer-for-amazon-s3-to-review-access-policies/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now supports Data Deduplication, reducing storage costs by 50-60% for general file shares",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-data-deduplication-reducing-storage-costs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now supports user storage quotas, enabling monitoring and control of user-level storage consumption",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-monitoring-user-level-storage-consumption/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now enables enforcement of in-transit encryption",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-enforcement-in-transit-encryption/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now supports managing file shares via PowerShell",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-managing-file-shares-via-powershell/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System (Amazon EFS) is now available in Middle East (Bahrain), Europe (Stockholm), South America (São Paulo) and Asia Pacific (Hong Kong) regions",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elastic-files-system-now-available-in-bahrain-stockholm-sau-paulo-hong-kong/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Replication Time Control for predictable replication time, backed by an SLA",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-s3-replication-time-control-for-predictable-replication-time-backed-by-sla/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway increases performance for Tape and File Gateway",
+        "Date": "11/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-storage-gateway-increases-performance-for-tape-and-file-gateway/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now supports file systems that span multiple Availability Zones",
+        "Date": "11/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-for-windows-file-server-now-supports-file-systems-that-span-multiple-availability-zones/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway adds HA on VMware and new performance monitoring metrics",
+        "Date": "11/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-storage-gateway-adds-ha-vmware-performance-monitoring-metrics/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Data Lifecycle Manager now supports adding tags to the lifecycle policy",
+        "Date": "11/14/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/data-lifecycle-manager-now-supports-adding-tags-to-lifecycle-policy/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS CloudFormation updates for Amazon API Gateway, AWS CodePipeline, AWS Amplify, Amazon ES, AWS App Mesh and more",
+        "Date": "11/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System Infrequent Access Now Supports a 7-day Lifecycle Management Policy",
+        "Date": "11/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elastic-file-system-infrequent-access-now-supports-7-day-lifecycle-management-policy/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing New Instance Sizes for Amazon EC2 C5d Instances",
+        "Date": "11/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-new-instance-sizes-amazon-ec2-c5d-instances/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Inventory now reports the Intelligent-tiering access tier for objects",
+        "Date": "11/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-s3-inventory-now-reports-the-intelligent-tiering-access-tier-for-objects/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amplify CLI enables creating Amazon Cognito User Pool Groups, configuring fine-grained permissions on groups, and adding user management capabilities to applications",
+        "Date": "11/01/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amplify-cli-enables-creating-amazon-cognito-user-pool-groups-configuring-fine-grained-permissions-adding-user-management-capabilities/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball Edge now supports volume sizes of up to 10 TB",
+        "Date": "10/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-snowball-edge-now-supports-volume-sizes-of-up-to-10-tb/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup is now available in six more regions",
+        "Date": "10/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-backup-is-now-available-in-six-more-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports AWS PrivateLink",
+        "Date": "10/22/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now in the EC2 Launch Instance Wizard",
+        "Date": "10/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-now-in-ec2-launch-instance-wizard/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now enables administrators to restore activity on files locked by inactive users",
+        "Date": "10/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-fsx-for-windows-file-server-enables-administrators-to-restore-activity-on-files-locked-by-inactive-users/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball Edge now supports offline software updates for Snowball Edge devices in air-gapped environments",
+        "Date": "10/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-snowball-edge-now-supports-offline-software-updates-for-snowball-edge-devices-in-air-gapped-environments/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Enhances SNS Notifications to filter on job status",
+        "Date": "10/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-backup-enhances-sns-notifications-to-filter-on-job-status/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway’s Tape Gateway is now available in South America (Sao Paulo)",
+        "Date": "09/25/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateways-tape-gateway-now-available-in-aws-sao-paulo-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EKS Announces Support for the Amazon EFS CSI Driver",
+        "Date": "09/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-announces-beta-release-of-amazon-efs-csi-driver/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 introduces Same-Region Replication",
+        "Date": "09/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-s3-introduces-same-region-replication/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway adds Amazon CloudWatch logging and metrics for File Gateway",
+        "Date": "09/14/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateway-adds-amazon-cloudwatch-logging-and-metrics-for-file-gateway/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Manage your Amazon EFS limits with AWS Service Quotas",
+        "Date": "09/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/manage-your-amazon-efs-limits-with-aws-service-quotas/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway supports IBM Spectrum Protect on Linux, and 5 TiB tapes",
+        "Date": "09/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateway-supports-ibm-spectrum-protect-on-linux-and-5-tib-tapes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "WorkDocs Drive enables Custom Drive Letter",
+        "Date": "09/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/workdocs_drive_custom_drive_letter/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing Amazon EFS price reduction for Infrequent Access storage",
+        "Date": "09/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/announcing-amazon-efs-price-reduction-for-infrequent-access-storage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre Reduces Minimum File System Size to 1.2 TBs",
+        "Date": "09/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-fsx-lustre-reduces-minimum-file-system-size/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager Now Available in the EU (Stockholm) Region",
+        "Date": "08/22/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-data-lifecycle-manager-now-available-in-stockholm-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in Asia Pacific (Hong Kong)",
+        "Date": "08/15/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-storage-gateway-now-available-in-asia-pacific/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "EBS default volume type updated to GP2",
+        "Date": "07/31/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/ebs-default-volume-type-updated-to-gp2/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 adds support for percentiles on Amazon CloudWatch Metrics",
+        "Date": "07/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-s3-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Configuration update for Amazon EFS encryption of data in transit",
+        "Date": "07/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/configuration-update-for-amazon-efs-encryption-data-in-transit/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup will Automatically Copy Tags from Resource to Recovery Point",
+        "Date": "07/23/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-backup-will-automatically-copy-tags-from-resource-to-recovery-point/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amplify Framework now Supports Adding AWS Lambda Triggers for events in Auth and Storage categories",
+        "Date": "07/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amplify-framework-now-supports-adding-aws-lambda-triggers-for-events-auth-storage-categories/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Optimize Cost with Amazon EFS Infrequent Access Lifecycle Management",
+        "Date": "07/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/optimize-cost-amazon-efs-infrequent-access-lifecycle-management/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Is Now Available in Six Additional Regions",
+        "Date": "06/28/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-backup-is-now-available-in-six-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Encryption of new EBS volumes by default in an account within a region is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "06/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/encryption-new-ebs-volumes-default-account-within-region-aws-china-beijing-ningxia/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Launching of Encrypted EBS backed EC2 instances from unencrypted Amazon Machine Images (AMIs) is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "06/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/launching-encrypted-ebs-backed-ec2-instances-from-unencrypted-amis-now-available-aws-china-beijing-ningxia/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "File Gateway adds options to enforce encryption and signing for SMB shares",
+        "Date": "06/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/file-gateway-adds-options-to-enforce-encryption-and-signing-for-smb-shares/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway now supports Amazon VPC endpoints with AWS PrivateLink",
+        "Date": "06/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System is Available in the AWS Asia Pacific (Mumbai) Region",
+        "Date": "06/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/amazon-efs-is-available-in-the-aws-asia-pacific-mumbai-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Introduces S3 Batch Operations for Object Management",
+        "Date": "04/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/04/Amazon-S3-Introduces-S3-Batch-Operations-for-Object-Management/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre Offers New Options and Faster Speeds for Working with S3 Data",
+        "Date": "02/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/amazon-fsx-for-lustre-offers-new-options-and-faster-speeds/"
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "Category": "Serverless",
+        "Title": "AWS Migration Hub Refactor Spaces enables AWS Lambda aliases as service endpoints",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
+        "Services": [
+            "AWS Lambda",
+            "AWS Migration Hub"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations",
+        "Date": "08/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/",
+        "Services": [
+            "Savings Plans"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks",
+        "Date": "07/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Pipes is now generally available",
+        "Date": "02/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing Amazon OpenSearch Serverless (Preview)",
+        "Date": "30/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-opensearch-serverless-preview/",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon OpenSearch Serverless",
+        "Date": "30/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
+        "Services": [
+            "Amazon OpenSearch Serverless",
+            "Amazon Kinesis"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS announces Amazon Inspector support for AWS Lambda functions",
+        "Date": "28/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
+        "Services": [
+            "AWS Lambda",
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing AWS Lambda SnapStart for Java functions",
+        "Date": "28/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS adds support for payload-based message filtering",
+        "Date": "23/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload",
+        "Date": "22/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless",
+        "Date": "22/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
+        "Services": [
+            "Amazon DynamoDB",
+            "Amazon S3",
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces support for Attribute-Based Access Control (ABAC) in AWS GovCloud (US) Regions.",
+        "Date": "21/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Simplify cross-account access for your AWS services with AWS Step Functions",
+        "Date": "19/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/simplify-cross-account-access-aws-services-step-functions/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Node.js 18",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-node-js-18/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS announces enhanced integration with AWS Service Quotas",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-enhanced-integration-aws-service-quotas/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI introduces Terraform support for AWS Lambda local testing and debugging",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sam-cli-terraform-support-lambda-local-testing-debugging/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Aurora Serverless v2 is now available in 20 regions, including Asia Pacific (Osaka), Asia Pacific (Jakarta) and Middle East (Bahrain)",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-serverless-available-v2-20-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports privately accessible services within Amazon VPC",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
+        "Services": [
+            "AWS App Runner",
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes",
+        "Date": "29/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing AWS Parameters and Secrets Lambda Extension",
+        "Date": "19/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI Pipelines now supports Open ID Connect Protocol",
+        "Date": "13/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS announces AWS SAM serverless connectors",
+        "Date": "07/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions",
+        "Date": "06/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Aurora Serverless v2 now supports AWS CloudFormation",
+        "Date": "05/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports Node.js 16 managed runtime",
+        "Date": "26/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Fargate increases compute and memory resource configurations by 4x",
+        "Date": "17/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports deployment using cross-region Amazon ECR image",
+        "Date": "16/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "SageMaker Studio now supports Glue Interactive Sessions",
+        "Date": "14/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Introducing Seekable OCI for lazy loading container images",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS App Runner now supports Amazon Route 53 alias record for root domain name",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
+        "Services": [
+            "AWS App Runner",
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM CLI esbuild support is now generally available",
+        "Date": "01/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-sam-cli-esbuild-support-available/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Aurora Serverless v1 now supports PostgreSQL 11 and In-Place upgrade from PostgreSQL 10",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces tiered pricing",
+        "Date": "04/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn",
+        "Date": "22/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications",
+        "Date": "20/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces support for Attribute-Based Access Control (ABAC)",
+        "Date": "19/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS SAM Accelerate is now generally available - quickly test code changes against the cloud",
+        "Date": "30/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library",
+        "Date": "31/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS AppSync introduces new simplified console experience to deploy generic real-time Pub/Sub APIs",
+        "Date": "24/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing general availability of 1-click public embedding available with Amazon QuickSight",
+        "Date": "18/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Node.js 16",
+        "Date": "12/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Jakarta) Region",
+        "Date": "05/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
+        "Services": [
+            "AWS Lambda",
+            "Amazon Elastic File System"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
+        "Date": "28/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Aurora Serverless v2 is generally available",
+        "Date": "21/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SageMaker Serverless Inference is now generally available",
+        "Date": "21/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon QuickSight 1-click public embedding available now in preview",
+        "Date": "21/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions",
+        "Date": "06/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS AppSync adds support for enhanced filtering in real-time GraphQL subscriptions",
+        "Date": "05/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces support for PrincipalOrgID in resource-based policies",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SageMaker Serverless Inference (in Preview) and Asynchronous Inference add support for SageMaker Python SDK",
+        "Date": "04/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for .NET 6",
+        "Date": "24/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS AppSync adds support for custom response headers",
+        "Date": "23/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing AWS Serverless Application Model (SAM) CLI support for local testing of AWS Cloud Development Kit (CDK)",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/",
+        "Services": []
+    }
+]

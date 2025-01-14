@@ -1,0 +1,764 @@
+[
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) Now supports Tag on Create for Elastic IP addresses",
+        "Date": "12/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-virtual-private-cloud-vpc-supports-tag-on-create-elastic-ips-eip/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing Distributed Load Testing v1.2",
+        "Date": "12/19/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions",
+        "Date": "12/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud-map-is-now-available-in-the-aws-africa-cape-town-and-europe-milan-aws-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing Amazon Route 53 support for DNSSEC",
+        "Date": "12/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs",
+        "Date": "12/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) announces Reachability Analyzer to simplify connectivity testing and troubleshooting",
+        "Date": "12/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-vpc-announces-reachability-analyzer-to-simplify-connectivity-testing-and-troubleshooting/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS customers can now use industry standard Internet Group Management Protocol (IGMP) to easily deploy, manage and scale their multicast applications in AWS cloud",
+        "Date": "12/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-customers-use-industry-standard-internet-group-management-protocol/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing AWS Transit Gateway Connect to simplify SD-WAN branch connectivity",
+        "Date": "12/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-transit-gateway-connect-to-simplify-sd-wan-branch-connectivity/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches custom routing",
+        "Date": "12/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-global-accelerator-launches-custom-routing/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway Inter-region Peering is Now Available in Middle East (Bahrain), Africa (Cape Town), Asia Pacific (Hong Kong), and Europe (Milan) AWS Regions",
+        "Date": "12/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-transit-gateway-inter-region-peering-available-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs",
+        "Date": "12/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN adds support in additional Regions",
+        "Date": "11/24/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches a new Edge location in Thailand",
+        "Date": "11/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing Video On Demand on AWS Foundation",
+        "Date": "11/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches in Thailand",
+        "Date": "11/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC CNI plugin version 1.7 now default for Amazon EKS clusters",
+        "Date": "11/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-vpc-cni-plugin-version-1-7-now-default-for-amazon-eks-clusters/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Memcached 1.6.6 now available on Amazon ElastiCache",
+        "Date": "11/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0",
+        "Date": "11/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transfer Family now supports shared services VPC environments",
+        "Date": "11/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "IP Multicast on AWS Transit Gateway is now available in major AWS regions world wide",
+        "Date": "11/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/ip-multicast-on-aws-transit-gateway-now-available-in-major-aws-regions-world-wide/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States",
+        "Date": "11/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports Client Connect Handler",
+        "Date": "11/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-supports-client-connect-handler/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN announces self service portal to download VPN profiles and desktop applications",
+        "Date": "11/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-announces-self-service-portal/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing AWS PrivateLink support for Amazon Braket",
+        "Date": "11/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application Load Balancers enables gRPC workloads with end to end HTTP/2 support",
+        "Date": "10/30/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN now supports health notifications",
+        "Date": "10/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-site-to-site-vpn-now-supports-health-notifications/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway now supports disabling the default REST API endpoint",
+        "Date": "10/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies",
+        "Date": "10/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/cloudfront-iam-signed-url/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh is now available in Europe (Milan) Region",
+        "Date": "10/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-available-europe-milan-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches port overrides",
+        "Date": "10/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-global-accelerator-launches-port-overrides/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing Amazon CloudFront Origin Shield",
+        "Date": "10/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudfront-origin-shield/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Lambda now supports AWS PrivateLink",
+        "Date": "10/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map simplifies service discovery with optional parameters",
+        "Date": "10/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloud-map-simplifies-service-discovery-optional-parameters/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN is now available in the South America (Sao Paulo) Region",
+        "Date": "10/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-client-vpn-available-sao-paulo/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing Distributed Load Testing v1.1",
+        "Date": "10/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-distributed-load-testing-v1-1/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "IP Multicast on AWS Transit Gateway is now available in Asia Pacific (Singapore) and AWS GovCloud (US) Regions",
+        "Date": "10/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/ip-multicast-on-aws-transit-gateway-is-now-available-in-singapore-and-aws-govcloud/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports client to client connectivity",
+        "Date": "09/30/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-client-vpn-now-supports-client-to-client-connectivity/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches in two new countries - Mexico and New Zealand",
+        "Date": "09/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-cloudfront-launches-in-two-new-countries-mexico-and-new-zealand/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver Now Supports VPC DNS Query Logging in AWS GovCloud (US) Regions",
+        "Date": "09/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-route-53-resolver-supports-vpc-dns-query-logging-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces support for Brotli compression",
+        "Date": "09/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/cloudfront-brotli-compression/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "API Gateway HTTP APIs now supports Lambda and IAM authorization options",
+        "Date": "09/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/api-gateway-http-apis-now-supports-lambda-and-iam-authorization-options/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Endpoints for Amazon EC2 are now available in three availability zones in South America (Sao Paulo) and Canada (Central), and four availability zones in US West (Oregon)",
+        "Date": "09/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-vpc-endpoints-amazon-ec2-available-3-availability-zones-sao-paulo-canada-4-availability-zones-oregon/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application Load Balancers now support AWS Outposts",
+        "Date": "09/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/application-load-balancers-support-aws-outposts/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CodeGuru Profiler now supports AWS PrivateLink",
+        "Date": "09/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-codeguru-profiler-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces support for TLSv1.3 for viewer connections",
+        "Date": "09/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/cloudfront-tlsv1-3-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces real-time logs",
+        "Date": "09/01/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/cloudfront-realtimelogs/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN now supports Internet Key Exchange (IKE) initiation",
+        "Date": "08/28/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-site-to-site-vpn-now-supports-internet-key-exchange-initiation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver Now Supports VPC DNS Query Logging",
+        "Date": "08/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-route-53-resolver-supports-vpc-dns-query-logging/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway customers can now use their own Prefix Lists to simplify IP management",
+        "Date": "08/24/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-transit-gateway-customers-use-own-prefix-lists-simplify-ip-management/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN now supports additional encryption, integrity and key exchange algorithms",
+        "Date": "08/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-site-to-site-vpn-now-supports-additional-encryption-integrity-key-exchange-algorithms/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application and Classic Load Balancers are adding defense in depth with the introduction of Desync Mitigation Mode",
+        "Date": "08/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/application-and-classic-load-balancers-adding-defense-in-depth-with-introduction-of-desync-mitigation-mode/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN Now Supports IPv6 Traffic",
+        "Date": "08/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-site-to-site-vpn-supports-ipv6-traffic/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway now supports enhanced observability via access logs",
+        "Date": "08/14/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-api-gateway-supports-enhanced-observability-via-access-logs/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "New digital course: Configure and Deploy AWS PrivateLink",
+        "Date": "08/12/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/new-digital-course-configure-and-deploy-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS CodeDeploy now supports deployments to VPC endpoints",
+        "Date": "08/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-codedeploy-now-supports-deployments-to-virtual-private-cloud-endpoints/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway HTTP APIs now supports wildcard custom domain names",
+        "Date": "08/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-api-gateway-http-apis-supports-wildcard-custom-domain-names/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Endpoints for Amazon EC2 are now available in Europe (Milan) and Africa (Cape Town)",
+        "Date": "08/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-vpc-endpoints-for-amazon-ec2-are-now-available-in-europe-milan-and-africa-cape-town/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "New AWS Solutions Consulting Offer – VPC-In-A-Box℠",
+        "Date": "08/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/new-aws-solutions-consulting-offer-vpc-in-a-box/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh introduces new default mesh configuration",
+        "Date": "08/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/aws-app-mesh-introduces-new-default-mesh-configuration/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Elastic Load Balancing simplifies your AWS bill by introducing a new billing section",
+        "Date": "08/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/elastic-load-balancing-simplifies-aws-bill/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "IP Multicast on AWS Transit Gateway is Now Available in Europe (Frankfurt), South America (São Paulo), Middle East (Bahrain), Asia Pacific (Hong Kong) and Asia Pacific (Seoul) AWS Regions",
+        "Date": "07/31/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/ip-multicast-on-aws-transit-gateway-is-now-available-in-europe-frankfurt-south-america-sao-paulo-middle-east-bahrain-asia-pacific-hong-kong-and-asia-pacific-seoul-aws-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway Network Manager is now available in Africa (Cape Town) and Europe (Milan) AWS Regions",
+        "Date": "07/30/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-transit-gateway-network-manager-is-now-available-in-africa-cape-town-and-europe-milan-aws-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map simplifies Amazon EC2 instance registration",
+        "Date": "07/30/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-cloud-map-simplifies-amazon-ec2-instance-registration/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN Now Supports Tagging Resources Upon Creation and Resource-Level Permissions",
+        "Date": "07/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-site-to-site-vpn-supports-tagging-resources-creation-resource-level/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront adds additional geolocation headers for more granular geotargeting",
+        "Date": "07/25/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/cloudfront-geolocation-headers/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Resources Now Support Tag on Create",
+        "Date": "07/24/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-vpc-resources-support-tag-on-create/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Lightsail now offers CDN distributions to accelerate content delivery",
+        "Date": "07/23/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-lightsail-now-offers-cdn-distributions-to-accelerate-content-delivery/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces Cache Key and Origin Request Policies",
+        "Date": "07/23/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/cloudfront-cache-key-policy/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches One-Click Acceleration for Application Load Balancers",
+        "Date": "07/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-global-accelerator-launches-one-click-acceleration-for-application-load-balancers/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces new TLS1.2 security policy for viewer connections",
+        "Date": "07/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/cloudfront-tls-security-policy/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver Endpoints for Hybrid Cloud Are Now Available in the Africa (Cape Town) and Europe (Milan) Regions",
+        "Date": "07/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-route-53-resolver-endpoints-hybrid-cloud-available-cape-town-milan-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect launches first location in Israel",
+        "Date": "07/09/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-direct-connect-launches-first-location-israel/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway now supports more granular CloudWatch Metrics for improved network monitoring",
+        "Date": "07/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-transit-gateway-supports-granular-cloudwatch-metrics-improved-network-monitoring/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Live Streaming on AWS with MediaStore now supports AWS Elemental Link",
+        "Date": "07/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/live-streaming-on-aws-with-mediastore-supports-aws-elemental-link/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect supports AWS Transit Gateway in AWS Africa (Cape Town) and AWS Europe (Milan) Regions",
+        "Date": "07/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/aws-direct-connect-supports-aws-transit-gateway-cape-town-milan/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) customers can now use their own Prefix Lists to simplify the configuration of security groups and route tables",
+        "Date": "06/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-virtual-private-cloud-customers-use-prefix-lists-simplify-configuration-security-groups-route-tables/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing AWS PrivateLink Support for Amazon Transcribe Medical Real-Time Streaming",
+        "Date": "06/26/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-aws-privatelink-support-for-amazon-transcribe-medical-real-time-streaming/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "User management and other improvements added to Serverless Developer Portal",
+        "Date": "06/25/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/user-management-and-other-improvements-added-to-serverless-developer-portal/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Launches New API Action to list Private Hosted Zones associated with your Amazon VPCs",
+        "Date": "06/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-route-53-launches-new-api-action-to-list-private-hosted-zones-associated-with-your-amazon-vpcs/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway allows subprotocols on a WebSocket API connection",
+        "Date": "06/18/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-api-gateway-allows-subprotocols-on-websocket-api-connection/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway is Now Available in AWS Africa (Cape Town) and AWS Europe (Milan) Regions",
+        "Date": "06/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-transit-gateway-is-now-available-in-aws-africa-cape-town-and-aws-europe-milan-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "EC2 Image Builder now supports connectivity through AWS PrivateLink",
+        "Date": "06/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/ec2-image-builder-now-supports-connectivity-through-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect enables Failover Testing",
+        "Date": "06/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-direct-connect-enables-failover-testing/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) now supports Bring Your Own IPv6 Addresses (BYOIPv6)",
+        "Date": "05/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-virtual-private-cloud-supports-bring-own-ipv6-addresses/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator Now Supports Endpoints in the Africa (Cape Town) and Europe (Milan) Regions",
+        "Date": "05/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-global-accelerator-available-two-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports Federated Authentication via SAML 2.0",
+        "Date": "05/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-client-vpn-supports-federated-authentication-via-saml-2/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator now supports AWS CloudFormation",
+        "Date": "05/15/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-global-accelerator-supports-aws-cloudformation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect launches second location in Bahrain",
+        "Date": "05/14/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-direct-connect-launches-second-location-in-bahrain/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 is now available in AWS China (Ningxia) Region, Operated by NWCD",
+        "Date": "05/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-route-53-is-now-available-in-AWS-china-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces its first Edge locations in Kolkata and Hamburg",
+        "Date": "05/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/cloudfront-kolkata-hamburg/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Enhanced monitoring capabilities for AWS Direct Connect",
+        "Date": "05/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/enhanced-monitoring-capabilities-for-aws-direct-connect/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway now Supports Inter-Region Peering in AWS GovCloud (US) Regions",
+        "Date": "05/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-transit-gateway-now-supports-inter-region-peering-govcloud/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS License Manager now supports AWS PrivateLink",
+        "Date": "05/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-license-manager-now-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces a 90%+ price reduction for AWS IoT Device Management Jobs",
+        "Date": "05/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/aws-announces-a-90-percent-plus-price-reduction-for-aws-iot-device-management-jobs/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing Route Analyzer in AWS Transit Gateway Network Manager",
+        "Date": "05/04/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/announcing-route-analyzer-in-aws-transit-gateway-network-manager/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront in China announces support for Origin Access Identity",
+        "Date": "04/25/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/cloudfront-china-oai-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 supports Domain Name Transfer between AWS accounts",
+        "Date": "04/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-route-53-supports-domain-name-transfer-between-aws-accounts/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway Network Manager now available in additional AWS Regions",
+        "Date": "04/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-transit-gateway-network-manager-now-available-additional-aws-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Traffic Mirroring now available in AWS Middle East (Bahrain) region",
+        "Date": "04/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-vpc-traffic-mirroring-now-available-in-aws-middle-east-bahrain-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing support for fine-grained IAM permissions for PrivateLink interface endpoints",
+        "Date": "04/08/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/announcing-support-for-fine-grained-iam-permissions-for-privatelink-interface-endpoints/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway now Supports Inter-Region Peering in 11 additional regions",
+        "Date": "04/07/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-transit-gateway-now-supports-inter-region-peering-in-11-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh adds support to connect services deployed in multiple AWS accounts into a shared mesh",
+        "Date": "03/28/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-app-mesh-adds-support-to-connect-services-deployed-in-multiple-aws-accounts-into-shared-mesh/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the South America (São Paulo) and Middle East (Bahrain) Regions",
+        "Date": "03/26/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-route-53-resolver-endpoints-for-hybrid-cloud-now-available-sao-paulo-and-bahrain/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway Network Manager now includes support for AWS CloudFormation",
+        "Date": "03/24/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-transit-gateway-network-manager-now-includes-support-for-aws-cloudformation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches TCP Termination at the Edge",
+        "Date": "03/23/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-global-accelerator-launches-tcp-termination-at-the-edge/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN now supports certificate authentication for connections to AWS Transit Gateway",
+        "Date": "03/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-site-to-site-vpn-now-supports-certificate-authentication-for-connections-to-aws-transit-gateway/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Elastic Container Service (Amazon ECS) now supports Service Discovery in three additional AWS regions",
+        "Date": "03/20/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-ecs-supports-service-discovery-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh launches support for end to end encryption",
+        "Date": "03/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-app-mesh-launches-support-for-end-to-end-encryption/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "API Gateway offers private integrations with AWS ELB and AWS CloudMap as part of HTTP APIs GA release",
+        "Date": "03/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/api-gateway-private-integrations-aws-elb-cloudmap-http-apis-release/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh is now available in Asia Pacific (Hong Kong) Region",
+        "Date": "03/11/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-app-mesh-is-now-available-in-asia-pacific-hong-kong-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Lambda@Edge now supports Node 12.x and Python 3.8",
+        "Date": "03/03/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/lambda-at-edge-node12-python38/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator now supports Bring Your Own IP Addresses and Resource Tagging",
+        "Date": "02/27/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-global-accelerator-now-supports-bring-your-own-ip-addresses/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront in China announces support for Usage and Activity Reports in the Console",
+        "Date": "02/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/cloudfront-china-reporting/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh is now available in Europe (Stockholm), South America (São Paulo) and Middle East (Bahrain) regions",
+        "Date": "02/13/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-app-mesh-available-europe-south-america-middle-east-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Flow Logs Now Support 1-minute Aggregation Intervals",
+        "Date": "02/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-vpc-flow-logs-support-1-min-aggregation-intervals/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing the Desktop Client for AWS Client VPN",
+        "Date": "02/05/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/introducing-the-desktop-client-for-aws-client-vpn/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "New Digital Course: Architecting Serverless Solutions",
+        "Date": "01/29/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/new-digital-course-architecting-serverless-solutions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map supports editing custom service instance attributes in the AWS Console",
+        "Date": "01/24/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-cloud-map-supports-editing-custom-service-instance-attributes-in-the-aws-console/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Query Volume Metrics Now Available for Amazon Route 53 Resolver Endpoints",
+        "Date": "01/22/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/query-volume-metrics-now-available-for-amazon-route-53-resolver-endpoints/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS to Launch Standard AWS Region in Osaka in Early 2021",
+        "Date": "01/21/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-to-launch-standard-aws-region-in-osaka-in-early-2021/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect supports AWS Transit Gateway for AWS Middle East (Bahrain) Region",
+        "Date": "01/17/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-direct-connect-supports-aws-transit-gateway-for-bahrain-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now Supports Port Configuration",
+        "Date": "01/16/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-client-vpn-now-supports-port-configuration/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway is Now Available in the Europe (Stockholm) AWS Region",
+        "Date": "01/14/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-transit-gateway-now-available-stockholm-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches in five new countries - Bulgaria, Greece, Hungary, Kenya, and Romania",
+        "Date": "01/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/cloudfront-kenya-bulgaria-greece-hungary-romania/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver Endpoints for Hybrid Cloud Now Available in the Asia Pacific (Hong Kong) AWS Region",
+        "Date": "01/10/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-route-53-resolver-endpoints-for-hybrid-cloud-now-available-hong-kong-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS PrivateLink now supports Private DNS names for internal and 3rd party services",
+        "Date": "01/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-privatelink-supports-private-dns-names-internal-3rd-party-services/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect supports AWS Transit Gateway for AWS Asia Pacific (Hong Kong) Region",
+        "Date": "01/06/2020",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-direct-connect-supports-aws-transit-gateway-for-aws-asia-pacific-hong-kong-region/"
+    }
+]

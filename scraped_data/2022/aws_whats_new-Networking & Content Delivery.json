@@ -1,0 +1,626 @@
+[
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map is now available in Europe (Spain), Europe (Zurich) and Asia Pacific (Hyderabad) AWS Regions",
+        "Date": "12/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-map-available-new-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon EKS now supports AWS PrivateLink",
+        "Date": "12/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Gateway Load Balancer and Gateway Load Balancer endpoint now support IPv6 traffic",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 now offers threat intelligence sourced from Recorded Future",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud WAN helps simplify security inspection with Appliance Mode support",
+        "Date": "12/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-wan-security-inspection-appliance-mode-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC IP Address Manager (IPAM) is now available in the AWS GovCloud (US) Regions",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ipam-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports FortiGate Cloud-Native Firewall",
+        "Date": "12/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing the preview of AWS Verified Access",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-verified-access-preview/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Manager introduces real-time performance monitoring for the AWS Global Network",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/network-manager-real-time-performance-monitoring-aws-global-network/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Elastic Load Balancing capabilities for application availability",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Reachability Analyzer now supports network reachability analysis across accounts in an AWS Organization",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-vpc-reachability-analyzer-network-analysis-accounts-aws-organization/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing preview for Amazon Route 53 Application Recovery Controller zonal shift",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-route-53-application-recovery-controller-zonal-shift/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing Amazon CloudWatch Internet Monitor Preview",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-internet-monitor-preview/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches continuous deployment support",
+        "Date": "11/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon NAT Gateway Now Allows You to Select Private IP Address for Network Address Translation",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-nat-gateway-allows-select-private-ip-address-network-address-translation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Migration Hub Refactor Spaces now automatically handles DNS changes",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Controllers for Kubernetes (ACK) for Amazon Elastic Compute Cloud (EC2) is now generally available",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "The IPv6 Subnet default gateway router now supports multiple addresses",
+        "Date": "11/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager can now import existing AWS Network Firewall resources",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-firewall-manager-import-existing-aws-network-firewall-resources/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon EC2 placement groups can now be shared across multiple AWS accounts",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink",
+        "Date": "11/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates",
+        "Date": "11/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Private 5G service now includes support for multiple radio-units",
+        "Date": "11/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-private-5g-service-support-multiple-radio-units/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) now supports the transfer of Elastic IP addresses between AWS accounts",
+        "Date": "11/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-transfer-elastic-ip-addresses-between-aws-accounts/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Fault Injection Simulator now supports network connectivity disruption",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs",
+        "Date": "10/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront adds fields for origin latency and ASN in real-time logs for more granular insights",
+        "Date": "10/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudfront-fields-origin-latency-asn-real-time-logs-granular-insights/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map is available in Middle East (UAE) AWS Region",
+        "Date": "10/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-map-available-middle-east-uae-aws-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters",
+        "Date": "10/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator launches two new edge locations",
+        "Date": "10/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) now supports two new CloudWatch metrics to measure and track network address usage",
+        "Date": "10/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud WAN is now available in AWS Asia Pacific (Seoul) Region",
+        "Date": "10/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-wan-available-asia-pacific-seoul-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map Updates Service Level Agreement",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Control API now supports AWS PrivateLink",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 announces support for DNS resource record set permissions",
+        "Date": "09/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager adds support for AWS WAF custom requests and responses",
+        "Date": "09/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in two additional AWS regions",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway Connect is now available in two additional AWS Regions",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) Flow Logs can now be delivered to Amazon Kinesis Firehose",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new edge locations in Vietnam",
+        "Date": "08/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager adds support for AWS Managed Rules for AWS Network Firewall",
+        "Date": "08/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront launches Origin Access Control (OAC)",
+        "Date": "08/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch",
+        "Date": "08/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh is available in two additional AWS Regions",
+        "Date": "08/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights",
+        "Date": "08/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Aurora now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh adds support for multiple listeners",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh introduces configurable Envoy access log format",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports HTTP/3 powered by QUIC",
+        "Date": "08/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Private 5G is now generally available",
+        "Date": "08/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect expands AWS Transit Gateway support at more connection speeds",
+        "Date": "08/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Support launches a new AWS Support Center console domain",
+        "Date": "08/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall adds coin mining, phishing, and mobile operating systems categories to AWS Managed Threat Signatures",
+        "Date": "07/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-coin-mining-phishing-mobile-operating-systems-categories-managed-threat-signatures/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud Map is available in two new AWS Regions",
+        "Date": "07/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloud-map-available-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator announces IPv6 support",
+        "Date": "07/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall now supports VPC prefix lists",
+        "Date": "07/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific (Jakarta) Region",
+        "Date": "07/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring",
+        "Date": "07/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations",
+        "Date": "07/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing the general availability of AWS Cloud WAN",
+        "Date": "07/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront supports header names of up to 1024 characters in CloudFront policies",
+        "Date": "07/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-cloudfront-header-names-1024-characters-cloudfront-policies/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) customer-managed prefix lists is now available in five additional regions",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect announces new location in Ireland",
+        "Date": "06/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-new-location-ireland/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN introduces Private IP VPNs for enhanced security and privacy",
+        "Date": "06/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect adds support for all AWS Local Zones in the United States",
+        "Date": "06/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports TLS 1.3 session resumption for viewer connections",
+        "Date": "06/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudfront-supports-tls-1-3-session-resumption-viewer-connections/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 announces IP-Based Routing for DNS Queries",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing Multi-Account Support for AWS Transit Gateway Network Manager",
+        "Date": "05/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header",
+        "Date": "05/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "05/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC now supports multiple IPv6 CIDR blocks",
+        "Date": "05/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances",
+        "Date": "05/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS PrivateLink announces support for IPv6",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-privatelink-ipv6/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon RDS now supports Internet Protocol version 6 (IPv6) in AWS GovCloud (US) Regions",
+        "Date": "05/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall now supports AWS Managed Threat Signatures",
+        "Date": "04/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver endpoints for hybrid cloud Are Now Available in the Asia Pacific (Jakarta) Region",
+        "Date": "04/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-resolver-endpoints-hybrid-cloud-jakarta/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Transit Gateway is now available in AWS Asia Pacific (Jakarta) Region",
+        "Date": "04/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Introducing the Amazon CloudFront Ready Program",
+        "Date": "04/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Virtual Private Cloud (VPC) Prefix Lists is now available in the AWS Asia Pacific (Osaka) region",
+        "Date": "04/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall achieves FedRAMP Moderate compliance",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 now offers usage-based pricing for resource records above the free tier limit",
+        "Date": "04/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront now supports Server Timing headers",
+        "Date": "04/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Service APIs",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-internet-protocol-version-6-ipv6-rds-management-apis/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Service APIs",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh Envoy Management Service (EMS) now supports AWS CloudTrail integration",
+        "Date": "03/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS",
+        "Date": "03/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers",
+        "Date": "03/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver DNS Firewall significantly reduces service cost",
+        "Date": "03/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall achieves FedRAMP High compliance",
+        "Date": "03/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud (US) regions",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing AWS PrivateLink Support for AWS Backup",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS App Mesh introduces Agent for Envoy",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports AWS Network Firewall Centralized Deployment Model",
+        "Date": "02/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports versioning for AWS WAF managed rule group",
+        "Date": "02/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-waf-rule-group/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol",
+        "Date": "02/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront",
+        "Date": "02/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "IPv6-only subnets and EC2 instances now available in AWS Asia Pacific (Jakarta) region",
+        "Date": "02/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Metrics now available for AWS PrivateLink",
+        "Date": "01/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports banner text and maximum session duration",
+        "Date": "01/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Direct Connect announces new location in Australia",
+        "Date": "01/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation",
+        "Date": "01/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon EKS now supports Internet Protocol version 6 (IPv6)",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-eks-ipv6/"
+    }
+]

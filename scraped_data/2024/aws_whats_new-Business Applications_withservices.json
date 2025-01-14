@@ -1,0 +1,934 @@
+[
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies",
+        "Date": "24/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies",
+        "Services": [
+            "AWS Systems Manager"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager now supports full lifecycle logging",
+        "Date": "24/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/ses-mail-manager-full-lifecycle-logging/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance",
+        "Date": "20/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance",
+        "Services": [
+            "Amazon Connect",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Business analytics dashboard enhanced with conversation insights",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides agent schedule data in analytics data lake",
+        "Date": "18/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-schedule-analytics-data-lake",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports push notifications for mobile chat",
+        "Date": "12/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-push-notifications-mobile-chat",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now offers Global Endpoints for multi-region sending resilience",
+        "Date": "12/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ses-global-endpoints-multiregion-sending-resilience",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Simple Email Services (SES) announces Deterministic Easy DKIM",
+        "Date": "11/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-simple-email-services-deterministic-easy-dkim",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Business now provides insights from your databases and data warehouses (preview)",
+        "Date": "04/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-insights-databases-data-warehouses-preview",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports WhatsApp Business messaging",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-whatsapp-business-messaging",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now automates agent performance evaluations using generative AI",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-agent-performance-evaluations-generative-ai",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches generative AI-powered self-service with Amazon Q in Connect",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-generative-ai-powered-self-service-amazon-q-connect",
+        "Services": [
+            "Amazon Connect",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS announces Salesforce Contact Center with Amazon Connect (Preview)",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/salesforce-contact-center-amazon-connect-preview",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now supports external voice",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-external-voice",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports external voice transfers",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-external-voice-transfers",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now automatically categorizes your contacts using generative AI",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-categorizes-contacts-generative-ai",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches AI guardrails for Amazon Q in Connect",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-ai-guardrails-q-connect",
+        "Services": [
+            "Amazon Connect",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches new intraday forecast dashboards",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-launches-intraday-forecast-dashboards",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches AI assistant for customer segments and trigger-based campaigns",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-ai-assistant-customer-segments-trigger-based-campaigns",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Introducing Amazon Q Apps with private sharing",
+        "Date": "28/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Apps introduces data collection (Preview)",
+        "Date": "28/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-data-collection-preview",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Business now available as browser extension",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-browser-extension",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Application Signals provides OTEL support via X-Ray OTLP endpoint for traces",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-otel-x-ray-otlp-endpoint-traces",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager adds delivery of email to Amazon Q Business applications",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/ses-sail-manager-delivery-email-amazon-q-business-applications",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens generative AI-powered post contact summarization is now available in 5 new regions",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-generative-ai-powered-post-contact-summarization-new-regions",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS re:Post Private is now integrated with Amazon Bedrock to offer contextual knowledge to organizations",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-repost-private-integrated-amazon-bedrock",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr is now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-wickr-available-asia-pacific-malaysia",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "CloudWatch RUM now supports percentile aggregations and simplified troubleshooting with web vitals metrics",
+        "Date": "20/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/cloudwatch-rum-percentile-aggregations-simplified-troubleshooting",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect offers new personalized and proactive engagement capabilities",
+        "Date": "19/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-personalized-proactive-engagement-capabilities",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS End User Messaging introduces phone number block/allow rules",
+        "Date": "19/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-phone-number-block-allow-rules",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES adds inline template support to send email APIs",
+        "Date": "05/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ses-inline-template-support-send-email-apis",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Three enhancements for SES Mail Manager to improve interoperability, security, and compliance",
+        "Date": "01/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Supply Chain now offers embedded Analytics powered by Amazon Quicksight",
+        "Date": "01/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-supply-chain-embedded-analytics-amazon-quicksight/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon WorkMail now supports multi-factor authentication",
+        "Date": "31/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication",
+        "Services": [
+            "Amazon WorkMail"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides published forecast data in analytics data lake",
+        "Date": "29/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-published-forecast-analytics-data-lake",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now provides TLS Version for Outgoing Messages within AutoTags",
+        "Date": "25/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Gain deeper insights into Amazon Q Business with new analytics and conversation insights",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-analytics-conversation-insights/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES enhances configurability with maximum delivery time for emails",
+        "Date": "16/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-configurability-maximum-delivery-time-emails/",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Bring your conversations to WhatsApp with AWS End User Messaging Social",
+        "Date": "12/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/conversations-whatsapp-aws-end-user-messaging-social",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens dashboards now support additional customization capabilities",
+        "Date": "12/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect can now generate forecast for workloads with as little as one contact",
+        "Date": "05/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards",
+        "Date": "05/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SNS now delivers SMS text messages via AWS End User Messaging",
+        "Date": "26/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sns-delivers-sms-text-messages-aws-end-user-messaging",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Share AWS End User Messaging SMS resources across multiple AWS accounts",
+        "Date": "26/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/share-aws-end-user-messaging-sms-resources-multiple-accounts",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now offers automated complaint rate recommendations",
+        "Date": "20/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-automated-complaint-rate-recommendations",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect expands AWS CloudFormation support for agent hierarchies",
+        "Date": "14/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches AWS CloudFormation support for agent status",
+        "Date": "14/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now supports new ways to automate agent performance evaluations",
+        "Date": "06/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-automate-agent-performance-evaluations",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens generative AI-powered agent performance evaluations (preview) now available in 6 new regions",
+        "Date": "13/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr is now available in the Europe (Zurich) Region",
+        "Date": "13/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-wickr-europe-zurich-region/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports additional agent scheduling staffing rules",
+        "Date": "06/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-additional-agent-scheduling-staffing-rules",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Payment Cryptography is now available in four new regions across Europe and Asia",
+        "Date": "03/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports Inbound DID calling in Vietnam",
+        "Date": "31/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-inbound-did-calling-vietnam",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now provides downloadable screen recordings",
+        "Date": "30/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-downloadable-screen-recordings",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Introducing AWS End User Messaging",
+        "Date": "30/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-end-user-messaging",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon QuickSight improves controls performance",
+        "Date": "16/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-controls-performance",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Announcing the general availability of Amazon Q Apps",
+        "Date": "11/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-apps",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Business now provides responses that are personalized to users",
+        "Date": "10/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches automated rotation of agent shifts",
+        "Date": "09/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue",
+        "Date": "02/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q in Connect now recommends step-by-step guides",
+        "Date": "29/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Chime SDK meetings is now available in the Africa (Cape Town) Region",
+        "Date": "21/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town",
+        "Services": [
+            "Amazon Chime SDK",
+            "Amazon Chime"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Cases is now available in additional Asia Pacific regions",
+        "Date": "19/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now publishes email sending events to EventBridge",
+        "Date": "15/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-publishes-email-sending-events-eventbridge",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides color coding for shift activities in agent scheduling",
+        "Date": "12/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-color-coding-shift-activities-agent-scheduling",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports JumpCloud",
+        "Date": "07/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/aws-appfabric-supports-jumpcloud",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides time zone support for forecasts",
+        "Date": "06/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-time-zone-support-forecasts",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect agent workspace launches refreshed look and feel",
+        "Date": "05/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-agent-workspace-look-feel",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Supply Chain Lead Time Insights enhances the support for data variability",
+        "Date": "01/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/aws-supply-chain-lead-time-insights-enhanced-support-data-variability",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Cases now provides APIs for managing attachments",
+        "Date": "07/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-cases-apis-managing-attachments/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Chime SDK Voice Connector now supports audio streaming G.711 A-Law encoded audio",
+        "Date": "03/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-chime-sdk-voice-connector-g-711-a-law-encoded-audio/",
+        "Services": [
+            "Amazon Chime SDK",
+            "Amazon Chime"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now provides generative AI-powered agent performance evaluations (preview)",
+        "Date": "03/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-generative-ai-agent-performance-evaluations-preview/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "New feature for Amazon Connect Contact Lens agent screen recording",
+        "Date": "02/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Announcing the general availability of Amazon Q Business and Amazon Q Apps (Preview)",
+        "Date": "01/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-q-business-apps-preview/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports Salesforce, Azure Monitor and Google Analytics",
+        "Date": "30/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-salesforce-azure-monitor-google-analytics/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports SentinelOne Singularity Cloud",
+        "Date": "25/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports 1Password",
+        "Date": "24/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon QuickSight launches cross sheet filters and controls",
+        "Date": "24/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Simple Email Service is now available in the AWS GovCloud (US-East) Region",
+        "Date": "20/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-simple-email-service-aws-govcloud-us-east-region/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr is now available in additional AWS Asia Pacific Regions",
+        "Date": "30/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-additional-asia-pacific-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions",
+        "Date": "30/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect supports guided chat experiences using step-by-step guides",
+        "Date": "27/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-guided-chat-experiences-step-by-step-guides/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports Dynatrace",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-supports-dynatrace/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Lightsail expands blueprint selection with support for AlmaLinux 9",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-lightsail-blueprint-selection-support-almalinux-9/",
+        "Services": [
+            "Amazon Lightsail"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries (generally available)",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Chime SDK provides API endpoints for media pipelines in Seoul, Mumbai, Sydney, Tokyo, Canada, and London",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-chime-sdk-api-endpoints-media-pipelines-seoul-mumbai-sydney-tokyo-canada-london/",
+        "Services": [
+            "Amazon Chime SDK",
+            "Amazon Chime"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens now automates agent performance evaluations",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-automates-agent-performance-evaluations/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon WorkMail now supports Audit Logging",
+        "Date": "20/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/",
+        "Services": [
+            "Amazon WorkMail"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now provides guided onboarding to achieve fully authenticated sending",
+        "Date": "16/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-guided-onboarding-fully-authenticated-sending/",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Monitor Amazon WorkSpaces instances via CloudWatch Automatic dashboard",
+        "Date": "14/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/monitor-amazon-workspaces-cloudwatch-automatic-dashboard/",
+        "Services": [
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now offers support for headers when sending email",
+        "Date": "08/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-headers-sending-email/",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports Box and IBM Security\u00ae Verify",
+        "Date": "08/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-box-ibm-security-verify/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr achieves FedRAMP High authorization",
+        "Date": "07/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-fedramp-high-authorization/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides case management metrics",
+        "Date": "01/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now supports DID & Toll Free calling in Venezuela",
+        "Date": "29/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides time zone support for agent shift profiles",
+        "Date": "24/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Supply Chain Demand Planning announces Demand Driver-Based Forecasting",
+        "Date": "22/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-supply-chain-demand-planning-driver-forecasting/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr is now available in the AWS Europe (Stockholm) region",
+        "Date": "17/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr now allows you to try premium features for free",
+        "Date": "13/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-try-premium-features-free/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric now supports Cisco Duo and Terraform",
+        "Date": "06/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Cases now provides audit history on cases",
+        "Date": "03/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-cases-provides-audit-history-cases/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS AppFabric is now ISO, PCI, and SOC compliant",
+        "Date": "31/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-appfabric-iso-pci-soc-compliant/",
+        "Services": [
+            "AWS AppFabric"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Payment Cryptography launches additional options for importing and exporting keys",
+        "Date": "25/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-payment-cryptography-options-importing-exporting-keys/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Announcing AWS Supply Chain N-Tier Visibility",
+        "Date": "17/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-n-tier-visibility/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Announcing AWS Supply Chain Sustainability",
+        "Date": "17/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-sustainability/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Announcing AWS Supply Chain Supply Planning",
+        "Date": "16/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-supply-planning/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Introducing simplified WordPress setup on Amazon Lightsail",
+        "Date": "05/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/simplified-wordpress-setup-amazon-lightsail/",
+        "Services": [
+            "Amazon Lightsail"
+        ]
+    }
+]

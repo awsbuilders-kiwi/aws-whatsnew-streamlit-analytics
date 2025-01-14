@@ -1,0 +1,446 @@
+[
+    {
+        "Category": "Serverless",
+        "Title": "Kinesis Producer Library now supports the AWS SDK for Java 2.x",
+        "Date": "12/17/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces Provisioned Mode for Kafka event source mappings (ESMs)",
+        "Date": "11/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Node.js 22",
+        "Date": "11/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings (ESMs)",
+        "Date": "11/22/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon MQ is now available in the AWS Asia Pacific (Malaysia) region",
+        "Date": "11/22/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-mq-malaysia-region"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports point in time (PIT) search",
+        "Date": "11/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports Binary Vector and FP16 cost savings features",
+        "Date": "11/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-binary-vector-cost-savings"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports SnapStart for Python and .NET functions",
+        "Date": "11/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-snapstart-python-net-functions"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Python 3.13",
+        "Date": "11/15/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS introduces service versioning and deployment history for Amazon ECS services",
+        "Date": "11/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/service-versioning-deployment-history-amazon-ecs-services"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces JSON logging support for .NET managed runtime",
+        "Date": "11/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-json-logging-net-managed-runtime"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "New Kinesis Client Library 3.0 reduces stream processing compute costs by up to 33%",
+        "Date": "11/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/kinesis-client-library-reduces-stream-processing-compute-costs"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Payment Cryptography now supports card issuing use cases",
+        "Date": "10/31/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-payment-cryptography-card-issuing-use-cases"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals",
+        "Date": "10/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail",
+        "Date": "10/18/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-real-time-analytics-amazon-cloudwatch"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda console now surfaces key function insights via built-in Amazon CloudWatch Metrics Insights dashboard",
+        "Date": "10/18/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-console-key-function-insights-amazon-cloudwatch-dashboard"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Finch expands support to Linux, streamlining container development across platforms",
+        "Date": "10/16/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Schema Registry now in the AWS GovCloud (US) Regions",
+        "Date": "10/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-schema-registry-aws-govcloud-us-regions"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge announces new event delivery latency metric for Event Buses",
+        "Date": "10/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-event-delivery-latency-metric-event-buses"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports tagging of Event Source Mappings and Code Signing Config resources",
+        "Date": "09/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-tagging-event-source-mappings-code-signing-config-resources"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Streams now supports FIPS 140-3 enabled interface VPC endpoint",
+        "Date": "09/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda announces support for encryption of filter criteria for event source mappings",
+        "Date": "08/22/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Payment Cryptography is now available in four new regions across Europe and Asia",
+        "Date": "08/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports Amazon MQ for ActiveMQ and RabbitMQ in five new regions",
+        "Date": "07/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture",
+        "Date": "07/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless levels up speed and efficiency with smart caching",
+        "Date": "07/16/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-speed-efficiency-smart-caching/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS now enforces software version consistency for containerized applications",
+        "Date": "07/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB",
+        "Date": "07/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints",
+        "Date": "07/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SNS now supports sending SMS from Canada West (Calgary) region",
+        "Date": "07/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS introduces new Amazon CloudWatch metrics for FIFO queues",
+        "Date": "07/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sqs-cloudwatch-metrics-fifo-queues"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for runtime management controls in the AWS GovCloud (US) Regions",
+        "Date": "07/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs",
+        "Date": "07/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion adds support for ingesting data from self-managed sources",
+        "Date": "07/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-ingesting-data-self-managed-sources"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions",
+        "Date": "07/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge announces new console dashboard",
+        "Date": "06/29/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-console-dashboard"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion adds supports to ingest streaming data from Confluent Cloud",
+        "Date": "06/27/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-support-ingest-streaming-data-confluent-cloud"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion adds support for customer managed VPC interface endpoints",
+        "Date": "06/13/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-customer-managed-vpc-interface-endpoints"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "06/13/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-now-supports-ipv6/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS on AWS Fargate now allows you to encrypt ephemeral storage with customer-managed KMS keys",
+        "Date": "06/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecs-aws-fargate-encrypt-ephemeral-storage-customer-managed-kms-keys"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless",
+        "Date": "06/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless slashes entry cost in half for all collection types",
+        "Date": "06/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Introducing Amazon EMR Serverless Streaming jobs for continuous processing on streaming data",
+        "Date": "06/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon API Gateway integration timeout limit increase beyond 29 seconds",
+        "Date": "06/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target",
+        "Date": "06/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Scheduler adds new API request metrics for improved observability",
+        "Date": "05/31/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-scheduler-api-request-metrics-improved-observability"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Redshift Serverless is now available in Region Europe (Zurich) and Europe (Spain)",
+        "Date": "05/31/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-zurich-spain"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Redshift Serverless is now generally available in the AWS China (Ningxia) Region",
+        "Date": "05/29/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-china-ningxia-region"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing General Availability of Amazon Redshift Serverless in the South America (São Paulo) AWS region",
+        "Date": "05/17/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion launches new user interface for easy blueprint discovery",
+        "Date": "05/16/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-ingestion-interface-blueprint/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now available in Europe (Paris) region",
+        "Date": "05/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless announces detailed performance monitoring of Apache Spark jobs with Amazon Managed Service for Prometheus",
+        "Date": "05/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-performance-monitoring-apache-spark-jobs/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads",
+        "Date": "05/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Pipes now supports event delivery through AWS PrivateLink",
+        "Date": "05/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-pipes-event-delivery-aws-privatelink/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud (US) Regions",
+        "Date": "04/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces support for FIFO dead-letter queue redrive in the AWS GovCloud (US) Regions",
+        "Date": "04/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sqs-fifo-dead-letter-queue-redrive-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda functions now scale up to 12X faster in the AWS GovCloud (US) Regions",
+        "Date": "04/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-functions-12x-faster-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda supports Kafka event sources in four new regions",
+        "Date": "04/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-kafka-event-sources-four-new-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Ruby 3.3",
+        "Date": "04/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge announces an improved Learn page and other console enhancements",
+        "Date": "04/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda Functions powered by AWS Graviton2 now available in the AWS GovCloud (US) Regions",
+        "Date": "03/27/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-lambda-functions-graviton2-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless achieves FedRAMP Moderate compliance",
+        "Date": "03/22/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless customers can now control access to VPC endpoints",
+        "Date": "03/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-control-access-vpc-endpoints/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing Terraform support for Amazon OpenSearch Ingestion deployments",
+        "Date": "02/28/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-deployments-terraform/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EMR Serverless is now available in Europe (Spain) Region",
+        "Date": "02/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda adds support for .NET 8",
+        "Date": "02/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-support-net-8/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Ingestion is now available in 2 additional commercial regions",
+        "Date": "02/16/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports TLS 1.3 and perfect forward secrecy",
+        "Date": "02/15/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-tls-1-3-perfect-forward-secrecy/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS IoT Core supports Online Certificate Status Protocol Stapling for server certificates",
+        "Date": "02/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-core-online-certificate-status-protocol-stapling-server-certificates/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Step Functions adds integration for 33 services including Amazon Q",
+        "Date": "01/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-step-functions-integration-33-services/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud (US) Regions",
+        "Date": "01/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports SnapStart for Java functions in 5 additional regions",
+        "Date": "01/13/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS and AWS Fargate now integrate with Amazon EBS",
+        "Date": "01/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/"
+    }
+]

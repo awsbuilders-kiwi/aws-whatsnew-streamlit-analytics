@@ -1,0 +1,1718 @@
+[
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters",
+        "Date": "12/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch adds visibility for terminated and cancelled jobs",
+        "Date": "12/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing AWS ParallelCluster 3.4 with Multi-AZ support and other important features",
+        "Date": "12/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-parallelcluster-3-4-multi-az-support/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate",
+        "Date": "12/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces Amazon EKS Anywhere on Nutanix",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Migration Hub Orchestrator adds support for importing virtual machine images",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-orchestrator-importing-virtual-machine-images/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Better reproducibility with SageMaker Automatic Model Tuning",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/better-reproducibility-sagemaker-automatic-model-tuning/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Migration Hub Refactor Spaces enables AWS Lambda aliases as service endpoints",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 DescribeImages API now supports pagination",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Fortuna, an open-source library for uncertainty quantification of ML models, is now available",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances are now available in AWS GovCloud (US-East) region",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability of AWS Local Zones in Bangkok and Kolkata",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/general-availability-aws-local-zones-bangkok-kolkata/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M6a and C6a instances now available in five additional regions",
+        "Date": "12/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports container port ranges for port mapping",
+        "Date": "12/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6id, M6id, R6id instances are now available in additional regions",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Pricing Calculator supports bulk estimation of Amazon EC2 instances",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-pricing-calculator-bulk-estimation-amazon-ec2-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Calculator supports dedicated instance pricing",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-calculator-dedicated-instance-pricing/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EBS direct APIs now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "12/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-direct-apis-internet-protocol-version-ipv6/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4i Instances are now available in the Asia Pacific (Seoul) and South America (São Paulo) regions",
+        "Date": "12/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-i4i-instances-available-asia-pacific-seoul-south-america-sao-paulo-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors",
+        "Date": "12/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling now supports Metric Math for Target Tracking Policies",
+        "Date": "12/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts in Egypt",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "VMware Cloud on AWS is now available in Africa (Cape Town)",
+        "Date": "12/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/vmware-cloud-aws-africa-cape-town/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing the Amazon EC2 Spot Ready Software Products",
+        "Date": "12/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-spot-ready-software-products/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing AWS Graviton Delivery Partners",
+        "Date": "12/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton-delivery-partners/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Launch Amazon SageMaker Autopilot experiments from Amazon SageMaker Pipelines to easily automate MLOps workflows",
+        "Date": "11/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/launch-amazon-sagemaker-autopilot-experiments-sagemaker-pipelines-automate-mlops/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Amazon EC2 Hpc6id instances",
+        "Date": "11/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-hpc6id-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces Amazon EC2 Inf2 instances (Preview)",
+        "Date": "11/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-ec2-inf2-instances-preview/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts in Qatar, Guatemala, and Trinidad & Tobago",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-qatar-guatemala-trinidad-tobago/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing AWS SimSpace Weaver",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-simspace-weaver-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Nitro Enclaves now supports Amazon EKS and Kubernetes",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Amazon EC2 C7gn instances (Preview)",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-c7gn-instances-preview/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 R7iz instances",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Amazon EC2 M6in, M6idn, R6in, and R6idn network optimized instances",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 C6in instances",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces Amazon Inspector support for AWS Lambda functions",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer now supports external metrics from observability partners",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing AWS Lambda SnapStart for Java functions",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability of AWS Local Zones in Buenos Aires, Copenhagen, Helsinki, and Muscat.",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-local-zones-buenos-aires-copenhagen-helsinki-muscat/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2",
+        "Date": "11/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow",
+        "Date": "11/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces support for Attribute-Based Access Control (ABAC) in AWS GovCloud (US) Regions.",
+        "Date": "11/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Pricing Calculator now supports modernization cost estimates for Microsoft workloads",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/pricing-calculator-modernization-cost-estimates-microsoft-workloads/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 enables customer created tags to be included during image copy",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-enables-customer-created-tags-included-during-image-copy/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Nitro System now supports previous generation of instances",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-system-supports-previous-generation-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Application Load Balancers now support turning off cross zone load balancing per target group",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SQS announces attribute-based access control (ABAC) for flexible and scalable access permissions",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sqs-attribute-based-access-control-abac-flexible-scalable-access-permissions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C5n instances are now available in additional region",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c5n-instances-available-additional-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 increases size limit for AMI store and restore operations",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.24",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-eks-distro-support-kubernetes-version-1-24/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EBS direct APIs are now available in the AWS Middle East (UAE) region",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Nitro Enclaves is now available in Asia Pacific (Osaka) and Asia Pacific (Jakarta) regions",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-asia-pacific-osaka-jakarta-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances are now available in US East (N. Virginia), US East (Ohio), Europe (Milan), Europe (Ireland), and AWS GovCloud (US-West) Regions",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-high-memory-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Controllers for Kubernetes (ACK) for Amazon Elastic Compute Cloud (EC2) is now generally available",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 announces new price and capacity optimized allocation strategy for provisioning Amazon EC2 Spot Instances",
+        "Date": "11/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-price-capacity-optimized-allocation-strategy-provisioning-ec2-spot-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS launches task scale-in protection",
+        "Date": "11/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ecs-task-scale-in-protection/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Time Sync is now available over the internet as a public NTP service",
+        "Date": "11/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions",
+        "Date": "11/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Mac Instances now support Apple macOS Ventura",
+        "Date": "11/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-mac-instances-support-apple-macos-ventura/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Manchester",
+        "Date": "11/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-wavelength-zone-manchester/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 announces network bandwidth support in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-network-bandwith-support-instance-auto-scaling-ec2-fleet-spot-fleet/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6id, M6id, R6id instances are now available in additional regions",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now supports specifying list of instance types to use in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-specifying-instance-types-selection-ec2-spot-fleet-auto-scaling/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 placement groups can now be shared across multiple AWS accounts",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail announces support for domain registration and DNS autoconfiguration",
+        "Date": "11/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-lightsail-domain-registration-dns-autoconfiguration/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 enables you to opt out of directly shared Amazon Machine Images",
+        "Date": "11/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in AWS GovCloud (US) Regions",
+        "Date": "11/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-10-gb-ephemeral-storage-lambda-functions-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Managed Services (AMS) now supports SQL Server on EC2 Operations",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts rack service in Bangladesh",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-rack-service-bangladesh/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features",
+        "Date": "11/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner now supports privately accessible services within Amazon VPC",
+        "Date": "11/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Virtual Private Cloud (VPC) now supports the transfer of Elastic IP addresses between AWS accounts",
+        "Date": "11/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-transfer-elastic-ip-addresses-between-aws-accounts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes",
+        "Date": "10/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability of AWS Local Zones in Hamburg and Warsaw",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-general-availability-aws-local-zones-hamburg-warsaw/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific (Singapore) Region",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-is4gen-im4gn-instances-available-asia-pacific-singapore-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe (Paris) region",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn instances now available in Asia Pacific (Osaka) region",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 G5 instances now available in Stockholm region",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing General Availability of Amazon EC2 i4i.metal instance for VMware Cloud on AWS",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6i, M6i instances are now available in additional regions",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6i-m6i-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fault Injection Simulator now supports network connectivity disruption",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now supports Grid Search",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EC2 High Memory instances with 18TiB and 24TiB of memory are now available with On-Demand and Savings Plan purchase options",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-high-memory-instances-18tib-24tib-memory-available-on-demand-savings-plan-purchase-options/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker now enables customers to cost effectively host 1000s of GPU models using Multi Model Endpoint",
+        "Date": "10/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-cost-effectively-host-1000s-gpu-multi-model-endpoint/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch now supports Amazon Elastic Kubernetes Service (Amazon EKS)",
+        "Date": "10/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch increases compute and memory resource configurations for Fargate type jobs by 4X",
+        "Date": "10/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-increases-compute-memory-resource-configurations-fargate-type-jobs-4x/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces Amazon EKS Anywhere on Apache CloudStack",
+        "Date": "10/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Nitro Enclaves is now supported on AWS Graviton",
+        "Date": "10/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-nitro-enclaves-now-supported-aws-graviton/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Red Hat Enterprise Linux (RHEL) Workstation on AWS",
+        "Date": "10/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snowball Edge Compute Optimized delivers double the compute capacity and is now fully SSD NVMe storage",
+        "Date": "10/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-snowball-edge-compute-optimized-double-compute-capacatiy-ssd-nvme-storage/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 adds Service Quotas for Amazon Machine Images (AMIs)",
+        "Date": "10/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-service-quotas-amazon-machine-images-amis/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports event filtering for Amazon MSK, Self-Managed Kafka, Amazon MQ for Apache ActiveMQ, and Amazon MQ for RabbitMQ as event sources",
+        "Date": "10/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances are now available in Asia Pacific (Singapore), Canada (Central), and AWS GovCloud (US-East) regions",
+        "Date": "10/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific (Jakarta) Region",
+        "Date": "10/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6gn instances are now available in additional region",
+        "Date": "10/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now offers an automated connection set-up solution between EC2 instance and RDS Database",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-automated-connection-solution-ec2-instance-rds-database/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration",
+        "Date": "10/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2",
+        "Date": "10/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability of AWS Local Zones in Delhi and Taipei",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances with 3, 6, 9, and 12TiB of memory are now available in Asia Pacific (Tokyo) region",
+        "Date": "10/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-3-6-9-12tib-memory-tokyo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Machine Images now support Instance Metadata Service Version 2 by default",
+        "Date": "10/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-machine-images-support-instance-metadata-service-version-2-default/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Data Lifecycle Manager now automates archival of EBS Snapshots",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-data-lifecycle-manager-automates-archival-ebs-snapshots/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Autopilot now includes Amazon SageMaker Data Wrangler feature transforms when deploying models for inference",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS Service Discovery now available in the Asia Pacific (Osaka) and Asia Pacific (Jakarta) AWS Regions",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances",
+        "Date": "09/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Snow Amazon Linux 2 (AL2) Amazon Machine Image (AMI) available on all Snow Family jobs",
+        "Date": "09/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific (Tokyo) region",
+        "Date": "09/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner now supports Node.js 16 managed runtime",
+        "Date": "09/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts rack in Kazakhstan and Serbia",
+        "Date": "09/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing local clusters for Amazon EKS on Outposts",
+        "Date": "09/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search",
+        "Date": "09/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events",
+        "Date": "09/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now provides up to 3x faster hyperparameter tuning with Hyperband as a new search strategy",
+        "Date": "09/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-provides-faster-hyperparameter-tuning-hyperband-search-strategy/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate increases compute and memory resource configurations by 4x",
+        "Date": "09/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch extends the job report retention period from 24 hours to 7 days",
+        "Date": "09/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner now supports deployment using cross-region Amazon ECR image",
+        "Date": "09/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Local gateway ingress routing for AWS Outposts rack is now available",
+        "Date": "09/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Direct VPC routing for AWS Outposts rack is now available",
+        "Date": "09/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Certificate Manager (ACM) for Nitro Enclaves now supports Apache HTTP webservers",
+        "Date": "09/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe (Stockholm) region",
+        "Date": "09/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn and X2iedn instances now available in Europe (Paris) region",
+        "Date": "09/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate announces migration of service quotas to vCPU-based quotas",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6id, M6id and R6id instances are now available in an additional region",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-c6id-m6id-r6id-instances-additional-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snowball is now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner now supports Amazon Route 53 alias record for root domain name",
+        "Date": "09/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate is now available in the Middle East (UAE) Region",
+        "Date": "09/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating an AutoML experiment",
+        "Date": "09/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Enterprise On-Ramp Support is now supported with AWS Outposts",
+        "Date": "09/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/enterprise-on-ramp-supported-aws-outposts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate announces availability of Microsoft Windows Server 2022 images for Amazon ECS",
+        "Date": "08/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-fargate-microsoft-windows-server-2022-images-amazon-ecs/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP",
+        "Date": "08/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning is now available in the Europe (Milan), Africa (Cape Town), Asia Pacific (Osaka), and Asia Pacific (Jakarta) Regions",
+        "Date": "08/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts rack in Kenya and Oman",
+        "Date": "08/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Anywhere Curated Packages now generally available",
+        "Date": "08/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-anywhere-curated-packages-generally-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn and X2iedn instances now available in Asia Pacific (Jakarta) region",
+        "Date": "08/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x",
+        "Date": "08/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 C6gd instances now available in South America (São Paulo) region",
+        "Date": "08/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances are now available in US East (Ohio), South America (Sao Paulo) and Asia Pacific (Sydney) regions",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-high-memory-instances-ohio-sao-paulo-sydney-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 P4d Instances now available in AWS GovCloud (US) Region",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-p4d-instances-aws-govcloud-us-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources",
+        "Date": "08/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Optimize resources across your organization using AWS Compute Optimizer from a designated account",
+        "Date": "08/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 M6g, M6gd, C6g, and R6g are now available in Asia Pacific (Jakarta) region",
+        "Date": "08/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-m6g-m6gd-c6g-r6g-available-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning",
+        "Date": "08/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 C6g, C6gd, and M6gd are now available in additional regions",
+        "Date": "08/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6g-c6gd-m6gd-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer is now available in 5 additional AWS Regions",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images (AMIs) on Amazon EC2",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "VM Import/Export now supports Windows 11",
+        "Date": "08/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/vm-import-export-windows-11/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda support for AWS X-Ray now available in AWS GovCloud (US) Regions",
+        "Date": "07/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster 3.2: file system enhancements and other top requested features",
+        "Date": "07/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Outposts rack is now supported in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "07/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn",
+        "Date": "07/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs",
+        "Date": "07/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions",
+        "Date": "07/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces support for Attribute-Based Access Control (ABAC)",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 R6a instances",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "New Amazon EBS Elastic Volumes automated performance settings make it even easier to modify volumes and save costs",
+        "Date": "07/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ebs-elastic-volumes-automated-settings-modify-volumes-costs/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models",
+        "Date": "07/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4i Instances are now available in nine additional regions",
+        "Date": "07/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling customers can now monitor their predictive scaling policy using Amazon CloudWatch",
+        "Date": "07/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing general availability of Amazon EC2 M1 Mac instances for macOS",
+        "Date": "07/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing availability of AWS Outposts rack in Panama",
+        "Date": "07/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing bare metal support for Amazon EKS Anywhere",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon S3 on Outposts now supports presigned URLs",
+        "Date": "06/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-presigned-urls/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 placement groups now support host-level spread on AWS Outposts rack",
+        "Date": "06/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling announces increased Auto Scaling group default limit per account",
+        "Date": "06/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 G5 instances now available in additional regions",
+        "Date": "06/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7g instances powered by AWS Graviton3 processors now available in US East (Ohio) and Europe (Ireland)",
+        "Date": "06/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific (Seoul) Region",
+        "Date": "06/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 D3 Instances are now available in AWS Canada (Central) Region",
+        "Date": "06/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-d3-instances-aws-canada-central-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6i instances are now available in an additional region",
+        "Date": "06/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6i-instances-available-additional-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 VT1 now supports the AMD-Xilinx Video SDK 2.0 that enables GStreamer and 10-bit video transcoding",
+        "Date": "06/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6gn instances now available in additional regions",
+        "Date": "06/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R5n instances now available in additional regions",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon R6id instances",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Price reductions on Amazon EC2 instances running SUSE Linux Enterprise Server (SLES) OS",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Dedicated Hosts are now available on AWS Outposts",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language (CWL) with Toil",
+        "Date": "05/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups",
+        "Date": "05/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories",
+        "Date": "05/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing preview of Amazon EC2 P4de GPU instances for ML training and HPC",
+        "Date": "05/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-p4de-gpu-instances-ml-training-hpc/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 C6id instances",
+        "Date": "05/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 M6id instances",
+        "Date": "05/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Hpc6a instances now available in additional regions",
+        "Date": "05/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zones in Nashville and Tampa",
+        "Date": "05/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Seoul",
+        "Date": "05/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 enables customers to protect instances from unintentional stop actions",
+        "Date": "05/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors",
+        "Date": "05/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy",
+        "Date": "05/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling now supports Predictive Scaling in the AWS GovCloud (US-West) Region",
+        "Date": "05/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4i metal instances are now available",
+        "Date": "05/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn and X2iedn instances now available in 8 additional regions",
+        "Date": "05/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R5b instances are now available in South America (Sao Paulo), Canada (Central), and Asia Pacific (Sydney)",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability of NitroTPM and UEFI Secure Boot on Amazon EC2",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 adds CloudWatch Events support for Amazon Machine Images",
+        "Date": "05/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Jakarta) Region",
+        "Date": "05/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management",
+        "Date": "05/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Monitor your Amazon RDS usage metrics against AWS service limits",
+        "Date": "04/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS adds new management features for EC2 key pairs",
+        "Date": "04/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices",
+        "Date": "04/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 I4i instances",
+        "Date": "04/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snow Family now supports update of device certificates",
+        "Date": "04/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America (São Paulo)",
+        "Date": "04/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail load balancers now support automatic HTTPS redirects and configurable TLS security policy",
+        "Date": "04/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Announces general availability of the first AWS Wavelength Zone in Canada",
+        "Date": "04/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud (US) Regions",
+        "Date": "04/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS-optimized Amazon Linux 2022 AMI now available in preview",
+        "Date": "04/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server",
+        "Date": "04/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Launch Wizard now provides guided deployment of Internet Information Services (IIS) for Windows Server",
+        "Date": "04/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EKS add-ons support for the OpenTelemetry Operator is now generally available",
+        "Date": "04/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions",
+        "Date": "04/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "ACK Controllers for Amazon EKS, Amazon ECR, Amazon DynamoDB, Amazon S3, AWS Application Autoscaling and AWS API Gateway v2 now generally available",
+        "Date": "04/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch adds support for AWS PrivateLink",
+        "Date": "04/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate now delivers faster scaling of applications",
+        "Date": "04/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner launches AWS X-Ray support",
+        "Date": "04/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate",
+        "Date": "04/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer Supports 66 New EC2 Instance Types",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing two new Amazon EC2 bare metal instances",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now provides a new and improved launch experience on the EC2 Console",
+        "Date": "04/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere now support Kubernetes version 1.22",
+        "Date": "04/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon WorkSpaces launches APIs to allow custom branding",
+        "Date": "04/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS announces increased service quota for container instances per cluster",
+        "Date": "04/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-quota-service-container-cluster/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EKS add-ons support for EBS CSI driver is now generally available",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now reduces visibility of public Amazon Machine Images (AMIs) older than two years",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "The AWS Lambda console now supports bulk update of layers",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now performs automatic recovery of instances by default",
+        "Date": "03/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now allows customers to configure up to 10 GB of ephemeral storage for Lambda functions",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling",
+        "Date": "03/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "The AWS Lambda console now supports the option to share test events between developers",
+        "Date": "03/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific (Osaka) and Asia Pacific (Jakarta) regions",
+        "Date": "03/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Automate visual inspection of product defects at the edge with Amazon Lookout for Vision - now generally available",
+        "Date": "03/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports on-premises workload orchestration on Windows OS",
+        "Date": "03/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces support for PrincipalOrgID in resource-based policies",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 X2idn and X2iedn instances",
+        "Date": "03/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI",
+        "Date": "03/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags",
+        "Date": "03/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration",
+        "Date": "03/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Genomics CLI adds the Snakemake workflow management system",
+        "Date": "03/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-fault-injection-simulator-task-faults/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EC2 Hibernation is now available in the Asia Pacific (Jakarta) and (Osaka) AWS Regions",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch Agent adds Support for NVIDIA GPU Metrics",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Runner adds a Java platform",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda adds support for .NET 6",
+        "Date": "02/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in",
+        "Date": "02/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "NICE DCV releases web client SDK 1.1.0 with new UI library",
+        "Date": "02/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snowcone SSD is now available in the Asia Pacific (Mumbai), Canada (Central) and South America ( Sao Paulo)",
+        "Date": "02/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry",
+        "Date": "02/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 C6a instances",
+        "Date": "02/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster now supports multi-user environments through AWS Directory Service",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images",
+        "Date": "02/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources",
+        "Date": "01/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 G4dn instances now available in AWS Asia Pacific (Osaka)",
+        "Date": "01/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R5b instances are now available in Asia Pacific (Seoul)",
+        "Date": "01/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 X2iezn instances",
+        "Date": "01/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R6i instances are now available in 2 additional regions",
+        "Date": "01/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Lightsail CDN now supports Lightsail Container Services as origins",
+        "Date": "01/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads",
+        "Date": "01/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 customers can now use ED25519 keys for authentication with EC2 Instance Connect",
+        "Date": "01/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/ed25519-keys-authentication-ec2-instance-connect/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources",
+        "Date": "01/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis",
+        "Date": "01/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-wavelength-zones/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Outposts now FedRAMP authorized",
+        "Date": "01/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate is now available in the Asia Pacific (Jakarta) Region",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures",
+        "Date": "01/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 Hpc6a instances",
+        "Date": "01/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6g and R6gd instances powered by AWS Graviton2 now available in additional regions.",
+        "Date": "01/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M6a Instances are Now Available in Asia Pacific (Mumbai) AWS Region",
+        "Date": "01/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Instance Tags now available on the Amazon EC2 Instance Metadata Service",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS now supports Internet Protocol version 6 (IPv6)",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-eks-ipv6/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Snowcone is now available in AWS Europe (London)",
+        "Date": "01/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/"
+    }
+]

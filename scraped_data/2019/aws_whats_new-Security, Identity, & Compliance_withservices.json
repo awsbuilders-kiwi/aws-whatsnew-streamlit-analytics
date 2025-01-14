@@ -1,0 +1,679 @@
+[
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Security Hub releases updates and additions to the AWS Security Finding Format (ASFF)",
+        "Date": "23/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/security-hub-releases-updates-and-additions-to-aws-security-finding-format/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS EU (Paris) Region",
+        "Date": "20/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-directory-service-for-microsoft-active-directory-and-ad-connector-now-available-in-paris-region/",
+        "Services": [
+            "AWS Directory Service"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager Private Certificate Authority Now Emits State Change Events",
+        "Date": "20/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-certificate-manager-private-certificate-authority-emits-state-change-events/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Secrets Manager is now available in the AWS China (Beijing) region operated by SINNET and the AWS China (Ningxia) region operated by NWCD",
+        "Date": "19/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-secrets-manager-is-now-available-in-the-aws-china-beijing-region/",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS WAF improves request logging for context around matched rules",
+        "Date": "19/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-waf-improves-logging-context-around-matched-rules/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager and Private Certificate Authority Support FIPS 140-2 Endpoints",
+        "Date": "19/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-certificate-manager-private-certificate-authority-support-fips-endpoints/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub integrates with AWS Firewall Manager",
+        "Date": "18/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-security-hub-integrates-with-aws-firewall-manager/",
+        "Services": [
+            "AWS Security Hub",
+            "AWS Firewall Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub integrates with Amazon Detective",
+        "Date": "16/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-security-hub-integrates-with-amazon-detective/",
+        "Services": [
+            "AWS Security Hub",
+            "Amazon Detective"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Token Service Now Supports AWS PrivateLink in 13 New Regions",
+        "Date": "12/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-security-token-service-now-supports-aws-privatelink-in-13-new-regions/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing The Amazon Builders\u2019 Library",
+        "Date": "05/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amazon-builders-library/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing Amazon Detective",
+        "Date": "04/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amazon-detective/",
+        "Services": [
+            "Amazon Detective"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub integrates with the AWS Identity and Access Management (IAM) Access Analyzer",
+        "Date": "03/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-security-hub-integrates-with-the-aws-identity-and-access-management-iam-access-analyzer/",
+        "Services": [
+            "AWS Identity and Access Management",
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing Access Analyzer for Amazon S3 to review access policies",
+        "Date": "03/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-access-analyzer-for-amazon-s3-to-review-access-policies/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing AWS Identity and Access Management (IAM) Access Analyzer",
+        "Date": "03/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-identity-and-access-management-access-analyzer/",
+        "Services": [
+            "AWS Identity and Access Management"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Manage access to AWS centrally for Azure AD users with AWS Single Sign-on",
+        "Date": "27/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/manage-access-to-aws-centrally-for-azure-ad-users-with-aws-single-sign-on/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Improve the Security Between AWS Applications and Your Self-Managed Active Directory with Secure LDAP using AWS Managed Microsoft AD",
+        "Date": "27/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/improve-the-security-between-aws-applications-and-your-self-managed-active-directory/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Cognito now supports account recovery method prioritization",
+        "Date": "26/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-cognito-supports-account-recovery-method-prioritization/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "New partner integrations available for AWS Security Hub",
+        "Date": "26/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/new-partner-integrations-available-aws-security-hub/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Simplify application configuration with AWS AppConfig",
+        "Date": "26/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/simplify-application-configuration-with-aws-appconfig/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Simplify permissions management by using employee attributes from your corporate directory for access control",
+        "Date": "25/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/simplify-permissions-management-by-using-employee-attributes-from-corporate-directory-for-access-control/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing AWS Managed Rules for AWS WAF",
+        "Date": "25/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-aws-managed-rules-for-aws-waf/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Service Catalog adds High Reliability Architectures to the Getting Started Library",
+        "Date": "25/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-service-catalog-adds-high-reliability-architectures-getting-started-library/",
+        "Services": [
+            "Service Catalog"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Tag-on Create and Tag-Based IAM for AWS Certificate Manager and Private Certificate Authority",
+        "Date": "22/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/tag-on-create-and-tag-based-iam-for-aws-certificate-manager-and-private-certificate-authority/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Elasticsearch Service announces support for encryption at rest and node-to-node encryption in AWS China (Beijing) Region, Operated by Sinnet, and the AWS China (Ningxia) Region, Operated by NWCD",
+        "Date": "21/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elasticsearch-service-support-encryption-rest-aws-china/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Cognito now supports Sign in with Apple",
+        "Date": "21/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-cognito-now-supports-sign-in-with-apple/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Identify unused IAM roles easily and remove them confidently by using the last used timestamp",
+        "Date": "19/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/identify-unused-iam-roles-easily-and-remove-them-confidently-by-using-the-last-used-timestamp/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Announcing Updates to Amazon EC2 Instance Metadata Service",
+        "Date": "19/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-updates-amazon-ec2-instance-metadata-service/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon GuardDuty Supports Exporting Findings to an Amazon S3 Bucket",
+        "Date": "16/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-guardduty-supports-exporting-findings-to-an-amazon-s3-bucket/",
+        "Services": [
+            "Amazon S3",
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Automate your operational playbooks with AWS Systems Manager",
+        "Date": "15/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/automate-your-operational-playbooks-with-aws-systems-manager/",
+        "Services": [
+            "AWS Systems Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Firewall Manager is Now Available in 5 Additional AWS Regions",
+        "Date": "14/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-firewall-manager-is-now-available-in-5-additional-aws-regions/",
+        "Services": [
+            "AWS Firewall Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Encryption SDK for JavaScript now Generally Available",
+        "Date": "12/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-encryption-sdk-for-javascript-now-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Use the AWS CLI v2 preview with AWS Single Sign-on to increase developer productivity",
+        "Date": "11/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/use-the-aws-cli-v2-preview-with-aws-single-sign-on-to-increase-developer-productivity/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager Private Certificate Authority is now available in the South America (S\u00e3o Paulo) Region",
+        "Date": "06/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-certificate-manager-private-certificate-authority-available-south-america/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Service Catalog enables transfer of provisioned product ownership",
+        "Date": "01/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-service-catalog-enables-transfer-of-provisioned-product-ownership/",
+        "Services": [
+            "Service Catalog"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Secrets Manager now supports larger size for secrets and resource polices and higher request rate for GetSecretValue API",
+        "Date": "31/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-secrets-manager-supports-increased-secret-size-api-request-rate/",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager (ACM) Private Certificate Authority (CA) now enforces name constraints in imported CA certificates",
+        "Date": "30/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-certificate-manager-private-certificate-authority-now-enforces-name-constraints-in-imported-ca-certificates/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Increase AWS Single Sign-On security with multi-factor authentication using authenticator apps",
+        "Date": "26/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/increase-aws-single-sign-on-security-with-multi-factor-authentication-using-authenticator-apps/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Managed Services (AMS) Now Offers Managed Landing Zones",
+        "Date": "25/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-managed-services-now-offers-managed-landing-zones/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Secrets Manager is now available in the AWS Middle East (Bahrain) region",
+        "Date": "24/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-secrets-manager-now-available-aws-middle-east-bahrain-region/",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon EFS now supports AWS PrivateLink",
+        "Date": "22/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
+        "Services": [
+            "Amazon EFS",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS CloudHSM is now available in the AWS South America (Sao Paulo) Region",
+        "Date": "19/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-cloudhsm-now-available-in-aws-south-america-sao-paulo-region/",
+        "Services": [
+            "AWS CloudHSM"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Lex Achieves PCI DSS Compliance",
+        "Date": "18/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-lex-achieves-pci-dcc-compliance/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon GuardDuty Adds Three New Threat Detections",
+        "Date": "17/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-guardduty-adds-three-new-threat-detections/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager Private Certificate Authority is now available in the Middle East (Bahrain) Region",
+        "Date": "17/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-certificate-manager-private-certificate-authority-available-middle-east-region/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS IoT Device Defender Expands Globally",
+        "Date": "17/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-iot-device-defender-expands-globally/",
+        "Services": [
+            "AWS IoT Device Defender"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Resource Groups and Tag Editor Are Now Available in the AWS GovCloud (US) Regions",
+        "Date": "15/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-resource-groups-and-tag-editor-are-now-available-in-the-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Firewall Manager now supports management of Amazon VPC security groups",
+        "Date": "11/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-firewall-manager-now-supports-management-of-amazon-vpc-security-groups/",
+        "Services": [
+            "AWS Firewall Manager",
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Inspector adds CIS Benchmark support for Windows 2016",
+        "Date": "11/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-inspector-adds-cis-benchmark-support-for-windows-2016/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub now available in AWS Middle East (Bahrain) Region",
+        "Date": "03/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-security-hub-now-available-in-aws-middle-east-bahrain-region/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager Private Certificate Authority now includes 9 new certificate templates",
+        "Date": "03/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-certificate-manager-private-certificate-authority-now-includes-9-new-certificate-templates/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS IoT Core Introduces Beta Feature To Simplify Device Certificate Registration",
+        "Date": "28/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-iot-core-introduces-beta-feature-to-simplify-device-certificate-registration/",
+        "Services": [
+            "AWS IoT Core"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon EKS Supports Cluster Tagging",
+        "Date": "17/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-supports-cluster-tagging/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Lower Threshold for AWS WAF Rate-based Rules",
+        "Date": "28/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/lower-threshold-for-aws-waf-rate-based-rules/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Single Sign-On is Now Available in Canada (Central) Region",
+        "Date": "27/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-single-sign-on-now-available-in-canada-central-region/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub now available in AWS Asia Pacific (Hong Kong) Region",
+        "Date": "06/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-security-hub-now-available-aws-asia-pacific-hong-kong-region/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "New Digital Course on Coursera - AWS Fundamentals: Addressing Security Risk",
+        "Date": "30/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/new-digital-course-on-coursera-aws-fundamentals-addressing-security-risk/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Secrets Manager now supports VPC endpoint policies",
+        "Date": "26/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/AWS-Secrets-Manager-now-supports-VPC-endpoint-policies/",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Resource Groups Is Now Available in the Asia Pacific (Osaka-Local) AWS Region",
+        "Date": "25/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/resource-groups-is-now-available-in-the-asia-pacific-osaka-local-aws-region/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Inspector is now available in the Europe (Stockholm) Region",
+        "Date": "20/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-inspector-now-available-europe-stockholm-region/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Resource Groups and AWS Resource Groups Tag Editor Now Supports Additional AWS Resources",
+        "Date": "15/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/resource-groups-and-tag-editor-now-supports-additional-aws-resources/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Resource Groups is Now SOC Compliant",
+        "Date": "11/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-resource-groups-is-now-soc-compliant/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub now available in AWS Europe (Stockholm) Region",
+        "Date": "28/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-security-hub-now-available-in-aws-europe-stockholm-region/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Token Service Now Supports AWS PrivateLink in US East (Virginia), US East (Ohio), EU (Ireland), Asia Pacific (Tokyo)",
+        "Date": "27/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-security-token-supports-privatelink-in-us-eu-asia-pacific/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Encryption of new EBS volumes by default in an account within a region is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "26/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/encryption-new-ebs-volumes-default-account-within-region-aws-china-beijing-ningxia/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Launching of Encrypted EBS backed EC2 instances from unencrypted Amazon Machine Images (AMIs) is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "26/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/launching-encrypted-ebs-backed-ec2-instances-from-unencrypted-amis-now-available-aws-china-beijing-ningxia/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Encrypted Amazon Machine Images (AMIs) sharing across accounts is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "26/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/encrypted-amazon-machine-images-sharing-across-accounts-available-aws-china-beijing-sinnet-ningxia-nwcd/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Hub is now generally available",
+        "Date": "25/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-security-hub-now-generally-available/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Use IAM access advisor with AWS Organizations to set permission guardrails confidently",
+        "Date": "22/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/now-use-iam-access-advisor-with-aws-organizations-to-set-permission-guardrails-confidently/",
+        "Services": [
+            "AWS Organizations"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Certificate Manager Private Certificate Authority now supports root CA hierarchies",
+        "Date": "21/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-certificate-manager-private-certificate-authority-now-supports-root-CA-heirarchies/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe (Stockholm) Region",
+        "Date": "20/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-directory-service-microsoft-active-directory-ad-connector-now-available-aws-europe-stockholm/",
+        "Services": [
+            "AWS Directory Service"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Now Add Endpoint Policies to Interface Endpoints for AWS Services",
+        "Date": "18/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/now-add-endpoint-policies-to-interface-endpoints-for-aws-services/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "New Version of AWS Security Fundamentals Digital Course Now Available",
+        "Date": "12/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/new-version-of-aws-security-fundamentals-digital-course-now-available/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS KMS is now available in the AWS China (Beijing) Region, operated by Sinnet and the AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "07/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-kms-now-available-aws-china-beijing-sinnet-and-aws-china-ningxia-nwcd/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon GuardDuty is Now SOC Compliant",
+        "Date": "23/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-guardduty-now-soc-compliant/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon GuardDuty Adds Two New Threat Detections",
+        "Date": "17/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-guardduty-adds-two-new-threat-detections/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Create fine-grained session permissions using AWS Identity and Access Management (IAM) managed policies",
+        "Date": "13/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/session-permissions/",
+        "Services": [
+            "AWS Identity and Access Management"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Token Service (STS) now supports enabling the global STS endpoint to issue session tokens compatible with all AWS Regions",
+        "Date": "27/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/04/aws-security-token-service-sts-now-supports-enabling-the-global-sts-endpoint-to-issue-session-tokens-compatible-with-all-aws-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Organizations now available in the AWS GovCloud (US) Regions",
+        "Date": "18/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/04/aws_organizations_now_available_in_the_govcloud_regions/",
+        "Services": [
+            "AWS Organizations"
+        ]
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Resource Groups Tag Editor is Now Available in the AWS Europe (Stockholm) Region",
+        "Date": "22/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/aws-resource-groups-tag-editor-is-now-available-in-the-aws-europ/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Introducing AWS Solutions",
+        "Date": "13/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-aws-solutions/",
+        "Services": []
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Find And Update Access Keys, Password, And MFA Settings Easily Using The AWS Management Console",
+        "Date": "24/01/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/my-security-credentials/",
+        "Services": []
+    }
+]

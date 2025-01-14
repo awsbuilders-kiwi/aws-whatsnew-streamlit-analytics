@@ -1,0 +1,254 @@
+[
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues",
+        "Date": "12/01/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sqs-dead-letter-queue-management-experience-queues/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS App Mesh now supports ARM64-based Envoy Images",
+        "Date": "11/19/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports publishing batches of up to 10 messages in a single API request",
+        "Date": "11/18/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppStream 2.0 Introduces Linux Application Streaming",
+        "Date": "11/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.23",
+        "Date": "11/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink",
+        "Date": "11/15/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS App Runner and hotswap support for Amazon ECS and AWS Step Functions",
+        "Date": "11/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports token-based authentication for APNs mobile push notifications",
+        "Date": "11/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow is now available in the AWS Africa (Cape Town) Region",
+        "Date": "10/18/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports ActiveMQ version 5.16.3",
+        "Date": "10/13/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account",
+        "Date": "09/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.22",
+        "Date": "09/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon Managed Workflows for Apache Airflow (MWAA) Available in Canada, London, Paris, Sao Paulo, Seoul, and Mumbai Regions",
+        "Date": "08/31/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs",
+        "Date": "07/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.17",
+        "Date": "07/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-rabbitmq-version-3-8-17/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports updating the maintenance window time",
+        "Date": "07/17/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-updating-maintenance-window-time/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Cloud Map supports configuring negative caching for DNS queries",
+        "Date": "07/12/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppStream 2.0 adds support for real-time audio-video using a web browser",
+        "Date": "07/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-appstream-2-0-adds-support-for-real-time-audio-video-using-a-web-browser/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ for RabbitMQ now supports the consistent hash exchange type",
+        "Date": "07/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-for-rabbitmq-now-supports-the-consistent-hash-exchange-type/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS Now Supports a High Throughput Mode for FIFO Queues",
+        "Date": "05/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now expands its features with Marketo",
+        "Date": "05/25/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports sharing events between event buses in the same account and Region",
+        "Date": "05/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eventbridge-supports-sharing-events-between-event-buses-same-account-region/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions now supports custom events to Amazon EventBridge",
+        "Date": "05/15/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports ActiveMQ version 5.15.15",
+        "Date": "05/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India",
+        "Date": "04/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS grows the set of message filtering operators",
+        "Date": "04/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-grows-the-set-of-message-filtering-operators/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge",
+        "Date": "04/21/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD",
+        "Date": "04/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-for-active-mq-now-available-aws-china-regions/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge introduces support for cross-Region event bus targets",
+        "Date": "04/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eventbridge-introduces-support-cross-region-event-bus-targets/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ now supports RabbitMQ version 3.8.11",
+        "Date": "04/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "New options to trigger Amazon SageMaker Pipeline executions",
+        "Date": "04/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in the Japan (Osaka) region",
+        "Date": "04/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Announcing AWS Step Functions’ integration with Amazon EMR on EKS",
+        "Date": "03/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-step-functions-integration-amazon-emr-eks/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon AppFlow now supports Zendesk as a destination",
+        "Date": "03/25/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-appflow-supports-zendesk-as-destination/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions adds tooling support for YAML",
+        "Date": "03/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge introduces support for API Destinations",
+        "Date": "03/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-introduces-support-for-api-destinations/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "New Amazon SNS Console Now Available in AWS GovCloud (US) Regions",
+        "Date": "03/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/new-amazon-sns-console-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports propagation of X-Ray trace context",
+        "Date": "03/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-now-supports-propagation-of-x-ray-trace-context/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers",
+        "Date": "02/18/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports 1-minute CloudWatch metrics",
+        "Date": "01/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS announces tiered pricing",
+        "Date": "01/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad",
+        "Date": "01/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/"
+    }
+]

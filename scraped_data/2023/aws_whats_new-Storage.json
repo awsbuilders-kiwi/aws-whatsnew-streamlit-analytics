@@ -1,0 +1,1034 @@
+[
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports SAP HANA High Availability databases on Amazon EC2",
+        "Date": "12/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "FSx for NetApp ONTAP now supports using NetApp System Manager to manage your file systems",
+        "Date": "12/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/fsx-netapp-ontap-netapp-system-manager-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS Regions and accounts",
+        "Date": "12/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-fsx-openzfs-on-demand-data-replication-regions-accounts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager adds new control to audit restore time targets",
+        "Date": "12/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager is now available in the AWS Israel (Tel Aviv) Region",
+        "Date": "12/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-data-lifecycle-manager-aws-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS launches AWS CloudFormation support for Block Public Access for EBS Snapshots",
+        "Date": "12/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ebs-cloudformation-block-public-access-snapshots/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 supports the new S3 Express One Zone storage class",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-express-one-zone-storage-class/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Accelerate data lake queries with Amazon Athena and Amazon S3 Express One Zone",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the Amazon S3 Express One Zone storage class",
+        "Date": "11/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New updates automatically accelerate Amazon S3 data transfer for ML training",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/updates-accelerate-amazon-s3-data-transfer-ml-training/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup launches support for restore testing",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-restore-testing/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS Replication now supports failback",
+        "Date": "11/28/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-replication-failback/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports Amazon Elastic Block Store (EBS) Snapshots Archive",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-elastic-block-store-snapshots-archive/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 CSI driver is now generally available",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-csi-driver/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing DR drill validation automation for AWS Elastic Disaster Recovery",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-disaster-recovery-dr-drill-validation/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing AWS Elastic Disaster Recovery in the AWS GovCloud (US) Regions",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-disaster-recovery-govcloud-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing Amazon FSx for NetApp ONTAP scale-out file systems",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-netapp-ontap-scale-out-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Access Grants integrate with identity providers to simplify data lake permissions",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-access-grants-data-lake-permissions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 250,000 IOPS per file system",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing Amazon EC2 High Memory U7i instances (Preview)",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-u7i-instances-preview/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "You can now manage and back up FSx for ONTAP FlexGroup volumes using the AWS Console and API",
+        "Date": "11/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/manage-back-up-fsx-netapp-flexgroup-volumes-aws-console-api/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/fsx-ontap-multi-az-file-systems-vpc-participant-accounts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now supports on-demand data replication across file systems",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-data-replication-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the new Amazon EFS Archive storage class",
+        "Date": "11/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-archive-storage-class/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Batch Operations now manages buckets or prefixes in a single step",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-batch-operations-buckets-prefixes-single-step/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing the Amazon S3 Connector for PyTorch",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-connector-pytorch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 optimizes for repeated data access",
+        "Date": "11/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-optimizes-repeated-data-access/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now provides additional performance metrics and an enhanced monitoring dashboard",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-enhanced-monitoring-dashboard/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS announces Amazon DocumentDB I/O-Optimized",
+        "Date": "11/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-i-o-optimized/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store announces io2 Block Express volumes available on all EC2 Nitro instances",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-io2-block-express-nitro/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 server access logging now supports automatic date-based partitioning",
+        "Date": "11/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-server-access-logging-date-partitioning/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now supports enabling S3 Object Lock on existing buckets",
+        "Date": "11/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-enabling-object-lock-buckets/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Storage Lens now aggregates activity and status code metrics by prefix",
+        "Date": "11/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-aggregates-activity-status-code-metrics-prefix/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Automate application-consistent EBS Snapshots for SAP HANA databases",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/automate-application-ebs-snapshots-sap-hana-databases/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS expands availability in the US West (N. California) and Canada (Central) regions",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-availability-us-west-canada-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now enables you to adjust the throughput tier of your file systems",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-lustre-adjust-throughput-tier-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New Amazon CloudWatch metric monitors EBS volume I/O health",
+        "Date": "11/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS provides additional performance metrics and an enhanced monitoring dashboard",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-dashboard/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store announces default policies to backup EC2 instances and EBS volumes",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-policies-ec2-ebs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup launches new console experience with jobs dashboard",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-console-jobs-dashboard/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 announces S3 Storage Lens groups for customized and granular visibility",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-groups-customized-granular-visibility/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 announces S3 Storage Lens groups for customized and granular visibility",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-s3-storage-lens-groups-customized-granular-visibility/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS announces Snapshot Lock to protect snapshots from inadvertent or malicious deletions",
+        "Date": "11/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ebs-snapshot-lock/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS is now available in ten additional AWS Regions",
+        "Date": "11/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-additional-aws-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now supports additional deployment types in seven AWS Regions",
+        "Date": "11/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-deployment-types-aws-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store now supports Block Public Access for EBS Snapshots",
+        "Date": "11/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-public-access-ebs-snapshots/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager adds support for pre-script and post-script automation of EBS Snapshots",
+        "Date": "11/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-data-lifecycle-manager-pre-post-script-automation-ebs-snapshots/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 D3 instances are now available in additional regions",
+        "Date": "11/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-d3-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Object Lambda now integrates with Amazon Athena",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP supports Multi-AZ file systems in US West (N. California)",
+        "Date": "10/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-multi-az-file-systems-n-california/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server supports Multi-AZ file systems in the US West (N. California) Region",
+        "Date": "10/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-windows-file-sever-multi-az-n-california/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery",
+        "Date": "10/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes",
+        "Date": "10/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Osaka) Region",
+        "Date": "10/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Compute Optimizer now supports 153 new EC2 instance types as well as multi-attached EBS volumes",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-new-ec2-instance-types-multi-attached-ebs-volumes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup for Amazon FSx NetApp ONTAP, Windows File Server, Lustre in 7 more Regions",
+        "Date": "09/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-fsx-netapp-ontap-windows-file-server-lustre-more-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe (Zurich) region",
+        "Date": "09/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-graviton2-based-amazon-ec2-C6gd-instance-europe-zurich-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS Multi-Attach on io2 volumes now supports NVMe reservations",
+        "Date": "09/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ebs-multi-attach-io2-volumes-nvme-reservations/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I4i instances are now available in Europe (Zurich) Region",
+        "Date": "09/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-i4i-instances-europe-zurich-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 Is4gen Instances are now available in Asia Pacific (Mumbai) region",
+        "Date": "09/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-is4gen-instances-asia-pacific-mumbai-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing post-launch actions framework for AWS Elastic Disaster Recovery",
+        "Date": "09/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/post-launch-actions-framework-aws-elastic-disaster-recovery/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Elastic Disaster Recovery is now available in Israel (Tel Aviv)",
+        "Date": "09/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elastic-disaster-recovery-israel-tel-aviv/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup announces support for Amazon Aurora continuous backup",
+        "Date": "09/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New Amazon FSx for NetApp ONTAP capabilities simplify managing file systems using ONTAP CLI",
+        "Date": "09/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-managing-file-systems-ontap-cli/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup launches resource exclusion for AWS CloudFormation stack",
+        "Date": "09/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-resource-exclusion-aws-cloudformation-stack/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Israel (Tel Aviv) Region",
+        "Date": "09/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now supports multivalue answer in response to DNS queries",
+        "Date": "08/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-multivalue-answer-response-dns-queries/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports project quotas",
+        "Date": "08/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-lustre-project-quotas/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports local time zone selections",
+        "Date": "08/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-local-time-zone-selections/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in the AWS Israel (Tel Aviv) Region",
+        "Date": "08/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-aws-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in the AWS Israel (Tel Aviv) Region",
+        "Date": "08/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-lustre-aws-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Israel (Tel Aviv) Region",
+        "Date": "08/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-storage-gateway-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup is now available in Israel (Tel Aviv) Region",
+        "Date": "08/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I4i is available in UAE, Jakarta, and Hyderabad regions",
+        "Date": "08/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-l4i-uae-jakarta-hyderabad-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP now provides additional performance metrics and an enhanced monitoring dashboard",
+        "Date": "08/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-netapp-ontap-additional-performance-metrics-monitoring-dashboard/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager now supports delegated backup administrator",
+        "Date": "08/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-audit-manager-delegated-backup-administrator/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 D3en instances are now available in additional regions",
+        "Date": "08/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-d3en-instances-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 is now generally available",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/mountpoint-amazon-s3-generally-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the ability to release inactive data from Amazon FSx for Lustre file systems",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/release-inactive-data-amazon-fsx-lustre-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "You can now scale IOPS separately from storage on Amazon FSx for Windows File Server",
+        "Date": "08/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/scale-iops-separately-storage-amazon-fsx-windows-file-server/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now provides a Multi-AZ deployment option for file systems",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-openzfs-multi-az-deployment-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server increases maximum throughput to 12 GB/s",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-increases-throughput-12-gbs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing AWS Backup logically air-gapped vault (Preview)",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-logically-air-gapped-vault-preview/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS is now available in the AWS Israel (Tel Aviv) region",
+        "Date": "08/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 55,000 IOPS per file system",
+        "Date": "08/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS announces up to 128 volume attachments per EC2 instance",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ebs-128-volume-attachments-ec2-instance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Improved AWS Backup performance for Amazon S3 buckets",
+        "Date": "08/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/improved-aws-backup-performance-amazon-s3-buckets/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EMR on EKS is now available in Africa (Cape Town) and Europe (Milan)",
+        "Date": "07/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-africa-cape-town-europe-milan/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific (Hyderabad) Region",
+        "Date": "07/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-data-lifecycle-manager-aws-asia-pacific-hyderabad/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Elastic Disaster Recovery is now available in 5 additional Regions",
+        "Date": "07/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elastic-disaster-recovery-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Inventory can include ACLs as object metadata in inventory reports",
+        "Date": "07/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-s3-inventory-access-control-lists-metadata-inventory/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP supports write once, read many (WORM) protection with SnapLock",
+        "Date": "07/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-worm-protection/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP now supports IPSec encryption of data in transit",
+        "Date": "07/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-ipsec-encryption-data-transit/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP announces two additional monitoring and troubleshooting capabilities",
+        "Date": "07/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-additional-monitoring-troubleshooting-capabilities/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup support for Amazon S3 is now available in 4 additional AWS Regions",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-s3-4-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup expands cross-account backup AWS Region coverage",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-cross-account-aws-region-coverage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 adds support for creating new files",
+        "Date": "07/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS introduces CSI Driver for Amazon FSx for OpenZFS",
+        "Date": "07/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager is now available in AWS GovCloud (US) Regions",
+        "Date": "06/30/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-audit-manager-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Athena now supports querying restored data in S3 Glacier",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup expands cross-account management in the AWS GovCloud (US) Regions",
+        "Date": "06/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-cross-account-management-govcloud/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput",
+        "Date": "06/24/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 announces dual-layer server-side encryption for compliance workloads",
+        "Date": "06/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-dual-layer-encryption-compliance-workloads/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Elastic Disaster Recovery now supports VPC configurations recovery",
+        "Date": "06/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I4i is available in AWS GovCloud (US) and Africa Regions",
+        "Date": "06/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-i4i-govcloud-africa-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing AWS Snowblade for U.S. Department of Defense JWCC customers",
+        "Date": "06/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family quickens multi-PB data migration with new 210TB device",
+        "Date": "05/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-snow-family-multi-pb-data-migration-210tb-device/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in the AWS Asia Pacific (Melbourne) Region",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-lustre-aws-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in the AWS Asia Pacific (Melbourne) Region",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-windows-file-server-aws-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Melbourne) Region",
+        "Date": "05/25/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-aws-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports restoring resources with tags",
+        "Date": "05/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-restoring-resources-tags/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I4g Instances are now available in additional regions",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync can now copy data to and from Amazon S3 compatible storage on Snow",
+        "Date": "05/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-copy-data-amazon-s3-compatible-storage-snow/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in US West (N. California) and Asia Pacific (Jakarta)",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-california-jakarta/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports AWS User Notifications",
+        "Date": "05/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-aws-user-notifications/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup supports cross-Region backups in four new Regions",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-cross-region-backups-four-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS VSS application-consistent backups now supports PowerShell logging",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-vss-application-backups-powershell-logging/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS Replication is now available in all AWS Regions",
+        "Date": "05/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now applies two security best practices to all new buckets by default",
+        "Date": "04/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing AWS DataSync Discovery general availability (GA)",
+        "Date": "04/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup is now available in Asia Pacific (Melbourne)",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup for Amazon S3 is now available in South America (São Paulo) Region",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-sao-paulo-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage",
+        "Date": "04/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup for Amazon S3 is now available in AWS GovCloud (US) Regions",
+        "Date": "04/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-govcloud-us-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup announces support for SAP HANA databases on Amazon EC2",
+        "Date": "04/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 10 GiB/s of throughput",
+        "Date": "04/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-10-gibs-throughput/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Elastic Disaster Recovery now simplifies launch settings management",
+        "Date": "04/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elastic-disaster-recovery-launch-settings-management/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now available in 3 new Regions",
+        "Date": "04/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in three additional regions",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-lustre-three-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in three additional regions",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-netapp-ontap-three-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in three additional regions",
+        "Date": "04/13/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-windows-file-server-aws-new-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS is now available in the AWS Asia Pacific (Melbourne) region",
+        "Date": "04/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-asia-pacific-melbourne-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 adds new visibility into object replication status",
+        "Date": "04/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 beginning to apply two security best practices to all new buckets by default",
+        "Date": "04/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "The sixth generation of Amazon EC2 instances powered by AMD processors now support faster Amazon EBS-optimized instance performance",
+        "Date": "04/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/sixth-generation-amazon-ec2-instances-ebs-optimized-instance-performance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Elastic Disaster Recovery supports automated replication of new disks",
+        "Date": "03/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elastic-disaster-recovery-automated-replication-disks/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync now supports copying data from Azure Blob Storage (preview)",
+        "Date": "03/29/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-datasync-copying-data-azure-blob-storage-preview/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup for Amazon S3 is now available in Asia Pacific (Jakarta) and Middle East (UAE) Regions",
+        "Date": "03/23/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backup-s3-jakarta-uae-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Event Notifications now supports Amazon EventBridge in the AWS GovCloud (US) Regions",
+        "Date": "03/22/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-event-notifications-eventbridge-govcloud/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports VMware vSphere 8 and multiple virtual NICs",
+        "Date": "03/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Asia Pacific (Hyderabad) and AWS Asia Pacific (Melbourne) Regions",
+        "Date": "03/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-storage-gateway-new-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing cross-account support for Amazon S3 Multi-Region Access Points",
+        "Date": "03/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/cross-account-support-amazon-s3-multi-region-access-points/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Mountpoint for Amazon S3, a high performance open source file client",
+        "Date": "03/15/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/mountpoint-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Use S3 Object Lambda with Amazon CloudFront to tailor content for end users",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/s3-object-lambda-amazon-cloudfront-tailor-content-end-users/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 simplifies private connectivity from on-premises networks",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-private-connectivity-on-premises-networks/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Data Exchange for Amazon S3 is now generally available",
+        "Date": "03/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-data-exchange-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I3 Bare Metal Instance is now available in the Middle East (Bahrain) region",
+        "Date": "03/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-i3-bare-metal-instance-bahrain-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball is now available in the AWS Middle East (UAE) Region",
+        "Date": "03/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions",
+        "Date": "02/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager is now available in the AWS Europe (Spain) and AWS Europe (Zurich) Regions",
+        "Date": "02/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-data-lifecycle-manager-aws-europe-spain-zurich-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Hyderabad) region",
+        "Date": "02/16/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-efs-available-aws-asia-pacific-hyderabad-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports Amazon EKS Anywhere",
+        "Date": "02/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS announces AWS Modular Data Center (MDC) for U.S. Department of Defense customers",
+        "Date": "02/14/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-modular-data-center-mdc-us-department-defense-customers/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports Ubuntu 20 and 22 operating systems",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-ubuntu-20-22-operating-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports software updates on AWS Snowcone",
+        "Date": "01/31/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes",
+        "Date": "01/27/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Europe (Spain) and AWS Europe (Zurich) Regions",
+        "Date": "01/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-storage-gateway-europe-spain-zurich-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Middle East (UAE) Region",
+        "Date": "01/26/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-netapp-ontap-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in the AWS Middle East (UAE) Region",
+        "Date": "01/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in the AWS Middle East (UAE) Region",
+        "Date": "01/21/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-lustre-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 File Gateway increases maximum file shares per gateway from 10 to 50",
+        "Date": "01/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-maximum-file-shares-gateway-10-50/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System (Amazon EFS) is now available in the AWS Europe (Spain) region",
+        "Date": "01/20/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 File Gateway now supports DOS attributes",
+        "Date": "01/19/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "EBS direct APIs are now available in new AWS Europe and Asia Pacific Regions",
+        "Date": "01/18/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/ebs-direct-apis-aws-europe-asia-pacific-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS increases the maximum number of Access Points per file system",
+        "Date": "01/17/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-increases-access-points-file-system/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale",
+        "Date": "01/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now automatically encrypts all new objects",
+        "Date": "01/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/"
+    }
+]

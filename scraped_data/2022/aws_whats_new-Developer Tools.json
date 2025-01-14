@@ -1,0 +1,650 @@
+[
+    {
+        "Category": "Developer Tools",
+        "Title": "Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation",
+        "Date": "12/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core’s Rules Engine adds support for Google Protocol Buffer (Protobuf) messaging format",
+        "Date": "12/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-core-rules-engine-google-protocol-buffer-messaging-format/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the general availability of Amazon S3 Transfer Manager in the AWS SDK for Java 2.x",
+        "Date": "12/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-transfer-manager-aws-sdk-java-2-x/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify JavaScript library announces version 5 release",
+        "Date": "12/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-javascript-version-5-release/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks",
+        "Date": "12/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell is now System and Organization Controls (SOC) compliant",
+        "Date": "12/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloudshell-system-organization-controls-soc-compliant/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon CodeCatalyst (Preview)",
+        "Date": "12/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/announcing-amazon-codecatalyst-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS Application Composer (Preview)",
+        "Date": "12/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT announces general availability for version 5 of MQTT message broker (MQTT5)",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-general-availability-version-5-mqtt-message-broker-mqtt5/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda",
+        "Date": "11/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Microservice Extractor for .NET now provides AI-powered automated refactoring recommendations",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-ai-powered-automated-refactoring-recommendations/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports Internet Protocol version 6 (IPv6)",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-database-migration-service-supports-ipv6/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Flutter Announces Web and Desktop support (Developer Preview) for API, Analytics, and Storage",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-flutter-web-desktop-developer-preview-api-analytics-storage/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Migration Hub Refactor Spaces is now integrated with CloudHedge OmniDeq to speed container modernization",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-integrated-cloudhedge-omnideq-speed-container-modernization/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Hosting announces support for Next.js 12 and 13",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-hosting-support-next-js-12-13/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing preview of the AWS SDK for SAP ABAP",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify announces general availability of In-app messaging notifications for React and React Native",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-general-availability-in-app-messaging-notifications-react-react-native/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Migration Hub Refactor Spaces now automatically handles DNS changes",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI introduces Terraform support for AWS Lambda local testing and debugging",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sam-cli-terraform-support-lambda-local-testing-debugging/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces native AOT tooling support for .NET applications on AWS Lambda",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets improves insights on stack instances for stack set operations",
+        "Date": "11/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-stacksets-insights-stack-instances-set-operations/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot adds support for AWS App Runner’s privately accessible services and more",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS IoT Core announces Location Action to route location data from IoT devices to Amazon Location Service",
+        "Date": "11/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-core-location-action-route-location-data-iot-devices-amazon-location-service/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud Control API is now available in the AWS Middle East (UAE) Region",
+        "Date": "10/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-control-api-available-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CDK For Kubernetes (CDK8s) announces general availability of CDK8s+ and manifest validation support",
+        "Date": "10/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation language extensions transform is now available in AWS GovCloud",
+        "Date": "10/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon DevOps Guru now provides list view for resources analyzed",
+        "Date": "10/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto October 2022 quarterly updates",
+        "Date": "10/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-corretto-october-2022-quarterly-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports C6i and R6i instances",
+        "Date": "10/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI Pipelines now supports Open ID Connect Protocol",
+        "Date": "10/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets increases limits on three service quotas",
+        "Date": "10/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-stacksets-increases-limits-three-service-quotas/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration",
+        "Date": "10/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces AWS SAM serverless connectors",
+        "Date": "10/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon DevOps Guru now allows customers control over the notifications they receive",
+        "Date": "10/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-allows-customers-control-over-notifications-they-receive/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud Control API now supports AWS PrivateLink",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell is now available in the South America (São Paulo), Canada (Central), and Europe (London) regions",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more",
+        "Date": "09/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Evidently adds support for Client Side Evaluations for AWS Lambda (powered by AWS AppConfig)",
+        "Date": "09/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation event notifications is now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "09/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 19 is now generally available",
+        "Date": "09/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Cloud Development Kit (CDK) announces CDK Construct tree view in the AWS CloudFormation console",
+        "Date": "09/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Now track user identity for API calls from Amazon SageMaker Studio in AWS CloudTrail",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/track-user-identity-api-calls-amazon-sagemaker-studio-aws-cloudtrail/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation announces new language extensions transform",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Controllers for Kubernetes (ACK) for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available",
+        "Date": "09/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM CLI esbuild support is now generally available",
+        "Date": "09/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-sam-cli-esbuild-support-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces open-sourced credentials-fetcher to simplify Microsoft AD access from Linux containers",
+        "Date": "08/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-open-sourced-credentials-fetcher-simplify-microsoft-ad-access-linux-containers/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Smithy Interface Definition Language (IDL) 2.0 is now generally available",
+        "Date": "08/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/smithy-interface-definition-language-idl-2-0-generally-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments",
+        "Date": "08/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon QuickSight launches API-based domain allow listing for developers to scale embedded analytics across different applications",
+        "Date": "08/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-api-based-domain-listing-developers-scale-embedded-analytics-across-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Flutter announces web and desktop support (Developer Preview) for Authentication",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-amplify-flutter-announces-web-desktop-support-preview-authentication/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Support launches a new AWS Support Center console domain",
+        "Date": "08/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications",
+        "Date": "07/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild supports Arm-based workloads in South America (São Paulo) and Europe (Stockholm).",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto July, 2022 quarterly updates",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Cloudscape Design System, an open source solution for building intuitive web applications",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/cloudscape-design-system-open-source-solution-building-intuitive-web-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core",
+        "Date": "07/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Lambda Powertools for TypeScript is now generally available",
+        "Date": "07/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator is now available in AWS GovCloud (US) Regions",
+        "Date": "07/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit",
+        "Date": "07/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation StackSets is now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "07/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio",
+        "Date": "07/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports IBM Db2 z/OS as a source",
+        "Date": "07/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports Babelfish for Aurora PostgreSQL as a target",
+        "Date": "07/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation Guard 2.1 is now generally available",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Database Migration Service now supports VPC source and target endpoints",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM Accelerate is now generally available - quickly test code changes against the cloud",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing general availability of Amplify UI for React",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudShell is available in AWS GovCloud (US) Regions",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudshell-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkit for Visual Studio adds Amazon CloudWatch Logs Integration",
+        "Date": "06/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-toolkit-visual-studio-amazon-cloudwatch-logs-integration/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Support announces an improved create case experience",
+        "Date": "06/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild is now available in AWS Asia Pacific (Jakarta) Region",
+        "Date": "06/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-codebuild-available-aws-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline",
+        "Date": "06/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces support for Dart Signature V4 for interacting with AWS services",
+        "Date": "05/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS X-Ray is now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "05/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Serverless Application Model CLI now supports enabling AWS X-Ray tracing",
+        "Date": "05/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer now supports suppression of files and folders in code reviews",
+        "Date": "05/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS adds new management features for EC2 key pairs",
+        "Date": "04/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server",
+        "Date": "04/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Launch Wizard now provides guided deployment of Internet Information Services (IIS) for Windows Server",
+        "Date": "04/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Studio Figma-to-React code capabilities are now generally available",
+        "Date": "04/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing 35 new resource types in the CloudFormation Registry",
+        "Date": "04/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amplify Geo Launches React Component for Maps, powered by Amazon Location Service",
+        "Date": "04/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify Hosting now uses a GitHub App to authorize access to repositories for CI/CD workflows",
+        "Date": "04/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-hosting-github-access-workflows/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "The AWS Lambda console now supports bulk update of layers",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 18 is now generally available",
+        "Date": "03/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "The AWS Lambda console now supports the option to share test events between developers",
+        "Date": "03/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild supports Arm-based workloads in four additional regions",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Lambda announces support for PrincipalOrgID in resource-based policies",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amplify iOS Library (Developer Preview), rewritten to entirely use Swift",
+        "Date": "03/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration",
+        "Date": "03/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-fault-injection-simulator-task-faults/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "EC2 Hibernation is now available in the Asia Pacific (Jakarta) and (Osaka) AWS Regions",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing TypeScript native support in the AWS Serverless Application Model (AWS SAM) CLI (using esbuild) (public preview)",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon S3 accelerates integrity checking of requests by up to 90%",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Amplify announces the general availability of The Authenticator UI Library for Flutter",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code",
+        "Date": "02/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CodeGuru Reviewer launches new Detector Library and example repositories",
+        "Date": "02/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Announces the General Availability of AWS CloudFormation Hooks",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Step Functions adds mocking support for testing workflows locally",
+        "Date": "01/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EC2 customers can now use ED25519 keys for authentication with EC2 Instance Connect",
+        "Date": "01/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/ed25519-keys-authentication-ec2-instance-connect/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto January Quarterly Updates",
+        "Date": "01/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing 37 new resource types in the CloudFormation Registry",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing AWS Serverless Application Model (SAM) CLI support for local testing of AWS Cloud Development Kit (CDK)",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/"
+    }
+]

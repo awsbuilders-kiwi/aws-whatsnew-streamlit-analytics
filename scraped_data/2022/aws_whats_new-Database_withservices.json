@@ -1,0 +1,2159 @@
+[
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for SQL Server now supports Custom Engine Version to improve resiliency of customizations",
+        "Date": "30/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-custom-engine-version-resiliency-customizations/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters",
+        "Date": "28/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Reserved Nodes for Amazon MemoryDB for Redis",
+        "Date": "27/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports renaming Multi-AZ deployments with two readable standbys",
+        "Date": "23/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-supports-renaming-multi-az-deployments-two-readable-standbys/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Optimized Writes now supports R6g, and R6gd instances",
+        "Date": "22/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-optimized-writes-r6g-r6gd-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Serverless v2 is now available in Africa (Cape Town) and Europe (Milan)",
+        "Date": "22/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Relational Database Service (Amazon RDS) now supports X2iedn instances for MySQL and PostgreSQL",
+        "Date": "22/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-relational-database-service-2iedn-instances-mysql-postgresql/",
+        "Services": [
+            "Amazon Relational Database Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "PartiQL for DynamoDB now is supported in the AWS GovCloud (US) Regions",
+        "Date": "22/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Workbench now supports JupyterLab 3 notebooks",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-supports-jupyterlab-notebooks/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle is now available in Asia Pacific (Seoul) and Asia Pacific (Osaka) AWS Regions",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-oracle-asia-pacific-seoul-osaka-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL",
+        "Date": "20/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/",
+        "Services": [
+            "AWS Outposts"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Serverless is now available in 5 additional AWS Regions",
+        "Date": "16/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream now enables you to protect your data through AWS Backup",
+        "Date": "16/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/",
+        "Services": [
+            "AWS Backup",
+            "Amazon Timestream"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune now supports \u201cConcise Bounded Description\u201d queries for SPARQL query language",
+        "Date": "15/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports X2idn, X2iedn, and X2iezn instances",
+        "Date": "14/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-supports-x2idn-x2iedn-x2iezn-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy now supports PostgreSQL major version 14",
+        "Date": "14/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune ML now supports Real-time inductive inference",
+        "Date": "14/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-ml-supports-real-time-inductive-inference/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports copying option groups during in-region cross-account snapshot copy",
+        "Date": "13/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-copying-option-groups-in-region-cross-account-snapshot-copy/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DevOps Guru for RDS detects SQL load changes",
+        "Date": "13/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-devops-guru-rds-detects-sql-load-changes/",
+        "Services": [
+            "Amazon DevOps Guru"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy now supports creating proxies in Aurora Global Database primary and secondary regions",
+        "Date": "08/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-creating-proxies-aurora-global-database-primary-secondary-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon EC2 Is4gen and Im4gn Instances are now available in Europe (Paris) region.",
+        "Date": "07/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Workbench is now available in Africa (Cape Town), Asia Pacific (Hong Kong), and Middle East (Bahrain) regions",
+        "Date": "07/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-available-africa-cape-town-asia-pacific-hong-kong-middle-east-bahrain-regions/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "NoSQL Workbench for Amazon DynamoDB now supports creating data models directly from sample data model templates",
+        "Date": "06/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-creating-data-models-sample-data-templates/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local",
+        "Date": "06/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon GuardDuty RDS Protection now in preview",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) Elastic Clusters is now generally available",
+        "Date": "30/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-documentdb-mongodb-elastic-clusters-available/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Announces Torn Write Prevention for EC2 I4i instances, EBS, and Amazon RDS",
+        "Date": "30/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-torn-write-prevention-ec2-i4i-instances-ebs-amazon-rds/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS announces Amazon Aurora zero-ETL integration with Amazon Redshift",
+        "Date": "30/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/",
+        "Services": [
+            "Amazon Aurora",
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK",
+        "Date": "29/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces support for Dynamic Data Masking (Preview)",
+        "Date": "29/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Optimized Reads is now available for up to 50% faster queries on Amazon RDS for MySQL",
+        "Date": "28/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates",
+        "Date": "28/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Schema Conversion feature in AWS DMS",
+        "Date": "27/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-dms-schema-conversion-feature/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Optimized Writes enables up to 2x higher write throughput at no additional cost",
+        "Date": "27/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-writes-2x-higher-write-throughput-no-cost/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2",
+        "Date": "23/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports Oracle Home customization",
+        "Date": "21/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 22.1",
+        "Date": "19/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-application-express-apex-version-22-1/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB for Redis is now System and Organization Controls (SOC) compliant",
+        "Date": "19/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-system-organization-controls-soc-compliant/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports Internet Protocol version 6 (IPv6)",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-database-migration-service-supports-ipv6/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports new minor versions 14.5, 13.8, 12.12, 11.17, and 10.22",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-postgresql-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports new minor versions 10.6.11, 10.5.18, 10.4.27, 10.3.37",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-for-mariadb-supports-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports Oracle Multitenant",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-supports-oracle-multitenant/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache simplifies password rotations with Secrets Manager",
+        "Date": "17/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-simplifies-password-rotations-secrets-manager/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports IAM Authentication for Redis clusters",
+        "Date": "17/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-iam-authentication-redis-clusters/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream is now available in GovCloud(US-West) Region",
+        "Date": "17/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-timestream-available-govcloud-us-west-region/",
+        "Services": [
+            "Amazon Timestream"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports Cross Region Read Replica",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS events now include attributes for filtering with Amazon SNS",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-events-include-attributes-filtering-amazon-sns/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports a linked server to Oracle",
+        "Date": "15/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Amazon Elastic File System (EFS) integration",
+        "Date": "15/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/",
+        "Services": [
+            "Amazon Elastic File System"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor version 5.7.40",
+        "Date": "12/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-supports-new-minor-version-5-7-40/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports October 2022 Release Updates (RU) for 19c and 21c",
+        "Date": "11/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Serverless v2 is now available in 20 regions, including Asia Pacific (Osaka), Asia Pacific (Jakarta) and Middle East (Bahrain)",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-serverless-available-v2-20-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor version 8.0.31",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-version-8-0-31/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports new General Purpose gp3 storage volumes",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-general-purpose-gp3-storage-volumes/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces now supports the Murmur3Partitioner",
+        "Date": "09/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports July 2022 Release Updates (RU) for 21c",
+        "Date": "09/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache adds support for Redis 7",
+        "Date": "09/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups",
+        "Date": "08/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "07/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-ipv6/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "RDS Custom for SQL Server Is Now Available in the Seoul, S\u00e3o Paulo and Canada (Central) Regions",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/rds-custom-sql-server-available-new-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing data tiering for Amazon MemoryDB for Redis",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-data-tiering/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Managed Services (AMS) now supports SQL Server on EC2 Operations",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/",
+        "Services": [
+            "AWS Migration Hub"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for SQL Server now supports scaling storage",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports events for operating system updates",
+        "Date": "28/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports memory optimized R5b instance types",
+        "Date": "28/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-memory-optimized-r5b-instance-types/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor",
+        "Date": "27/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports cluster export to S3",
+        "Date": "27/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Serverless is now generally available",
+        "Date": "27/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Fault Injection Simulator now supports network connectivity disruption",
+        "Date": "26/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora MySQL 2.11 with R6i instance support is generally available",
+        "Date": "26/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports T4g instances in AWS GovCloud (US) Regions",
+        "Date": "25/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-supports-t4g-instances-aws-govcloud-us-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL, MariaDB and PostgreSQL now support up to 15 read replicas for 3X read capacity",
+        "Date": "21/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-mysql-mariadb-postgre-sql-support-15-read-replicas-3x-read-capacity/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora MySQL supports faster export to S3",
+        "Date": "20/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "PostgreSQL 15 Release Candidate 2 is now available in Amazon RDS Database preview environment",
+        "Date": "18/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports C6i and R6i instances",
+        "Date": "18/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance",
+        "Date": "15/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports PostgreSQL 14.4 version",
+        "Date": "14/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16",
+        "Date": "13/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL",
+        "Date": "07/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports July 2022 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 19c",
+        "Date": "06/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-july-2022-patch-set-update-12-1-release-updates-19c/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Serverless v2 now supports AWS CloudFormation",
+        "Date": "05/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/",
+        "Services": [
+            "AWS CloudFormation",
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.2",
+        "Date": "04/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-oracle-application-express-apex-version-21-2/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor version 5.7.39",
+        "Date": "01/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports new minor version 10.6.10",
+        "Date": "01/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DevOps Guru for RDS now available in seven more regions",
+        "Date": "27/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/",
+        "Services": [
+            "Amazon DevOps Guru"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0",
+        "Date": "26/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy now supports Amazon RDS for SQL Server",
+        "Date": "19/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports new minor versions 10.5.17, 10.4.26, 10.3.36",
+        "Date": "17/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances",
+        "Date": "14/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights now supports displaying top 25 SQL queries",
+        "Date": "13/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor version 8.0.30",
+        "Date": "10/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB for Redis is now available in the AWS Europe (Paris and Milan) Regions",
+        "Date": "07/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-memorydb-redis-aws-europe-paris-milan-regions/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB now supports up to 100 actions per transaction",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports new minor version 14.4",
+        "Date": "02/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-postgresql-supports-new-minor-version-14-4/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports M6i and R6i instances in new regions",
+        "Date": "31/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache for Memcached is now HIPAA eligible",
+        "Date": "29/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services (SSRS)",
+        "Date": "26/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for replicas",
+        "Date": "24/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports setting up connectivity between your RDS database and EC2 compute instance in 1-click",
+        "Date": "22/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB for Redis is now HIPAA eligible",
+        "Date": "20/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables",
+        "Date": "19/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/",
+        "Services": [
+            "Amazon DynamoDB",
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "17/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces federated SSO support with ease of use and security capabilities enhancements for Query Editor V2.",
+        "Date": "17/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-redshift-federated-sso-security-enhancements-query-editor-v2/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server supports M6i, R6i and R5b instances in additional regions",
+        "Date": "15/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports Scale Compute",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) now supports the Decimal128 data type",
+        "Date": "10/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongo-db-compatibility-decimal128-data-type/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Serverless v1 now supports PostgreSQL 11 and In-Place upgrade from PostgreSQL 10",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) now supports DML query auditing with Amazon CloudWatch Logs",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica",
+        "Date": "09/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream is now available in the Asia Pacific (Sydney) and Asia Pacific (Tokyo) AWS regions",
+        "Date": "05/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/",
+        "Services": [
+            "Amazon Timestream"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions",
+        "Date": "05/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports new minor versions 14.3, 13.7, 12.11, 11.16, and 10.21",
+        "Date": "04/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-postgresql-supports-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces is now available in AWS GovCloud (US) Regions",
+        "Date": "04/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports AWS Graviton2-based T4g, M6g, R6g instances in the Europe (Paris, Milan) regions and R6gd instances in the Europe (Paris) region",
+        "Date": "04/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-t4g-m6g-r6g-instances-europe-paris-milan/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon OpenSearch Service now includes advanced log and application analytics",
+        "Date": "03/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-service-includes-log-application-analytics/",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports April 2022 patch set update (PSU) for 12.1 and release updates (RU) for 19c & 21c",
+        "Date": "03/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL now supports enforcing SSL/TLS connections",
+        "Date": "02/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune now supports fine grained access control with IAM",
+        "Date": "27/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-supports-fine-grained-access-control-iam/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Amazon Neptune Global Database",
+        "Date": "27/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-global-database/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy now supports Amazon RDS for MariaDB running on version 10.3, 10.4 or 10.5",
+        "Date": "26/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-proxy-mariadb-version-10-support/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) now supports fast database cloning",
+        "Date": "25/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports R5b instances",
+        "Date": "25/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific (Sydney) Region",
+        "Date": "22/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights now available in the Asia Pacific (Jakarta) Region",
+        "Date": "21/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-available-asia-pacifc-jakarta-region/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Backup adds support for Amazon RDS Multi-AZ clusters",
+        "Date": "20/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/",
+        "Services": [
+            "AWS Backup"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream announces improved cost-effectiveness with updates to metadata metering",
+        "Date": "18/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/",
+        "Services": [
+            "Amazon Timestream"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL-compatible edition now supports R6i instances",
+        "Date": "15/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift improves cluster resize performance and flexibility of cluster restore",
+        "Date": "14/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces support for Row-Level Security (RLS)",
+        "Date": "12/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports new minor versions 10.6.8, 10.5.16, 10.4.25, 10.3.35, 10.2.44",
+        "Date": "08/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces (for Apache Cassandra) adds console access for the BillableTableSizeInBytes CloudWatch metric",
+        "Date": "07/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights supports additional performance history retention periods",
+        "Date": "06/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports IBM Db2 z/OS as a source",
+        "Date": "01/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports Babelfish for Aurora PostgreSQL as a target",
+        "Date": "01/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports VPC source and target endpoints",
+        "Date": "30/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/",
+        "Services": [
+            "AWS Database Migration Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB for Redis is now PCI DSS Compliant",
+        "Date": "29/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS increases concurrent copy limit to 20 snapshots per destination region",
+        "Date": "28/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) enables dynamic resizing for storage space",
+        "Date": "27/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now available in Frankfurt and Stockholm Regions",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom is now available in 2 additional AWS Regions",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-available-additional-aws-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing new Console Query Editor for Amazon QLDB",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports Oracle database 12.2 and 18c",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-oracle-supports-database-12-2-18c/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports PostgreSQL 14",
+        "Date": "22/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-14/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Enable Amazon DevOps Guru for RDS from within the Amazon RDS Console",
+        "Date": "16/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/",
+        "Services": [
+            "Amazon DevOps Guru"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Serverless v1 supports in-place upgrade from MySQL 5.6 to 5.7",
+        "Date": "16/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud (US) Regions",
+        "Date": "15/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing enhanced integration with Service Quotas for Amazon DynamoDB",
+        "Date": "15/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch",
+        "Date": "14/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration",
+        "Date": "14/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL supports LO module",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL-compatible edition now supports Zero Downtime Patching",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports PostgreSQL 13.7, 12.11, 11.16, and 10.21 versions, and updated extensions",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot",
+        "Date": "09/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU",
+        "Date": "09/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune simplifies graph analytics and machine learning workflows with Python integration",
+        "Date": "07/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific (Jakarta) Region",
+        "Date": "07/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor versions 5.7.38 and 8.0.29",
+        "Date": "06/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations",
+        "Date": "02/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS adds support for publishing events to encrypted Amazon SNS topics",
+        "Date": "01/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream achieves FedRAMP Moderate compliance",
+        "Date": "31/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/",
+        "Services": [
+            "Amazon Timestream"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports Memcached 1.6.12",
+        "Date": "26/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache for Memcached now supports encryption of data in transit",
+        "Date": "26/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing JSON support for Amazon ElastiCache for Redis and Amazon MemoryDB for Redis",
+        "Date": "25/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/",
+        "Services": [
+            "Amazon ElastiCache",
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift now supports linear learner algorithm with Redshift ML",
+        "Date": "18/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift launches new Snapshot Isolation level support for concurrent transactions",
+        "Date": "17/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune is now FedRAMP compliant",
+        "Date": "16/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes",
+        "Date": "06/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "The New Amazon ElastiCache console is now available",
+        "Date": "05/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15",
+        "Date": "05/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports cascaded read replicas for up to 30X more read capacity",
+        "Date": "04/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval",
+        "Date": "03/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports Internet Protocol version 6 (IPv6) in AWS GovCloud (US) Regions",
+        "Date": "02/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Monitor your Amazon RDS usage metrics against AWS service limits",
+        "Date": "29/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific (Singapore) and Asia Pacific (Sydney) Regions",
+        "Date": "29/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-multi-az-2x-faster-transaction-commit-latency/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "29/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM",
+        "Date": "28/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM",
+        "Date": "28/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "ElastiCache data tiering is now available in 3 additional regions",
+        "Date": "27/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Data API now supports returning SQL results as a simplified JSON string",
+        "Date": "27/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM.",
+        "Date": "26/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune now offers a free trial",
+        "Date": "21/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune now supports global condition keys in AWS IAM policies",
+        "Date": "20/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Announces General Availability of openCypher support for Amazon Neptune",
+        "Date": "20/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability",
+        "Date": "20/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/",
+        "Services": [
+            "Amazon Relational Database Service",
+            "AWS Outposts"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces new enhancements for Audit Logging",
+        "Date": "19/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces now helps you read and write data in Apache Spark more easily",
+        "Date": "19/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Configurable cipher suites now available for Amazon Aurora MySQL",
+        "Date": "15/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports M6i and R6i instances",
+        "Date": "08/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) Performance Insights is now in preview",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces support for role-based access control (RBAC)",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports SQL Server Agent job replication",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy now supports PostgreSQL major version 13",
+        "Date": "04/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Glue DataBrew now supports the ORC file format as an input",
+        "Date": "02/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache for Redis now supports Global Datastore in two new Regions",
+        "Date": "02/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports January 2022 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c",
+        "Date": "31/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports PostgreSQL 13.6, 12.10, 11.15, 10.20 and Babelfish for Aurora PostgreSQL 1.2.0",
+        "Date": "30/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases",
+        "Date": "29/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Free Tier now includes db.t3.micro, AWS Graviton2-based db.t4g.micro instances in all commercial regions",
+        "Date": "26/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Service APIs",
+        "Date": "24/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-internet-protocol-version-6-ipv6-rds-management-apis/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Service APIs",
+        "Date": "24/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features",
+        "Date": "22/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL now supports tds_fdw extension for SQL Server Databases",
+        "Date": "21/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-extension-sql-server-database/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe (Milan), Europe (Paris) and Europe (Stockholm) Regions",
+        "Date": "17/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) is now available in Europe (Milan) region",
+        "Date": "16/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-documentdb-mongodb-milan/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases",
+        "Date": "15/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20",
+        "Date": "15/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East (Ohio) and Asia Pacific (Tokyo)",
+        "Date": "15/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor versions 5.7.37 and 8.0.28",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports M6i and R6i instances",
+        "Date": "10/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB increases default service quotas to simplify use of large numbers of tables",
+        "Date": "09/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB now supports the limit request option for PartiQL operations",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/",
+        "Services": [
+            "Amazon DynamoDB"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher",
+        "Date": "07/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Oracle Database 21c",
+        "Date": "07/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Configurable cipher suites now available for Amazon Aurora PostgreSQL",
+        "Date": "04/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports new minor versions 10.6.7, 10.5.15, 10.4.24, 10.3.34, 10.2.43",
+        "Date": "04/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces now helps you automate resource management by using the AWS SDK",
+        "Date": "03/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports October 2021 Patch Set Update (PSU) for Oracle Database 12.1",
+        "Date": "03/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports ALLOW_WEAK_CRYPTO* parameters for the Oracle Native Network Encryption (NNE) option",
+        "Date": "03/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Achieve faster database failover with the Amazon Web Services JDBC Driver for MySQL",
+        "Date": "02/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances",
+        "Date": "02/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Supports PostgreSQL 13.5, 12.9, 11.14, and 10.19",
+        "Date": "28/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports IAM Authentication",
+        "Date": "24/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune is now available in AWS Africa (Cape Town) Region",
+        "Date": "24/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-africa-region/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Glue DataBrew now allows customers to specify single or multiple output files to generate for recipe jobs",
+        "Date": "24/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-output-files-recipe-jobs/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces support for PIVOT and UNPIVOT SQL operators",
+        "Date": "23/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-support-pivot-unpivot-sql-operators/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in Asia Pacific (Jakarta) region",
+        "Date": "23/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition 2017",
+        "Date": "18/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports Delayed Replication",
+        "Date": "18/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune now supports up to 128TiB of storage per cluster",
+        "Date": "11/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune ML now supports custom models and SPARQL query language",
+        "Date": "11/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams",
+        "Date": "10/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Glue DataBrew now supports multi-column and custom sort as transformations",
+        "Date": "10/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Glue DataBrew now supports E.164 phone number standardization as a transformation",
+        "Date": "10/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) R6g and T4g instances are now available in Asia Pacific (Seoul), South America (Sao Paulo), and Europe (Paris) Regions",
+        "Date": "08/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-documentdb-mongodb-r6g-t4g-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1",
+        "Date": "04/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift default IAM role is now available in AWS GovCloud (US) Regions",
+        "Date": "04/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily",
+        "Date": "03/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports AWS PrivateLink",
+        "Date": "03/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/",
+        "Services": [
+            "Amazon ElastiCache",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB for Redis now supports AWS PrivateLink",
+        "Date": "03/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/",
+        "Services": [
+            "Amazon MemoryDB",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports MariaDB 10.6",
+        "Date": "03/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift default IAM role is now available in additional AWS regions",
+        "Date": "02/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts now support PostgreSQL 14",
+        "Date": "27/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/",
+        "Services": [
+            "AWS Outposts"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights now supports query execution plan capture for RDS for Oracle",
+        "Date": "27/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) adds additional Geospatial query capabilities",
+        "Date": "24/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) now offers a free trial",
+        "Date": "24/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-compatibility-free-trial/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) adds support for $mergeObjects and $reduce",
+        "Date": "24/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Amazon RDS Snapshot Export to S3 in Asia Pacific (Osaka)",
+        "Date": "20/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA",
+        "Date": "19/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/",
+        "Services": [
+            "AWS Launch Wizard"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017",
+        "Date": "18/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs",
+        "Date": "18/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports memory optimized R5 instance types in new region",
+        "Date": "14/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-r5/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Performance Insights now supports new API endpoints",
+        "Date": "13/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache adds support for streaming and storing Redis engine logs",
+        "Date": "13/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/",
+        "Services": [
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server now supports SSAS Multidimensional",
+        "Date": "07/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon QLDB now supports JSON output format for exports",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy is now available in 8 additional AWS Regions",
+        "Date": "05/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing AWS Data Exchange for Amazon Redshift",
+        "Date": "05/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/",
+        "Services": [
+            "AWS Data Exchange",
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon OpenSearch Service now supports anomaly detection for historical data",
+        "Date": "05/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-anomaly-detection/",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports October 2021 Release Update (RU) for Oracle Database 12.2 and 19c",
+        "Date": "05/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/",
+        "Services": []
+    }
+]

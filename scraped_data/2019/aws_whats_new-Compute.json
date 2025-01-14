@@ -1,0 +1,902 @@
+[
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Announces Beta Release of Amazon FSx for Lustre CSI Driver",
+        "Date": "12/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Application Auto Scaling now provides scaling activity updates via Amazon EventBridge",
+        "Date": "12/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/application-auto-scaling-provides-scaling-activity-updates-via-amazon-eventbridge/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Application Auto Scaling now provides notifications via the AWS Health Service",
+        "Date": "12/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/application-auto-scaling-provides-notifications-via-aws-health-service/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS enables network access restrictions to Kubernetes cluster public endpoints",
+        "Date": "12/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-enables-network-access-restrictions-to-kubernetes-cluster-public-endpoints/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Elastic Container Service launches a new CLI to launch and manage containerized applications easier",
+        "Date": "12/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-elastic-container-service-launches-a-new-cli-to-launch-and-manage-containerized-applications-easier/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Session Manager now available directly from the Amazon EC2 console",
+        "Date": "12/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/session-manager-now-available-directly-from-amazon-ec2-console/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet Now Lets You Preferentially use Available Capacity Reservations",
+        "Date": "12/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-fleet-use-available-capacity-reservations/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "DNS Resolution for EKS Clusters Using Private Endpoints",
+        "Date": "12/14/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/dns-resolution-for-eks-clusters-using-private-endpoints/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Spot Now Provides Instance Launch Notifications via Amazon CloudWatch Events",
+        "Date": "12/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions",
+        "Date": "12/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-amd-instances-available-in-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I3en Instances are Now Available in AWS Canada, Brazil (São Paulo), and Europe (Paris) AWS Regions",
+        "Date": "12/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-i3en-instances-now-available-in-aws-canada-sao-paulo-paris/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "The EKS Preview of ARM-Processor EC2 Instances is Available in More Regions with Latest Kubernetes Versions",
+        "Date": "12/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/eks-preview-arm-processor-ec2-instances-available-more-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports Active Directory Authentication using Windows Accounts gMSA",
+        "Date": "12/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-elastic-container-service-now-supports-active-directory-authentication-using-windows-group-managed-service-accounts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing General Availability of AWS Outposts",
+        "Date": "12/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/announcing-general-availability-of-aws-outposts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing AWS Compute Optimizer",
+        "Date": "12/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-compute-optimizer/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing AWS Wavelength for delivering ultra-low latency applications for 5G",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/announcing-aws-wavelength-delivering-ultra-low-latency-applications-5g/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Run Serverless Kubernetes Pods Using Amazon EKS and AWS Fargate",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/run-serverless-kubernetes-pods-using-amazon-eks-and-aws-fargate/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda announces Provisioned Concurrency",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-lambda-announces-provisioned-concurrency/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS, Amazon EKS, and AWS App Mesh now support AWS Outposts",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-amazon-eks-aws-app-mesh-now-support-aws-outposts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing New Amazon EC2 M6g, C6g, and R6g Instances Powered by Next-Generation Arm-based AWS Graviton2 Processors",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/announcing-new-amazon-ec2-m6g-c6g-and-r6g-instances-powered-by-next-generation-arm-based-aws-graviton2-processors/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Nitro System Based Instances Now Support 36% Faster Amazon EBS-Optimized Instance Performance",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS launches Fargate Spot, save up to 70% for fault tolerant applications",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-launches-fargate-spot-save-up-to-70-for-fault-tolerant-applications/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing AWS Local Zone in Los Angeles, CA",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-local-zone-in-los-angeles-ca/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS Capacity Providers Now Available",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-capacity-providers-now-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS Cluster Auto Scaling Now Available",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-cluster-auto-scaling-now-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 Inf1 Instances, high performance and the lowest cost machine learning inference in the cloud",
+        "Date": "12/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amazon-ec2-inf1-instances-high-performance-and-the-lowest-cost-machine-learning-inference-in-the-cloud/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing EC2 Image Builder",
+        "Date": "12/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-ec2-image-builder/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Supports Destinations for Asynchronous Invocations",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-destinations-for-asynchronous-invocations/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda adds support for percentiles on Amazon CloudWatch Metrics",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Serverless Application Repository Adds Verified Author Badges for Application Publishers",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-serverless-application-repository-adds-verified-author-badges-for-application-publishers/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling, Application Auto Scaling, and AWS Auto Scaling now support AWS PrivateLink",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Supports Failure-Handling Features for Kinesis and DynamoDB Event Sources",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-failure-handling-features-for-kinesis-and-dynamodb-event-sources/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Instance Connect is Now Available in Europe (Stockholm) Region",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-instance-connect-available-europe-stockholm-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X1e Instances are Now Available in the Canada (Central) AWS Region",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-x1e-instances-now-available-in-canada-central-aws-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 T instances now support Unlimited Mode at AWS account level",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-t-instances-now-support-unlimited-mode-at-aws-account-level/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Elastic Beanstalk Adds Support for Amazon EC2 Spot Instances",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Supports Parallelization Factor for Kinesis and DynamoDB Event Sources",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-parallelization-factor-for-kinesis-and-dynamodb-event-sources/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Elastic Beanstalk Launches AL2 Corretto Platforms (Beta)",
+        "Date": "11/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-launches-public-beta-corretto-al2-platforms/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh controllers for Kubernetes are now available as Helm Charts",
+        "Date": "11/25/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-app-mesh-controllers-kubernetes-available-as-helm-charts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon VPC Traffic Mirroring now available in Asia Pacific (Sydney and Hong Kong) regions",
+        "Date": "11/25/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-vpc-traffic-mirroring-now-available-in-asia-pacific-sydney-and-hong-kong-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Increases Limits to 100 Clusters per Region",
+        "Date": "11/25/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-eks-increases-limits-to-100-clusters-per-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 makes it easier for customers to discover and compare EC2 instance types",
+        "Date": "11/22/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-makes-it-easier-for-customers-to-discover-and-compare-ec2-instance-types/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 G4 Instances with NVIDIA T4 Tensor Core GPUs, now available in 2 additional regions",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-g4-instances-with-nvidia-t4-tensor-core-gpus-now-available-in-2-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "ECR events now published to EventBridge",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/ecr-events-now-published-to-eventbridge/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS now available in the Canada (Central) Region",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-eks-now-available-in-the-canada-central-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 A1 Instances Are Now Available in Asia Pacific (Singapore) Region",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-a1-instances-available-asia-pacific-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling Now Supports Instance Weighting",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-supports-instance-weighting/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling Now Supports Maximum Instance Lifetime",
+        "Date": "11/21/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-supports-max-instance-lifetime/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda Supports Amazon SQS FIFO (First-In-First-Out) as an Event Source",
+        "Date": "11/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-amazon-sqs-fifo-event-source/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports Environment Variables in the AWS China (Beijing) Region, operated by Sinnet, and the AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-environment-variables-in-the-aws-china-beijing-region-operated-by-sinnet-and-the-aws-china-ningxia-region-operated-by-nwcd/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Updates to Amazon EC2 Instance Metadata Service",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-updates-amazon-ec2-instance-metadata-service/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports Node.js 12",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-node-js-12/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS launches FireLens, a log router for Amazon ECS and AWS Fargate",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-launches-firelens-log-router-for-amazon-ecs-and-aws-fargate/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports Java 11",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-java-11/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS adds support for provisioning and managing Kubernetes worker nodes",
+        "Date": "11/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-eks-adds-support-for-provisioning-and-managing-kubernetes-worker-nodes/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports Python 3.8",
+        "Date": "11/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Longer Format Resource IDs are Now Available in Amazon EC2",
+        "Date": "11/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/longer-format-resource-ids-are-now-available-in-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster 2.5.0 with Intel HPC Platform Specification, NICE DCV, Slurm 19, and More",
+        "Date": "11/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-parallelcluster-now-supports-intel-hpc-platform-specification/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Elastic Fabric Adapter is now compatible with Intel® MPI Library",
+        "Date": "11/16/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/elastic-fabric-adapter-now-compatible-with-intel-mpi-library/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh increases default limits on several resources",
+        "Date": "11/16/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-app-mesh-increases-default-limits-on-several-resources/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Elastic Container Service publishes multiple GitHub Actions",
+        "Date": "11/15/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elastic-container-service-publishes-multiple-github-actions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate is now available in the South America (Sao Paulo) region",
+        "Date": "11/14/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-fargate-now-available-in-south-america-sao-paulo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 AMD Instances are Now Available in Asia Pacific (Mumbai) AWS Region",
+        "Date": "11/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-amd-instances-are-now-available-in-asia-pacific-mumbai-aws-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Linux 2 AMI with .NET Core updated to .NET Core 3.0",
+        "Date": "11/12/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-linux-2-ami-with-net-core-updated-to-net-core-3/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now supports Microsoft SQL Server 2019",
+        "Date": "11/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-now-supports-microsoft-sql-server-2019/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch now supports GPU scheduling on G3, G3s, and G4 instance families",
+        "Date": "11/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-batch-supports-gpu-scheduling-g3-g3s-g4-instance-families/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh now supports HTTP2 and gRPC services",
+        "Date": "11/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-app-mesh-now-supports-http2-and-grpc-services/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS supports Automated Draining for Spot Instance Nodes on Kubernetes",
+        "Date": "11/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-supports-automated-draining-for-spot-instance-nodes-on-kubernetes/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Savings Plans",
+        "Date": "11/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-savings-plans/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X1e Instances are Now Available in the Asia Pacific (Mumbai) AWS Region",
+        "Date": "11/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-x1e-instances-now-available-in-asia-pacific-mumbai-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing New Instance Sizes for Amazon EC2 C5d Instances",
+        "Date": "11/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-new-instance-sizes-amazon-ec2-c5d-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "EC2 Hibernation feature is now available to customers in the Middle East (Bahrain) AWS Region",
+        "Date": "11/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/ec2-hibernation-feature-available-to-customers-middle-east-bahrain-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh is now available in Europe (Paris) Region",
+        "Date": "10/31/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-app-mesh-is-now-available-in-europe-paris-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS CodeStar Enables Automating Toolchain Setup Through CloudFormation",
+        "Date": "10/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codestar-enables-automating-toolchain-setup-through-cloudformation/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Elastic Beanstalk Adds Support for PHP 7.3 and .NET Core 3.0",
+        "Date": "10/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-elastic-beanstalk-adds-support-for-php-7-3-and-net-core-3-0/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Serverless Application Repository is Now Available in the Hong Kong (ap-east-1) and Bahrain (me-south-1) Regions",
+        "Date": "10/29/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-serverless-application-repository-available-hong-kong-bahrain-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Image Scanning for Amazon ECR",
+        "Date": "10/28/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/announcing-image-scanning-for-amazon-ecr/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Elastic Container Service patterns are Generally Available in the AWS Cloud Development Kit",
+        "Date": "10/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-elastic-container-service-patterns-are-generally-available-in-the-aws-cloud-development-kit/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 z1d Instances are Now Available in additional regions",
+        "Date": "10/25/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-ec2-z1d-instances-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EFS now in the EC2 Launch Instance Wizard",
+        "Date": "10/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-now-in-ec2-launch-instance-wizard/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Hibernation Now Available on Windows",
+        "Date": "10/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-ec2-hibernation-now-available-on-windows/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Generally Available in São Paulo Region",
+        "Date": "10/17/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-eks-generally-available-in-sao-paulo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "New EC2 Instance Types Now Available in South America (Sao Paulo)",
+        "Date": "10/16/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-ec2-instances-available-in-south-america/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 M5n, M5dn, R5n, and R5dn instances featuring 100 Gbps of Network Bandwidth",
+        "Date": "10/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-instances-featuring-100-gbps-of-network-bandwidth/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Now Available: Amazon EC2 High Memory Instances with up to 24 TB of memory, Purpose-built to Run Large In-memory Databases, like SAP HANA",
+        "Date": "10/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/now-available-amazon-ec2-high-memory-instances-purpose-built-run-large-in-memory-databases/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Windows Nodes Supported by Amazon EKS",
+        "Date": "10/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/windows-nodes-supported-by-amazon-eks/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon VPC Traffic Mirroring Now Supports AWS CloudFormation",
+        "Date": "10/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Queuing Purchases of EC2 RIs",
+        "Date": "10/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/queuing-purchases-of-ec2-ris/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Elastic Container Service now supports IntelliSense in Visual Studio Code",
+        "Date": "10/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-elastic-container-service-now-supports-intellisense-in-visual-studio-code/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail now provides automatic snapshots",
+        "Date": "10/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-lightsail-now-provides-automatic-snapshots/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the latest release of AWS Thinkbox Deadline 10.1 with performance enhancements and ease of use improvements",
+        "Date": "10/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/announcing-latest-release-thinkbox-deadline-performance-enhancements/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Adds Support for G4 Instance",
+        "Date": "10/01/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-adds-support-for-g4-instance/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 AMD Instances are Now Available in Additional Regions",
+        "Date": "10/01/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ec2-amd-instances-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate now available in EU (Stockholm), EU (Paris) and Middle East (Bahrain) regions",
+        "Date": "10/01/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-fargate-now-available-in-eu-stockholm-paris-middle-east-bahrain-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS supports Automated Draining for Spot Instances running ECS Services",
+        "Date": "09/28/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ecs-supports-automated-draining-for-spot-instances-running-ecs-services/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Linux 2 AMI with .NET Core now includes Mono",
+        "Date": "09/28/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-linux-2-ami-with-net-core-includes-mono/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Cloud Map Available in Three Additional AWS Regions",
+        "Date": "09/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloud-map-available-in-three-additional-aws-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "vCPU-based On-Demand Instance Limits are Now Available in Amazon EC2",
+        "Date": "09/24/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/vcpu-based-on-demand-instance-limits-are-now-available-in-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing new Amazon EC2 Windows Server AMIs for DISA STIG compliance",
+        "Date": "09/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/introducing-new-amazon-ec2-windows-server-amis-for-disa-stig-compliance/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Announces Support for the Amazon EFS CSI Driver",
+        "Date": "09/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-announces-beta-release-of-amazon-efs-csi-driver/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS provides EKS-Optimized AMI metadata via SSM Parameters",
+        "Date": "09/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-provides-eks-optimized-ami-metadata-via-ssm-parameters/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I3en Instances are Now Available in AWS GovCloud (US-East), Asia Pacific (Sydney), Europe (London) AWS Regions",
+        "Date": "09/18/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ec2-i3en-instances-now-available-aws-govcloud-useast-sydney-and-london/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Supports Cluster Tagging",
+        "Date": "09/17/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-supports-cluster-tagging/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh now supports retry policies",
+        "Date": "09/11/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-app-mesh-now-supports-retry-policies/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Now Supports the EBS CSI Driver",
+        "Date": "09/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-now-supports-ebs-csi-driver/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet Functionality is Now Available via EC2 Auto Scaling in the AWS GovCloud (US-East) Region",
+        "Date": "09/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ec2-fleet-functionality-now-available-via-ec2-auto-scaling-in-aws-govcloud-useast-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet is Now Available in the AWS GovCloud (US-East) Region",
+        "Date": "09/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ec2-fleet-now-available-in-aws-govcloud-useast-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Hibernation Now Available on Amazon Linux 2",
+        "Date": "09/06/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-ec2-hibernation-now-available-on-amazon-linux-2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Adds Support to Assign IAM Permissions to Kubernetes Service Accounts",
+        "Date": "09/05/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-adds-support-to-assign-iam-permissions-to-kubernetes-service-accounts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS now supports Kubernetes version 1.14",
+        "Date": "09/04/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-eks-now-supports-kubernetes-version-1-14/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS Available in Bahrain Region",
+        "Date": "08/31/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-eks-now-available-bahrain-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Spot Instances are Now Available in the AWS GovCloud (US-East) Region",
+        "Date": "08/29/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-spot-instances-now-available-aws-govcloud-us-east-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 A1 Instances Are Now Available in Additional Regions",
+        "Date": "08/29/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-a1-instances-are-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS App Mesh now supports routing based on HTTP headers and specifying route priorities",
+        "Date": "08/17/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-app-mesh-supports-routing-based-on-http-headers-and-specifying-route-priorities/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now supports Diagnostic Interrupts",
+        "Date": "08/16/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-now-supports-diagnostic-interrupts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "New Capacity-Optimized Allocation Strategy for Provisioning Amazon EC2 Spot Instances",
+        "Date": "08/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/new-capacity-optimized-allocation-strategy-for-provisioning-amazon-ec2-spot-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 I3en and C5n Bare Metal Instances",
+        "Date": "08/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/introducing-amazon-ec2-i3en-and-c5n-bare-metal-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet Now Lets You Set A Maximum Price For A Fleet Of Instances",
+        "Date": "08/09/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-fleet-now-lets-you-submit-maximum-price-for-fleet-of-instances/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C5 New Instance Sizes are Now Available in Additional Regions",
+        "Date": "08/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-c5-new-instance-sizes-are-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet Now Lets You Modify On-Demand Target Capacity",
+        "Date": "08/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-fleet-modify-on-demand-target-capacity/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I3en Instances are Now Available in AWS GovCloud (US-West) and Asia Pacific (Singapore) AWS Regions",
+        "Date": "08/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-ec2-i3en-instances-now-available-govcloud-uswest-asia-pacific-singapore/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate now available in Hong Kong Region",
+        "Date": "08/07/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-fargate-now-available-hong-kong-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch Now Supports the Elastic Fabric Adapter",
+        "Date": "08/03/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-batch-now-supports-elastic-fabric-adapter/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Lambda@Edge Adds Support for Python 3.7",
+        "Date": "08/02/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/lambdaedge-adds-support-for-python-37/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Sumerian Now Supports Physically-Based Rendering (PBR)",
+        "Date": "07/31/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-sumerian-now-supports-physically-based-rendering-pbr/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Hibernation Now Available on Ubuntu 18.04 LTS",
+        "Date": "07/31/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-ec2-hibernation-now-available-ubuntu-1804-lts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 On-Demand Capacity Reservations Can Now Be Shared Across Multiple AWS Accounts",
+        "Date": "07/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-ec2-on-demand-capacity-reservations-shared-across-multiple-aws-accounts/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Linux 2 Extras now provides AWS-optimized versions of new Linux Kernels",
+        "Date": "07/27/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-linux-2-extras-provides-aws-optimized-versions-of-new-linux-kernels/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster is now available in Asia Pacific (Hong Kong) region",
+        "Date": "07/27/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-parallelcluster-now-available-asia-pacific-hongkong-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Spot Now Available for Red Hat Enterprise Linux (RHEL)",
+        "Date": "07/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-ec2-spot-now-available-red-hat-enterprise-linux-rhel/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Elastic Fabric Adapter is officially integrated into Libfabric Library",
+        "Date": "07/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/elastic-fabric-adapter-officially-integrated-into-libfabric-library/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS VPC CNI Version 1.5.0 Now Default for Amazon EKS Clusters",
+        "Date": "07/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-vpc-cni-version-150-now-default-for-amazon-eks-clusters/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I3en Instances are Now Available in US West (N. California) and Asia Pacific (Seoul) AWS Regions",
+        "Date": "07/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-ec2-i3en-instances-now-available-ncalifornia-asia-pacific-seoul/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Cloud Map Available in AWS South America (São Paulo) Region",
+        "Date": "07/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-cloud-map-available-in-aws-south-america-sao-paulo-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Fleet Functionality is Now Available via EC2 Auto Scaling in the AWS GovCloud (US-West) Region",
+        "Date": "07/10/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-ec2-fleet-functionality-is-now-available-via-ec2-auto-scaling-in-the-aws-govcloud-us-west-region/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS now supports additional resource-level permissions and tag-based access controls",
+        "Date": "06/28/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/amazon-ecs-now-supports-resource-level-permissions-and-tag-based-access-controls/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "New in AWS Deep Learning Containers: Support for Amazon SageMaker and MXNet 1.4.1 with CUDA 10.0",
+        "Date": "06/27/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/new-in-aws-deep-learning-containers-support-for-amazon-sagemaker-libraries-and-mxnet-1-4-1-with-cuda-10-0/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Launching of Encrypted EBS backed EC2 instances from unencrypted Amazon Machine Images (AMIs) is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "06/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/launching-encrypted-ebs-backed-ec2-instances-from-unencrypted-amis-now-available-aws-china-beijing-ningxia/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Encrypted Amazon Machine Images (AMIs) sharing across accounts is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "06/26/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/encrypted-amazon-machine-images-sharing-across-accounts-available-aws-china-beijing-sinnet-ningxia-nwcd/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Enhanced Lambda@Edge Monitoring within the Amazon CloudFront Console",
+        "Date": "06/20/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/announcing-enhanced-lambda-edge-monitoring-amazon-cloudfront-console/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EKS now supports Kubernetes version 1.13, ECR PrivateLink, and Kubernetes Pod Security Policies",
+        "Date": "06/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/amazon-eks-now-supports-kubernetes113-ecr-privatelink-kubernetes-pod-security/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail Partners with GoDaddy to Simplify WordPress Management",
+        "Date": "06/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/amazon-lightsail-partners-with-godaddy-to-simplify-wordpress-management/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Reduced Pricing for AWS P3 Reserved Instances is now available in the AWS China (Beijing) Region, operated by Sinnet and the AWS China (Ningxia) Region, operated by NWCD",
+        "Date": "06/19/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/reduced-pricing-aws-p3-reserved-instances-available-aws-china-beijing-sinnet-aws-china-ningxia-nwcd/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS CloudFormation updates for Amazon EC2, Amazon ECS, Amazon EFS, Amazon S3 and more",
+        "Date": "06/15/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-cloudformation-updates-amazon-ec2-ecs-efs-s3-and-more/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Enable EC2 Hibernation Without Specifying Encryption Intent at Every Instance Launch",
+        "Date": "05/30/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/enable-ec2-hibernation-without-specifying-encryption-intent/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Windows Server version 1903 AMIs for Amazon EC2",
+        "Date": "05/29/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/announcing-windows-server-version-1903-amis-amazon-ec2/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Enable Hibernation on EC2 Instances when launching with an AMI without an Encrypted EBS Snapshot",
+        "Date": "05/22/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/enable-hibernation-on-ec2-instances-when-launching-with-an-ami-without-an-encrypted-ebs-snapshot/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 On-Demand Capacity Reservations are now available in AWS GovCloud Regions",
+        "Date": "05/16/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-ondemand-capacity-reservations-available-aws-govcloud-regions/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I3en instances, offering up to 60 TB of NVMe SSD instance storage, are now generally available",
+        "Date": "05/08/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-ec2-i3en-instances-are-now-generally-available/"
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing AWS Solutions",
+        "Date": "02/13/2019",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/introducing-aws-solutions/"
+    }
+]

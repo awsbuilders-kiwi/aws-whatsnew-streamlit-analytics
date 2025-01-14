@@ -1,0 +1,506 @@
+[
+    {
+        "Category": "Customer Engagement",
+        "Title": "SES Mail Manager now supports full lifecycle logging",
+        "Date": "12/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/ses-mail-manager-full-lifecycle-logging/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches support for routing to a specific range of agent proficiencies",
+        "Date": "12/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches AWS CloudTrail support for Agent Status configuration",
+        "Date": "12/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-cloudtrail-agent-status-configuration/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches improved agent hierarchy configuration interface with AWS CloudTrail support",
+        "Date": "12/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-hierarchy-configuration-interface-cloudtrail/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides built-in capabilities for customer authentication within chats",
+        "Date": "12/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-built-in-customer-authentication-chats/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports deletion of queues and routing profiles from the admin website",
+        "Date": "12/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-deletion-queues-routing-profiles/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance",
+        "Date": "12/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports multi-party chat",
+        "Date": "12/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-multiparty-chat/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Tasks now support durations up to 30 days",
+        "Date": "12/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-tasks-durations-30-days"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS re:Post now supports Spanish and Portuguese",
+        "Date": "12/18/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-re-post-spanish-portuguese"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports holiday overrides for Hours of operation",
+        "Date": "12/13/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-holiday-overrides-hours-operation/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports push notifications for mobile chat",
+        "Date": "12/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-push-notifications-mobile-chat"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES now offers Global Endpoints for multi-region sending resilience",
+        "Date": "12/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ses-global-endpoints-multiregion-sending-resilience"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Introducing the AWS Digital Sovereignty Competency",
+        "Date": "12/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-digital-sovereignty-competency"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches simplified conversational AI bot creation",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-simplified-conversational-ai-bot-creation"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports WhatsApp Business messaging",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-whatsapp-business-messaging"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches generative AI-powered self-service with Amazon Q in Connect",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-generative-ai-powered-self-service-amazon-q-connect"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now makes it easier to collect sensitive customer data within chats",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-collect-sensitive-customer-data-chats"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides the ability to record audio during IVR and other automated interactions",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-record-audio-ivr-automated-interactions"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens launches built-in dashboards to analyze conversational AI bot performance",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-built-in-dashboards-analyze-conversational-ai-bot-performance"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now supports external voice",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-external-voice"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports external voice transfers",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-external-voice-transfers"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches AI guardrails for Amazon Q in Connect",
+        "Date": "12/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-ai-guardrails-q-connect"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens launches calibrations for agent performance evaluations",
+        "Date": "11/26/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-calibrations-agent-evaluations/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now allows agents to self-assign tasks",
+        "Date": "11/26/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-self-assign-tasks/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Email is now generally available",
+        "Date": "11/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-email-generally-available/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides granular disconnect reasons for chats",
+        "Date": "11/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-granular-disconnect-reasons-chats/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS re:Post Private is now integrated with Amazon Bedrock to offer contextual knowledge to organizations",
+        "Date": "11/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-repost-private-integrated-amazon-bedrock"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens launches custom dashboards",
+        "Date": "11/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-custom-dashboards/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS End User Messaging launches message feedback tracking",
+        "Date": "11/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-feedback-tracking/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS End User Messaging announces integration with Amazon EventBridge",
+        "Date": "11/19/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/end-user-messaging-integration-amazon-eventbridge/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches support for callbacks when using Chats and Tasks",
+        "Date": "11/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-callbacks-chats-tasks"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now offers screen sharing",
+        "Date": "10/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-screen-sharing"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches iOS and Android Chat SDKs to support in-app chat experiences",
+        "Date": "10/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-ios-android-sdks-chat-experiences/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens dashboards now support additional customization capabilities",
+        "Date": "10/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports using your customer’s initial chat message to personalize the customer experience",
+        "Date": "10/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customers-chat-message-personalize-customer-experience"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Q in Connect adds personalized guidance for agents",
+        "Date": "10/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-connect-personalized-guidance-agents/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches prompt customizations for Amazon Q in Connect",
+        "Date": "10/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customizations-q-connect/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports multi-day copy and paste of agent schedules",
+        "Date": "10/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches the ability to initiate outbound SMS contacts",
+        "Date": "10/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS Announces AWS re:Post Agent, a generative AI-powered virtual assistant",
+        "Date": "10/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-re-post-agent-generative-ai-powered-virtual-assistant"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES adds HTTPS open tracking for custom domains",
+        "Date": "10/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-https-tracking-custom-domains/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect expands AWS CloudFormation support for agent hierarchies",
+        "Date": "09/14/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches AWS CloudFormation support for agent status",
+        "Date": "09/14/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES announces enhanced onboarding with adaptive setup wizard and Virtual Deliverability Manager",
+        "Date": "09/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-onboarding-setup-wizard-virtual-manager/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides a weekly view of agent schedules",
+        "Date": "09/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now offers intraday forecasts",
+        "Date": "09/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-intraday-forecasts/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens can now generate transcriptions in 10 new languages",
+        "Date": "09/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect provides new ways to configure callbacks",
+        "Date": "08/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-callbacks"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation",
+        "Date": "08/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect in-app, web, and video calling is now available in Africa (Cape Town) region",
+        "Date": "08/21/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-in-app-web-video-calling-africa/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect outbound campaigns now supports Mexico",
+        "Date": "08/14/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-outbound-campaigns-mexico/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS Wickr is now available in the Europe (Zurich) Region",
+        "Date": "08/13/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-wickr-europe-zurich-region/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides an API to update routing criteria on a queued contact",
+        "Date": "08/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops",
+        "Date": "08/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches the ability to configure when whisper flows are used",
+        "Date": "08/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now enables agents to view pre-approved windows when scheduling time off",
+        "Date": "08/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-agents-pre-approved-time-off/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens launches a new dashboard for outbound campaign analytics",
+        "Date": "07/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-dashboard-outbound-campaign-analytics"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now provides generative AI-powered summaries within seconds after a contact ends",
+        "Date": "07/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-ai-powered-summaries/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches search API for hierarchy groups",
+        "Date": "07/20/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-api-hierarchy-groups"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES now provides custom values in the Feedback-ID header",
+        "Date": "06/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports Apple Messages for Business",
+        "Date": "06/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect provides Zero-ETL analytics data lake to access contact center data",
+        "Date": "06/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-zero-etl-analytics-lake-contact-center-data/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "AWS re:Post Private is now available in five new regions",
+        "Date": "05/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/aws-re-post-private-new-regions"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads",
+        "Date": "05/23/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports creating rules for monitoring and alerting on Flow metrics",
+        "Date": "05/16/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-creating-rules-monitoring-alerting-flow-metrics/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now provides analytics for Flows and Flow Modules",
+        "Date": "05/15/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-analytics-flow-modules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches AWS CloudTrail support for flow management pages",
+        "Date": "05/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-aws-cloudtrail-flow-management-pages/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches UI and API support for enhanced search capabilities for Flows and Flow Modules",
+        "Date": "05/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-ui-api-enhanced-search-capabilities-flows-modules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches granular access controls (using resource tags) for flows and flow modules",
+        "Date": "05/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-granular-access-controls-tags-flow-modules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now provides support for PII redaction in Spanish",
+        "Date": "05/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-contact-lens-pii-redaction-spanish/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Pinpoint introduces country rules to precisely control SMS message delivery",
+        "Date": "05/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-country-control-sms-delivery/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Pinpoint now supports multimedia messaging service (MMS)",
+        "Date": "05/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries (generally available)",
+        "Date": "03/26/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect agent workspace supports third-party applications in general availability",
+        "Date": "03/25/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES now offers support for headers when sending email",
+        "Date": "03/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-headers-sending-email/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports DID & Toll Free calling in Venezuela",
+        "Date": "02/29/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect adds more flexibility to copying agent schedules",
+        "Date": "02/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Q in Connect is now available in additional Asia Pacific & Canadian regions",
+        "Date": "02/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-connect-asia-canada-regions/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect SMS is now available in two additional AWS regions",
+        "Date": "01/24/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-sms-two-regions/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now allows contact center managers to join ongoing chats",
+        "Date": "01/18/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect outbound campaigns voice dialing API is generally available",
+        "Date": "01/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports audio optimization for Citrix cloud desktops",
+        "Date": "01/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-audio-optimization-citrix-cloud-desktops/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect launches granular access controls for historical metrics",
+        "Date": "01/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-granular-access-controls-historical-metrics/"
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization now supports connectivity over Internet Protocol version 6 (IPv6)",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-mainframe-modernization-connectivity-ipv6",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DataSync now supports configuration updates for all supported storage locations",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-datasync-configuration-updates-storage-locations/",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family provides additional controls over AS2 message attributes",
+        "Date": "19/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-transfer-family-controls-as2-message-attributes/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing Amazon Q Developer transformation capabilities for VMware (Preview)",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-transformation-capabilities-vmware-preview",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing AWS Transfer Family web apps",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/aws-transfer-family-web-apps/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Discovery Service now supports data from commercially available discovery tools",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools",
+        "Services": [
+            "AWS Application Discovery Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Discovery Service adds integration with AWS Application Migration Service",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-integration-application-migration-service",
+        "Services": [
+            "AWS Application Discovery Service",
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Discovery Service now supports AWS PrivateLink",
+        "Date": "23/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-aws-privatelink",
+        "Services": [
+            "AWS Application Discovery Service",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DMS now delivers improved performance for data validation",
+        "Date": "22/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-improved-performance-data-validation",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family is now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "16/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-transfer-family-available-malaysia-region",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Network connections is now discoverable with AWS Application Discovery Service Agentless Collector",
+        "Date": "09/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/network-connections-aws-application-discovery-service-agentless-collector",
+        "Services": [
+            "AWS Application Discovery Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization achieves FedRAMP Moderate and SOC compliance",
+        "Date": "08/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-mainframe-modernization-fedramp-moderate-soc-compliance/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DataSync increases performance and scalability for data transfers",
+        "Date": "31/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-datasync-performance-scalability-data-transfers",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Blu Age Runtime non managed now available in 11 more regions",
+        "Date": "29/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-blu-age-runtime-non-managed-more-regions",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization introduces new integrations for managed runtimes",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DMS now supports homogeneous migrations via CLI, SDK and API",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-homogenous-migrations-cli-sdk-api/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration",
+        "Date": "22/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration",
+        "Services": [
+            "AWS Launch Wizard",
+            "AWS Systems Manager"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family SFTP connectors now provide real-time status of file transfer operations",
+        "Date": "15/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-transfer-family-sftp-connectors-status-file-transfer-operations/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing general availability of Console to Code to generate code",
+        "Date": "11/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-console-to-code-generate-code",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Snowball Edge Storage Optimized 210TB device is available in three new regions",
+        "Date": "03/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions",
+        "Services": [
+            "AWS Snowball"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Application Discovery Service Agentless Collector now supports Amazon Linux 2023",
+        "Date": "27/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/application-discovery-service-agentless-collector-amazon-linux-2023",
+        "Services": [
+            "Amazon Linux 2023"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization File Transfer adds binary transfer and better performance",
+        "Date": "21/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-mainframe-modernization-file-transfer-binary-transfer-performance",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family increases throughput and file sizes supported by SFTP connectors",
+        "Date": "18/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Migration Service supports Trend Micro post-launch action",
+        "Date": "13/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-application-migration-service-launch-action/",
+        "Services": [
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option",
+        "Date": "09/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option",
+        "Services": [
+            "AWS Snowball"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Migration Service supports New Relic post-launch action",
+        "Date": "02/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/",
+        "Services": [
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DataSync expands support for agentless cross-region data transfers to include opt-in regions",
+        "Date": "25/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-datasync-agentless-data-transfers-opt-in-regions/",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization Code Conversion with mLogica is now generally available",
+        "Date": "24/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Migration Service achieves FedRAMP High authorization",
+        "Date": "16/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-fedramp-high-authorization/",
+        "Services": [
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Migration Service supports Dynatrace post-launch action",
+        "Date": "02/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-service-dynatrace-post-launch-action",
+        "Services": [
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Blu Insights accelerates migrations with new AI capabilities",
+        "Date": "28/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization Application Testing is now generally available",
+        "Date": "13/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/aws-mainframe-modernization-application-testing-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DMS now supports Babelfish for Aurora PostgreSQL as a source",
+        "Date": "05/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/aws-dms-babelfish-aurora-postgresql-source/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family increases message size and throughput limits for AS2",
+        "Date": "04/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-increases-message-size-as2/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family is now available in the AWS Canada West (Calgary) Region",
+        "Date": "03/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/aws-transfer-family-canada-west-calgary-region/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Automate deployment of SAP Web Dispatcher using AWS Launch Wizard",
+        "Date": "01/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/",
+        "Services": [
+            "AWS Launch Wizard"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization File Transfer introduces enhanced data set discovery workflow",
+        "Date": "30/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-file-transfer-data-workflow/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DataSync supports disabling task schedules",
+        "Date": "25/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-datacync-disabling-task-schedules/",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family now lists files from remote SFTP servers using SFTP connectors",
+        "Date": "24/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-lists-files-remote-sftp-servers-connectors/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization introduces advanced configurations for runtime environments",
+        "Date": "18/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-advanced-configurations-runtime-environments/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing AWS Transfer Family workshop for building secure file transfer solutions using SFTP",
+        "Date": "05/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-file-transfer-sftp/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Application Migration Service now supports migration of UEFI servers",
+        "Date": "04/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-application-migration-service-migration-uefi-servers/",
+        "Services": [
+            "AWS Application Migration Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family offers predefined security policies for SFTP connectors",
+        "Date": "04/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-predefined-security-policies-sftp-connectors/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS",
+        "Date": "13/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Migration Hub Orchestrator now supports custom templates",
+        "Date": "29/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/",
+        "Services": [
+            "AWS Migration Hub"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Blu Age runtime is now available packaged for easier ECS on Fargate deployment",
+        "Date": "29/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-blu-age-runtime-easier-ecs-fargate-deployment/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family now publishes events to Amazon EventBridge for SFTP connectors",
+        "Date": "09/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-amazon-eventbridge-sftp-connectors/",
+        "Services": [
+            "AWS Transfer Family",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers",
+        "Date": "08/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/",
+        "Services": [
+            "AWS Transfer Family",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors",
+        "Date": "08/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/",
+        "Services": [
+            "AWS Transfer Family",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DataSync now supports manifests for transferring a specific set of files",
+        "Date": "07/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-datasync-manifests-transferring-specific-files/",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization service is now available in two additional regions",
+        "Date": "02/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/",
+        "Services": [
+            "AWS Mainframe Modernization Service"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Migration Hub Journeys \u2013 Prescriptive Guided Migration & Modernization",
+        "Date": "18/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/",
+        "Services": [
+            "AWS Migration Hub"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family introduces static IPs for sending AS2 messages and MDNs",
+        "Date": "16/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ips-as2-messages-mdns/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family provides static IP addresses for SFTP connectors",
+        "Date": "16/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ip-sftp-connectors/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Mainframe Modernization AWS Blu Insights is now available in additional regions",
+        "Date": "09/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-mainframe-modernization-blu-insights-additional-regions/",
+        "Services": []
+    }
+]

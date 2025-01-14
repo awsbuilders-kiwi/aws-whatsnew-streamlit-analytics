@@ -1,0 +1,593 @@
+[
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS introduces programmatic access to Kubernetes version availability",
+        "Date": "27/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR expands registry policy to all ECR actions",
+        "Date": "27/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS expands catalog of upgrade insight checks",
+        "Date": "21/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-catalog-upgrade-insights-checks",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports network fault injection experiments on AWS Fargate",
+        "Date": "20/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecs-network-fault-injection-experiments-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads",
+        "Date": "17/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Node Health Monitoring and Auto-Repair for Amazon EKS",
+        "Date": "17/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/node-health-monitoring-auto-repair-amazon-eks/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "VPC Lattice now includes TCP support with VPC Resources",
+        "Date": "03/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Amazon EKS Auto Mode",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-auto-mode/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Amazon EKS Hybrid Nodes",
+        "Date": "02/12/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-hybrid-nodes",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR announces 10x increase in repository limit to 100,000",
+        "Date": "27/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecr-repository-limit-100000",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket announces new AMIs that are preconfigured to use FIPS 140-3 validated cryptographic modules",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/bottlerocket-amis-fips140-3-validated-cryptographic-modules",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon CloudWatch Application Signals launches support for Runtime Metrics",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-application-signals-runtime-metrics",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS managed node groups now support AWS Local Zones",
+        "Date": "21/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-managed-node-groups-aws-local-zones",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS enhances Kubernetes control plane monitoring",
+        "Date": "20/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-kubernetes-control-plane-monitoring",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now allows you to configure software version consistency",
+        "Date": "20/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecs-configure-software-version-consistency/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS simplifies providing IAM permissions to EKS add-ons",
+        "Date": "19/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-iam-permissions-eks-add-ons",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports multiple EC2 Launch Templates per Compute Environment",
+        "Date": "19/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Split cost allocation data for Amazon EKS now supports metrics from Amazon CloudWatch Container Insights",
+        "Date": "16/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/split-cost-allocation-data-amazon-eks-metrics-amazon-cloudwatch-container-insights",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS introduces service versioning and deployment history for Amazon ECS services",
+        "Date": "08/11/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/service-versioning-deployment-history-amazon-ecs-services",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "NVIDIA GPU Time-slicing Now Available for Bottlerocket to Enhance AI/ML Workload Efficiency",
+        "Date": "24/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/nvidia-gpu-time-slicing-bottlerocket-ai-ml-workload-efficiency",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now supports Amazon Application Recovery Controller (ARC)",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS endpoints now support connectivity over Internet Protocol version 6 (IPv6)",
+        "Date": "23/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Finch expands support to Linux, streamlining container development across platforms",
+        "Date": "16/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now supports using NVIDIA and AWS Neuron accelerated instance types with AL2023",
+        "Date": "15/10/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-nvidia-aws-neuron-instance-types-al2023/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.31",
+        "Date": "27/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR announces support for dual-layer server-side encryption in the AWS GovCloud (US) Regions",
+        "Date": "13/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecr-dual-layer-server-side-encryption-govcloud/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports AWS Graviton-based Spot compute with AWS Fargate",
+        "Date": "07/09/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecs-graviton-based-spot-compute-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS provides the ability to restart containers without requiring a task relaunch",
+        "Date": "16/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS introduces EKS Pod Identity in the AWS GovCloud (US) Regions",
+        "Date": "15/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Karpenter 1.0",
+        "Date": "15/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch adds support for cancelling queued jobs",
+        "Date": "13/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "New version of Amazon ECR basic scanning is now generally available",
+        "Date": "07/08/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/new-version-amazon-ecr-basic-scanning/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR repository creation templates are now generally available",
+        "Date": "26/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-repository-creation-templates-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS introduces new controls for Kubernetes version support policy",
+        "Date": "24/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-controls-kubernetes-version-support-policy/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads",
+        "Date": "24/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/",
+        "Services": [
+            "Amazon Linux 2023"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now enforces software version consistency for containerized applications",
+        "Date": "12/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now provides enhanced stopped task error messages for easier troubleshooting",
+        "Date": "12/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-stopped-task-error-messages-troubleshooting/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports gang-scheduling on Amazon EKS using multi-node parallel jobs",
+        "Date": "12/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-batch-gang-scheduling-eks-multi-node-parallel-jobs/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR adds EventBridge support with ECR\u2019s replication feature",
+        "Date": "09/07/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS introduces cluster creation flexibility for networking add-ons",
+        "Date": "28/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR supports Open Container Initiative Image and Distribution specification version 1.1",
+        "Date": "28/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecr-oci-image-distribution-version-1-1/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS open sources Pod Identity agent",
+        "Date": "15/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-open-sources-pod-identity-agent",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS on AWS Fargate now allows you to encrypt ephemeral storage with customer-managed KMS keys",
+        "Date": "11/06/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecs-aws-fargate-encrypt-ephemeral-storage-customer-managed-kms-keys",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.30",
+        "Date": "25/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket now supports NVIDIA Fabric Manager for Multi-GPU Workloads",
+        "Date": "17/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/bottlerocket-nvidia-fabric-manager-multi-gpu-workloads/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls",
+        "Date": "11/05/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/",
+        "Services": [
+            "Amazon Managed Service for Prometheus"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud (US) Regions",
+        "Date": "24/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS launches Split Cost Allocation Data for Amazon EKS",
+        "Date": "18/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-split-cost-allocation-data-amazon-eks/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EMR on EKS now supports Amazon EKS simplified access management controls",
+        "Date": "11/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-simplified-access-management-controls/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon VPC CNI now supports automatic subnet discovery",
+        "Date": "06/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-vpc-cni-automatic-subnet-discovery/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS extended support for Kubernetes versions now generally available",
+        "Date": "01/04/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eks-support-kubernetes-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Managed Service for Prometheus collector now supports CloudFormation",
+        "Date": "30/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-prometheus-collector-cloudformation/",
+        "Services": [
+            "Amazon Managed Service for Prometheus"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "New ECS-Optimized AMIs support AL2 Kernel 5.10 for GPU and Inf Instances",
+        "Date": "29/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/ecs-optimized-amis-al2-kernel-5-10-gpu-inf-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "New ECS-Optimized GPU and Neuron AMIs support AL2 Kernel 5.10",
+        "Date": "29/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/ecs-optimized-gpu-neuron-amis-al2-kernel-5-10/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR announces an improved version of basic scanning (Preview)",
+        "Date": "28/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecr-improved-basic-scanning-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now offers multi-container jobs via AWS Management Console",
+        "Date": "26/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-multi-container-jobs-aws-management-console/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Signer launches signing container images in AWS GovCloud (US) Regions",
+        "Date": "14/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-signer-container-images-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Mountpoint for Amazon S3 CSI driver now supports Bottlerocket",
+        "Date": "14/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/mountpoint-amazon-s3-csi-driver-bottlerocket/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS adds gMSA authentication for Linux containers for AWS Fargate",
+        "Date": "06/03/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecs-gmsa-authentication-linux-containers-aws-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS announces support for Amazon Linux 2023",
+        "Date": "29/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/",
+        "Services": [
+            "Amazon Linux 2023"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now offers multi-container jobs",
+        "Date": "28/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-multi-container-jobs/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports private registry on ECS compute environments",
+        "Date": "16/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "ROSA is available in the AWS GovCloud (US) Regions",
+        "Date": "10/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/rosa-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing disruption controls for Karpenter",
+        "Date": "07/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate announces a price reduction for Windows containers on Amazon ECS",
+        "Date": "06/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/aws-fargate-price-reduction-windows-containers-ecs/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Finch is now available on Windows",
+        "Date": "01/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Connect is now available in Canada West (Calgary) AWS Region",
+        "Date": "01/02/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-canada-west-calgary-aws-region/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons",
+        "Date": "31/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/",
+        "Services": [
+            "AWS Marketplace"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Discovery now available in Canada West (Calgary) AWS Region",
+        "Date": "29/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.29",
+        "Date": "24/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eks-eks-distro-kubernetes-version-1-29/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates",
+        "Date": "23/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS support for configurable timeout for services running with Service Connect",
+        "Date": "22/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS announces managed instance draining",
+        "Date": "19/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-managed-instance-draining/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "ROSA with hosted control planes (HCP) is generally available",
+        "Date": "12/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/rosa-hosted-control-planes-hcp/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS and AWS Fargate now integrate with Amazon EBS",
+        "Date": "12/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/",
+        "Services": [
+            "AWS Fargate",
+            "Amazon EBS"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS improves deployment monitoring responsiveness for Amazon ECS services",
+        "Date": "08/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-deployment-monitoring-responsiveness-services/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Connect is now available in three additional AWS Regions",
+        "Date": "05/01/2024",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/",
+        "Services": []
+    }
+]

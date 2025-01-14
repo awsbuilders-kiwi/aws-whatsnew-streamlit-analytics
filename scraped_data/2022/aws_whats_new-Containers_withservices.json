@@ -1,0 +1,887 @@
+[
+    {
+        "Category": "Containers",
+        "Title": "ROSA now provides an AWS Management Console experience for satisfying ROSA prerequisites",
+        "Date": "23/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/rosa-provides-aws-management-console-experience-satisfying-rosa-prerequisites/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch adds visibility for terminated and cancelled jobs",
+        "Date": "22/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS Anywhere now supports single-node clusters on bare metal",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS announces Amazon EKS Anywhere on Nutanix",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now integrates with Amazon CloudWatch alarms to improve safety for deployments",
+        "Date": "21/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-cloudwatch-alarms-safety-deployments/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now supports AWS PrivateLink",
+        "Date": "19/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Managed Service for Prometheus now supports VPC endpoint policies",
+        "Date": "19/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/",
+        "Services": [
+            "Amazon Managed Service for Prometheus"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports container port ranges for port mapping",
+        "Date": "17/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot announces support for Amazon ECS Service Connect",
+        "Date": "16/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-copilot-support-amazon-ecs-service-connect/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS launches automated provisioning and lifecycle management for Windows containers",
+        "Date": "16/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-automated-provisioning-lifecycle-management-windows-containers/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS add-ons now supports advanced configuration",
+        "Date": "15/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Connect now available in the AWS China (Beijing) and AWS China (Ningxia) Regions",
+        "Date": "14/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-available-aws-china-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors",
+        "Date": "10/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Nitro Enclaves now supports Amazon EKS and Kubernetes",
+        "Date": "29/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Marketplace for containers now supports direct deployment to EKS clusters",
+        "Date": "28/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-marketplace-containers-direct-deployment-eks-clusters/",
+        "Services": [
+            "AWS Marketplace"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS introduces Service Connect",
+        "Date": "27/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ecs-service-connect/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Controllers for Kubernetes (ACK) controller for Amazon EMR on EKS is now generally available",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/ack-controller-amazon-emr-eks/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Migration Hub Refactor Spaces is now integrated with CloudHedge OmniDeq to speed container modernization",
+        "Date": "18/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-integrated-cloudhedge-omnideq-speed-container-modernization/",
+        "Services": [
+            "AWS Migration Hub"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS announces centralized logging support for Windows containers on Amazon ECS and Amazon EKS",
+        "Date": "16/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-centralized-logging-windows-containers-amazon-ecs-eks/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS launches task scale-in protection",
+        "Date": "10/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ecs-task-scale-in-protection/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now available in the Middle East (UAE) Region",
+        "Date": "05/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot adds support for AWS App Runner\u2019s privately accessible services and more",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner now supports privately accessible services within Amazon VPC",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
+        "Services": [
+            "AWS App Runner",
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes",
+        "Date": "29/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing the Amazon EKS Delivery Program",
+        "Date": "28/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-delivery-program/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "CDK For Kubernetes (CDK8s) announces general availability of CDK8s+ and manifest validation support",
+        "Date": "25/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports Amazon Elastic Kubernetes Service (Amazon EKS)",
+        "Date": "25/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/",
+        "Services": [
+            "Amazon Elastic Kubernetes Service",
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch increases compute and memory resource configurations for Fargate type jobs by 4X",
+        "Date": "25/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-increases-compute-memory-resource-configurations-fargate-type-jobs-4x/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS announces Amazon EKS Anywhere on Apache CloudStack",
+        "Date": "22/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration",
+        "Date": "10/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2",
+        "Date": "07/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions",
+        "Date": "06/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS and Amazon EKS optimized Amazon Machine Images for Microsoft Windows Server now use Docker CE runtime",
+        "Date": "04/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-eks-optimized-machine-images-microsoft-windows-server-docker-ce-runtime/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Service Discovery now available in the Asia Pacific (Osaka) and Asia Pacific (Jakarta) AWS Regions",
+        "Date": "30/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket is now supported by Amazon Inspector",
+        "Date": "30/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/bottlerocket-supported-amazon-inspector/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more",
+        "Date": "27/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner now supports Node.js 16 managed runtime",
+        "Date": "26/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing local clusters for Amazon EKS on Outposts",
+        "Date": "20/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events",
+        "Date": "17/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate increases compute and memory resource configurations by 4x",
+        "Date": "17/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch extends the job report retention period from 24 hours to 7 days",
+        "Date": "16/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/",
+        "Services": [
+            "AWS Batch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner now supports deployment using cross-region Amazon ECR image",
+        "Date": "16/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Seekable OCI for lazy loading container images",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate announces migration of service quotas to vCPU-based quotas",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner now supports Amazon Route 53 alias record for root domain name",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
+        "Services": [
+            "AWS App Runner",
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Controllers for Kubernetes (ACK) for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/",
+        "Services": [
+            "AWS Lambda",
+            "Amazon Managed Service for Prometheus",
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Managed Service for Prometheus Alert Manager & Ruler logs now available in Amazon CloudWatch Logs",
+        "Date": "03/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/",
+        "Services": [
+            "Amazon Managed Service for Prometheus",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate is now available in the Middle East (UAE) Region",
+        "Date": "02/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Workload Consolidation for Karpenter",
+        "Date": "31/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/workload-consolidation-karpenter/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Red Hat OpenShift Service on AWS (ROSA) is now available in the Asia Pacific (Jakarta) Region",
+        "Date": "27/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/",
+        "Services": [
+            "Red Hat OpenShift Service on AWS"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Center for Internet Security (CIS) Benchmark for Bottlerocket is now available",
+        "Date": "18/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing wildcard support in Amazon EKS Fargate Profile Selectors",
+        "Date": "18/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS announces cluster-level cost allocation tagging",
+        "Date": "18/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh adds support for multiple listeners",
+        "Date": "17/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh introduces configurable Envoy access log format",
+        "Date": "17/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.23",
+        "Date": "11/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-distro-support-kubernetes-version-1-23/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket is now available in Amazon Web Services China Regions",
+        "Date": "02/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing bare metal support for Amazon EKS Anywhere",
+        "Date": "30/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate for Amazon Elastic Kubernetes Service is now available in the Amazon Web Services China Beijing and Ningxia Regions",
+        "Date": "24/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/",
+        "Services": [
+            "AWS Fargate",
+            "Amazon Elastic Kubernetes Service"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific (Osaka) Region",
+        "Date": "21/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit",
+        "Date": "21/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Elastic Beanstalk is now available in the Asia Pacific (Jakarta) Region",
+        "Date": "16/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-beanstalk-jakarta-region/",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket adds ECS variant to support GPU-based Amazon EC2 instance types powered by NVIDIA",
+        "Date": "15/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud (US) regions",
+        "Date": "03/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language (CWL) with Toil",
+        "Date": "27/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups",
+        "Date": "27/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories",
+        "Date": "26/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/",
+        "Services": [
+            "Amazon Lightsail"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "18/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS Anywhere curated packages are now in public preview",
+        "Date": "13/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics",
+        "Date": "09/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/",
+        "Services": [
+            "Amazon Managed Service for Prometheus",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "02/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Elastic Kubernetes Service (EKS) announces Karpenter v0.9.0 with support for Pod Affinity",
+        "Date": "26/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/",
+        "Services": [
+            "Amazon Elastic Kubernetes Service"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS-optimized Amazon Linux 2022 AMI now available in preview",
+        "Date": "22/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "EKS add-ons support for the OpenTelemetry Operator is now generally available",
+        "Date": "21/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Marketplace customers can now modify their AMI and Container upfront contract pricing based subscriptions",
+        "Date": "19/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/",
+        "Services": [
+            "AWS Marketplace"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Introducing Enterprise Container Management Solutions from AWS Container Competency Partners",
+        "Date": "14/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate now delivers faster scaling of applications",
+        "Date": "13/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown",
+        "Date": "12/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner launches AWS X-Ray support",
+        "Date": "12/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/",
+        "Services": [
+            "AWS X-Ray",
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview",
+        "Date": "07/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/",
+        "Services": [
+            "Amazon MemoryDB"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere now support Kubernetes version 1.22",
+        "Date": "04/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS announces increased service quota for container instances per cluster",
+        "Date": "01/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-quota-service-container-cluster/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "EKS add-ons support for EBS CSI driver is now generally available",
+        "Date": "31/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling",
+        "Date": "23/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
+        "Services": [
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh Envoy Management Service (EMS) now supports AWS CloudTrail integration",
+        "Date": "18/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/",
+        "Services": [
+            "AWS CloudTrail",
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific (Osaka) and Asia Pacific (Jakarta) regions",
+        "Date": "15/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21",
+        "Date": "14/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports on-premises workload orchestration on Windows OS",
+        "Date": "14/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Lambda announces support for PrincipalOrgID in resource-based policies",
+        "Date": "11/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags",
+        "Date": "09/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Genomics CLI adds the Snakemake workflow management system",
+        "Date": "07/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA",
+        "Date": "07/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service",
+        "Date": "01/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-fault-injection-simulator-task-faults/",
+        "Services": [
+            "Amazon Elastic Container Service"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry",
+        "Date": "28/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Mesh introduces Agent for Envoy",
+        "Date": "25/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/",
+        "Services": [
+            "AWS App Mesh"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner adds a Java platform",
+        "Date": "25/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/",
+        "Services": [
+            "AWS App Runner"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry",
+        "Date": "17/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS App Runner adds support for Amazon VPC",
+        "Date": "09/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/",
+        "Services": [
+            "AWS App Runner",
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Cloud Map API now supports IPv6",
+        "Date": "28/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/",
+        "Services": [
+            "AWS Cloud Map"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon GuardDuty now protects Amazon Elastic Kubernetes Service clusters",
+        "Date": "26/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/",
+        "Services": [
+            "Amazon GuardDuty",
+            "Amazon Elastic Kubernetes Service"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads",
+        "Date": "24/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Red Hat OpenShift Service on AWS (ROSA) is now available in the Asia Pacific (Osaka) Region",
+        "Date": "20/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/",
+        "Services": [
+            "Red Hat OpenShift Service on AWS"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Fargate is now available in the Asia Pacific (Jakarta) Region",
+        "Date": "12/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR adds the ability to monitor repository pull statistics",
+        "Date": "07/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions",
+        "Date": "04/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images",
+        "Date": "04/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    }
+]

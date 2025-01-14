@@ -1,0 +1,890 @@
+[
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts launches in AWS GovCloud (US) Regions",
+        "Date": "12/22/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync can now copy data to and from Amazon FSx for Lustre",
+        "Date": "12/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP now supports AWS CloudFormation",
+        "Date": "12/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s",
+        "Date": "12/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems",
+        "Date": "12/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "EBS CSI driver now available in EKS add-ons in preview",
+        "Date": "12/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 File Gateway enables administrators to force the closing of locked files",
+        "Date": "12/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 File Gateway now supports NFS file share auditing",
+        "Date": "12/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Object Ownership can now disable access control lists to simplify access management for data in S3",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-object-ownership-simplify-access-management-data-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Amazon FSx for OpenZFS",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-openzfs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the new Amazon S3 Glacier Instant Retrieval storage class - the lowest cost archive storage with milliseconds retrieval",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing preview of AWS Backup for Amazon S3",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for VMware workloads",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 announces a price reduction up to 31% in three storage classes",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family launches offline tape data migration capability",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the next generation of Amazon FSx for Lustre file systems",
+        "Date": "11/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 adds new S3 Event Notifications for S3 Lifecycle, S3 Intelligent-Tiering, object tags, and object access control lists",
+        "Date": "11/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-s3-lifecycle-intelligent-tiering-object-tags-object-access-control-lists/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster",
+        "Date": "11/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Recover from accidental deletions of your snapshots using Recycle Bin",
+        "Date": "11/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%",
+        "Date": "11/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon DynamoDB now helps you meet regulatory compliance and business continuity requirements through enhanced backup features in AWS Backup",
+        "Date": "11/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-dynamodb-requirements-aws-backup/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Lifecycle further optimizes storage cost savings with new actions and filters",
+        "Date": "11/23/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-lifecycle-storage-cost-savings/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Storage Lens metrics now available in Amazon CloudWatch",
+        "Date": "11/22/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon RDS on AWS Outposts now supports backups on AWS Outposts",
+        "Date": "11/22/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-backups-aws-outposts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EventBridge cross-Region support now expands to more Regions",
+        "Date": "11/22/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts now delivers strong consistency automatically for all applications",
+        "Date": "11/18/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing general availability of AWS Elastic Disaster Recovery",
+        "Date": "11/17/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports external NTP server configuration",
+        "Date": "11/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-supports-external-ntp-server-configuration/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup provides new resource assignment rules for your data protection policies",
+        "Date": "11/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for Amazon DocumentDB (with MongoDB compatibility)",
+        "Date": "11/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for Amazon Neptune",
+        "Date": "11/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone SSD is now available in the US East (Ohio), US West (San Francisco), Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS Asia Pacific (Tokyo) regions",
+        "Date": "11/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync can now copy data between Hadoop Distributed File Systems (HDFS) and AWS Storage services",
+        "Date": "11/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Vault Lock is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region",
+        "Date": "11/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch",
+        "Date": "11/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland",
+        "Date": "10/26/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Amplify for JavaScript now supports resumable file uploads for Storage",
+        "Date": "10/21/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock",
+        "Date": "10/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager adds compliance reports",
+        "Date": "10/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager now supports AWS CloudFormation",
+        "Date": "10/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls",
+        "Date": "10/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS announces AWS Snowcone SSD",
+        "Date": "09/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions",
+        "Date": "09/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Genomics CLI is now Generally Available",
+        "Date": "09/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-genomics-cli-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup simplifies recovery point deletions",
+        "Date": "09/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions",
+        "Date": "09/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway simplifies tape management for Tape Gateway",
+        "Date": "09/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity",
+        "Date": "09/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 D3 instances with dense local HDD storage now available in India (Mumbai) Region",
+        "Date": "09/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the General Availability of AWS Local Zones in Chicago, Kansas City, and Minneapolis",
+        "Date": "09/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/general-availability-aws-local-zones/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects",
+        "Date": "09/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs",
+        "Date": "09/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-file-system-intelligent-tiering/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots",
+        "Date": "09/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ebs-apis-ebs-snapshots/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Transfer Family simplifies managed file transfer workflows with low code automation",
+        "Date": "09/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-transfer-family-managed-workflows/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Amazon FSx for NetApp ONTAP",
+        "Date": "09/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions",
+        "Date": "08/26/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowcone-aws-asia-pacific/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync enhances task filtering and queuing",
+        "Date": "08/25/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-datasync-task-filtering-queuing/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing AWS Backup Audit Manager",
+        "Date": "08/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backup-audit-manager/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs)",
+        "Date": "08/23/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon ElastiCache for Redis now supports auto scaling",
+        "Date": "08/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing Amazon MemoryDB for Redis",
+        "Date": "08/19/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-memorydb-redis/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now enables you to remotely monitor and operate your connected Snowcone devices",
+        "Date": "08/12/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family now supports ML inference at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+        "Date": "08/11/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer",
+        "Date": "08/11/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EMR now supports Amazon S3 Access Points to simplify access control",
+        "Date": "08/11/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts now supports sharing across multiple accounts",
+        "Date": "08/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-s3-outposts-supports-sharing-across-multiple-accounts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region",
+        "Date": "08/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-fsx-is-now-available-in-the-aws-asia-pacific-osaka-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Machine to Cloud Connectivity Framework v3.0",
+        "Date": "08/05/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-machine-cloud-connectivity-framework-v3-0/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway",
+        "Date": "08/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store now supports idempotent volume creation",
+        "Date": "07/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-elastic-block-store-now-supports-indempotent-volume-creation/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts adds two larger storage tiers",
+        "Date": "07/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-adds-two-larger-storage-tiers/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts supports direct access for applications running outside the Outposts VPC",
+        "Date": "07/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-supports-direct-access-applications-running-outside-outposts-vpc/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now supports CloudWatch metrics",
+        "Date": "07/28/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-supports-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS CloudTrail now supports logging of data events for Amazon EBS direct APIs",
+        "Date": "07/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowball now supports multicast streams and routing by providing instances with direct access to external networks",
+        "Date": "07/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowball-supports-multicast-streams-routing-providing-instances-direct-access-external-networks/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks",
+        "Date": "07/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the General Availability of AWS Local Zones in Denver",
+        "Date": "07/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-denver/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Access Points aliases allow any application that requires an S3 bucket name to easily use an access point",
+        "Date": "07/26/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-access-points-aliases-allow-application-requires-s3-bucket-name-easily-use-access-point/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
+        "Date": "07/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New AWS Solutions Implementation: Simple File Manager for Amazon EFS",
+        "Date": "07/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-simple-file-manager-amazon-efs/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager launches new console experience",
+        "Date": "07/15/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Lightsail now offers object storage for storing static content",
+        "Date": "07/15/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lightsail-now-offers-object-storage-for-storing-static-content/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New digital course: Amazon S3 Business Continuity and Disaster Recovery",
+        "Date": "07/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/new-digital-course-amazon-s3-business-continuity-and-disaster-recovery/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway adds support for AWS Privatelink for Amazon S3 and Amazon S3 Access Points",
+        "Date": "07/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia",
+        "Date": "07/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-dallas-and-philadelphia/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server",
+        "Date": "06/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance",
+        "Date": "06/14/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family",
+        "Date": "06/11/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server now supports file access auditing",
+        "Date": "06/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backint Agent version 1.04 now available",
+        "Date": "06/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)",
+        "Date": "06/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Launch Wizard adds support for SQL Server Always On Failover Cluster Instances deployed on Amazon FSx for Windows File Server",
+        "Date": "05/28/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports data compression",
+        "Date": "05/27/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System now supports longer resource identifiers",
+        "Date": "05/21/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-file-system-supports-longer-resource-identifiers/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS Container Storage Interface (CSI) driver is now generally available",
+        "Date": "05/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "S3 Object Lambda is now available in the AWS GovCloud (US) Regions",
+        "Date": "05/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New digital course: Amazon Elastic Block Store Primer",
+        "Date": "04/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-elastic-block-store-primer/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone is now available in the AWS Canada (Central) Region",
+        "Date": "04/29/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snowcone-is-now-available-in-the-aws-canada-central-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud",
+        "Date": "04/28/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-file-gateway-delivers-faster-more-efficient-on-premises-access/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 enables replacing root volumes for quick restoration and troubleshooting",
+        "Date": "04/23/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-enables-replacing-root-volumes-for-quick-restoration-and-troubleshooting/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New digital course: Amazon S3 Performance Optimization",
+        "Date": "04/23/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-s3-performance-optimization/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EMR Release 5.33 now supports 10 new instance types",
+        "Date": "04/21/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts Events now available in Amazon CloudWatch",
+        "Date": "04/21/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Machine to Cloud Connectivity Framework v2.2",
+        "Date": "04/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-machine-to-cloud-connectivity-framework-v-2-2/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions",
+        "Date": "04/17/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway achieves FedRAMP Moderate compliance",
+        "Date": "04/15/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-storage-gateway-achieves-fedramp-moderate-compliance/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts",
+        "Date": "04/12/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Control Tower introduces changes to preventive S3 guardrails and updates to S3 bucket encryption protocols",
+        "Date": "04/09/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-introduces-changes-to-preventive-s3-guardrails-and-updates-to-s3-bucket-encryption-protocols/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports cost allocation tags for Amazon EFS Backups",
+        "Date": "04/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-now-supports-cost-allocation-tags-for-amazon-efs-backups/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions",
+        "Date": "04/08/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backint Agent version 1.03 now available",
+        "Date": "04/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backint-agent-version-1-03-now-available/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New AWS Storage Gateway management console simplifies gateway creation and management",
+        "Date": "04/01/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-storage-gateway-management-console-simplifies-gateway-creation-management/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup is now available in the AWS Asia Pacific (Osaka) Region",
+        "Date": "03/26/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region",
+        "Date": "03/26/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia",
+        "Date": "03/25/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for bulk deletion of recovery points",
+        "Date": "03/25/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-bulk-deletion-of-recovery-points/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS CSI driver now supports dynamic provisioning",
+        "Date": "03/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application",
+        "Date": "03/19/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New digital course: Amazon S3 Cost Optimization",
+        "Date": "03/17/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-amazon-s3-cost-optimization/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Lower Cost Storage Classes for Amazon Elastic File System are now available in additional regions",
+        "Date": "03/17/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests",
+        "Date": "03/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances",
+        "Date": "03/11/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Lower Cost Storage Classes for Amazon Elastic File System",
+        "Date": "03/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Lower Cost Storage Classes for Amazon Elastic File System",
+        "Date": "03/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS CloudFormation now supports Amazon S3 on Outposts",
+        "Date": "03/06/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region",
+        "Date": "03/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Connect Customer Profiles now supports data sources from Amazon S3",
+        "Date": "03/02/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur",
+        "Date": "02/24/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions",
+        "Date": "02/18/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 on Outposts adds a smaller storage tier",
+        "Date": "02/16/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-on-outposts-adds-a-smaller-storage-tier/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "New digital curriculum: Managing Amazon S3",
+        "Date": "02/10/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-managing-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Events and Metrics now available in Amazon CloudWatch",
+        "Date": "02/04/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Batch Operations adds support for Delete Object Tagging",
+        "Date": "02/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-batch-operations-adds-support-for-delete-object-tagging/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now supports AWS PrivateLink",
+        "Date": "02/03/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-now-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic File System triples read throughput",
+        "Date": "01/30/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions",
+        "Date": "01/28/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS direct APIs now enable you to create EBS snapshots in the Asia Pacific (Osaka-Local) Region directly from any block storage",
+        "Date": "01/23/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-direct-apis-enable-you-to-create-snapshots-osaka-directly-from-any-block-storage/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx now supports FIPS 140-2 validated endpoints",
+        "Date": "01/22/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing three new digital courses for Amazon S3",
+        "Date": "01/20/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-three-new-digital-courses-for-amazon-s3/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snow Family console further simplifies Snow data transfer and compute job creation and management",
+        "Date": "01/14/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EMR Release 5.32 now supports Amazon EMR on EKS, and EMR Studio Preview",
+        "Date": "01/14/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-release-5-32-supports-emr-eks-emr-studio-preview/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks",
+        "Date": "01/13/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch",
+        "Date": "01/12/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows",
+        "Date": "01/07/2021",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/"
+    }
+]

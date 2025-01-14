@@ -1,0 +1,2356 @@
+[
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Studio now supports local mode and Docker",
+        "Date": "29/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker provides model training container access for debugging purposes",
+        "Date": "28/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-model-training-container-access/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference",
+        "Date": "22/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Canada West (Calgary) Region",
+        "Date": "22/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces Amazon Aurora PostgreSQL integration with Amazon Bedrock for Generative AI",
+        "Date": "22/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/",
+        "Services": [
+            "Amazon Aurora",
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock is now available in the AWS GovCloud (US-West) Region",
+        "Date": "21/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker model parallelism now provides up to 20% speed up with less code change",
+        "Date": "20/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon OpenSearch Service adds multimodal support for Neural Search",
+        "Date": "19/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Monitron now offers cost visibility at the project and site level",
+        "Date": "14/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/",
+        "Services": [
+            "Amazon Monitron"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract announces updates to AnalyzeDocument - Forms",
+        "Date": "09/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-textract-updates-analyzedocument-forms/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition improves Face Liveness accuracy and user experience",
+        "Date": "08/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency",
+        "Date": "05/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities",
+        "Date": "05/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Code Editor, based on Code-OSS (VS Code \u2013 Open Source), in Amazon SageMaker Studio",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/code-editor-amazon-sagemaker-studio/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now provides a new setup and onboarding experience on AWS SageMaker console",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-setup-onboarding-experience-console/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "New and improved Amazon SageMaker Studio",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab",
+        "Date": "01/12/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker now provides improved SDK tooling and UX for model deployment",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-sdk-tooling-ux-model-deployment/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker launches new inference capabilities to reduce costs and latency",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-inference-costs-latency/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing smart sifting of data for Amazon SageMaker Model Training in preview",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/smart-sifting-data-amazon-sagemaker-model-training-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Stable Diffusion XL 1.0 foundation model from Stability AI is now generally available in Amazon Bedrock",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-hyperpod/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Llama 2 70B foundation model from Meta is now available in Amazon Bedrock",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing new AWS AI Service Cards - to advance responsible AI",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Evaluate, compare, and select the best FMs for your use case in Amazon Bedrock (Preview)",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Clarify now supports foundation model (FM) evaluations in preview",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-clarify-fm-evaluations-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock",
+        "Date": "30/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas now supports natural language instructions for data preparation",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-canvas-natural-language-preparation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Titan Multimodal Embeddings foundation model now generally available in Amazon Bedrock",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-multimodal-embeddings-model-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Leverage FMs for business analysis at scale with Amazon SageMaker Canvas",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/leverage-fms-analysis-scale-sagemaker-canvas/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Pipelines now provide a simplified developer experience for AI/ML workflows",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-pipelines-developer-ai-ml/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces vector search for Amazon DocumentDB",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-documentdb/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Titan Text models\u2014Express and Lite\u2014now generally available in Amazon Bedrock",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing API support for creating Amazon SageMaker Notebook jobs",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/api-creating-amazon-sagemaker-notebook-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock now supports batch inference",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Q in Connect offers generative AI powered agent assistance in real-time",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-connect-generative-ai-powered-agent-assistance-real-time/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Amazon Q expert capabilities for AWS (Preview)",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-expert-capabilities-aws-preview/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Q in QuickSight simplifies data exploration with Generative BI capabilities (Preview)",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-quicksight-data-exploration-generative-bi-capabilities-preview/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces Amazon Q (Preview)",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
+        "Services": [
+            "Amazon DynamoDB",
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Continued pre-training in Amazon Bedrock now available in preview",
+        "Date": "29/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/continued-pre-training-amazon-bedrock-preview/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Titan Image Generator foundation model in Amazon Bedrock now available in preview",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-image-generator-model-bedrock-preview/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Boost generative AI application development with Agents for Amazon Bedrock",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/boost-generative-ai-development-agents-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Knowledge Bases for Amazon Bedrock is now generally available",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Safeguard generative AI applications with Guardrails for Amazon Bedrock (Preview)",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-safeguard-ai-applications-guardrails/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker launches a new version of Large Model Inference DLC with TensorRT-LLM support",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-large-model-inference-dlc-tensorrt-llm-support/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthScribe is now generally available",
+        "Date": "28/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-available/",
+        "Services": [
+            "AWS HealthScribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Monitron launches Ex-rated sensors for hazardous locations",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-monitron-ex-rated-sensors/",
+        "Services": [
+            "Amazon Monitron"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces support for large language models in Amazon Redshift ML (Preview)",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-large-language-models-amazon-redshift-ml-preview/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Transcribe Call Analytics now offers generative call summarization (preview)",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-call-analytics-generative-call-summarization-preview/",
+        "Services": [
+            "Amazon Transcribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Recommend actions that increase brand loyalty with Amazon Personalize Next Best Action",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-personalize-next-best-action/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Powered by foundation model, Amazon Transcribe now supports over 100 languages",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/",
+        "Services": [
+            "Amazon Transcribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now creates themes for recommendations using generative AI",
+        "Date": "27/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-personalize-themes-generative-ai/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Assisted Slot Resolution with Generative AI",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Step Functions launches optimized integration for Amazon Bedrock",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/",
+        "Services": [
+            "AWS Step Functions",
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "New Discover Apps page for PartyRock, an Amazon Bedrock Playground",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Conversational FAQ with generative AI for Amazon Lex (Preview)",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-conversational-faq-ai-preview/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing utterance generation for Amazon Lex",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing new enhancements to Amazon CodeWhisperer",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces CloudWatch Logs Anomaly Detection and Pattern analysis",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudwatch-logs-anomaly-detection-pattern-analysis/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Descriptive Bot Builder with Generative AI",
+        "Date": "26/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution is now Health Insurance Portability and Accountability Act (HIPAA) eligible",
+        "Date": "23/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hipaa-eligible/",
+        "Services": [
+            "AWS Entity Resolution"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution is now Health Insurance Portability and Accountability Act (HIPAA) eligible",
+        "Date": "23/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/",
+        "Services": [
+            "AWS Entity Resolution"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS IoT SiteWise now supports multi-variate anomaly detection with Amazon Lookout for Equipment",
+        "Date": "23/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-multi-variate-anomaly-detection-amazon-lookout-equipment/",
+        "Services": [
+            "AWS IoT SiteWise",
+            "Amazon Lookout for Equipment"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon DocumentDB now supports no-code machine learning with Amazon SageMaker Canvas",
+        "Date": "21/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-no-code-learning-sagemaker-canvas/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Introducing Amazon CodeWhisperer for command line (preview)",
+        "Date": "20/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams",
+        "Date": "17/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/",
+        "Services": [
+            "Amazon Transcribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing PartyRock, an Amazon Bedrock Playground",
+        "Date": "16/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS now offers long-form engine with the first three expressive American English voices",
+        "Date": "16/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-long-form-three-expressive-english-voices/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Introducing the Instance Topology API for ML and HPC workloads",
+        "Date": "15/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/instance-topology-api-ml-hpc-workloads/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Cohere\u2019s Command Light, Embed English, and multilingual models now available in Amazon Bedrock",
+        "Date": "13/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Llama 2 Chat 13B foundation model from Meta is now available in Amazon Bedrock",
+        "Date": "13/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-chat-13b-model-meta-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Comprehend launches new trust and safety features",
+        "Date": "10/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-comprehend-trust-safety-features/",
+        "Services": [
+            "Amazon Comprehend"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Lex introduces Selective Conversation Log Capture for Amazon Lex V2",
+        "Date": "08/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-selective-conversation-log-capture-lex-v2/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Build ML models w/ advanced configurations, gain Model Leaderboard visibility on SageMaker Canvas",
+        "Date": "08/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/build-ml-models-configurations-model-leaderboard-visibility-sagemaker-canvas/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio",
+        "Date": "03/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate introduces brevity customization to reduce translation output lengths",
+        "Date": "01/11/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-translate-brevity-translation-output-lengths/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now supports geospatial Processing jobs",
+        "Date": "30/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Neuron adds support for Llama-2 70b model and PyTorch 2.0",
+        "Date": "27/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-neuron-support-llama-pytorch/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra launches feature to collapse and expand query results",
+        "Date": "26/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-collapse-expand-query-results/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Build ML feature pipelines from custom data sources with Amazon SageMaker Feature Store",
+        "Date": "24/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/build-ml-feature-pipelines-custom-data-sources-amazon-sagemaker-feature-store/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution expands data protection capabilities",
+        "Date": "23/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-data-protection-capabilities/",
+        "Services": [
+            "AWS Entity Resolution"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases connectors for 11 JDBC data sources to enable structured data search",
+        "Date": "21/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-connectors-jdbc-data-sources-structured-data-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock now available in Europe (Frankfurt) AWS Region",
+        "Date": "20/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-europe-frankfurt-aws-region/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Regional Expansion of ml.p4d instances on SageMaker Inference",
+        "Date": "18/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference",
+        "Date": "18/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Personalize search results with Amazon Personalize and Amazon OpenSearch service integration",
+        "Date": "17/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/",
+        "Services": [
+            "Amazon Personalize",
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker announces preview of ml.p5.48xlarge Instances for Inference",
+        "Date": "17/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/sagemaker-preview-mlp5-48xlarge-instances-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution launches records matching with data service providers",
+        "Date": "16/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/",
+        "Services": [
+            "AWS Entity Resolution"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation",
+        "Date": "14/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints",
+        "Date": "13/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract launches Custom Queries to improve information extraction for business-specific documents",
+        "Date": "13/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas expands content summarization and information extraction capabilities",
+        "Date": "12/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-content-information-extraction/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock now available in Asia Pacific (Tokyo) AWS Region",
+        "Date": "07/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthOmics sequence store now includes auto-calculated ETags for read sets",
+        "Date": "07/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-healthomics-sequence-store-auto-calculated-etags-read-sets/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon QuickSight announces predictive analytics using Amazon SageMaker Canvas",
+        "Date": "06/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-predictive-analytics-sagemaker-canvas/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas expands its support for ready-to-use models to include foundation models (FMs)",
+        "Date": "06/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-ready-to-use-models-fms/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Drupal Connector to enable Drupal document search",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-drupal-connector-drupal-document-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Model Registry announces support for private model repositories",
+        "Date": "05/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Feature Store in-memory online store for low latency feature retrieval",
+        "Date": "04/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-feature-store-memory-store-latency-retrieval/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Reduce duplication using Well-Architected Templates",
+        "Date": "04/10/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/reduce-duplication-well-architected-templates/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Titan Embeddings is now generally available",
+        "Date": "29/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-titan-embeddings-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract launches Layout feature to extract paragraphs, titles, and more from documents",
+        "Date": "29/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-textract-layout-feature-extract-paragraphs-titles-documents/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock is now generally available",
+        "Date": "29/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas now provides up to 50% faster forecasting",
+        "Date": "28/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-50-percent-faster-forecasting/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthOmics is now available in Israel (Tel Aviv) Region",
+        "Date": "27/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthomic-israel-tel-aviv-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Model Monitor now supports one-time monitoring jobs for quick troubleshooting",
+        "Date": "26/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-model-monitor-one-time-monitoring-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing model retraining for Amazon Lookout for Equipment",
+        "Date": "19/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-lookout-equipment-model-retraining/",
+        "Services": [
+            "Amazon Lookout for Equipment"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Knowledge base for Amazon Bedrock connects foundation models to your data sources",
+        "Date": "13/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/knowledge-base-amazon-bedrock-models-data-sources/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now provides a new quick Studio setup experience",
+        "Date": "08/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-quick-studio-setup-experience/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Web Crawler for dynamic content support",
+        "Date": "07/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-kendra-web-crawler-dynamic-content/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch",
+        "Date": "06/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize simplifies implementation by extending column limits",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker geospatial capabilities now support Notebook with GPU-based Instances",
+        "Date": "05/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-geospatial-notebook-gpu-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Sagemaker Real-time Inference now supports response streaming",
+        "Date": "01/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas now supports additional data connectors with JDBC",
+        "Date": "01/09/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Neuron adds support for Llama 2, GPT-NeoX, and SDXL generative AI models",
+        "Date": "29/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-neuron-llama2-gpt-neox-sdxl-ai-models/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker announces preview of GPU/CPU profiler tooling for deep learning model development",
+        "Date": "25/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-preview-gpu-cpu-profiler-tooling-model-development/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Trn1 instances optimized for Generative AI now available in US East (Ohio)",
+        "Date": "24/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/trn1-instances-generative-ai-us-east-ohio/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Model Cards now supports cross account sharing of model cards",
+        "Date": "24/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-model-cards-cross-account-sharing-model-cards/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker announces new Rolling Deployment endpoint update option",
+        "Date": "24/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Monitron is now available in the Asia Pacific (Sydney) Region",
+        "Date": "23/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-monitron-asia-pacific-sydney-region/",
+        "Services": [
+            "Amazon Monitron"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Data Wrangler now supports role-based access control for Amazon EMR",
+        "Date": "22/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-role-access-emr/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Sagemaker Data Wrangler now supports S3 access points",
+        "Date": "22/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-s3-access-points/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Studio Lab supports SageMaker Distribution",
+        "Date": "22/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Lex now supports Confirmation slot type",
+        "Date": "18/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS DeepRacer Student launches educator playbooks",
+        "Date": "17/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/",
+        "Services": [
+            "AWS DeepRacer"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches new Gulf Arabic male NTTS voice",
+        "Date": "17/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-polly-gulf-arabic-male-ntts-voice/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthOmics supports cross-account sharing of omics analytics stores",
+        "Date": "15/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-cross-account-sharing-analytics-stores/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthOmics now supports versioning of annotation stores",
+        "Date": "15/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-versioning-annotation-stores/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific (Singapore) region",
+        "Date": "15/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 Inf2 instances, optimized for generative AI, now available in US West (Oregon) region",
+        "Date": "10/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-inf2-instances-us-west-oregon-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%",
+        "Date": "10/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Glue Studio now supports Amazon CodeWhisperer in additional regions",
+        "Date": "09/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Israel (Tel Aviv) Region",
+        "Date": "08/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing support for ml.p5 instances for Amazon SageMaker Model Training",
+        "Date": "05/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/support-ml-p5-instances-amazon-sagemaker-model-training/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker announces a new direct integration with Salesforce Data Cloud",
+        "Date": "05/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate enables language detection for real time document translation",
+        "Date": "04/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-translate-language-detection-document-translation/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Claude 2 foundation model from Anthropic is now available in Amazon Bedrock",
+        "Date": "02/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/claude-2-foundation-model-anthropic-amazon-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches new Belgian French female voice Isabelle",
+        "Date": "01/08/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-polly-belgian-french-female-voice/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Studio Notebooks now support the G5 instance family in the South America (S\u00e3o Paulo region",
+        "Date": "29/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-studio-notebooks-g5-instance-south-america-sao-paulo-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution is now generally available",
+        "Date": "27/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/",
+        "Services": [
+            "AWS Entity Resolution"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Enable generative AI applications to complete tasks in just a few clicks",
+        "Date": "27/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing AWS HealthScribe (Preview)",
+        "Date": "27/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/",
+        "Services": [
+            "AWS HealthScribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SDXL 1.0 foundation model from Stability AI now available in Amazon SageMaker JumpStart",
+        "Date": "27/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/sdxl-1-0-foundation-model-stability-ai-amazon-sagemaker-jumpstart/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Glue Studio now supports Amazon CodeWhisperer",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Transcribe supports Toxicity Detection for spoken conversations",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-transcribe-toxicity-detection-conversations/",
+        "Services": [
+            "Amazon Transcribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas supports training ML models with different objective metrics",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-training-ml-models-objective-metrics/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Personalize your search results with Amazon Personalize and OpenSearch integration",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/personalize-search-results-amazon-personalize-opensearch-integration/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing the general availability of AWS HealthImaging",
+        "Date": "26/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas announces Document Queries powered by Amazon Textract",
+        "Date": "25/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-document-queries-textract/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas expands data preparation with five new capabilities",
+        "Date": "25/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-data-preparation-five-capabilities/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas supports custom Amazon S3 output location for ML artifacts",
+        "Date": "25/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-custom-s3-ml-artifacts/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics now provides workflow run queuing",
+        "Date": "25/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Feature Store now supports cross account sharing, discovery and access",
+        "Date": "24/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate enables real time translation of Docx files",
+        "Date": "20/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Llama 2 foundation models from Meta now available in Amazon SageMaker JumpStart",
+        "Date": "19/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/llama-2-foundation-models-meta-amazon-sagemaker-jumpstart/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Introducing Analytics on Amazon Lex",
+        "Date": "19/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/analytics-amazon-lex/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Connect Wisdom is now available for chat agents",
+        "Date": "18/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now makes it easier to add columns to existing datasets",
+        "Date": "15/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-add-columns-existing-datasets/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics achieves FedRAMP Moderate authorization",
+        "Date": "10/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract announces updates to AnalyzeDocument - Forms",
+        "Date": "07/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-textract-updates-analyzedocument-forms/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Model Cards now integrated with model versions in Registry",
+        "Date": "06/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-model-cards-model-versions-registry/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize improves quality for batch recommendations by using the latest streamed data",
+        "Date": "04/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-quality-batch-recommendations/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas announces support for Apache Parquet file format",
+        "Date": "01/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-apache-parquet-file-format/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Feature Store now supports time to live (TTL) in online store",
+        "Date": "01/07/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-feature-store-ttl-online-store/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics now supports Common Workflow Language",
+        "Date": "30/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate enhances its custom terminology feature",
+        "Date": "30/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-translate-enhances-terminology-feature/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra launches Retrieval API",
+        "Date": "30/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-retrieval-api/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances",
+        "Date": "27/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Data Wrangler now enables direct connection to Snowflake data",
+        "Date": "27/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-data-wrangler-direct-connection-snowflake-data/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Role Manager now provides CDK library to create fine-grained permissions within minutes",
+        "Date": "27/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-role-manager-cdk-library-fine-grained-permissions/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation",
+        "Date": "24/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Transform data into ML features using SageMaker Feature Store feature processing",
+        "Date": "22/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/data-ml-features-sagemaker-feature-store-processing/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now supports filtering selected items by properties of the input item",
+        "Date": "22/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-filtering-items-properties-input-item/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon CodeGuru Security is now available in preview",
+        "Date": "14/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-codeguru-security-available-preview/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now supports VPC endpoints",
+        "Date": "14/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition improves face search accuracy with user vectors",
+        "Date": "14/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Falcon 40B foundation model from TII available on SageMaker JumpStart",
+        "Date": "10/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Pipelines now supports Selective Executions",
+        "Date": "08/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-pipelines-selective-executions/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Test Workbench for Amazon Lex",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-lex-test-workbench/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches a new female NTTS voice in Belgian Dutch (Flemish)",
+        "Date": "07/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-polly-female-ntts-voice-belgian-dutch-flemish/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Automatic Model Tuning automatically chooses tuning configurations",
+        "Date": "06/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra now available in Europe (London) AWS region",
+        "Date": "06/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-europe-london-aws-region/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon HealthLake capabilities help customers meet interoperability-related ONC and CMS patient access rules",
+        "Date": "03/06/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-healthlake-interoperability-related-onc-cms-patient-access-rules/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches two new female NTTS voices in Irish English and Danish",
+        "Date": "31/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-polly-new-female-ntts-voices/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now offers more flexibility in model training",
+        "Date": "31/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-personalize-model-training/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Asia Pacific (Melbourne) Region",
+        "Date": "27/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-asia-pacific-melbourne-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker JumpStart now supports fine-tuning of Foundation Models with domain adaptation",
+        "Date": "26/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-jumpstart-fine-tuning-foundation-models-domain-adaptation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate launches real time document translation",
+        "Date": "24/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Transcribe now supports streaming transcription in 3 more AWS regions",
+        "Date": "22/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-transcribe-streaming-transcription-3-aws-regions/",
+        "Services": [
+            "Amazon Transcribe"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now supports geospatial ML (Generally Available)",
+        "Date": "20/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-supports-geospatial-ml-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Alfresco PaaS Connector",
+        "Date": "19/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-alfresco-paas-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Alfresco Enterprise Connector",
+        "Date": "19/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-alfresco-enterprise-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition launches eye gaze direction detection in Face APIs",
+        "Date": "18/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-eye-gaze-direction-detection-face-apis/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics adds integration with Amazon EventBridge",
+        "Date": "17/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-integration-eventbridge/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Gmail Connector to enable messaging search",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-gmail-connector-messaging-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Adobe Experience Manager On-Premise Connector",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-on-premise-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Adobe Experience Manager Cloud Connector",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-cloud-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics adds pre-built bioinformatic workflows with predictable pricing",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-pre-built-bioinformatic-workflows-predictable-pricing/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics announces support for Graphical Processing Units for workflows",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-graphical-processing-units-workflows/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics now supports direct upload to Omics storage and automatic variant data parsing",
+        "Date": "16/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omic-direct-upload-storage-automatic-variant-data-parsing/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract updates its Queries feature within Analyze Document API",
+        "Date": "15/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Studio is now available in AWS GovCloud (US) Regions",
+        "Date": "13/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-studio-aws-govcloud-us-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon CodeWhisperer now available as extension in JupyterLab and Amazon SageMaker Studio",
+        "Date": "12/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codewhisperer-extension-jupyterlab-sagemaker-studio/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview",
+        "Date": "11/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/",
+        "Services": [
+            "Amazon CodeGuru"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker notebooks now support ml.p4d, ml.p4de and ml.inf1 instances",
+        "Date": "11/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference",
+        "Date": "11/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas can now operationalize ML models in production",
+        "Date": "10/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Autopilot supports training ML models with weights, eight additional objective metrics",
+        "Date": "10/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-autopilot-training-ml-models-weights-eight-objective-metrics/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition launches face occlusion detection to improve identity verification accuracy",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker announces ml.inf2 and ml.trn1 instances for model deployment",
+        "Date": "05/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ml-inf2-ml-trn1-instances-model-deployment/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra now supports content-based query suggestions",
+        "Date": "04/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-content-based-query-suggestions/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition improves accuracy of content moderation for images and videos",
+        "Date": "03/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-content-moderation-images-videos/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Sagemaker Data Wrangler now supports image data preparation",
+        "Date": "01/05/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now supports a hosted TensorBoard experience",
+        "Date": "27/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-hosted-tensorboard/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker accelerates local ML code conversion to remote jobs",
+        "Date": "25/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now supports Kafka Sink connector to ingest real-time data with ease",
+        "Date": "22/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-kafka-sink-connector/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize enables popularity tuning for similar item recommendations",
+        "Date": "21/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Studio Lab combats bots with CAPTCHA",
+        "Date": "20/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Comprehend improves accuracy of document classification using layout data",
+        "Date": "19/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-comprehend-document-classification-layout-data/",
+        "Services": [
+            "Amazon Comprehend"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Prepare data easily with Amazon Personalize and Amazon SageMaker Data Wrangler integration",
+        "Date": "18/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/prepare-data-amazon-personalize-sagemaker-data-wrangler-integration/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Collections is a new capability to organize models in the Model Registry",
+        "Date": "17/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-collections-organize-model-registry/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 Inf2 instances, optimized for generative AI, are now generally available",
+        "Date": "14/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-inf2-instances-generative-ai-generally-available/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Rekognition launches Face Liveness to deter fraud in facial verification",
+        "Date": "11/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/",
+        "Services": [
+            "Amazon Rekognition"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Connect Voice ID now supports multiple fraudster watchlists per Voice ID domain",
+        "Date": "11/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-voice-id-fraudster-watchlists-voice-id-domain/",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Inference Recommender improves usability and launches new features",
+        "Date": "10/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker now supports sharing predictions with Amazon QuickSight",
+        "Date": "07/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-sharing-predictions-quicksight/",
+        "Services": [
+            "Amazon QuickSight"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Monitron extends data stream with closure codes and status from sensors",
+        "Date": "06/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/",
+        "Services": [
+            "Amazon Monitron"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Asia Pacific (Hyderabad) Region",
+        "Date": "06/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-asia-pacific-hyderabad-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon HealthLake now available in Asia-Pacific (Mumbai) AWS region",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly offers full support in the AWS Asia Pacific (Osaka) Region",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-polly-support-osaka-region/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Microsoft OneDrive Connector",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kendra-microsoft-onedrive-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Feature Store now supports hard deletion in online store",
+        "Date": "05/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-feature-store-hard-deletion-online-store/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract announces updates to the AnalyzeDocument - Tables feature",
+        "Date": "04/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-analyzedocument-tables-feature/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas",
+        "Date": "03/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents",
+        "Date": "03/04/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/",
+        "Services": [
+            "Amazon Textract"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra launches Featured Results",
+        "Date": "31/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas now supports NLP and CV use cases",
+        "Date": "30/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics now enables batch variant store imports",
+        "Date": "30/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-omics-batch-variant-store-imports/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Translate launches Batch Translation in eight additional regions",
+        "Date": "29/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/",
+        "Services": [
+            "Amazon Translate"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Python SDK now supports setting default values for parameters",
+        "Date": "29/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-python-sdk-default-values-parameters/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Europe (Spain) Region",
+        "Date": "29/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-spain-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in Europe (Zurich) Region",
+        "Date": "29/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-zurich-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Data Wrangler now enables OAuth based access to Snowflake",
+        "Date": "23/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-oauth-based-access-snowflake/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Microsoft SharePoint Cloud Connector",
+        "Date": "16/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-microsoft-sharepoint-cloud-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Confluence Server Connector",
+        "Date": "15/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases SharePoint OnPrem Connectors",
+        "Date": "14/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-sharepoint-onprem-connectors/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Confluence Cloud Connector",
+        "Date": "14/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-cloud-connector/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine",
+        "Date": "11/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS announces new competition structure for the 2023 Season",
+        "Date": "07/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-new-competition-structure-2023-season/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Comprehend simplifies custom model retraining and management",
+        "Date": "01/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-comprehend-simplifies-model-retraining-management/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon DevOps Guru for RDS supports Proactive Insights",
+        "Date": "01/03/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-devops-guru-rds-proactive-insights/",
+        "Services": [
+            "Amazon DevOps Guru"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment",
+        "Date": "28/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Forecast now supports built-in holiday data for 251 countries to improve your forecasting accuracy",
+        "Date": "24/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-forecast-built-in-holiday-data-251-countries/",
+        "Services": [
+            "Amazon Forecast"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Vertical specific bot templates in Lex Console",
+        "Date": "23/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/lex-console-vertical-specific-bot-templates/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Smart Data Validation for Amazon Fraud Detector",
+        "Date": "23/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/smart-data-validation-amazon-fraud-detector/",
+        "Services": [
+            "Amazon Fraud Detector"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Launch Amazon SageMaker Model Monitor from SageMaker Model Dashboard",
+        "Date": "22/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sagemaker-model-monitor-dashboard/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Fraud Detector(AFD) launched AFD-Lists to optimize fraud prevention strategies",
+        "Date": "16/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-afd-lists/",
+        "Services": [
+            "Amazon Fraud Detector"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Network of Bots for Amazon Lex",
+        "Date": "11/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/network-bots-amazon-lex/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches two new Japanese NTTS voices",
+        "Date": "09/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra now available in Asia-Pacific (Tokyo) AWS region",
+        "Date": "07/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Fraud Detector introduces Cold Start model training for customers with limited historical data",
+        "Date": "07/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-cold-start-model-training-limited-historical-data/",
+        "Services": [
+            "Amazon Fraud Detector"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Panorama simplifies ordering of Panorama Appliances",
+        "Date": "03/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/",
+        "Services": [
+            "AWS Panorama"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Use your own training image in a private Docker registry with Amazon SageMaker",
+        "Date": "02/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/training-image-private-docker-registry-amazon-sagemaker/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Omics Supports PrivateLink & CloudFormation",
+        "Date": "01/02/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Automatic Model Tuning now adds three new completion criteria for tuning jobs",
+        "Date": "31/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-automatic-model-tuning-three-completion-criteria-tuning-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches two new US English NTTS voices",
+        "Date": "31/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra Expanded Data Formats Support",
+        "Date": "31/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-data-formats/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker announces preview of ml.p4de instances for model deployment",
+        "Date": "27/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in AWS GovCloud (US-East) Region",
+        "Date": "27/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize simplifies onboarding with data insights",
+        "Date": "27/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-onboarding-data-insights/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Conversational AI Competency Partner's implement high-quality chatbot solutions",
+        "Date": "26/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-conversational-ai-competency-partners-chatbot-high-quality-solutions/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Polly launches five new male NTTS voices",
+        "Date": "25/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-male-ntts-voices/",
+        "Services": [
+            "Amazon Polly"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Automatic Model Tuning now allows you to specify environment variables for your tuning jobs",
+        "Date": "24/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-automatic-model-tuning-environment-variables-tuning-jobs/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Microsoft Yammer Connector to enable messaging search",
+        "Date": "19/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-yammer-connector-messaging-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search",
+        "Date": "12/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 G5g instances now available in Frankfurt region",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-g5g-instances-available-frankfurt-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Canvas announces up to 3x faster ML model training time",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-canvas-3x-faster-ml-model-training-time/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize now supports tag based resource authorization",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases new Google Drive Connector to enable document indexing and search on Google Drive",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-google-drive-connector-document-indexing-search-google-drive/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Personalize launches new recipe \u201cTrending-Now\u201d",
+        "Date": "11/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-new-recipe-trending-now/",
+        "Services": [
+            "Amazon Personalize"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3",
+        "Date": "10/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch",
+        "Date": "09/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/",
+        "Services": [
+            "Amazon Kendra"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Amazon Elastic Fabric Adapter Installer v1.21",
+        "Date": "06/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker is now available in AWS Middle East (UAE) Region",
+        "Date": "04/01/2023",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-middle-east-uae-region/",
+        "Services": []
+    }
+]

@@ -1,0 +1,1286 @@
+[
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 13 new resource types",
+        "Date": "12/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-supports-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS License Manager now supports commercial Linux subscriptions discovery and governance",
+        "Date": "12/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations console adds support to centrally manage region opt-in settings on AWS accounts",
+        "Date": "12/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-organizations-console-support-manage-region-opt-in-settings-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Service Quotas is now available in the AWS Middle East (UAE) Region",
+        "Date": "12/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/service-quotas-available-aws-middle-east-uae-region/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Systems Manager widgets on AWS Console Home",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS announces Systems Manager Quick Setup for Resource Scheduler",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-quick-setup-resource-scheduler/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the new security widget on AWS Console Home",
+        "Date": "12/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-console-home-security-widget/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus now supports VPC endpoint policies",
+        "Date": "12/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Marketplace introduces free trials for SaaS usage-based pricing products",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-free-trials-saas-usage-based-pricing-products/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor adds new fault tolerance checks",
+        "Date": "12/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-trusted-advisor-fault-tolerance-checks/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Marketplace adds new functionality to notify sellers and customers when a private offer is created",
+        "Date": "12/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-notify-sellers-customers-private-offer-created/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Introducing concurrent account provisioning operations for AWS Control Tower",
+        "Date": "12/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-control-tower-concurrent-account-provisioning-operations/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch launches Metrics Insights alarms",
+        "Date": "12/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cloudwatch-metrics-insights-alarms/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Grafana adds support for AWS CloudFormation",
+        "Date": "12/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Change Manager now displays AWS CloudTrail events associated with change requests",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-change-manager-displays-aws-cloudtrail-change-requests/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config enables drift detection in Config Recorder",
+        "Date": "12/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-drift-detection-config-recorder/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Security Hub now integrates with AWS Control Tower (Preview)",
+        "Date": "12/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-integrates-aws-control-tower/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers",
+        "Date": "12/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments",
+        "Date": "11/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail Lake now supports configuration items from AWS Config",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config rules now support proactive compliance",
+        "Date": "11/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-rules-support-proactive-compliance/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the availability of Microsoft Office Amazon Machine Images (AMIs) on Amazon EC2 with AWS provided licenses",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing comprehensive controls management with AWS Control Tower (Preview)",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-preview-comprehensive-controls-management/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Introducing account customization within AWS Control Tower",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-account-customization/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch launches cross-account observability across multiple AWS accounts",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-cross-account-observability-multiple-aws-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing Amazon CloudWatch Internet Monitor Preview",
+        "Date": "11/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-internet-monitor-preview/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing delegated administrator for AWS Organizations",
+        "Date": "11/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Grafana now supports visualizing Prometheus Alertmanager rules and new configuration APIs",
+        "Date": "11/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-visualizing-prometheus-alertmanager-rules-configuration-apis/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud",
+        "Date": "11/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now displays compliance status of external AWS Config rules",
+        "Date": "11/23/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket",
+        "Date": "11/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Proton is now available in 6 new regions",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-available-new-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Service Catalog AppRegistry support for automatic associations based on tags",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-appregistry-support-automatic-associations-based-tags/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Observe and monitor SAP NetWeaver applications with Amazon CloudWatch Application Insights",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/observe-monitor-sap-netweaver-applications-cloudwatch-application-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog now supports the sharing of principal names when sharing a portfolio within an AWS Organization",
+        "Date": "11/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-catalog-sharing-principal-names-portfolio-organization/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Chatbot now supports command aliases to shorten frequently used AWS CLI commands in Slack",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-chatbot-command-aliases-shorten-cli-commands-slack/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Audit Manager now provides search-based filtering and grouping to help with noncompliance root-cause analysis",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-audit-manager-search-based-filtering-grouping-root-cause-analysis/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the new Applications widget on AWS Console Home",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/new-applications-widget-aws-console-home/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor announces new checks from AWS Resilience Hub",
+        "Date": "11/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-trusted-advisor-new-checks-resilience-hub/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Incident Manager now streamlines responses to Jira Service Management Cloud Incidents via AWS Service Management Connector",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-responses-jira-cloud-service-management-connector/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager OpsCenter now supports managing OpsItems across accounts",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-opscenter-supports-managing-opsitems-across-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing enhanced operational incident response capabilities with AWS Systems Manager and PagerDuty",
+        "Date": "11/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/enhanced-operational-incident-response-capabilities-aws-systems-manager-pagerduty/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Proton now supports AWS CDK through CodeBuild provisioning",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Incident Manager from AWS Systems Manager launches incident coordination capabilities for Incident Response",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-incident-manager-coordination-incident-response/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Proton launches dashboard",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-dashboard/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus supports 200M active metrics per workspace",
+        "Date": "11/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-service-prometheus-200m-active-metrics-workspace/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS re:Post is accessible to users in five additional languages - Traditional Chinese, Simplified Chinese, French, Japanese, and Korean",
+        "Date": "11/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-five-additional-languages/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail Lake now supports encryption using Customer Managed KMS Keys (CMK)",
+        "Date": "11/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/cloudtrail-lake-supports-encryption-customer-managed-kms-keys-cmk/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS AppConfig achieves FedRAMP High Authority To Operate",
+        "Date": "11/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appconfig-fedramp-high-authority-to-operate/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing recurring custom line items for AWS Billing Conductor",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-recurring-custom-line-items/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 14 new resource types",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Resource Explorer",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets",
+        "Date": "11/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail announces delegated administrator account support for AWS Organizations",
+        "Date": "11/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Well-Architected Tool improves workload discovery and speeds up reviews",
+        "Date": "11/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-well-architected-tool-workload-discovery-speeds-reviews/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys",
+        "Date": "11/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Launch Wizard adds support for placing Microsoft SQL Server tempdb in an instance store",
+        "Date": "10/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-placing-microsoft-sql-server-tempdb-instance-store/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch RUM now supports Extended CloudWatch Metrics with additional dimensions",
+        "Date": "10/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/cloudwatch-rum-supports-extended-cloudwatch-metrics-additional-dimensions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Introducing the AWS Control Tower delivery and AWS Control Tower ready program",
+        "Date": "10/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Console Mobile Application adds support for AWS CloudShell",
+        "Date": "10/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts",
+        "Date": "10/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting",
+        "Date": "10/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing dark mode support in the AWS Management Console",
+        "Date": "10/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail Lake now supports export of signed query results to Amazon S3",
+        "Date": "10/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal",
+        "Date": "10/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now available in GovCloud (US) Regions",
+        "Date": "10/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-available-govcloud-us-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Visualize application health with Amazon CloudWatch Application Insights",
+        "Date": "10/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Parameters and Secrets Lambda Extension",
+        "Date": "10/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Log announces increased query concurrency",
+        "Date": "10/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Incident Manager from AWS Systems Manager now streamlines responses to Jira Service Management (JSM) Incidents",
+        "Date": "10/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/incident-manager-aws-systems-manager-streamlines-response-jira-service-management-jsm-incidents/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 15 new resource types",
+        "Date": "10/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-config-15-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS announces updated Support Plans Console with new IAM controls",
+        "Date": "10/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager adds CloudWatch Alarms to control tasks",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog console makes improvements on usability",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Cloud Control API now supports AWS PrivateLink",
+        "Date": "09/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Container Insights launches lifecycle events for Amazon ECS",
+        "Date": "09/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Evidently adds support for Client Side Evaluations for AWS Lambda (powered by AWS AppConfig)",
+        "Date": "09/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Health Dashboard displays localized dates and times for Service Health events",
+        "Date": "09/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail Lake now supports import of CloudTrail Logs from Amazon S3",
+        "Date": "09/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Easily install and update the CloudWatch Agent with Quick Setup",
+        "Date": "09/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager now supports patching newer versions of SUSE Linux Enterprise Server, Oracle Linux, and Red Hat Enterprise Linux",
+        "Date": "09/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config announces a price reduction up to 58% for conformance packs",
+        "Date": "09/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudFormation announces new language extensions transform",
+        "Date": "09/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements",
+        "Date": "09/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2",
+        "Date": "09/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus Alert Manager & Ruler logs now available in Amazon CloudWatch Logs",
+        "Date": "09/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config conformance pack templates can now be stored in AWS Systems Manager",
+        "Date": "09/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Automate AWS Control Tower guardrail management through APIs",
+        "Date": "09/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/automate-aws-control-tower-guardrail-management-apis/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower customized log retention",
+        "Date": "08/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights",
+        "Date": "08/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor Priority is now generally available for AWS Enterprise Support customers",
+        "Date": "08/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-trusted-advisor-priority-enterprise-support-customers/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Well-Architected Tool now available in AWS GovCloud (US) Regions",
+        "Date": "08/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Resilience Hub support for Elastic Load Balancing and Amazon Route 53 Application Recovery Controller",
+        "Date": "08/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Optimize resources across your organization using AWS Compute Optimizer from a designated account",
+        "Date": "08/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 20 new resource types",
+        "Date": "08/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Application Insights adds AppRegistry support and faster problem reporting",
+        "Date": "08/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/application-insights-appregistry-support-faster-problem-reporting/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics",
+        "Date": "08/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Console Mobile Application adds support for Cost Explorer service",
+        "Date": "08/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys (SSE-C)",
+        "Date": "08/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments",
+        "Date": "08/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch metrics increases throughput by 150x",
+        "Date": "08/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Compute Optimizer is now available in 5 additional AWS Regions",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Build AWS Config rules using AWS CloudFormation Guard",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images (AMIs) on Amazon EC2",
+        "Date": "08/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Support launches a new AWS Support Center console domain",
+        "Date": "08/02/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Console Mobile Application adds support for recently visited services feature",
+        "Date": "07/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager announces a simplified onboarding experience for Application Manager",
+        "Date": "07/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower adopts AWS CloudTrail Organization logging",
+        "Date": "07/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now reduces AWS Config configuration items by only recording global resources in home Regions",
+        "Date": "07/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs",
+        "Date": "07/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config conformance packs now provide scores to help you track resource compliance",
+        "Date": "07/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments (Preview)",
+        "Date": "07/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Now programmatically manage primary contact information on AWS accounts",
+        "Date": "07/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Combined OU and Accounts page now available in AWS Control Tower",
+        "Date": "07/22/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Managed Services is now available in Asia Pacific (Hong Kong) and Middle East (Bahrain) Regions",
+        "Date": "07/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications",
+        "Date": "07/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS re:Post introduces community-generated articles",
+        "Date": "07/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-community-generated-articles/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS announces AWS AppConfig Extensions",
+        "Date": "07/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Fault Injection Simulator is now available in AWS GovCloud (US) Regions",
+        "Date": "07/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS re:Post introduces profile pictures and inline images",
+        "Date": "07/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudFormation Guard 2.1 is now generally available",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Integration of AWS Well-Architected Tool with AWS Organizations",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems",
+        "Date": "06/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Support announces an improved create case experience",
+        "Date": "06/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Well-Architected Tool adds multiple enhancements to custom lenses",
+        "Date": "06/21/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog's Application Registry now supports cross-account applications.",
+        "Date": "06/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 15 new resource types",
+        "Date": "06/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog announces support for Attribute Based Access Control (ABAC)",
+        "Date": "06/13/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Health Dashboard streamlines service transparency via Connector for ServiceNow",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog is now available in (Jakarta) Indonesia",
+        "Date": "06/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Shared account customization now available for AWS Control Tower Account Factory for Terraform",
+        "Date": "06/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch adds Elemental MediaTailor to Vended Logs pricing",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Proton introduces service components",
+        "Date": "06/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Single account enrollment and update is now available in AWS Control Tower",
+        "Date": "05/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Access the AWS re:Post community from the AWS Well-Architected Tool",
+        "Date": "05/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-community-well-architected-tool/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager announces support for port forwarding to remote hosts using Session Manager",
+        "Date": "05/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Launch Wizard now supports SQL Server deployments using Amazon FSx for NetApp ONTAP",
+        "Date": "05/26/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config supports Amazon CloudWatch metrics",
+        "Date": "05/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Grafana introduces new API for creating Grafana API tokens and support for version 8.4",
+        "Date": "05/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-grafana-api-tokens-support-version-8-4/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now supports concurrent operations for preventive guardrails",
+        "Date": "05/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Metric support now available in AWS Distro for OpenTelemetry",
+        "Date": "05/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Incident Manager from AWS Systems Manager expands support for runbook automation",
+        "Date": "05/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resilience Hub adds support for Terraform, Amazon ECS, and additional services",
+        "Date": "05/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch announces improved console experience",
+        "Date": "05/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower can now use customer provided core accounts",
+        "Date": "05/16/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Synthetics adds support for canary resources deletion when a canary is deleted",
+        "Date": "05/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics",
+        "Date": "05/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 adds CloudWatch Events support for Amazon Machine Images",
+        "Date": "05/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog Provisioning constructs for the AWS Cloud Development Kit (AWS CDK) are now available",
+        "Date": "05/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Compute Optimizer adds four new Trusted Advisor checks",
+        "Date": "05/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS AppConfig Feature Flag Lambda Extension announces support for Arm/Graviton2 processors",
+        "Date": "05/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog support for the AWS Cloud Development Kit (AWS CDK) is now available",
+        "Date": "04/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now supports Python 3.9 runtime",
+        "Date": "04/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-control-tower-supports-python-3-9-runtime/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing consolidated view of Lambda Insights via Application Insights",
+        "Date": "04/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Service Quotas is now available in the AWS Asia Pacific (Jakarta) Region",
+        "Date": "04/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS OpsWorks for Configuration Management now supports new version of Puppet Enterprise",
+        "Date": "04/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS announces integration between AWS AppConfig Feature Flags and Atlassian’s Jira Cloud",
+        "Date": "04/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-jira-integration-appconfig-feature-flag-atlassian-cloud/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Compute Optimizer Supports 66 New EC2 Instance Types",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing Unified Settings in the AWS Management Console",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Introducing Amazon CloudWatch Metrics Insights (General Availability)",
+        "Date": "04/06/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 now provides a new and improved launch experience on the EC2 Console",
+        "Date": "04/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Sustainability Pillar is now available in AWS Well-Architected Tool",
+        "Date": "04/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-sustainability-pillar-available-in-well-architected-tool/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 now reduces visibility of public Amazon Machine Images (AMIs) older than two years",
+        "Date": "03/31/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations now provides central AWS account closure to enable easier end-to-end account lifecycle management",
+        "Date": "03/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch adds option for easy monitoring set up",
+        "Date": "03/30/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Managed entitlements in AWS License Manager now supports license usage tracking for AWS Marketplace licenses",
+        "Date": "03/29/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Support streamlines cases via Connector for Jira Service Management",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Service Catalog announces a new console feature to directly access resources within a Provisioned Product",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Proton support for Terraform Open Source is now Generally Available",
+        "Date": "03/24/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Service Catalog now supports VPC Endpoint Policies",
+        "Date": "03/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Chatbot announces support for management of AWS resources from Slack (General Availability)",
+        "Date": "03/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific (Osaka) and Asia Pacific (Jakarta) regions",
+        "Date": "03/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS AppConfig Feature Flags General Availability",
+        "Date": "03/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Lambda announces support for PrincipalOrgID in resource-based policies",
+        "Date": "03/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Change Manager now supports taking actions on multiple change requests together",
+        "Date": "03/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI",
+        "Date": "03/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor introduces Priority for AWS Enterprise Support customers (Preview)",
+        "Date": "03/01/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the first iteration of the new unified AWS Health Dashboard",
+        "Date": "02/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon S3 accelerates integrity checking of requests by up to 90%",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Agent adds support for Configurable Log Group Retention",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Agent adds Support for NVIDIA GPU Metrics",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Agent adds Support for Log Filter Expressions",
+        "Date": "02/25/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry",
+        "Date": "02/17/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS OpsWorks for Configuration Management now supports new version of Chef Automate",
+        "Date": "02/15/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Managed Services now available in AWS GovCloud (US) Regions",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Announces the General Availability of AWS CloudFormation Hooks",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now provides updated support for AWS best practices and Region deny",
+        "Date": "02/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations console now lets users centrally manage alternate contacts on AWS accounts",
+        "Date": "02/09/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager",
+        "Date": "02/08/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Incident Manager from AWS Systems Manager now supports AWS PrivateLink",
+        "Date": "02/07/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images",
+        "Date": "02/03/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch",
+        "Date": "01/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager now supports higher concurrency for Automation executions",
+        "Date": "01/28/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resilience Hub expands to 13 additional AWS Regions",
+        "Date": "01/27/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon S3 Object Ownership can now disable access control lists in the AWS China (Beijing), AWS China (Ningxia), and AWS GovCloud (US) Regions",
+        "Date": "01/20/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Trusted Advisor now integrates with AWS Security Hub",
+        "Date": "01/19/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Application Insights adds service monitoring for Microsoft Active Directory and SharePoint",
+        "Date": "01/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack",
+        "Date": "01/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager Automation now enables you to take action in third-party applications through webhooks",
+        "Date": "01/18/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager announces support for categorizing documents of type Command Document",
+        "Date": "01/14/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing the new Console Home in AWS Management Console",
+        "Date": "01/12/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments",
+        "Date": "01/11/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures",
+        "Date": "01/10/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing AWS CloudTrail Lake, a managed audit and security lake",
+        "Date": "01/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions",
+        "Date": "01/05/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Groups and Tag Editor are now available in the Asia Pacific (Jakarta) region.",
+        "Date": "01/04/2022",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/"
+    }
+]
