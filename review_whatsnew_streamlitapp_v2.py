@@ -156,6 +156,10 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         elif group_by == "Services":
             # Explode the Services list column
             exploded_df = filtered_data.explode("Services")
+            # Remove duplicates within each service group
+            exploded_df = exploded_df.drop_duplicates(
+                subset=["Services", "Title", "Date"]
+            )
             grouped_data = exploded_df.groupby("Services")
             # Iterate
             # for service, group in grouped_data:
@@ -163,9 +167,14 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
                 # Write the service as a header
                 st.markdown(f"**{service}**")
 
+                # Get unique entries for this service group
+                unique_group = group.drop_duplicates(subset=["Title", "Date"])
+
                 # List all titles for that service
                 # for _, row in group.iterrows():
-                for _, row in group.sort_values("Date", ascending=False).iterrows():
+                for _, row in unique_group.sort_values(
+                    "Date", ascending=False
+                ).iterrows():
                     if show_link:
                         st.markdown(
                             f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
