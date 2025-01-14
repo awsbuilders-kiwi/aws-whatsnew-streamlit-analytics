@@ -1,4 +1,5 @@
 version = "V1.15 - Jan 2025"
+last_scaped_date = "10/01/2025"
 
 import streamlit as st
 import json
@@ -305,6 +306,7 @@ def main():
             sidebar_option = st.write("-= Review AWS What's New App =-")
             st.write("Author: Paul Dunlop + Amazon Q For Developers")
             st.write(version)
+            st.write("Last Scraped: " + last_scaped_date)
             st.write("Proudly sponsored by: HTTPS://AWSBUILDERS.KIWI")
         elif st.session_state.active_menu == "Reports":
             sidebar_option = st.radio(
