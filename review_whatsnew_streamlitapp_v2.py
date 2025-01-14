@@ -338,8 +338,9 @@ def main():
             current_year = pd.Timestamp.now().year
 
             # Date filters
-            years = [None] + list(
-                st.session_state.whats_new_data["Date"].dt.year.unique()
+            years = [None] + sorted(
+                list(st.session_state.whats_new_data["Date"].dt.year.unique()),
+                reverse=True,
             )
 
             # year_index = years.index(current_year) if current_year in years else 0
