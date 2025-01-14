@@ -199,7 +199,7 @@ def process_json_file(input_file_path):
 
 
 def load_whats_new_data():
-    directory = ".\scraped_data"
+    directory = "scraped_data"
     # Initialize an empty list to store all records
     all_records = []
     # Process each JSON file in the directory and its subdirectories
