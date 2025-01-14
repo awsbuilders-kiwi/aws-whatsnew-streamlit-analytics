@@ -42,9 +42,9 @@
         "Date": "15/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/",
         "Services": [
+            "AWS PrivateLink",
             "AWS CloudFormation",
-            "AWS Key Management Service",
-            "AWS PrivateLink"
+            "AWS Key Management Service"
         ]
     },
     {
@@ -53,8 +53,8 @@
         "Date": "07/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -255,8 +255,8 @@
         "Date": "19/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-support-aws-privatelink/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -317,8 +317,8 @@
         "Date": "31/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/",
         "Services": [
-            "AWS DataSync",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS DataSync"
         ]
     },
     {

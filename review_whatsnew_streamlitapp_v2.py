@@ -1,3 +1,5 @@
+version = "V1.15 - Jan 2025"
+
 import streamlit as st
 import json
 import pandas as pd
@@ -7,13 +9,10 @@ from pathlib import Path
 
 
 def show_about_content(selected_option):
-    st.write("Author: Paul Dunlop + Amazon Q For Developers")
-    st.write("V2 - Jan 2025")
     st.write(
         "This app is allows more review of the AWS Whats New feed : https://aws.amazon.com/new/"
     )
     st.write("Is a WIP! :D")
-    st.write("HTTPS://AWSBUILDERS.KIWI")
 
 
 def display_posts_per_year(data):
@@ -303,7 +302,10 @@ def main():
 
         # Different options for each menu
         if st.session_state.active_menu == "About":
-            sidebar_option = st.write("Review AWS What's New v2.00")
+            sidebar_option = st.write("-= Review AWS What's New App =-")
+            st.write("Author: Paul Dunlop + Amazon Q For Developers")
+            st.write(version)
+            st.write("Proudly sponsored by: HTTPS://AWSBUILDERS.KIWI")
         elif st.session_state.active_menu == "Reports":
             sidebar_option = st.radio(
                 "Choose an option:",

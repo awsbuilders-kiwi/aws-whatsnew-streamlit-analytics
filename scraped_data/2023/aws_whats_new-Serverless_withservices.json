@@ -57,9 +57,9 @@
         "Date": "23/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/",
         "Services": [
-            "AWS Lambda",
+            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "AWS Lambda"
         ]
     },
     {
@@ -77,6 +77,7 @@
         "Date": "18/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -165,6 +166,7 @@
         "Date": "01/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -270,6 +272,7 @@
         "Date": "16/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -320,6 +323,7 @@
         "Date": "01/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -347,6 +351,7 @@
         "Date": "26/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
+            "EMR Serverless",
             "Amazon CloudWatch",
             "Amazon EMR"
         ]
@@ -474,8 +479,8 @@
         "Date": "01/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -493,8 +498,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -680,9 +685,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
-            "AWS App Runner",
             "AWS Secrets Manager",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS App Runner"
         ]
     }
 ]

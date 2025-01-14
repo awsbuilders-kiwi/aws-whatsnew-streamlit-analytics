@@ -186,8 +186,8 @@
         "Date": "07/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -212,8 +212,8 @@
         "Date": "20/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -373,6 +373,7 @@
         "Date": "05/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -456,6 +457,7 @@
         "Date": "07/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-performance-monitoring-apache-spark-jobs/",
         "Services": [
+            "EMR Serverless",
             "Amazon Managed Service for Prometheus",
             "Amazon EMR"
         ]
@@ -466,6 +468,7 @@
         "Date": "02/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -544,6 +547,7 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -569,6 +573,7 @@
         "Date": "24/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/",
         "Services": [
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -640,8 +645,8 @@
         "Date": "12/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Fargate"
         ]
     }
 ]

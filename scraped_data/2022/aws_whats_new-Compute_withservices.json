@@ -630,8 +630,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -755,8 +755,8 @@
         "Date": "25/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/",
         "Services": [
-            "Amazon Elastic Kubernetes Service",
-            "AWS Batch"
+            "AWS Batch",
+            "Amazon Elastic Kubernetes Service"
         ]
     },
     {
@@ -813,8 +813,8 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -1123,8 +1123,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "AWS App Runner",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS App Runner"
         ]
     },
     {
@@ -1168,8 +1168,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/",
         "Services": [
             "Amazon FSx for NetApp ONTAP",
-            "VMware Cloud on AWS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -1408,9 +1408,9 @@
         "Date": "07/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/",
         "Services": [
+            "Amazon CloudWatch",
             "Amazon EC2",
-            "Amazon EC2 Auto Scaling",
-            "Amazon CloudWatch"
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -1453,8 +1453,8 @@
         "Date": "28/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/",
         "Services": [
-            "Amazon EC2",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EC2"
         ]
     },
     {
@@ -1561,8 +1561,8 @@
         "Date": "01/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/",
         "Services": [
-            "Amazon EC2",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EC2"
         ]
     },
     {
@@ -1762,8 +1762,8 @@
         "Date": "27/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -1781,8 +1781,8 @@
         "Date": "27/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -2120,8 +2120,8 @@
         "Date": "01/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -2321,8 +2321,8 @@
         "Date": "20/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {

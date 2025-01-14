@@ -206,8 +206,8 @@
         "Date": "09/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -248,7 +248,8 @@
         "Date": "29/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/",
         "Services": [
-            "AWS App2Container"
+            "AWS App2Container",
+            "ECS Fargate"
         ]
     },
     {
@@ -426,9 +427,9 @@
         "Date": "09/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/",
         "Services": [
-            "Amazon Cognito",
+            "Amazon Kinesis",
             "Amazon CloudFront",
-            "Amazon Kinesis"
+            "Amazon Cognito"
         ]
     },
     {
@@ -567,8 +568,8 @@
         "Date": "28/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {

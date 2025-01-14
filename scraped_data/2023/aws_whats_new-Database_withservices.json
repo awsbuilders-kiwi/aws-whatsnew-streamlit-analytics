@@ -118,8 +118,8 @@
         "Date": "18/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
-            "AWS Lake Formation",
             "Amazon QuickSight",
+            "AWS Lake Formation",
             "Amazon Redshift"
         ]
     },
@@ -941,8 +941,8 @@
         "Date": "08/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/",
         "Services": [
-            "AWS Backup",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS Backup"
         ]
     },
     {
@@ -1670,8 +1670,8 @@
         "Date": "18/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/",
         "Services": [
-            "Amazon Neptune",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Neptune"
         ]
     },
     {
@@ -1694,8 +1694,8 @@
         "Date": "16/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Timestream"
+            "Amazon Timestream",
+            "Amazon S3"
         ]
     },
     {
@@ -1999,9 +1999,9 @@
         "Date": "18/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/",
         "Services": [
+            "AWS Database Migration Service",
             "AWS Glue",
-            "Amazon S3",
-            "AWS Database Migration Service"
+            "Amazon S3"
         ]
     },
     {
@@ -2268,8 +2268,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -2475,9 +2475,9 @@
         "Date": "04/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
-            "Amazon DynamoDB",
+            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon DynamoDB"
         ]
     },
     {

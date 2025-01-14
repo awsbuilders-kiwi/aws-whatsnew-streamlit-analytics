@@ -264,8 +264,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -274,8 +274,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {
@@ -493,8 +493,8 @@
         "Date": "14/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS X-Ray"
         ]
     },
     {
@@ -815,8 +815,8 @@
         "Date": "24/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-config-integrates-aws-cloudformation-registry/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1050,8 +1050,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Batch",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Batch"
         ]
     },
     {
@@ -1144,8 +1144,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
-            "AWS CodeCommit",
             "AWS CodeBuild",
-            "AWS CodeDeploy",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
         "Services": [
-            "AWS Chatbot",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Chatbot"
         ]
     },
     {
@@ -1286,8 +1286,8 @@
         "Date": "14/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/now-enable-amazon-ec2-hibernation-on-demand-reserved-instances-aws-cloudformation/",
         "Services": [
-            "Amazon EC2",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EC2"
         ]
     },
     {
@@ -1296,8 +1296,8 @@
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
-            "AWS CodeCommit",
             "AWS CodeBuild",
+            "AWS CodeCommit",
             "AWS CodeDeploy"
         ]
     },
