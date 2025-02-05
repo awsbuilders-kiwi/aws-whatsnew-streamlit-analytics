@@ -57,8 +57,127 @@ def display_posts_per_category(data):
     # Display summary
     st.subheader(f"Posts per Category ({total_count})")
 
-    # Create bar chart
+    # Optionally keep the bar chart
     st.bar_chart(category_counts)
+
+    # Create two columns
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.write("Number of Posts")
+        for category, count in sorted(category_counts.items(), key=lambda x: x[0]):
+            st.write(str(count))
+
+    with col2:
+        st.write("Category")
+        for category, count in sorted(category_counts.items(), key=lambda x: x[0]):
+            st.write(category)
+
+    # Add spacing
+    st.markdown("---")
+
+    # Add combined table sorted by count
+    st.subheader("Combined View (Sorted by Post Count)")
+    st.markdown("| Number of Posts | Category |")
+    st.markdown("|----------------|----------|")
+    for category, count in sorted(
+        category_counts.items(), key=lambda x: x[1], reverse=True
+    ):
+        st.markdown(f"| {count} | {category} |")
+
+
+def display_posts_per_category(data):
+    # Get unique years from the data
+    years = data["Date"].dt.year.unique().tolist()
+    years.sort(reverse=True)
+    years.insert(0, "All Years")
+
+    # Create columns for year and month selectors
+    col1, col2 = st.columns(2)
+
+    with col1:
+        # Create year selector dropdown
+        selected_year = st.selectbox(
+            "Select Year", years, index=1
+        )  # Default to first year (most recent)
+
+    with col2:
+        # Create month selector dropdown
+        months = [
+            "All Months",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+        ]
+        selected_month = st.selectbox("Select Month", months)
+
+    # Filter data based on selected year and month
+    if selected_year != "All Years":
+        filtered_data = data[data["Date"].dt.year == selected_year]
+        if selected_month != "All Months":
+            # Convert month name to number (1-12)
+            month_num = months.index(selected_month)
+            filtered_data = filtered_data[filtered_data["Date"].dt.month == month_num]
+    else:
+        filtered_data = data
+        if selected_month != "All Months":
+            month_num = months.index(selected_month)
+            filtered_data = filtered_data[filtered_data["Date"].dt.month == month_num]
+
+    # Group data by category and count posts
+    category_counts = filtered_data.groupby(filtered_data["Category"]).size()
+    total_count = category_counts.sum()
+
+    # Display summary
+    if selected_month != "All Months" and selected_year != "All Years":
+        st.subheader(
+            f"Posts per Category for {selected_month} {selected_year} ({total_count})"
+        )
+    elif selected_month != "All Months":
+        st.subheader(
+            f"Posts per Category for {selected_month} (All Years) ({total_count})"
+        )
+    elif selected_year != "All Years":
+        st.subheader(f"Posts per Category for {selected_year} ({total_count})")
+    else:
+        st.subheader(f"Posts per Category (All Time) ({total_count})")
+
+    # Optionally keep the bar chart
+    st.bar_chart(category_counts)
+
+    # Create two columns for the data display
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.write("Number of Posts")
+        for category, count in sorted(category_counts.items(), key=lambda x: x[0]):
+            st.write(str(count))
+
+    with col2:
+        st.write("Category")
+        for category, count in sorted(category_counts.items(), key=lambda x: x[0]):
+            st.write(category)
+
+    # Add spacing
+    st.markdown("---")
+
+    # Add combined table sorted by count
+    st.subheader("Combined View (Sorted by Post Count)")
+    st.markdown("| Number of Posts | Category |")
+    st.markdown("|----------------|----------|")
+    for category, count in sorted(
+        category_counts.items(), key=lambda x: x[1], reverse=True
+    ):
+        st.markdown(f"| {count} | {category} |")
 
 
 def show_reports_content(selected_option, all_data):
@@ -71,7 +190,9 @@ def show_reports_content(selected_option, all_data):
         st.success("To provide exceptional service...")
 
 
-def show_filtered_data_contents(selected_option, filtered_data, group_by, show_link):
+def show_filtered_data_contents(
+    selected_option, filtered_data, group_by, show_link, use_markdown
+):
     st.markdown(f"Results found: {len(filtered_data)}")
     # Show filtered data
     if len(filtered_data) > 0:
@@ -79,80 +200,125 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
         if group_by == "Day of Month":
             grouped_data = filtered_data.groupby(filtered_data["Date"].dt.date)
             # Iterate
-            # for date, group in grouped_data:
             for date, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
-                # Write the date as a header
-                st.markdown(f"**{date.strftime('%d/%m/%Y')}**")
+                if use_markdown:
+                    st.text(f"## {date.strftime('%d/%m/%Y')}")
+                else:
+                    st.write(date.strftime("%d/%m/%Y"))
 
-                # List all titles for that date
-                # for _, row in group.iterrows():
                 for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
-                        st.markdown(f"- {row['Title']} [Link]({row['Link']})")
+                        if use_markdown:
+                            st.text(f"* {row['Title']} [Link]({row['Link']})")
+                        else:
+                            st.write(f"- {row['Title']} (Link: {row['Link']})")
                     else:
-                        st.markdown(f"- {row['Title']}")
-                # Add some spacing between date groups
-                st.markdown("")
+                        if use_markdown:
+                            st.text(f"* {row['Title']}")
+                        else:
+                            st.write(f"- {row['Title']}")
+                if use_markdown:
+                    st.text("")
+                else:
+                    st.write("")
+
         elif group_by == "Month":
             grouped_data = filtered_data.groupby(
                 filtered_data["Date"].dt.to_period("M")
             )
             # Iterate
-            # for month, group in grouped_data:
             for month, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
                 # Write the month as a header
-                st.markdown(f"**{month}**")
+                if use_markdown:
+                    st.text(f"## {month}")
+                else:
+                    st.write(f"{month}")
 
                 # List all titles for that month
-                # for _, row in group.iterrows():
                 for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
-                        st.markdown(f"- {row['Title']} [Link]({row['Link']})")
+                        if use_markdown:
+                            st.text(f"* {row['Title']} [Link]({row['Link']})")
+                        else:
+                            st.write(f"- {row['Title']} (Link: {row['Link']})")
                     else:
-                        st.markdown(f"- {row['Title']}")
+                        if use_markdown:
+                            st.text(f"* {row['Title']}")
+                        else:
+                            st.write(f"- {row['Title']}")
 
                 # Add some spacing between month groups
-                st.markdown("")
+                if use_markdown:
+                    st.text("")
+                else:
+                    st.write("")
+
         elif group_by == "Year":
             grouped_data = filtered_data.groupby(filtered_data["Date"].dt.year)
             # Iterate
-            # for year, group in grouped_data:
             for year, group in sorted(grouped_data, key=lambda x: x[0], reverse=True):
                 # Write the year as a header
-                st.markdown(f"**{year}**")
+                if use_markdown:
+                    st.text(f"## {year}")
+                else:
+                    st.write(f"{year}")
 
                 # List all titles for that year
-                # for _, row in group.iterrows():
                 for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
-                        st.markdown(f"- {row['Title']} [Link]({row['Link']})")
+                        if use_markdown:
+                            st.text(f"* {row['Title']} [Link]({row['Link']})")
+                        else:
+                            st.write(f"- {row['Title']} (Link: {row['Link']})")
                     else:
-                        st.markdown(f"- {row['Title']}")
+                        if use_markdown:
+                            st.text(f"* {row['Title']}")
+                        else:
+                            st.write(f"- {row['Title']}")
 
                 # Add some spacing between year groups
-                st.markdown("")
+                if use_markdown:
+                    st.text("")
+                else:
+                    st.write("")
+
         elif group_by == "Category":
             grouped_data = filtered_data.groupby(filtered_data["Category"])
             # Iterate
-            # for category, group in grouped_data:
             for category, group in sorted(grouped_data):
-                # Write the date as a header
-                st.markdown(f"**{category}**")
+                # Write the category as a header
+                if use_markdown:
+                    st.text(f"## {category}")
+                else:
+                    st.write(f"{category}")
 
-                # List all titles for that date
-                # for _, row in group.iterrows():
+                # List all titles for that category
                 for _, row in group.sort_values("Date", ascending=False).iterrows():
                     if show_link:
-                        st.markdown(
-                            f"- {row['Title']}  [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
-                        )
+                        if use_markdown:
+                            st.text(
+                                f"* {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
+                            )
+                        else:
+                            st.write(
+                                f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] (Link: {row['Link']})"
+                            )
                     else:
-                        st.markdown(
-                            f"- {row['Title']}  [{row['Date'].strftime('%d/%m/%Y')}]"
-                        )
+                        if use_markdown:
+                            st.text(
+                                f"* {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}]"
+                            )
+                        else:
+                            st.write(
+                                f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}]"
+                            )
 
-                # Add some spacing between date groups
-                st.markdown("")
+                # Add some spacing between category groups
+                if use_markdown:
+                    st.text("")
+                else:
+                    st.write("")
+
         elif group_by == "Services":
             # Explode the Services list column
             exploded_df = filtered_data.explode("Services")
@@ -162,30 +328,44 @@ def show_filtered_data_contents(selected_option, filtered_data, group_by, show_l
             )
             grouped_data = exploded_df.groupby("Services")
             # Iterate
-            # for service, group in grouped_data:
             for service, group in sorted(grouped_data):
                 # Write the service as a header
-                st.markdown(f"**{service}**")
+                if use_markdown:
+                    st.text(f"## {service}")
+                else:
+                    st.write(f"{service}")
 
                 # Get unique entries for this service group
                 unique_group = group.drop_duplicates(subset=["Title", "Date"])
 
                 # List all titles for that service
-                # for _, row in group.iterrows():
                 for _, row in unique_group.sort_values(
                     "Date", ascending=False
                 ).iterrows():
                     if show_link:
-                        st.markdown(
-                            f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
-                        )
+                        if use_markdown:
+                            st.text(
+                                f"* {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] [Link]({row['Link']})"
+                            )
+                        else:
+                            st.write(
+                                f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}] (Link: {row['Link']})"
+                            )
                     else:
-                        st.markdown(
-                            f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}]"
-                        )
+                        if use_markdown:
+                            st.text(
+                                f"* {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}]"
+                            )
+                        else:
+                            st.write(
+                                f"- {row['Title']} [{row['Date'].strftime('%d/%m/%Y')}]"
+                            )
 
                 # Add some spacing between service groups
-                st.markdown("")
+                if use_markdown:
+                    st.text("")
+                else:
+                    st.write("")
     else:
         st.write("No announcements found for the selected filters.")
 
@@ -377,9 +557,10 @@ def main():
         elif st.session_state.active_menu == "Whats New Data Filter":
             st.write(f"Category: {category}, Year: {year},  Month: {month}, Day: {day}")
             st.write(f"Group By: {group_by} ")
+            use_markdown = st.checkbox("Use Markdown Formatting", value=True)
             st.markdown("---")
             show_filtered_data_contents(
-                sidebar_option, filtered_df, group_by, show_link
+                sidebar_option, filtered_df, group_by, show_link, use_markdown
             )
         else:  # Last Menu Item
             show_builders_content(sidebar_option)
