@@ -1,6 +1,81 @@
 [
     {
         "Category": "Management & Governance",
+        "Title": "Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB",
+        "Date": "28/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Monitor and observe apps across multiple accounts with Application Signals",
+        "Date": "28/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Chatbot is now named Amazon Q Developer",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
+        "Services": [
+            "Amazon Q",
+            "Amazon Q Developer",
+            "AWS Chatbot"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch Database Insights adds support for RDS databases",
+        "Date": "25/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail network activity events for VPC endpoints are now generally available",
+        "Date": "15/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available",
+        "Services": [
+            "AWS CloudTrail"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 4 new resource types",
+        "Date": "08/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/",
+        "Services": [
+            "AWS Config"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-opensearch-service-expand-region-integrated-analytics-experience",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Amazon Managed Service for Prometheus collector adds support for cross-account ingestion",
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-managed-service-prometheus-collector-cross-account-ingestion/",
@@ -106,8 +181,8 @@
         "Date": "08/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot",
         "Services": [
-            "AWS Chatbot",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Chatbot"
         ]
     }
 ]

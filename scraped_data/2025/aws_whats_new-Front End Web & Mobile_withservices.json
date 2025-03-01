@@ -1,12 +1,47 @@
 [
     {
         "Category": "Front End Web & Mobile",
+        "Title": "Amazon Location Service now supports AWS PrivateLink",
+        "Date": "26/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
+        "Services": [
+            "Amazon Location Service",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "Amplify Hosting announces support for IAM roles for server-side rendered (SSR) applications",
+        "Date": "19/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/",
+        "Services": []
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS AppSync enhances resolver testing with comprehensive context object mocking",
+        "Date": "13/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
         "Title": "AWS Amplify now supports using the TypeScript Data client in server-side AWS Lambda functions",
         "Date": "29/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/",
         "Services": [
-            "AWS Lambda",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS Lambda"
         ]
     },
     {

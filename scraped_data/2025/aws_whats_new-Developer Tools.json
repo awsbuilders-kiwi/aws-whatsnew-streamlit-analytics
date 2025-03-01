@@ -1,6 +1,108 @@
 [
     {
         "Category": "Developer Tools",
+        "Title": "Monitor and observe apps across multiple accounts with Application Signals",
+        "Date": "02/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for managed runners for GitLab Self-Managed",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-runners-gitlab-self-managed"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for managed webhooks in GitHub Enterprise",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-webhooks-github-enterprise/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Chatbot is now named Amazon Q Developer",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline introduces new console experience for viewing pipeline releases",
+        "Date": "02/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-console-experience-viewing-pipeline-releases"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline adds native Amazon EC2 deployment support",
+        "Date": "02/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline adds native Amazon EKS deployment support",
+        "Date": "02/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams",
+        "Date": "02/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer now supports upgrade to Java 21",
+        "Date": "02/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q generative SQL is now available in additional regions",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline adds CloudWatch Metrics support",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-cloudwatch-metrics-support/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+        "Date": "02/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB (with MongoDB compatibility)",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Reshape your AWS CloudFormation stacks seamlessly with stack refactoring",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/reshape-aws-cloudformation-stack-refactoring/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer introduces a new, simplified setup experience for Pro tier subscriptions",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-experience-pro-tier-subscriptions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now integrates with Buildkite",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite"
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "Amazon Q Developer agent now runs builds and tests to validate generated code in real time",
         "Date": "02/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time"

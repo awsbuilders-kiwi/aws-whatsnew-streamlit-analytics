@@ -1,6 +1,63 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "Monitor and observe apps across multiple accounts with Application Signals",
+        "Date": "28/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Outbound now delivers to Mail Manager Archives",
+        "Date": "20/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now offers tiered pricing for Virtual Deliverability Manager",
+        "Date": "15/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time",
+        "Date": "12/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Q Business introduces orchestration for user query management",
+        "Date": "06/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-business-orchestration-user-query-management",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Wickr now provides a dedicated space to organize and access files",
+        "Date": "06/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
         "Title": "Amazon Connect now supports agent time off scheduling up to 24 months in the future",
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-time-off-scheduling-24-months-future",
@@ -28,8 +85,8 @@
         "Date": "22/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops",
         "Services": [
-            "Amazon Connect",
-            "Amazon WorkSpaces"
+            "Amazon WorkSpaces",
+            "Amazon Connect"
         ]
     },
     {

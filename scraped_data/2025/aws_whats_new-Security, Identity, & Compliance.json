@@ -1,6 +1,84 @@
 [
     {
         "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon RDS now provides visibility into IAM DB Authentication metrics and logs",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS WAF enhances integration with Service Quotas",
+        "Date": "02/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Verified Permissions now supports the Cedar JSON entity format",
+        "Date": "02/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS WAF enhances Data Protection and logging experience",
+        "Date": "02/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Inspector enhances the security engine for container images scanning",
+        "Date": "02/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS",
+        "Date": "02/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS WAF Console adds new top insights visualizations in additional regions",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon GuardDuty Malware Protection for S3 announces price reduction",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Verified Access launches Zero Trust access to resources over non-HTTP(S) protocols",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Wickr now provides a dedicated space to organize and access files",
+        "Date": "02/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS IAM announces support for encrypted SAML assertions",
+        "Date": "02/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
         "Title": "Amazon GuardDuty is now available in AWS Asia Pacific (Malaysia) Region",
         "Date": "01/17/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/"

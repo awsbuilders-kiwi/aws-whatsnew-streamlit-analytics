@@ -1,6 +1,105 @@
 [
     {
         "Category": "Analytics",
+        "Title": "Amazon Data Firehose is now available in AWS Asia Pacific (Thailand) and Mexico (Central) regions",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-firehose-thailand-mexico-central-regions/",
+        "Services": [
+            "Amazon Data Firehose"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing fine-grained access control via AWS Lake Formation with EMR on EKS",
+        "Date": "22/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/fine-grained-control-aws-lake-formation-emr-eks/",
+        "Services": [
+            "AWS Lake Formation"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.8",
+        "Date": "22/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-apache-kafka-version-3-8/",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Dynamically update your running EMR cluster with reconfiguration for instance fleets",
+        "Date": "18/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now available in 18 additional regions",
+        "Date": "18/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/",
+        "Services": [
+            "Amazon Aurora",
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB",
+        "Date": "14/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Q generative SQL is now available in additional regions",
+        "Date": "14/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-serverless-ip-address-3-per-subnet/",
+        "Services": [
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK expands Express Brokers to 10 more AWS Regions",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-express-brokers-10-regions/",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Query Editor V2 is now available in Asia Pacific (Malaysia) region",
+        "Date": "06/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-opensearch-service-expand-region-integrated-analytics-experience",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Analytics",
         "Title": "Q in QuickSight Dashboard Q&A",
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/q-quicksight-dashboard-q-a",
@@ -136,7 +235,9 @@
         "Title": "Amazon MSK announces support for additional Graviton-3 (m7g) instance sizes for Express Brokers",
         "Date": "16/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -152,6 +253,8 @@
         "Title": "Amazon MSK Connect now supports updating connector configuration",
         "Date": "14/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-updating-connector-configuration/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     }
 ]

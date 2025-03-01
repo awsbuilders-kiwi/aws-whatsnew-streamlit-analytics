@@ -1,6 +1,70 @@
 [
     {
         "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Mexico (Central) Region",
+        "Date": "19/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/",
+        "Services": [
+            "AWS Storage Gateway"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports Lustre version upgrades",
+        "Date": "13/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store (EBS) now adds full snapshot size information in Console and API",
+        "Date": "13/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api",
+        "Services": [
+            "Amazon Elastic Block Store"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 10,000 access points per EFS file system",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/",
+        "Services": [
+            "Amazon EFS"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
+        "Date": "08/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/",
+        "Services": [
+            "Amazon FSx"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "08/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/",
+        "Services": [
+            "Data Lifecycle Manager"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-opensearch-service-expand-region-integrated-analytics-experience",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Storage",
         "Title": "Amazon EBS now supports additional resource-level permissions for creating EBS volumes from snapshots",
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ebs-resource-level-permissions-creating-ebs-volumes-snapshots",
@@ -86,8 +150,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -96,8 +160,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for OpenZFS"
+            "Amazon FSx for OpenZFS",
+            "Amazon FSx"
         ]
     },
     {
@@ -106,8 +170,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {

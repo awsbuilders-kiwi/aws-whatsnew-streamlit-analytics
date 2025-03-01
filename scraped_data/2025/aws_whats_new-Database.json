@@ -1,6 +1,150 @@
 [
     {
         "Category": "Database",
+        "Title": "Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB",
+        "Date": "02/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Db2 now supports M7i and R7i instances types",
+        "Date": "02/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-db2-m7i-r7i-instances-types"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now provides visibility into IAM DB Authentication metrics and logs",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports minors 11.4.5, 10.11.11, 10.6.21, 10.5.28",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-mariadb-supports-minors/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Data API for Aurora is now available in 10 additional AWS regions",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Spatial Patch Bundle for January 2025 Release Update",
+        "Date": "02/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-spatial-patch-bundle-update/"
+    },
+    {
+        "Category": "Database",
+        "Title": "CloudWatch Database Insights adds support for RDS databases",
+        "Date": "02/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases"
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.",
+        "Date": "02/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20",
+        "Date": "02/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing AWS DMS Serverless comprehensive premigration assessments",
+        "Date": "02/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4",
+        "Date": "02/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Timestream for InfluxDB Adds Read Replica support",
+        "Date": "02/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now available in 18 additional regions",
+        "Date": "02/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB now supports auto-approval of quota adjustments",
+        "Date": "02/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server supports new minor version in January 2025",
+        "Date": "02/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
+        "Date": "02/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Keyspaces is now available in Africa (Cape Town) Region",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB now offers one-click connectivity with CloudShell",
+        "Date": "02/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-documentdb-one-click-connectivity-cloudshell"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift Query Editor V2 is now available in Asia Pacific (Malaysia) region",
+        "Date": "02/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint",
+        "Date": "02/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server supports new minor version in December 2024",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-december-2024"
+    },
+    {
+        "Category": "Database",
         "Title": "Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes",
         "Date": "02/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/"

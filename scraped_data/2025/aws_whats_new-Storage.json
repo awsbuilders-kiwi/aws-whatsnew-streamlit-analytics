@@ -1,6 +1,48 @@
 [
     {
         "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Mexico (Central) Region",
+        "Date": "02/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre now supports Lustre version upgrades",
+        "Date": "02/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic Block Store (EBS) now adds full snapshot size information in Console and API",
+        "Date": "02/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports up to 10,000 access points per EFS file system",
+        "Date": "02/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
+        "Date": "02/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "02/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-opensearch-service-expand-region-integrated-analytics-experience"
+    },
+    {
+        "Category": "Storage",
         "Title": "Amazon EBS now supports additional resource-level permissions for creating EBS volumes from snapshots",
         "Date": "02/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ebs-resource-level-permissions-creating-ebs-volumes-snapshots"

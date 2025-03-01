@@ -1,6 +1,22 @@
 [
     {
         "Category": "Serverless",
+        "Title": "Amazon ECS adds support for additional IAM condition keys",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB",
+        "Date": "14/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
         "Title": "Amazon EventBridge enhances event source discovery in the console",
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/",
