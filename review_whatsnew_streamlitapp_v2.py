@@ -7,6 +7,7 @@ import pandas as pd
 from time import sleep
 import os
 from pathlib import Path
+import calendar
 
 
 def show_about_content(selected_option):
@@ -44,9 +45,30 @@ def display_posts_per_category(data):
         "Select Year", years, index=1
     )  # Default to first year (most recent)
 
-    # Filter data based on selected year
+    selected_month = None
     if selected_year != "All Years":
-        filtered_data = data[data["Date"].dt.year == selected_year]
+        # Get months for selected year
+        months_data = data[data["Date"].dt.year == selected_year]
+        months = months_data["Date"].dt.month.unique().tolist()
+        months.sort()
+        months.insert(0, "All Months")
+        
+        # Create month selector dropdown
+        selected_month = st.selectbox(
+            "Select Month",
+            months,
+            format_func=lambda x: "All Months" if x == "All Months" else calendar.month_name[x]
+        )
+
+    # Filter data based on selections
+    if selected_year != "All Years":
+        if selected_month != "All Months":
+            filtered_data = data[
+                (data["Date"].dt.year == selected_year) &
+                (data["Date"].dt.month == selected_month)
+            ]
+        else:
+            filtered_data = data[data["Date"].dt.year == selected_year]
     else:
         filtered_data = data
 
@@ -55,7 +77,12 @@ def display_posts_per_category(data):
     total_count = category_counts.sum()
 
     # Display summary
-    st.subheader(f"Posts per Category ({total_count})")
+    period_text = (
+        "All Time" if selected_year == "All Years"
+        else f"{calendar.month_name[selected_month]} {selected_year}" if selected_month and selected_month != "All Months"
+        else str(selected_year)
+    )
+    st.subheader(f"Posts per Category - {period_text} ({total_count})")
 
     # Optionally keep the bar chart
     st.bar_chart(category_counts)
@@ -86,13 +113,7 @@ def display_posts_per_category(data):
         st.markdown(f"| {count} | {category} |")
 
 
-def display_posts_per_category(data):
-    # Get unique years from the data
-    years = data["Date"].dt.year.unique().tolist()
-    years.sort(reverse=True)
-    years.insert(0, "All Years")
 
-    # Create columns for year and month selectors
     col1, col2 = st.columns(2)
 
     with col1:
@@ -180,11 +201,68 @@ def display_posts_per_category(data):
         st.markdown(f"| {count} | {category} |")
 
 
+def get_top_service_by_year(data, year):
+    year_data = data[data['Date'].dt.year == year]
+    service_counts = year_data['Services'].value_counts()
+    if not service_counts.empty:
+        return service_counts.index[0], service_counts.iloc[0]
+    return None, 0
+
+def get_category_summary(data, period_type, period_value):
+    if period_type == 'year':
+        filtered_data = data[data['Date'].dt.year == period_value]
+    else:  # month
+        filtered_data = data[
+            (data['Date'].dt.year == period_value[0]) & 
+            (data['Date'].dt.month == period_value[1])
+        ]
+    return filtered_data['Category'].value_counts()
+
+def get_category_trends(data, months_lookback):
+    end_date = data['Date'].max()
+    start_date = end_date - pd.DateOffset(months=months_lookback)
+    mask = (data['Date'] >= start_date) & (data['Date'] <= end_date)
+    trend_data = data[mask]
+    
+    trends = trend_data.groupby([pd.Grouper(key='Date', freq='M'), 'Category']).size().unstack(fill_value=0)
+    return trends
+
 def show_reports_content(selected_option, all_data):
     if selected_option == "Posts Per Year":
         display_posts_per_year(all_data)
     elif selected_option == "Posts Per Category":
         display_posts_per_category(all_data)
+    elif selected_option == "Top Service Analysis":
+        st.subheader("Top Service by Year")
+        year = st.selectbox("Select Year", sorted(all_data['Date'].dt.year.unique(), reverse=True))
+        top_service, count = get_top_service_by_year(all_data, year)
+        if top_service:
+            st.write(f"Top service in {year}: **{top_service}** with {count} announcements")
+            
+    elif selected_option == "Category Summary":
+        st.subheader("Category Summary")
+        period_type = st.radio("Select Period Type", ["Month", "Year"])
+        if period_type == "Year":
+            year = st.selectbox("Select Year", sorted(all_data['Date'].dt.year.unique(), reverse=True))
+            summary = get_category_summary(all_data, 'year', year)
+            st.bar_chart(summary)
+        else:
+            col1, col2 = st.columns(2)
+            with col1:
+                year = st.selectbox("Select Year", sorted(all_data['Date'].dt.year.unique(), reverse=True))
+            with col2:
+                month = st.selectbox("Select Month", range(1, 13))
+            summary = get_category_summary(all_data, 'month', (year, month))
+            st.bar_chart(summary)
+            
+    elif selected_option == "Category Trends":
+        st.subheader("Category Trends")
+        year = st.selectbox("Select Year", sorted(all_data['Date'].dt.year.unique(), reverse=True))
+        trend_period = st.radio("Select Trend Period", ["1 Month", "6 Months"])
+        months = 1 if trend_period == "1 Month" else 6
+        trends = get_category_trends(all_data, months)
+        st.line_chart(trends)
+        
     elif selected_option == "Mission":
         st.write("Our Mission")
         st.success("To provide exceptional service...")
@@ -487,6 +565,12 @@ def main():
         # Different options for each menu
         if st.session_state.active_menu == "About":
             sidebar_option = st.write("-= Review AWS What's New App =-")
+        elif st.session_state.active_menu == "Reports":
+            sidebar_option = st.selectbox(
+                "Select Report",
+                ["Posts Per Year", "Posts Per Category", "Top Service Analysis", 
+                 "Category Summary", "Category Trends"]
+            )
             st.write("Author: Paul Dunlop + Amazon Q For Developers")
             st.write(version)
             st.write("Last Scraped: " + last_scaped_date)
