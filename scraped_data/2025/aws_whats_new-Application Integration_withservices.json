@@ -1,6 +1,52 @@
 [
     {
         "Category": "Application Integration",
+        "Title": "Amazon EventBridge Scheduler now supports AWS PrivateLink",
+        "Date": "26/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
+        "Services": [
+            "AWS PrivateLink",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge expands IAM execution role support to all targets",
+        "Date": "12/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud (US) Regions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge expands enhanced event source discovery to AWS GovCloud (US) Regions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-event-source-discovery-govcloud/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Announcing AWS Step Functions Workflow Studio for the VS Code IDE",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-step-functions-workflow-studio-vs-code-ide/",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Application Integration",
         "Title": "AWS Step Functions expands data source and output options for Distributed Map",
         "Date": "08/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map",

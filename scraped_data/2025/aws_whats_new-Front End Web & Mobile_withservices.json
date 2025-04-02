@@ -1,12 +1,69 @@
 [
     {
         "Category": "Front End Web & Mobile",
+        "Title": "AWS Amplify Hosting announces Web Application Firewall Protection in general availability",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-web-application-firewall-protection/",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "Amplify Swift launches Shared Keychain support",
+        "Date": "25/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amplify-swift-shared-keychain-support/",
+        "Services": []
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS announces expanded service support in the AWS Console Mobile App",
+        "Date": "22/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-expanded-support-console-mobile-app/",
+        "Services": []
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AppSync Events adds publishing over WebSocket for real-time pub/sub",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/appsync-events-publishing-websocket-real-time-pub-sub",
+        "Services": []
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS Amplify Hosting announces deployment skew protection support",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-deployment-skew-protection-support/",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
         "Title": "Amazon Location Service now supports AWS PrivateLink",
         "Date": "26/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
         "Services": [
-            "Amazon Location Service",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Location Service"
         ]
     },
     {

@@ -1,6 +1,108 @@
 [
     {
         "Category": "Storage",
+        "Title": "Amazon S3 Tables are now available in the AWS Middle East (UAE) Region",
+        "Date": "04/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-middle-east-uae-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones",
+        "Date": "03/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Deploy Storage Browser for Amazon S3 quickly with AWS sample applications",
+        "Date": "03/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/deploy-storage-browser-amazon-s3-sample-applications/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables are now available in three additional AWS Regions",
+        "Date": "03/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-additional-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon OpenSearch Service expands cross-VPC connectivity to the AWS GovCloud (US) Regions",
+        "Date": "03/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-service-cross-vpc-connectivity-aws-govcloud-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Asia Pacific (Thailand) Region",
+        "Date": "03/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-storage-gateway-asia-pacific-thailand-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Access Grants simplify authentication when using both IAM and Identity Provider permissions",
+        "Date": "03/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-access-grants-authentication-provider-permissions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 reduces pricing for S3 object tagging by 35%",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds logically air-gapped vault support for Amazon FSx",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables add create and query table support in the S3 console",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables integration with SageMaker Lakehouse is now generally available",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-lakehouse-integration-s3-tables-generally-available"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables add Apache Iceberg REST Catalog APIs",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables are now available in three additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-three-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now supports AWS PrivateLink",
+        "Date": "03/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Mountpoint for Amazon S3 CSI driver is now available in AWS GovCloud (US) Regions",
+        "Date": "03/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/mountpoint-for-amazon-s3-csi-driver-govcloud/"
+    },
+    {
+        "Category": "Storage",
         "Title": "AWS Storage Gateway is now available in AWS Mexico (Central) Region",
         "Date": "02/19/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/"
@@ -25,15 +127,15 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
-        "Date": "02/08/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/"
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
         "Date": "02/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
+        "Date": "02/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/"
     },
     {
         "Category": "Storage",
@@ -85,21 +187,15 @@
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
-        "Date": "01/16/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/"
-    },
-    {
-        "Category": "Storage",
         "Title": "AWS Backup is now available in AWS Asia Pacific (Thailand)",
         "Date": "01/16/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-asia-pacific-thailand/"
     },
     {
         "Category": "Storage",
-        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
-        "Date": "01/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region"
+        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
+        "Date": "01/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/"
     },
     {
         "Category": "Storage",
@@ -118,5 +214,11 @@
         "Title": "Amazon FSx for Windows File Server is now available in the AWS Asia Pacific (Malaysia) Region",
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "01/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region"
     }
 ]

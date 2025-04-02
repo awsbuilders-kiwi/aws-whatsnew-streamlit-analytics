@@ -1,6 +1,86 @@
 [
     {
         "Category": "Serverless",
+        "Title": "AWS Lambda adds support for Ruby 3.4",
+        "Date": "28/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Redshift Serverless is now available in the AWS Mexico (Central) and Asia Pacific (Thailand) Regions",
+        "Date": "21/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand",
+        "Services": [
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge expands IAM execution role support to all targets",
+        "Date": "12/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Accelerate serverless development with ready-to-use Serverless Land Patterns in Visual Studio Code",
+        "Date": "12/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/ready-to-use-serverless-land-patterns-vs-code-ide/",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud (US) Regions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now available in AWS Europe (Spain) Region",
+        "Date": "08/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now available in AWS Europe (Milan) Region",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now available in AWS US West (N. California) and Europe (Stockholm) Regions",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions",
+        "Services": [
+            "Amazon API Gateway"
+        ]
+    },
+    {
+        "Category": "Serverless",
         "Title": "Amazon ECS adds support for additional IAM condition keys",
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys",

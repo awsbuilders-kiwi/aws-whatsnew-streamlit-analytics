@@ -1,10 +1,158 @@
 [
     {
         "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports custom cache keys for S3 caching",
+        "Date": "29/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CloudFormation now supports targeted resource scans in the IaC generator",
+        "Date": "28/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-targeted-resource-scans-iac-generator/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 24 is now generally available",
+        "Date": "25/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/",
+        "Services": [
+            "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations",
+        "Date": "25/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/",
+        "Services": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline introduces CodeBuild and Commands rule for stage level condition",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-codebuild-commands-rule-stage-level-condition/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports invoking pipeline execution with a new action type",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-invoking-pipeline-new-action-type/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeConnections adds support for new condition key",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports organization and enterprise level GitHub self-hosted runners",
+        "Date": "13/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-organization-enterprise-level-github-self-hosted-runners",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Bedrock now supports multi-agent collaboration",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-multi-agent-collaboration",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer announces a new CLI agent within the command line",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-cli-agent-command-line/",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Sharing of Connections is now available in AWS CodeConnections",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/sharing-connections-aws-codeconnections",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports non-container builds in on-demand fleets",
+        "Date": "05/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-non-container-builds-on-demand-fleets/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for Node 22, Python 3.13, and Go 1.23",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-node-22-python-3-13-go-1-23/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for macOS 15.2",
+        "Date": "01/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "Monitor and observe apps across multiple accounts with Application Signals",
         "Date": "28/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals",
         "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
     },
     {
         "Category": "Developer Tools",
@@ -30,18 +178,9 @@
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
         "Services": [
-            "Amazon Q",
             "Amazon Q Developer",
+            "Amazon Q",
             "AWS Chatbot"
-        ]
-    },
-    {
-        "Category": "Developer Tools",
-        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
-        "Date": "27/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/",
-        "Services": [
-            "AWS CodeBuild"
         ]
     },
     {
@@ -59,8 +198,8 @@
         "Date": "22/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/",
         "Services": [
-            "Amazon EC2",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "Amazon EC2"
         ]
     },
     {
@@ -87,8 +226,8 @@
         "Date": "15/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -138,8 +277,8 @@
         "Date": "07/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-experience-pro-tier-subscriptions/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -157,8 +296,8 @@
         "Date": "01/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -167,8 +306,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-pro-tier-automated-user-onboarding-emails",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -229,8 +368,8 @@
         "Date": "16/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-plugin-cloudzero/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {

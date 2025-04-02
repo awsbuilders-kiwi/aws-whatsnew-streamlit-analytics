@@ -1,6 +1,66 @@
 [
     {
         "Category": "Containers",
+        "Title": "Amazon EKS introduces a new catalog of community add-ons",
+        "Date": "04/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now enforces upgrade insights checks as part of cluster upgrades",
+        "Date": "03/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR announces ECR to ECR pull through cache",
+        "Date": "03/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EMR on EKS now supports Amazon EKS Pod Identity",
+        "Date": "03/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-eks-eks-pod-identity"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS now offers GPU-Optimized AMI for Amazon Linux 2023",
+        "Date": "03/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecs-gpu-optimized-ami-linux-2023/"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket now supports NVIDIA Multi-Instance GPU (MIG) for Kubernetes workloads",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS now envelope encrypts all Kubernetes API data by default",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket now supports AWS Neuron accelerated instance types",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Bottlerocket simplifies system setup with default bootstrap container image",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-system-setup-bootstrap-container-image/"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing extended support for Kubernetes versions for Amazon EKS Anywhere",
+        "Date": "03/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/kubernetes-versions-amazon-eks-anywhere/"
+    },
+    {
+        "Category": "Containers",
         "Title": "Amazon ECS adds support for additional IAM condition keys",
         "Date": "02/27/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys"

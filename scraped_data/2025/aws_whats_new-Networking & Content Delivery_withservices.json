@@ -1,12 +1,72 @@
 [
     {
         "Category": "Networking & Content Delivery",
+        "Title": "API Gateway launches support for dual-stack (IPv4 and IPv6) endpoints",
+        "Date": "01/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/api-gateway-dual-stack-ipv4-ipv6-endpoints/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC IP Address Manager is now available in two additional AWS Regions",
+        "Date": "28/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-vpc-ip-address-manager-two-additional-regions/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon EventBridge Scheduler now supports AWS PrivateLink",
+        "Date": "26/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
+        "Services": [
+            "AWS PrivateLink",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall introduces new flow management feature",
+        "Date": "21/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS PrivateLink cross-region connectivity now available in 6 additional regions",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-privatelink-cross-region-connectivity-6-additional-regions/",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Application Load Balancer announces integration with Amazon VPC IPAM",
+        "Date": "08/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/application-load-balancer-integration-vpc-ipam/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
         "Title": "Amazon Location Service now supports AWS PrivateLink",
         "Date": "26/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
         "Services": [
-            "Amazon Location Service",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Location Service"
         ]
     },
     {
@@ -31,8 +91,8 @@
         "Date": "14/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/",
         "Services": [
-            "Amazon Route 53",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "Amazon Route 53"
         ]
     },
     {

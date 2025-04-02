@@ -1,6 +1,72 @@
 [
     {
         "Category": "Management & Governance",
+        "Title": "Database Insights adds support for customization of its metrics dashboard",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM is now generally available in 2 additional AWS regions",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-2-additional-aws-regions/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Database Insights available in AWS GovCloud (US) regions",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-database-insights-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch RUM now supports JavaScript source maps for easier error debugging",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/cloudwatch-rum-javascript-source-maps-error-debugging/",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Manage SLO exclusion time windows using CloudWatch Application Signals",
+        "Date": "18/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/slo-exclusion-time-windows-cloudwatch-application-signals/",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudFormation Hooks' new invocation targets and managed Hooks are available in the AWS GovCloud (US) Regions",
+        "Date": "13/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM introduces resource-based policy support for data ingestion access",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-resource-based-policy-ingestion-access/",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB",
         "Date": "28/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb",
@@ -19,8 +85,8 @@
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
         "Services": [
-            "Amazon Q",
             "Amazon Q Developer",
+            "Amazon Q",
             "AWS Chatbot"
         ]
     },
@@ -42,19 +108,19 @@
     },
     {
         "Category": "Management & Governance",
+        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
         "Date": "11/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql",
         "Services": [
             "Amazon CloudWatch"
         ]
-    },
-    {
-        "Category": "Management & Governance",
-        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
-        "Date": "11/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
-        "Services": []
     },
     {
         "Category": "Management & Governance",
@@ -85,19 +151,19 @@
     },
     {
         "Category": "Management & Governance",
-        "Title": "CloudWatch Database Insights now supports historical OS process snapshots",
-        "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots",
-        "Services": []
-    },
-    {
-        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch Synthetics adds IPv6 support",
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/",
         "Services": [
             "Amazon CloudWatch"
         ]
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch Database Insights now supports historical OS process snapshots",
+        "Date": "31/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots",
+        "Services": []
     },
     {
         "Category": "Management & Governance",
@@ -122,19 +188,19 @@
     },
     {
         "Category": "Management & Governance",
+        "Title": "AWS Resource Groups now supports 172 more resource types",
+        "Date": "24/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types",
+        "Services": []
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch allows alarming on data up to 7 days old",
         "Date": "24/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/",
         "Services": [
             "Amazon CloudWatch"
         ]
-    },
-    {
-        "Category": "Management & Governance",
-        "Title": "AWS Resource Groups now supports 172 more resource types",
-        "Date": "24/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types",
-        "Services": []
     },
     {
         "Category": "Management & Governance",

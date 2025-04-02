@@ -1,12 +1,39 @@
 [
     {
         "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family web apps are now available in AWS GovCloud (US) Regions",
+        "Date": "01/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family enhances AS2 certificate management capabilities",
+        "Date": "18/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-as2-certificate-management/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family announces reduced login latency for SFTP servers",
+        "Date": "05/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-reduced-login-latency-sftp-servers/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
         "Title": "Announcing AWS CloudFormation support for AWS Transfer Family web apps",
         "Date": "11/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudformation-aws-transfer-family-web-apps",
         "Services": [
-            "AWS Transfer Family",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Transfer Family"
         ]
     },
     {
