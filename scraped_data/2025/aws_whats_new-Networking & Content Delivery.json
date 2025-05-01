@@ -1,6 +1,60 @@
 [
     {
         "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Lattice now supports IPv6 for management endpoints",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Client VPN now supports Client Routes Enforcement",
+        "Date": "04/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-client-vpn-client-routes-enforcement/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing SaaS Manager for Amazon CloudFront",
+        "Date": "04/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/saas-manager-amazon-cloudfront/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in Europe (Spain) Region",
+        "Date": "04/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-reachability-network-access-analyzer-spain/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces Anycast Static IPs support for apex domains",
+        "Date": "04/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-anycast-static-ips-apex-domains"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Lambda@Edge announces advanced logging controls",
+        "Date": "04/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-edge-advanced-logging-controls/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS simplifies Amazon VPC Peering billing",
+        "Date": "04/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-peering-billing/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront supports VPC Origin modification with CloudFront Functions",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-vpc-origin-modification-functions/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Announcing the general availability of Amazon VPC Route Server",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-route-server/"
+    },
+    {
+        "Category": "Networking & Content Delivery",
         "Title": "API Gateway launches support for dual-stack (IPv4 and IPv6) endpoints",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/api-gateway-dual-stack-ipv4-ipv6-endpoints/"

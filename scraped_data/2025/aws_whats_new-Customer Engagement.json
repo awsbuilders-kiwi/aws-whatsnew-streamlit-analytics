@@ -1,6 +1,54 @@
 [
     {
         "Category": "Customer Engagement",
+        "Title": "Amazon Connect agent workspace expands capabilities for third-party applications, including contact-related actions",
+        "Date": "04/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agent-workspace-capabilities-third-party-applications"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens dashboards now support access controls using agent hierarchies",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-contact-lens-dashboards-access-controls/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now provides the ability to set voice and language dynamically in a contact flow",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-set-voice-language-dynamically-flow/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon SES now offers attachments in sending APIs",
+        "Date": "04/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-attachments-sending-apis/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now allows supervisors to take additional actions on in-progress chats",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-supervisors-additional-actions-in-progress-chats"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now supports additional Dual-Tone Multi-Frequency (DTMF) configuration settings",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-dual-tone-multi-frequency-settings/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect now shows an agent’s adherence to their work schedules in a calendar view",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agents-adherence-work-schedules/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens now offers AI-powered semantic contact categorization in 2 additional regions",
+        "Date": "04/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-semantic-contact-categorization/"
+    },
+    {
+        "Category": "Customer Engagement",
         "Title": "Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/"
@@ -10,12 +58,6 @@
         "Title": "Amazon Connect Contact Lens now lets you enable or disable sentiment analysis",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-enable-disable-sentiment/"
-    },
-    {
-        "Category": "Customer Engagement",
-        "Title": "Amazon Connect Contact Lens now offers AI-powered semantic contact categorization in 2 additional regions",
-        "Date": "04/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-semantic-contact-categorization/"
     },
     {
         "Category": "Customer Engagement",
@@ -49,15 +91,15 @@
     },
     {
         "Category": "Customer Engagement",
-        "Title": "Amazon Connect Contact Lens can now dynamically update the questions on an evaluation form",
-        "Date": "03/08/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-update-questions-evaluation-form/"
-    },
-    {
-        "Category": "Customer Engagement",
         "Title": "Amazon OpenSearch Serverless now available in AWS Europe (Spain) Region",
         "Date": "03/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens can now dynamically update the questions on an evaluation form",
+        "Date": "03/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-update-questions-evaluation-form/"
     },
     {
         "Category": "Customer Engagement",
@@ -133,14 +175,14 @@
     },
     {
         "Category": "Customer Engagement",
-        "Title": "Amazon Connect Contact Lens dashboards now provide configurable groupings and filters",
-        "Date": "01/17/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-dashboards-groupings-filters/"
-    },
-    {
-        "Category": "Customer Engagement",
         "Title": "Amazon Connect Contact Lens launches new real-time dashboard",
         "Date": "01/17/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-real-time-dashboard/"
+    },
+    {
+        "Category": "Customer Engagement",
+        "Title": "Amazon Connect Contact Lens dashboards now provide configurable groupings and filters",
+        "Date": "01/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-dashboards-groupings-filters/"
     }
 ]

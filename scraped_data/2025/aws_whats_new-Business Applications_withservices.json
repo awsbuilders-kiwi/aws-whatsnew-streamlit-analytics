@@ -1,6 +1,89 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "Amazon Connect launches administrator access for agent schedules",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides bulk removal of agent schedules",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Cases adds support for managing service level agreements on cases",
+        "Date": "18/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now supports logging email sending events through AWS CloudTrail",
+        "Date": "15/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail",
+        "Services": [
+            "Amazon SES",
+            "AWS CloudTrail"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider",
+        "Date": "11/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS End User Messaging now supports IPv6",
+        "Date": "08/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-ipv6/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Monitor service dependencies with Amazon CloudWatch Application Signals SLOs",
+        "Date": "03/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
         "Title": "Amazon Connect Contact Lens now supports conversational analytics in 34 new languages",
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages",
@@ -56,8 +139,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
             "Amazon WorkSpaces",
-            "Amazon AppStream 2.0",
-            "Amazon Connect"
+            "Amazon Connect",
+            "Amazon AppStream 2.0"
         ]
     },
     {
@@ -164,16 +247,16 @@
     },
     {
         "Category": "Business Applications",
-        "Title": "SES Mail Manager adds support for address and domain lists",
+        "Title": "SES Mail Manager is now available in 11 new AWS Regions, 17 total",
         "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions",
         "Services": []
     },
     {
         "Category": "Business Applications",
-        "Title": "SES Mail Manager is now available in 11 new AWS Regions, 17 total",
+        "Title": "SES Mail Manager adds support for address and domain lists",
         "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists",
         "Services": []
     },
     {

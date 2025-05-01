@@ -1,6 +1,108 @@
 [
     {
         "Category": "Developer Tools",
+        "Title": "Amazon Q Developer CLI now supports Model Context Protocol (MCP)",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer operational investigations (preview) now available in additional regions",
+        "Date": "04/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for specifying EC2 instance type and configurable storage size",
+        "Date": "04/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-ec2-instance-type-configurable-storage-size/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer releases state of the art agent for feature development",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-releases-state-art-agent-feature-development"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "GitLab Duo with Amazon Q is now generally available",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/gitlab-duo-amazon-q-generally-available"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto April 2025 Quarterly Updates",
+        "Date": "04/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer is now generally available in the AWS Europe (Frankfurt) Region",
+        "Date": "04/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-aws-europe-frankfurt-region"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds Node 22, Python 3.13 and Go 1.24 to Lambda Compute images",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-node-22-python-3-13-go-1-24/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon SageMaker Studio now supports recovery mode for applications",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer expands multi-language support within the IDE and CLI",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-multi-language-ide-cli"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs",
+        "Date": "04/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports enhanced debugging experience",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-enhanced-debugging-experience"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Monitor service dependencies with Amazon CloudWatch Application Signals SLOs",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing the general availability seventh quarterly update for Amazon Linux 2023 (AL2023), AL2023.7",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/general-availability-quarterly-update-amazon-linux-2023-al2023-7"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/"
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "AWS CodeBuild now supports custom cache keys for S3 caching",
         "Date": "03/29/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching"
@@ -19,15 +121,15 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "Amazon Corretto 24 is now generally available",
-        "Date": "03/25/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/"
-    },
-    {
-        "Category": "Developer Tools",
         "Title": "AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations",
         "Date": "03/25/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Corretto 24 is now generally available",
+        "Date": "03/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/"
     },
     {
         "Category": "Developer Tools",
@@ -43,15 +145,15 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "AWS CodePipeline supports invoking pipeline execution with a new action type",
-        "Date": "03/15/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-invoking-pipeline-new-action-type/"
-    },
-    {
-        "Category": "Developer Tools",
         "Title": "AWS CodeConnections adds support for new condition key",
         "Date": "03/15/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline supports invoking pipeline execution with a new action type",
+        "Date": "03/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-invoking-pipeline-new-action-type/"
     },
     {
         "Category": "Developer Tools",
@@ -103,12 +205,6 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
-        "Date": "02/27/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/"
-    },
-    {
-        "Category": "Developer Tools",
         "Title": "AWS CodeBuild adds support for managed runners for GitLab Self-Managed",
         "Date": "02/27/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-runners-gitlab-self-managed"
@@ -124,6 +220,12 @@
         "Title": "AWS Chatbot is now named Amazon Q Developer",
         "Date": "02/27/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/"
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
+        "Date": "02/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/"
     },
     {
         "Category": "Developer Tools",

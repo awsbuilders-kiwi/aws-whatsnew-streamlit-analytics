@@ -1,6 +1,52 @@
 [
     {
         "Category": "Front End Web & Mobile",
+        "Title": "AWS Amplify introduces data seeding",
+        "Date": "30/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS Amplify enhances developer tooling with refined output and CDK-style notices",
+        "Date": "29/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-developer-tooling-refined-output-cdk-style-notices",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS AppSync Events now supports data source integrations for channel namespaces",
+        "Date": "25/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appsync-events-data-source-integrations-channel-namespaces",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS Console Mobile Application adds support for Amazon Lightsail",
+        "Date": "19/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail",
+        "Services": [
+            "AWS Console Mobile Application",
+            "Amazon Lightsail"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs",
+        "Date": "09/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/",
+        "Services": [
+            "Amazon API Gateway"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
         "Title": "AWS Amplify Hosting announces Web Application Firewall Protection in general availability",
         "Date": "27/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-web-application-firewall-protection/",
@@ -97,8 +143,8 @@
         "Date": "29/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/",
         "Services": [
-            "AWS Amplify",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Amplify"
         ]
     },
     {

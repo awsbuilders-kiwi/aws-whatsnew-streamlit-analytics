@@ -1,6 +1,138 @@
 [
     {
         "Category": "Database",
+        "Title": "Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Generation 7i instance support for Amazon RDS on AWS Outposts",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB Accelerator now supports R7i instances",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports Global Datastore in 15 additional Regions",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing AWS DMS Serverless automatic storage scaling",
+        "Date": "04/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Serverless Reservations, a new discounted pricing option for Amazon Redshift Serverless",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy is now available in 3 additional AWS regions",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-additional-aws-regions"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon MemoryDB now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Bedrock Knowledge Bases now supports hybrid search for Aurora PostgreSQL and MongoDB Atlas vector stores",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-knowledge-bases-hybrid-search-aurora-postgresql-mongo-db-atlas-vector-stores"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for SQL Server supports new minor versions for SQL Server 2019 and 2022",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-sql-server-2019-2022/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing horizontal autoscaling in Amazon ElastiCache for Memcached",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/horizontal-autoscaling-amazon-elasticache-memcached/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing vertical scaling in Amazon ElastiCache for Memcached",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/vertical-scaling-amazon-elasticache-memcached/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports M6id and R6id database instances",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing pgvector 0.8.0 support in Aurora PostgreSQL",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql"
+    },
+    {
+        "Category": "Database",
+        "Title": "Cost Optimization Hub supports DynamoDB and MemoryDB reservation recommendations",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/cost-optimization-hub-dynamodb-memorydb-reservation/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019",
+        "Date": "04/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune announces 99.99% availability Service Level Agreement",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-neptune-99-99-availability-service-level-agreement"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB supports Innovation Release 11.8 in Amazon RDS Database Preview Environment",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-maria-db-innovation-release-11-8-rds-database-preview-environment"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy is now available in the AWS GovCloud (US) Regions",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-aws-govcloud-us-regions/"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Proxy announces TLS 1.3 support for PostgreSQL on Aurora and RDS",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-tls-1-3-postgresql-aurora-rds/"
+    },
+    {
+        "Category": "Database",
         "Title": "Amazon RDS for PostgreSQL now supports configurable cipher suites",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites"
@@ -91,15 +223,15 @@
     },
     {
         "Category": "Database",
-        "Title": "Amazon Aurora now supports R8g database instances in additional AWS Regions",
-        "Date": "03/15/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-r8g-database-instances-additional-aws-regions"
-    },
-    {
-        "Category": "Database",
         "Title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions",
         "Date": "03/15/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-mysql-mariadb-m8g-r8g-database-instances-additional-regions"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports R8g database instances in additional AWS Regions",
+        "Date": "03/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-r8g-database-instances-additional-aws-regions"
     },
     {
         "Category": "Database",
@@ -115,15 +247,15 @@
     },
     {
         "Category": "Database",
-        "Title": "Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions",
-        "Date": "03/13/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions"
-    },
-    {
-        "Category": "Database",
         "Title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now supports multiple integrations",
         "Date": "03/13/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions",
+        "Date": "03/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions"
     },
     {
         "Category": "Database",
@@ -181,27 +313,27 @@
     },
     {
         "Category": "Database",
-        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20",
-        "Date": "02/22/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/"
-    },
-    {
-        "Category": "Database",
         "Title": "AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.",
         "Date": "02/22/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/"
     },
     {
         "Category": "Database",
-        "Title": "Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4",
-        "Date": "02/20/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4"
+        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20",
+        "Date": "02/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/"
     },
     {
         "Category": "Database",
         "Title": "Announcing AWS DMS Serverless comprehensive premigration assessments",
         "Date": "02/20/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4",
+        "Date": "02/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4"
     },
     {
         "Category": "Database",
@@ -217,15 +349,15 @@
     },
     {
         "Category": "Database",
-        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19",
-        "Date": "02/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/"
-    },
-    {
-        "Category": "Database",
         "Title": "Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103",
         "Date": "02/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103"
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/"
     },
     {
         "Category": "Database",
@@ -319,15 +451,15 @@
     },
     {
         "Category": "Database",
-        "Title": "CloudWatch provides execution plan capture for Aurora PostgreSQL",
-        "Date": "01/23/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql"
-    },
-    {
-        "Category": "Database",
         "Title": "Amazon DynamoDB introduces warm throughput for tables and indexes in the AWS GovCloud (US) Regions",
         "Date": "01/23/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-dynamodb-warm-tables-indexes-govcloud/"
+    },
+    {
+        "Category": "Database",
+        "Title": "CloudWatch provides execution plan capture for Aurora PostgreSQL",
+        "Date": "01/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql"
     },
     {
         "Category": "Database",

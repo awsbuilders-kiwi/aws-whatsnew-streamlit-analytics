@@ -1,6 +1,90 @@
 [
     {
         "Category": "Security, Identity, & Compliance",
+        "Title": "AWS WAF Targeted Bot Control and Fraud Control is now available in two additional regions",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-waf-targeted-bot-fraud-control-two-regions/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Cognito adds enhanced context support for machine-to-machine (M2M) authorization flows",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-context-machine-to-machine-flows/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Automated HTTP validated public certificates with Amazon CloudFront",
+        "Date": "04/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/automated-http-validated-public-certificates-amazon-cloudfront"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Cognito now supports refresh token rotation",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-refresh-token-rotation/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS STS global endpoint now serves your requests locally in regions enabled by default",
+        "Date": "04/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS Security Incident Response now supports integration with AWS PrivateLink",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Verified Permissions now supports policy store deletion protection",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Announcing 223 new AWS Config rules in AWS Control Tower",
+        "Date": "04/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS IAM Identity Center is now available in the Asia Pacific (Malaysia) AWS Region",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Security Lake now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Security Lake achieves FedRamp High and Moderate authorization",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
         "Title": "AWS Resource Access Manager (RAM) now supports Internet Protocol Version 6 (IPv6)",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6"
@@ -169,15 +253,15 @@
     },
     {
         "Category": "Security, Identity, & Compliance",
-        "Title": "Amazon Verified Permissions now supports the Cedar JSON entity format",
-        "Date": "02/25/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/"
-    },
-    {
-        "Category": "Security, Identity, & Compliance",
         "Title": "AWS WAF enhances integration with Service Quotas",
         "Date": "02/25/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/"
+    },
+    {
+        "Category": "Security, Identity, & Compliance",
+        "Title": "Amazon Verified Permissions now supports the Cedar JSON entity format",
+        "Date": "02/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/"
     },
     {
         "Category": "Security, Identity, & Compliance",

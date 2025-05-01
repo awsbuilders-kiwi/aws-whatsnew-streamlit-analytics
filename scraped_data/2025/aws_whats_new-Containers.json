@@ -1,6 +1,30 @@
 [
     {
         "Category": "Containers",
+        "Title": "Amazon EKS Hybrid Nodes now supports Bottlerocket",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS adds the ability to set a default log driver blocking mode",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode"
+    },
+    {
+        "Category": "Containers",
+        "Title": "AWS Batch now supports Amazon Elastic Container Service Exec and AWS FireLens log router",
+        "Date": "04/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router"
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS Adds Support for Bottlerocket FIPS AMIs in Managed Node Groups",
+        "Date": "04/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-bottlerocket-fips-amis-node-groups/"
+    },
+    {
+        "Category": "Containers",
         "Title": "Amazon EKS introduces a new catalog of community add-ons",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons"

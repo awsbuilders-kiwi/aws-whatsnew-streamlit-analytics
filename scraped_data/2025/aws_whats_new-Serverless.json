@@ -1,6 +1,30 @@
 [
     {
         "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS adds the ability to set a default log driver blocking mode",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode"
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys"
+    },
+    {
+        "Category": "Serverless",
         "Title": "AWS Lambda adds support for Ruby 3.4",
         "Date": "03/28/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4"

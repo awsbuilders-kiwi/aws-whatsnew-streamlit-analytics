@@ -1,6 +1,162 @@
 [
     {
         "Category": "Analytics",
+        "Title": "Amazon SageMaker scheduling experience for Visual ETL and Query editors",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-scheduling-visual-etl-query-editors"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service now supports OpenSearch version 2.19",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-opensearch-version-2-19"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms now supports multiple results receivers in a collaboration",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker Lakehouse now supports attribute based access control",
+        "Date": "04/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-lakehouse-attribute-based-access-control/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift adds history mode support to 8 third-party SaaS applications",
+        "Date": "04/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-history-mode-third-party-saas-applications"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing Serverless Reservations, a new discounted pricing option for Amazon Redshift Serverless",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Introducing a guided visual pipeline builder for Amazon OpenSearch Ingestion",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/guided-visual-pipeline-builder-amazon-opensearch-ingestion/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 3.9",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-apache-kafka-version-3-9"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service supports SAML single sign-on for OpenSearch UI",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-saml-single-sign-on/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Managed Service for Apache Flink is now available in Asia Pacific (Thailand) Region",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-thailand/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena is now available in Mexico (Central) and Asia Pacific (Thailand)",
+        "Date": "04/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-athena-mexico-central-asia-pacific-thailand/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Concurrency Scaling is now available in 2 additional regions",
+        "Date": "04/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Managed Service for Apache Flink is now available in the Mexico (Central) Region",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East (UAE) Region",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch UI is now available in AWS Europe (Stockholm) and Asia Pacific (Hong Kong) Regions",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion now available in AWS Europe (Spain) Region",
+        "Date": "04/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ingestion-aws-europe-spain-region"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue G4 and G8 worker types now available in six new regions",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker now offers 9 additional visual ETL transforms",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-additional-visual-etl-transforms"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Announcing enhanced autoscaling for Amazon OpenSearch Ingestion pipelines",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/autoscaling-amazon-opensearch-ingestion-pipelines/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Clean Rooms Spark SQL now supports aggregation and list analysis rules",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-spark-sql-aggregation-list-analysis-rules/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches dashboard versioning and publish any analysis to any dashboard",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-dashboard-versioning-publish-analysis-dashboard"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight launches Amazon Q in embedded QuickSight",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Backup introduces support for Amazon Redshift Serverless",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon QuickSight now supports Highlighting",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-highlighting/"
+    },
+    {
+        "Category": "Analytics",
         "Title": "Amazon QuickSight launches scheduling and alerts in embedded dashboards",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-scheduling-alerts-embedded-dashboards"
@@ -19,21 +175,15 @@
     },
     {
         "Category": "Analytics",
-        "Title": "Amazon SageMaker introduces metadata rules to enforce standards and improve data governance",
-        "Date": "03/29/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance"
-    },
-    {
-        "Category": "Analytics",
         "Title": "Amazon DataZone now supports metadata rules for publishing",
         "Date": "03/29/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-metadata-rules-publishing"
     },
     {
         "Category": "Analytics",
-        "Title": "Amazon DataZone is now available in 2 additional commercial regions",
-        "Date": "03/26/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-2-additional-commercial-regions/"
+        "Title": "Amazon SageMaker introduces metadata rules to enforce standards and improve data governance",
+        "Date": "03/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance"
     },
     {
         "Category": "Analytics",
@@ -52,6 +202,12 @@
         "Title": "The next generation of Amazon SageMaker is now available in two additional regions",
         "Date": "03/26/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-sagemaker-two-additional-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon DataZone is now available in 2 additional commercial regions",
+        "Date": "03/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-2-additional-commercial-regions/"
     },
     {
         "Category": "Analytics",
@@ -127,18 +283,6 @@
     },
     {
         "Category": "Analytics",
-        "Title": "Amazon QuickSight now available in the Europe (Spain) Region",
-        "Date": "03/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region"
-    },
-    {
-        "Category": "Analytics",
-        "Title": "Amazon Bedrock’s capabilities now generally available within Amazon SageMaker Unified Studio",
-        "Date": "03/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrocks-capabilities-amazon-sagemaker-unified-studio"
-    },
-    {
-        "Category": "Analytics",
         "Title": "Amazon SageMaker Unified Studio is now generally available",
         "Date": "03/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/"
@@ -157,21 +301,33 @@
     },
     {
         "Category": "Analytics",
+        "Title": "Amazon QuickSight now available in the Europe (Spain) Region",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Bedrock’s capabilities now generally available within Amazon SageMaker Unified Studio",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrocks-capabilities-amazon-sagemaker-unified-studio"
+    },
+    {
+        "Category": "Analytics",
         "Title": "AWS Glue now available in two new regions",
         "Date": "03/13/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-available-two-new-regions/"
     },
     {
         "Category": "Analytics",
-        "Title": "Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions",
-        "Date": "03/13/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions"
-    },
-    {
-        "Category": "Analytics",
         "Title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now supports multiple integrations",
         "Date": "03/13/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions",
+        "Date": "03/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions"
     },
     {
         "Category": "Analytics",
@@ -247,15 +403,15 @@
     },
     {
         "Category": "Analytics",
-        "Title": "Amazon Q generative SQL is now available in additional regions",
-        "Date": "02/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/"
-    },
-    {
-        "Category": "Analytics",
         "Title": "Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB",
         "Date": "02/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Q generative SQL is now available in additional regions",
+        "Date": "02/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/"
     },
     {
         "Category": "Analytics",

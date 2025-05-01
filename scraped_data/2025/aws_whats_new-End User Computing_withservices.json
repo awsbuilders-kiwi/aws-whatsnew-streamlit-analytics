@@ -1,6 +1,20 @@
 [
     {
         "Category": "End User Computing",
+        "Title": "AWS End User Messaging helps customers combat SMS pumping",
+        "Date": "30/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-combat-sms-pumping/",
+        "Services": []
+    },
+    {
+        "Category": "End User Computing",
+        "Title": "AWS End User Messaging now supports IPv6",
+        "Date": "08/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-ipv6/",
+        "Services": []
+    },
+    {
+        "Category": "End User Computing",
         "Title": "Amazon WorkSpaces Pools now supports FIPS 140-2 validated endpoints",
         "Date": "08/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-workspaces-pools-fips-140-2-validated-endpoints",
@@ -15,8 +29,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
             "Amazon WorkSpaces",
-            "Amazon AppStream 2.0",
-            "Amazon Connect"
+            "Amazon Connect",
+            "Amazon AppStream 2.0"
         ]
     },
     {

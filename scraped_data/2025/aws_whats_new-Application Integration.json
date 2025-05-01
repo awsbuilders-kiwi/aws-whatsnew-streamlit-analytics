@@ -1,6 +1,60 @@
 [
     {
         "Category": "Application Integration",
+        "Title": "Amazon EventBridge cross-account event delivery now in the AWS GovCloud (US) Regions",
+        "Date": "04/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-cross-account-event-delivery-govcloud/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SQS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/22/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sqs-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports Customer Managed Keys (CMK) in API destinations connections",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-customer-managed-keys-api/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Connector for Apache Kafka Connect now generally available",
+        "Date": "04/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-connector-apache-kafka-connect/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon MQ is now available in two additional regions",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-mq-additional-regions"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sns-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS Step Functions expands SDK integrations with Amazon Backup Search and 137 additional APIs",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-step-functions-sdk-integrations-backup-search-apis/"
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS End User Messaging expands self-service for phone number registration support in 18 new countries",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-self-service-phone-number-registration/"
+    },
+    {
+        "Category": "Application Integration",
         "Title": "Amazon EventBridge Scheduler now supports AWS PrivateLink",
         "Date": "03/26/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/"

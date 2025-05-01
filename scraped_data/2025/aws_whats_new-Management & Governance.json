@@ -1,6 +1,120 @@
 [
     {
         "Category": "Management & Governance",
+        "Title": "AWS Resource Explorer is now available in 3 additional AWS Regions",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-additional-regions"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config now supports 13 new resource types",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-config-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager launches just-in-time node access",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Q Developer operational investigations (preview) now available in additional regions",
+        "Date": "04/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Groups now supports 160 more resource types",
+        "Date": "04/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Explorer now supports AWS PrivateLink",
+        "Date": "04/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-privatelink/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS AppConfig now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Account Management now supports IAM-based account name updates",
+        "Date": "04/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch launches cross-account observability in the AWS GovCloud (US) Regions",
+        "Date": "04/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-cross-account-observability-govcloud/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS (ROSA)",
+        "Date": "04/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Console Mobile Application adds support for Amazon Lightsail",
+        "Date": "04/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus now supports label-based active series limits",
+        "Date": "04/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Introducing the Well-Architected Generative AI Lens",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/well-architected-generative-ai-lens/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch agent adds support for SELinux",
+        "Date": "04/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-selinux/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Announcing 223 new AWS Config rules in AWS Control Tower",
+        "Date": "04/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "New Guidance in the Well-Architected Tool",
+        "Date": "04/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Monitor service dependencies with Amazon CloudWatch Application Signals SLOs",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Logs increases maximum log event size to 1 MB",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Explorer supports 32 new resource types",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types"
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Database Insights adds support for customization of its metrics dashboard",
         "Date": "03/27/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/"
@@ -79,15 +193,15 @@
     },
     {
         "Category": "Management & Governance",
-        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
-        "Date": "02/11/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/"
-    },
-    {
-        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
         "Date": "02/11/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+        "Date": "02/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/"
     },
     {
         "Category": "Management & Governance",
@@ -109,15 +223,15 @@
     },
     {
         "Category": "Management & Governance",
-        "Title": "Amazon CloudWatch Synthetics adds IPv6 support",
-        "Date": "01/31/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/"
-    },
-    {
-        "Category": "Management & Governance",
         "Title": "CloudWatch Database Insights now supports historical OS process snapshots",
         "Date": "01/31/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Synthetics adds IPv6 support",
+        "Date": "01/31/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/"
     },
     {
         "Category": "Management & Governance",
@@ -139,15 +253,15 @@
     },
     {
         "Category": "Management & Governance",
-        "Title": "AWS Resource Groups now supports 172 more resource types",
-        "Date": "01/24/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types"
-    },
-    {
-        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch allows alarming on data up to 7 days old",
         "Date": "01/24/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Groups now supports 172 more resource types",
+        "Date": "01/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types"
     },
     {
         "Category": "Management & Governance",

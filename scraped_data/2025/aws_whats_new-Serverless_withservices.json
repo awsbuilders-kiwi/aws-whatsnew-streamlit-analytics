@@ -1,6 +1,42 @@
 [
     {
         "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account",
+        "Date": "22/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits",
+        "Services": [
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink",
+        "Date": "18/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink",
+        "Services": [
+            "AWS PrivateLink",
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS adds the ability to set a default log driver blocking mode",
+        "Date": "18/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys",
+        "Date": "08/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Serverless",
         "Title": "AWS Lambda adds support for Ruby 3.4",
         "Date": "28/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4",
@@ -14,8 +50,8 @@
         "Date": "21/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {

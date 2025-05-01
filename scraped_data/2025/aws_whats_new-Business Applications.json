@@ -1,6 +1,66 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "Amazon Connect launches administrator access for agent schedules",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect now provides bulk removal of agent schedules",
+        "Date": "05/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Cases adds support for managing service level agreements on cases",
+        "Date": "04/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now supports logging email sending events through AWS CloudTrail",
+        "Date": "04/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS End User Messaging now supports IPv6",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-ipv6/"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Monitor service dependencies with Amazon CloudWatch Application Signals SLOs",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/"
+    },
+    {
+        "Category": "Business Applications",
         "Title": "Amazon Connect Contact Lens now supports conversational analytics in 34 new languages",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages"
@@ -115,15 +175,15 @@
     },
     {
         "Category": "Business Applications",
-        "Title": "SES Mail Manager adds support for address and domain lists",
-        "Date": "01/31/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists"
-    },
-    {
-        "Category": "Business Applications",
         "Title": "SES Mail Manager is now available in 11 new AWS Regions, 17 total",
         "Date": "01/31/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions"
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager adds support for address and domain lists",
+        "Date": "01/31/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists"
     },
     {
         "Category": "Business Applications",

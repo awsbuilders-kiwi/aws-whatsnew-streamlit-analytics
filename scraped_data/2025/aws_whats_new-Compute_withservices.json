@@ -1,6 +1,250 @@
 [
     {
         "Category": "Compute",
+        "Title": "AWS Elastic Beanstalk adds controls for default security group management",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elastic-beanstalk-controls-default-security-group-management",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "EC2 Image Builder now integrates with SSM Parameter Store",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/ec2-image-builder-integrates-ssm-parameter-store/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing second-generation AWS Outposts racks",
+        "Date": "30/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks",
+        "Services": [
+            "AWS Outposts"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 I7i high performance Storage Optimized instances",
+        "Date": "29/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances now available in US East (Ohio) Region",
+        "Date": "29/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-high-memory-instances-us-east-ohio-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4g instances are now available in AWS Asia Pacific (Sydney) Region",
+        "Date": "24/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M8g instances now available in AWS US West (N. California) Region",
+        "Date": "24/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R7gd instances are now available in additional AWS Regions",
+        "Date": "23/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7gd instances are now available in additional AWS Regions",
+        "Date": "23/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c7gd-instances-additional-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6id instances are now available in AWS Europe (Paris) region",
+        "Date": "22/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6id-instances-europe-paris-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing Amazon EC2 C8gd, M8gd, and R8gd instances",
+        "Date": "22/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS (ROSA)",
+        "Date": "19/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
+        "Services": [
+            "Red Hat OpenShift Service on AWS",
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Dakar",
+        "Date": "17/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-wavelength-zone-dakar/",
+        "Services": [
+            "AWS Wavelength"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C8g instances now available in additional regions",
+        "Date": "16/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Batch now supports Amazon Elastic Container Service Exec and AWS FireLens log router",
+        "Date": "16/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router",
+        "Services": [
+            "AWS Batch",
+            "Amazon Elastic Container Service"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M8g instances now available in additional AWS regions",
+        "Date": "16/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I7ie instances now available in AWS Europe (Ireland) region",
+        "Date": "15/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-instances-aws-europe-ireland-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7i-flex instances now available in AWS Asia Pacific (Melbourne) Region",
+        "Date": "15/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-flex-instances-aws-asia-pacific-melbourne-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4g instances are now available in South America (Sao Paulo) region",
+        "Date": "12/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-sao-paulo-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Introducing two new Amazon EC2 I7ie bare metal instances sizes",
+        "Date": "11/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M6id instances are now available in US West (N. California) region",
+        "Date": "11/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m6id-instances-n-california-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R6id instances are now available in Europe (Spain) region",
+        "Date": "11/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r6id-instances-europe-spain-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6in instances are now available in AWS Asia Pacific (Osaka) Region",
+        "Date": "09/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6in-instances-aws-asia-pacific-osaka-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M8g instances now available in AWS Asia Pacific (Mumbai) and AWS Asia Pacific (Hyderabad)",
+        "Date": "09/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-mumbai-hyderabad/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7i and R7i instances now available in AWS Asia Pacific (Melbourne) Region",
+        "Date": "08/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-r7i-instances-aws-asia-pacific-melbourne-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS ParallelCluster 3.13 with support for Ubuntu 24.04 and support for EFA-enabled with Amazon FSx for Lustre",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing the general availability seventh quarterly update for Amazon Linux 2023 (AL2023), AL2023.7",
+        "Date": "02/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/general-availability-quarterly-update-amazon-linux-2023-al2023-7",
+        "Services": [
+            "Amazon Linux 2023"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager",
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
@@ -253,8 +497,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -391,20 +635,20 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 C7g instances are now available in the AWS Europe (Zurich) Region",
-        "Date": "15/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/",
-        "Services": [
-            "Amazon EC2"
-        ]
-    },
-    {
-        "Category": "Compute",
         "Title": "AWS Lambda adds application performance monitoring (APM) for Java and .NET runtimes via Application Signals",
         "Date": "15/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/",
         "Services": [
             "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7g instances are now available in the AWS Europe (Zurich) Region",
+        "Date": "15/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/",
+        "Services": [
+            "Amazon EC2"
         ]
     },
     {
@@ -506,6 +750,15 @@
     },
     {
         "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Casablanca",
+        "Date": "31/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca",
+        "Services": [
+            "AWS Wavelength"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "AWS Elastic Beanstalk now supports Python 3.13 on Amazon Linux 2023",
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-python-3-13-amazon-linux-2023/",
@@ -532,15 +785,6 @@
         "Services": [
             "AWS Elastic Beanstalk",
             "Amazon Linux 2023"
-        ]
-    },
-    {
-        "Category": "Compute",
-        "Title": "Announcing new AWS Wavelength Zone in Casablanca",
-        "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca",
-        "Services": [
-            "AWS Wavelength"
         ]
     },
     {
@@ -653,9 +897,9 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
-            "Amazon EC2 Auto Scaling",
+            "AWS Compute Optimizer",
             "Amazon EC2",
-            "AWS Compute Optimizer"
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {

@@ -1,6 +1,78 @@
 [
     {
         "Category": "Storage",
+        "Title": "Amazon S3 Access Grants are now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "04/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing Amazon EC2 I7i high performance Storage Optimized instances",
+        "Date": "04/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds support for search and item-level recovery in 4 additional AWS Regions",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-search-item-level-recovery-additional-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EBS now supports additional resource-level permissions for copying EBS snapshots",
+        "Date": "04/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables now support server-side encryption using AWS KMS with customer-managed keys",
+        "Date": "04/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-server-side-encryption-aws-kms-customer-managed-keys"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I7ie instances now available in AWS Europe (Ireland) region",
+        "Date": "04/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-instances-aws-europe-ireland-region"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Express One Zone reduces storage and request prices",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-express-one-zone-reduces-storage-request-prices"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Introducing two new Amazon EC2 I7ie bare metal instances sizes",
+        "Date": "04/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables are now available in four additional AWS Regions",
+        "Date": "04/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-four-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP now supports ONTAP Autonomous Ransomware Protection",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Second-generation Amazon FSx for NetApp ONTAP now available in additional EMEA and APAC Regions",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup introduces support for Amazon Redshift Serverless",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/"
+    },
+    {
+        "Category": "Storage",
         "Title": "Amazon S3 Tables are now available in the AWS Middle East (UAE) Region",
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-middle-east-uae-region/"
@@ -31,33 +103,21 @@
     },
     {
         "Category": "Storage",
-        "Title": "AWS Storage Gateway is now available in AWS Asia Pacific (Thailand) Region",
-        "Date": "03/15/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-storage-gateway-asia-pacific-thailand-region/"
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon S3 Access Grants simplify authentication when using both IAM and Identity Provider permissions",
         "Date": "03/15/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-access-grants-authentication-provider-permissions/"
     },
     {
         "Category": "Storage",
+        "Title": "AWS Storage Gateway is now available in AWS Asia Pacific (Thailand) Region",
+        "Date": "03/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-storage-gateway-asia-pacific-thailand-region/"
+    },
+    {
+        "Category": "Storage",
         "Title": "Amazon S3 reduces pricing for S3 object tagging by 35%",
         "Date": "03/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging"
-    },
-    {
-        "Category": "Storage",
-        "Title": "AWS Backup adds logically air-gapped vault support for Amazon FSx",
-        "Date": "03/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx"
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon S3 Tables add create and query table support in the S3 console",
-        "Date": "03/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/"
     },
     {
         "Category": "Storage",
@@ -76,6 +136,18 @@
         "Title": "Amazon S3 Tables add Apache Iceberg REST Catalog APIs",
         "Date": "03/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup adds logically air-gapped vault support for Amazon FSx",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables add create and query table support in the S3 console",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/"
     },
     {
         "Category": "Storage",
@@ -127,15 +199,15 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
-        "Date": "02/08/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/"
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
         "Date": "02/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "02/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/"
     },
     {
         "Category": "Storage",
@@ -187,15 +259,21 @@
     },
     {
         "Category": "Storage",
+        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
+        "Date": "01/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/"
+    },
+    {
+        "Category": "Storage",
         "Title": "AWS Backup is now available in AWS Asia Pacific (Thailand)",
         "Date": "01/16/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-asia-pacific-thailand/"
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
-        "Date": "01/16/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/"
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "01/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region"
     },
     {
         "Category": "Storage",
@@ -214,11 +292,5 @@
         "Title": "Amazon FSx for Windows File Server is now available in the AWS Asia Pacific (Malaysia) Region",
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region"
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
-        "Date": "01/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region"
     }
 ]
