@@ -1,6 +1,146 @@
 [
     {
         "Category": "Developer Tools",
+        "Title": "Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer CLI now supports Claude Sonnet 4",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-cli-claude-sonnet-4/",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer Eclipse IDE plugin is now generally available",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-eclipse-ide-plugin/",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CDK Toolkit Library is now generally available",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Announcing Amazon Bedrock Agents Metrics in CloudWatch",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-agents-metrics-cloudwatch",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild adds support for new IAM condition keys",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-iam-condition-keys",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "DynamoDB local is now accessible on AWS CloudShell",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/dynamo-db-local-accessible-aws-cloudshell",
+        "Services": [
+            "AWS CloudShell"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now supports Deploy Spec file in EC2 deploy action",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploy-spec-file-ec2-deploy-action/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now supports deploying to AWS Lambda with traffic shifting",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploying-lambda-traffic-shifting/",
+        "Services": [
+            "AWS CodePipeline",
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeBuild announces support for remote Docker servers",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon CloudWatch RUM adds support for Interaction to Next Paint (INP) Web Vital",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-rum-inp-web-vital",
+        "Services": [
+            "Amazon CloudWatch"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodePipeline now supports Secrets Manager and more configurations in Commands action",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-secrets-manager-configurations-commands-action/",
+        "Services": [
+            "AWS CodePipeline"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "The Amazon Q Developer integration in GitHub (preview) is now available",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-integration-github-preview-available",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer announces a new agentic coding experience in the IDE",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-agentic-coding-experience-ide/",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "Amazon Q Developer CLI now supports Model Context Protocol (MCP)",
         "Date": "30/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol",
@@ -323,9 +463,9 @@
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
         "Services": [
+            "AWS Chatbot",
             "Amazon Q Developer",
-            "Amazon Q",
-            "AWS Chatbot"
+            "Amazon Q"
         ]
     },
     {
@@ -352,8 +492,8 @@
         "Date": "22/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/",
         "Services": [
-            "Amazon EC2",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "Amazon EC2"
         ]
     },
     {

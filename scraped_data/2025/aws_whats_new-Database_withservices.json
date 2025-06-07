@@ -1,6 +1,324 @@
 [
     {
         "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Announcing Amazon RDS for PostgreSQL Extended Support versions R2 11.22-rds.20250508 and 12.22-rds.20250508",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-postgresql-extended-support-versions-r2-11-22-rds-20250508-12-22-rds-20250508",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift now supports increased concurrency for vacuum operations",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-redshift-increased-concurrency-vacuum-operations",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Database is now available in AWS Canada West (Calgary) and Asia Pacific (Melbourne) Regions",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-database-aws-calgary-melbourne-regions",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) Announces 99.99% Service Level Agreement",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-documentdb-mongodb-99-99-sla/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune announces MCP (Model Context Protocol) Server",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS Backup now supports Amazon Aurora DSQL",
+        "Date": "28/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql",
+        "Services": [
+            "Amazon Aurora",
+            "AWS Backup"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora DSQL is now generally available",
+        "Date": "28/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508",
+        "Date": "28/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS Custom for Oracle now supports R7i and M7i instances",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "AWS DMS introduces data resync for improved migration accuracy",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS now supports easy retrieval of engine lifecycle support dates",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-retrieval-engine-lifecycle-support-dates/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.5.29 and 10.6.22",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mariadb-community-mariadb-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "DynamoDB local is now accessible on AWS CloudShell",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/dynamo-db-local-accessible-aws-cloudshell",
+        "Services": [
+            "AWS CloudShell"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "PostgreSQL 18 Beta 1 is now available in Amazon RDS Database Preview Environment",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/postgresql-18-beta-1-amazon-rds-database-preview/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports the April 2025 Release Update (RU)",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-release-update",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora MySQL 3.09 (compatible with MySQL 8.0.40) is now generally available",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-mysql-3-09-compatible-mysql-8-0-40-generally-available",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R8g and M8g instances",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-8g-m8g",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R7i and M7i instances",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-r7i-m7i",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports April 2025 Spatial Patch Bundle",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-spatial-patch-bundle/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the AWS Europe (Stockholm) Region",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-document-db-mongodb-compatibility-aws-europe-stockholm-region",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for Oracle now supports Oracle APEX Version 24.2",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-apex-version-24-2",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe (Spain) Region",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region",
+        "Services": [
+            "AWS PrivateLink",
+            "Amazon ElastiCache"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Hyderabad) Region",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region",
+        "Services": [
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports T4g database instances in AWS Asia Pacific (Malaysia) region",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-t4g-malaysia/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports R7g database instances in additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7g-database-instances-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports R8g database instances in the AWS GovCloud (US-West) Region",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7g and R7g database instances in additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7g-r7g/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports R7i database instances in additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7i-database-instances-regions/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "New Open-Source AWS Advanced PostgreSQL ODBC Driver now available for Amazon Aurora and RDS",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-advanced-postgresql-odbc-driver-aurora-rds/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i and R7i database instances in additional AWS Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7i-r7i-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Aurora now supports PostgreSQL major version 17",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-major-version-17/",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Database",
+        "Title": "Amazon Neptune Database now supports Graviton3 R7g and Graviton4 R8g instances",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-database-graviton3-r7g-r8g-instances/",
+        "Services": [
+            "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Database",
         "Title": "Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions",

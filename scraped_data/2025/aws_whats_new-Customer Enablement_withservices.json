@@ -1,6 +1,31 @@
 [
     {
         "Category": "Customer Enablement",
+        "Title": "AWS service changes",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-service-changes",
+        "Services": []
+    },
+    {
+        "Category": "Customer Enablement",
+        "Title": "Amazon Connect adds enhanced contact information to DescribeContact API",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-enhanced-contact-information-describecontact-api",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Customer Enablement",
+        "Title": "Amazon Connect now publishes post-contact completion events to Contact Event Stream",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-publishes-post-contact-completion-events-contact-event-stream",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Customer Enablement",
         "Title": "Amazon OpenSearch Serverless now available in AWS Europe (Milan) Region",
         "Date": "07/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region",

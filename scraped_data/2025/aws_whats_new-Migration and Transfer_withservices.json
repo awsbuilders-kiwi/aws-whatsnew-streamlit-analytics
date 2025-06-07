@@ -1,6 +1,75 @@
 [
     {
         "Category": "Migration and Transfer",
+        "Title": "AWS DataSync simplifies and accelerates cross-cloud data transfers",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-datasync-accelerates-cross-cloud-data-transfers/",
+        "Services": [
+            "AWS DataSync"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS DMS introduces data resync for improved migration accuracy",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transfer Family announces ML-KEM quantum-resistant key exchange for SFTP",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transfer-family-quantum-resistant-key-exchange/",
+        "Services": [
+            "AWS Transfer Family"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing customer-initiated reboot migrations for EC2 Scheduled Events",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transform for VMware is now generally available",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-vmware-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Transform for mainframe is now generally available",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "Announcing migration assessment capabilities of AWS Transform",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/",
+        "Services": []
+    },
+    {
+        "Category": "Migration and Transfer",
+        "Title": "AWS Launch Wizard automates multi-node SAP NetWeaver deployment on SAP ASE Database",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-launch-wizard-multi-node-sap-netweaver-deployment-sap-ase-database",
+        "Services": [
+            "AWS Launch Wizard"
+        ]
+    },
+    {
+        "Category": "Migration and Transfer",
         "Title": "AWS Transfer Family introduces Terraform module for deploying SFTP server endpoints",
         "Date": "23/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-terraform-module-sftp-endpoints/",

@@ -1,6 +1,278 @@
 [
     {
         "Category": "Compute",
+        "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "07/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Pricing and usage model updates for Amazon EC2 instances accelerated by NVIDIA GPUs",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/pricing-usage-model-ec2-instances-nvidia-gpus/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "ENA Express supports 120 new instances",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-new-instances",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7g instances are now available in AWS GovCloud (US-West) Region",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-aws-govcloud-us-west-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7a instances are now available in AWS Europe (London) Region",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "ENA Express for AWS GovCloud (US) Regions",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-govcloud-us-regions",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I4i instances now available in AWS Europe (Spain) region",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i4i-instances-spain-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory U7i instances are now available in Europe (Frankfurt) Region",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-high-memory-u7i-instances-frankfurt/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Red Hat Enterprise Linux for AWS",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C8gd, M8gd, and R8gd instances are now available Europe (Spain) and Asia Pacific (Tokyo)",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-c8gd-m8gd-r8gd-instances-spain-tokyo/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Neuron introduces NxD Inference GA, new features, and improved tools",
+        "Date": "28/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS increases container exit reason message to 1024 characters",
+        "Date": "24/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS announces IPv6 support for EC2 Public DNS names",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Mac instances now support configurable System Integrity Protection (SIP) settings",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 High Memory instances now available in US East (Ohio) region",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing customer-initiated reboot migrations for EC2 Scheduled Events",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink",
+        "Services": [
+            "Amazon Lightsail",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Parallel Computing Service (PCS) now supports accounting with Slurm version 24.11",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pcs-accounting-slurm-version-24-11",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 P6-B200 instances powered by NVIDIA B200 GPUs now generally available",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p6-b200-instances-nvidia-b200-gpus/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 makes it easier to launch Windows instances with EC2 Fast Launch",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-launch-windows-instances-ec2-fast-launch/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS adds support for Amazon EBS Provisioned Rate for Volume Initialization",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-ebs-provisioned-rate-volume-initialization/",
+        "Services": [
+            "Amazon EBS"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS EC2 instances now support ENA queue allocation for your network interfaces",
+        "Date": "13/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn instances now available in AWS Asia Pacific (Melbourne) region",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-melbourne-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C8gd, M8gd, and R8gd instances are now available in AWS Region Europe (Frankfurt)",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-8gd-m8gd-r8gd-instances-aws-region-europe-frankfurt",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R7g instances are now available in additional AWS regions",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R7g instances are now available in AWS GovCloud (US-East)",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 X2idn instances now available in AWS Israel (Tel Aviv) Region",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-aws-israel-tel-aviv-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Lenexa, Kansas",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas",
+        "Services": [
+            "AWS Wavelength"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 P5en instances are now available in the AWS US West (N. California) Region",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Flex larger instance sizes are now available in AWS Asia Pacific (Seoul) Region",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-flex-larger-instance-sizes-seoul/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
+        "Services": [
+            "Amazon CloudWatch",
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "AWS Elastic Beanstalk adds controls for default security group management",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elastic-beanstalk-controls-default-security-group-management",
@@ -102,8 +374,8 @@
         "Date": "19/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
         "Services": [
-            "Red Hat OpenShift Service on AWS",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Red Hat OpenShift Service on AWS"
         ]
     },
     {
@@ -249,9 +521,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Elastic Beanstalk",
             "AWS Secrets Manager",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -398,8 +670,8 @@
         "Date": "12/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config",
         "Services": [
-            "Amazon EC2",
-            "AWS Config"
+            "AWS Config",
+            "Amazon EC2"
         ]
     },
     {
@@ -497,8 +769,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -516,8 +788,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elastic-beanstalk-ruby-3-4-amazon-linux-2023/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon Linux 2023"
+            "Amazon Linux 2023",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -763,8 +1035,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-python-3-13-amazon-linux-2023/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon Linux 2023"
+            "Amazon Linux 2023",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -773,8 +1045,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-net-9-amazon-linux-2023/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon Linux 2023"
+            "Amazon Linux 2023",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -783,8 +1055,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-php-8-4-amazon-linux-2023/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon Linux 2023"
+            "Amazon Linux 2023",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -898,8 +1170,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
             "AWS Compute Optimizer",
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {

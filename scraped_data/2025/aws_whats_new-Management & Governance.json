@@ -1,13 +1,157 @@
 [
     {
         "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus now available in 7 additional AWS Regions",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Groups adds support AWS PrivateLink",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-privatelink"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch now supports logs transformation for Contributor Insights",
+        "Date": "06/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-transformation-contributor-insights"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudTrail Lake now supports event enrichment and expanded event size",
+        "Date": "05/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/cloudtrail-lake-event-enrichment-expanded-event-size/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus now supports 95 day time range queries",
+        "Date": "05/30/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-95-day-queries/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring",
+        "Date": "05/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL",
+        "Date": "05/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus launches query insights and control capabilities",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower releases Enabled controls view for centralized visibility",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "05/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Application Signals introduces auto-monitor support for EKS workloads",
+        "Date": "05/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-signals-auto-monitor-eks-workloads/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudWatch Synthetics adds safe canary updates and automatic retries",
+        "Date": "05/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cloudwatch-synthetics-canary-updates-automatic-retries/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Config rules now available in additional AWS Regions",
+        "Date": "05/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower introduces account-level reporting for baseline APIs",
+        "Date": "05/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-account-level-reporting-baseline-apis"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch RUM adds support for Interaction to Next Paint (INP) Web Vital",
+        "Date": "05/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-rum-inp-web-vital"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower is now available in AWS Asia Pacific (Thailand) and AWS Mexico (Central) Regions",
+        "Date": "05/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-thailand-mexico-regions/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Resource Explorer supports 41 new resource types",
+        "Date": "05/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-resource-explorer-41-new-resource-types/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Managed Service for Prometheus now available in the AWS Canada (Central) Region",
+        "Date": "05/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Systems Manager adds customization options for onboarding configuration",
+        "Date": "05/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch Network Monitoring adds multi-account support for flow monitors",
+        "Date": "05/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-network-monitoring-multi-account-flow-monitors"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon Q Developer in chat applications now supports AWS Systems Manager node access approvals",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-chat-applications-aws-systems-manager-node-access-approvals"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Announces Managed Support for Energy Data Insights",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/managed-support-energy-data-insights/"
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "AWS Resource Explorer is now available in 3 additional AWS Regions",
         "Date": "05/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-additional-regions"
     },
     {
         "Category": "Management & Governance",
-        "Title": "AWS Config now supports 13 new resource types",
+        "Title": "AWS Config now supports 12 new resource types",
         "Date": "05/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-config-new-resource-types/"
     },

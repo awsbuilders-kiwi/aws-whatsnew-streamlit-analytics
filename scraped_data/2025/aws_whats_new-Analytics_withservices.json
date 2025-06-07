@@ -1,6 +1,225 @@
 [
     {
         "Category": "Analytics",
+        "Title": "Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service",
+        "Date": "07/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless now available in Asia Pacific (Hyderabad) and Asia Pacific (Osaka) regions",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-hyderabad-osaka-regions",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MWAA now available in additional Region",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-mwaa-additional-region/",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift now supports increased concurrency for vacuum operations",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-redshift-increased-concurrency-vacuum-operations",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Athena announces managed query results to streamline analysis workflows",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-athena-managed-query-results-streamline-analysis-workflows",
+        "Services": [
+            "Amazon Athena"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Managed Service for Apache Flink adds IPv6 endpoints",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-apache-flink-ipv6-endpoints/",
+        "Services": [
+            "Amazon Managed Service for Apache Flink"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon DataZone launches upgrade domain to SageMaker",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker",
+        "Services": [
+            "Amazon DataZone"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MWAA now provides option to update environments without interrupting task execution",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift now enables cluster relocation by default for RA3 provisioned clusters",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-cluster-relocation-ra3-provisioned-clusters/",
+        "Services": [
+            "Amazon Redshift"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR enables enhanced Apache Spark capabilities for Lake Formation tables with full table access",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-emr-apache-spark-capabilities-lake-formation-table",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Service adds support for Script Plugins",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-service-script-plugins",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK adds support for Apache Kafka version 4.0",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-apache-kafka-version-4-0",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK is now available in Asia Pacific (Thailand) and Mexico (Central) Regions",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-thailand-mexico-central-regions/",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker - move project across domain units",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-move-project-domain-units",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker Catalog launches governance for S3 Tables",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Studio now supports additional file types and single file output",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-glue-studio-file-types-single-file-output/",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker launches AWS CloudFormation support for domain features",
+        "Date": "13/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-aws-cloudformation-domain-features",
+        "Services": [
+            "AWS CloudFormation"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon S3 Tables are now available in eleven additional AWS Regions",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-tables-additional-regions",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker adds support for three new data sources",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker Catalog introduces authorization policy for asset type usage",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker offers additional visual ETL transforms and S3 Tables support",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Hyderabad) Region",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region",
+        "Services": [
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AI search flow builder is now available on the Amazon OpenSearch Service",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/ai-search-flow-builder-amazon-opensearch-service",
+        "Services": [
+            "Amazon OpenSearch Service"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon Connect adds five new metrics and dashboard drill downs for outbound campaigns",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-new-metrics-dashboard-drill-downs-outbound-campaigns",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Analytics",
         "Title": "Amazon SageMaker scheduling experience for Visual ETL and Query editors",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-scheduling-visual-etl-query-editors",
@@ -201,8 +420,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded",
         "Services": [
-            "Amazon Q",
-            "Amazon QuickSight"
+            "Amazon QuickSight",
+            "Amazon Q"
         ]
     },
     {
@@ -212,8 +431,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/",
         "Services": [
             "Amazon Redshift",
-            "AWS Backup",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "AWS Backup"
         ]
     },
     {
@@ -241,8 +460,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service",
         "Services": [
             "Amazon Q Developer",
-            "Amazon OpenSearch Service",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -394,8 +613,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -404,8 +623,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-fedramp-high-authorization",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -414,8 +633,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-data-firehose-real-time-streaming-data-s3-tables/",
         "Services": [
-            "Amazon Data Firehose",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Data Firehose"
         ]
     },
     {
@@ -523,8 +742,8 @@
         "Date": "08/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-data-api-sso-iam-identity-center/",
         "Services": [
-            "AWS IAM Identity Center",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS IAM Identity Center"
         ]
     },
     {
@@ -709,8 +928,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-emr-serverless-public-subnets",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {

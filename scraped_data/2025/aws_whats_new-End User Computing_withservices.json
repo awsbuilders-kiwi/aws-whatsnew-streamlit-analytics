@@ -1,6 +1,40 @@
 [
     {
         "Category": "End User Computing",
+        "Title": "Amazon WorkSpaces Pools now supports AlwaysOn running mode",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-pools-alwayson-running-mode/",
+        "Services": [
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "End User Computing",
+        "Title": "Amazon AppStream 2.0 is now available in AWS Europe (Paris) Region",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-appstream-2-0-aws-europe-paris-region",
+        "Services": [
+            "Amazon AppStream 2.0"
+        ]
+    },
+    {
+        "Category": "End User Computing",
+        "Title": "AWS End User Messaging is now available in Mexico (Central)",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-end-user-messaging-mexico-central/",
+        "Services": []
+    },
+    {
+        "Category": "End User Computing",
+        "Title": "Amazon WorkSpaces is now available in AWS Europe (Paris) Region",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region",
+        "Services": [
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "End User Computing",
         "Title": "AWS End User Messaging helps customers combat SMS pumping",
         "Date": "30/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-combat-sms-pumping/",
@@ -28,8 +62,8 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
-            "Amazon WorkSpaces",
             "Amazon Connect",
+            "Amazon WorkSpaces",
             "Amazon AppStream 2.0"
         ]
     },

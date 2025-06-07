@@ -1,6 +1,58 @@
 [
     {
         "Category": "Serverless",
+        "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "07/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now available in Asia Pacific (Hyderabad) and Asia Pacific (Osaka) regions",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-hyderabad-osaka-regions",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Announcing new Model Context Protocol (MCP) Servers for AWS Serverless and Containers",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/new-model-context-protocol-servers-aws-serverless-containers",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon Kinesis Data Streams expands IPv6 support to VPC endpoints",
+        "Date": "15/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-kinesis-data-streams-ipv6-vpc-endpoints",
+        "Services": [
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon ECS introduces 1-click rollbacks for service deployments",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-1-click-rollbacks-service-deployments",
+        "Services": []
+    },
+    {
+        "Category": "Serverless",
+        "Title": "Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
+        "Services": [
+            "Amazon CloudWatch",
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
         "Title": "Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account",
         "Date": "22/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits",

@@ -1,6 +1,97 @@
 [
     {
         "Category": "Networking & Content Delivery",
+        "Title": "AWS Site-to-Site VPN introduces three new capabilities for enhanced security",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-site-to-site-vpn-three-capabilities-enhanced-security/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon API Gateway introduces routing rules for REST APIs",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-api-gateway-routing-rules-rest-apis/",
+        "Services": [
+            "Amazon API Gateway"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC Route Server announces logging enhancements",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-route-server-logging-enhancements/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall Adds Support for Multiple VPC Endpoints",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-network-firewall-multiple-vpc-endpoints/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Profiles now available in three additional AWS Regions",
+        "Date": "24/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces IPv6 support for EC2 Public DNS names",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon VPC adds CloudTrail logging for VPC resources created by default",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-cloudtrail-logging-resources-default/",
+        "Services": [
+            "Amazon VPC"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS EC2 instances now support ENA queue allocation for your network interfaces",
+        "Date": "13/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Direct Connect location in Istanbul, T\u00fcrkiye",
+        "Date": "13/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-istanbul-turkey/",
+        "Services": [
+            "AWS Direct Connect"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 Resolver DNS Firewall is now available in additional regions",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-dns-firewall-additional-regions/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
         "Title": "Amazon VPC Lattice now supports IPv6 for management endpoints",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/",
@@ -108,8 +199,8 @@
         "Date": "26/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -171,8 +262,8 @@
         "Date": "14/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/",
         "Services": [
-            "Amazon Route 53",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "Amazon Route 53"
         ]
     },
     {

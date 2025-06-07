@@ -1,6 +1,56 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "AWS Wickr announces a Preview experience for files",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "SES Mail Manager adds Debug Logging for traffic policies",
+        "Date": "16/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect external voice pricing changes",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-external-voice-pricing-changes",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens real-time dashboards are now available in AWS GovCloud (US-West)",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-dashboards-aws-govcloud-us-west",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon SES now supports IPv6 when calling SES outbound endpoints",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints",
+        "Services": [
+            "Amazon SES"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect Contact Lens launches new real-time adherence dashboard",
+        "Date": "02/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-adherence-dashboard",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
         "Title": "Amazon Connect launches administrator access for agent schedules",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules",
@@ -41,8 +91,8 @@
         "Date": "15/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail",
         "Services": [
-            "Amazon SES",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon SES"
         ]
     },
     {
@@ -138,8 +188,8 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
-            "Amazon WorkSpaces",
             "Amazon Connect",
+            "Amazon WorkSpaces",
             "Amazon AppStream 2.0"
         ]
     },
@@ -265,8 +315,8 @@
         "Date": "22/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon Connect"
+            "Amazon Connect",
+            "Amazon WorkSpaces"
         ]
     },
     {

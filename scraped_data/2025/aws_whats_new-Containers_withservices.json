@@ -1,6 +1,82 @@
 [
     {
         "Category": "Containers",
+        "Title": "Amazon EKS add-ons now supports Private CA Connector for Kubernetes",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing new Model Context Protocol (MCP) Servers for AWS Serverless and Containers",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/new-model-context-protocol-servers-aws-serverless-containers",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Announcing EKS Dashboard, a multi-cluster view of Kubernetes infrastructure across AWS Regions and your AWS Organizations",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/eks-dashboard-multi-cluster-view-kubernetes-infrastructure-aws-regions-organizations",
+        "Services": [
+            "AWS Organizations"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Inspector enhances container security by mapping ECR images to running containers",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-inspector-container-security-images/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR expands registry policy to all ECR actions in AWS GovCloud (US) Regions",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-registry-policy-actions-aws-govcloud-us-regions",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon Elastic Container Registry (ECR) supports image replication between the AWS GovCloud (US) Region",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-image-replication-aws-govcloud-us-region",
+        "Services": [
+            "Amazon Elastic Container Registry"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECS introduces 1-click rollbacks for service deployments",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-1-click-rollbacks-service-deployments",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR adds support for Internet Protocol version 6 (IPv6)",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
         "Title": "Amazon EKS Hybrid Nodes now supports Bottlerocket",
         "Date": "30/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket",

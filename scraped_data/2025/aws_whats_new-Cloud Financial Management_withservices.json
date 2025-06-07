@@ -1,6 +1,80 @@
 [
     {
         "Category": "Cloud Financial Management",
+        "Title": "AWS Invoice Summary API is now generally available",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-invoice-summary-api-generally-available",
+        "Services": []
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "Amazon Q Developer now helps customers optimize AWS costs",
+        "Date": "04/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-optimize-aws-costs",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "AWS Compute Optimizer now supports Aurora I/O-Optimized recommendations",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-aurora-i-o-optimized-recommendations",
+        "Services": [
+            "AWS Compute Optimizer"
+        ]
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "Cost Optimization Hub supports recommendations for Amazon Aurora",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "AWS Pricing Calculator, now generally available, supports discounts and purchase commitment",
+        "Date": "31/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments",
+        "Services": []
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "AWS Cost Explorer now offers new Cost Comparison feature",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-explorer-new-cost-comparison-feature/",
+        "Services": [
+            "AWS Cost Explorer"
+        ]
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "Cost Optimization Hub now supports Savings Plans and reservations preferences",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/cost-optimization-hub-savings-plans-reservations-preferences/",
+        "Services": [
+            "Savings Plans"
+        ]
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications",
+        "Date": "22/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/",
+        "Services": []
+    },
+    {
+        "Category": "Cloud Financial Management",
+        "Title": "Payments Account Summary provides an overview of AWS financial account balances",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/payments-account-summary-financial-balances/",
+        "Services": []
+    },
+    {
+        "Category": "Cloud Financial Management",
         "Title": "AWS Budgets announces support for additional cost metrics and filtering capabilities",
         "Date": "30/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities",
@@ -28,8 +102,8 @@
         "Date": "11/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-compute-optimizer-new-amazon-ec2-instance-types",
         "Services": [
-            "Amazon EC2",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "Amazon EC2"
         ]
     },
     {

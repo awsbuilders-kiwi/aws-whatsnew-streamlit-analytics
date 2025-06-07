@@ -1,6 +1,186 @@
 [
     {
         "Category": "Machine Learning",
+        "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "06/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Upgrade Experience from Amazon SageMaker Studio to SageMaker Unified Studio",
+        "Date": "06/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/upgrade-amazon-sagemaker-studio-sagemaker-unified-studio/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Lex extends custom vocabulary feature to additional languages",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-custom-vocabulary-additional-languages"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Near real-time matching available in AWS Entity Resolution",
+        "Date": "06/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/near-real-time-matching-aws-entity-resolution"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Lex adds AWS CloudFormation support for GovCloud (US-West) and advanced features",
+        "Date": "06/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Neptune announces MCP (Model Context Protocol) Server",
+        "Date": "05/29/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Neuron introduces NxD Inference GA, new features, and improved tools",
+        "Date": "05/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+        "Date": "05/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Anthropic's Claude 4 foundation models now in Amazon Bedrock",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthImaging now supports DICOMweb series level metadata retrievals",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "The next generation of Amazon SageMaker is now available in an additional region",
+        "Date": "05/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/next-generation-amazon-sagemaker-additional-region/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Amazon Bedrock Agents Metrics in CloudWatch",
+        "Date": "05/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-agents-metrics-cloudwatch"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Data Automation now supports generating custom insights from videos",
+        "Date": "05/20/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-custom-insights-videos/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Entity Resolution is now available in 2 additional regions",
+        "Date": "05/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 P6-B200 instances powered by NVIDIA B200 GPUs now generally available",
+        "Date": "05/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p6-b200-instances-nvidia-b200-gpus/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS Transform for .NET is now generally available",
+        "Date": "05/16/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Guardrails now supports cross-region inference",
+        "Date": "05/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-guardrails-cross-region-inference/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthOmics now supports output mapping files for CWL workflows",
+        "Date": "05/15/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthomics-output-mapping-files-cwl-workflows/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing Code Editor (based on VS Code – Open Source) in Amazon SageMaker Unified Studio",
+        "Date": "05/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/code-editor-vs-code-open-source-sagemaker-unified-studio/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker Unified Studio now allows you to bring your own image (BYOI)",
+        "Date": "05/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-unified-studio-byoi/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "SageMaker Hyperpod Flexible Training Plans expands to new regions",
+        "Date": "05/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/sagemaker-hyperpod-flexible-training-plans-new-regions/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events",
+        "Date": "05/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker AI enhances Amazon Q Developer with custom code suggestions and workspace context",
+        "Date": "05/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-ai-q-developer-custom-code/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon EC2 Inf2 instances now available in Korea",
+        "Date": "05/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-inf2-instances-available-korea"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker offers additional visual ETL transforms and S3 Tables support",
+        "Date": "05/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Data Automation now supports extraction of custom insights from audio",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-extraction-custom-insights-audio"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AI search flow builder is now available on the Amazon OpenSearch Service",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/ai-search-flow-builder-amazon-opensearch-service"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthImaging now supports DICOM video data and JPEG 2000 transcoding",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicom-video-data-jpeg-2000-transcoding"
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Model Distillation is now generally available",
+        "Date": "05/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-model-distillation-generally-available"
+    },
+    {
+        "Category": "Machine Learning",
         "Title": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation",
         "Date": "05/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-premier-complex-tasks-model-distillation"
