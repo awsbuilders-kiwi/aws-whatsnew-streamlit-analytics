@@ -1,6 +1,255 @@
 [
     {
         "Category": "Compute",
+        "Title": "Research and Engineering Studio on AWS Version 2025.06 now available",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I7ie instances are now available in additional AWS regions",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7i instances are now available in the Middle East (UAE) Region",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Elastic Beanstalk is now available in Middle East (UAE) region",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-elastic-beanstalk-middle-east-uae-region",
+        "Services": [
+            "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7g instances are now available in the AWS Israel (Tel Aviv) Region",
+        "Date": "26/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7g-instances-israel-tel-aviv-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Time Sync Service now supports Nanosecond Hardware Packet Timestamps",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-time-sync-nanosecond-hardware-packet-timestamps/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R7g instances are now available in AWS Asia Pacific (Melbourne) region",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7i-flex and C7i instances are now available in 2 additional regions",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-flex-c7i-instances-additional-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7i-flex and M7i instances are now available in Asia Pacific (Hong Kong) Region",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-m7i-instances-asia-pacific-hong-kong",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon U7i instances now available in the AWS US West (Oregon) Region",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C8g instances now available in additional regions",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I7ie instances now available in AWS Europe (Spain) region",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-europe-spain-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Job Completion Metadata Logging for AWS Parallel Computing Service (PCS)",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/job-completion-metadata-logging-aws-pcs/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 Auto Scaling offers the ability to filter out instance details from the DescribeAutoScalingGroups API",
+        "Date": "19/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api",
+        "Services": [
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Parallel Computing Service (PCS) is now available in the AWS GovCloud (US-East, US-West) Regions",
+        "Date": "19/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-parallel-computing-service-govcloud-regions",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C7gd instances are now available in additional AWS Regions",
+        "Date": "19/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7gd-instances-aws-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "One Year EC2 Instance Savings Plans are now available for P5 and P5en instances",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances",
+        "Services": [
+            "Savings Plans"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M8g instances now available in AWS South America (S\u00e3o Paulo)",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe (London) Region",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda now supports SnapStart for Python and .NET functions in 23 additional regions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-snapstart-python-net-functions-23-regions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 M7g instances are now available in additional regions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-additional-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances",
+        "Date": "17/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/",
+        "Services": [
+            "AWS Compute Optimizer"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS adds support for updating capacity provider configuration for ECS services",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-capacity-provider-configuration-ecs/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 I8g instances now available in AWS Europe (Ireland) region",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i8g-instances-europe-ireland-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Powertools for AWS Lambda introduces Bedrock Agents Function utility",
+        "Date": "11/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
+        "Services": [
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS launches public preview of Amazon Elastic VMware Service (Amazon EVS)",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-public-preview-amazon-elastic-vmware-service-evs",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
         "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
         "Date": "07/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances",
@@ -267,8 +516,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -374,8 +623,8 @@
         "Date": "19/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
         "Services": [
-            "Amazon CloudWatch",
-            "Red Hat OpenShift Service on AWS"
+            "Red Hat OpenShift Service on AWS",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -402,8 +651,8 @@
         "Date": "16/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router",
         "Services": [
-            "AWS Batch",
-            "Amazon Elastic Container Service"
+            "Amazon Elastic Container Service",
+            "AWS Batch"
         ]
     },
     {
@@ -502,8 +751,8 @@
         "Date": "04/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -521,9 +770,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Secrets Manager",
+            "AWS Elastic Beanstalk",
             "AWS Systems Manager",
-            "AWS Elastic Beanstalk"
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -670,8 +919,8 @@
         "Date": "12/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config",
         "Services": [
-            "AWS Config",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Config"
         ]
     },
     {
@@ -769,8 +1018,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -788,8 +1037,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elastic-beanstalk-ruby-3-4-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1035,8 +1284,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-python-3-13-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1045,8 +1294,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-net-9-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1055,8 +1304,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-php-8-4-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {

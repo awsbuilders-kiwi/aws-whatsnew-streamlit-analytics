@@ -1,6 +1,103 @@
 [
     {
         "Category": "Analytics",
+        "Title": "Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Catalog usage metrics now available with Amazon CloudWatch",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-data-catalog-usage-metrics-cloudwatch/",
+        "Services": [
+            "Amazon CloudWatch",
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker now supports automatic synchronization from Git to S3",
+        "Date": "26/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3",
+        "Services": []
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access",
+        "Date": "26/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables",
+        "Services": [
+            "AWS Lake Formation",
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports Service Quotas",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless now supports Point in Time (PIT) and SQL search in the AWS GovCloud (US) Regions",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-pit-sql-search-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lambda announces native support for Avro and Protobuf formatted Kafka events",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-native-support-avro-protobuf-kafka-events/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK expands Express Brokers to Mexico (Central) and Asia Pacific (Thailand) regions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Express Brokers in Amazon MSK now support Apache Kafka version 3.8",
+        "Date": "11/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8",
+        "Services": [
+            "Amazon MSK"
+        ]
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now available in Asia Pacific (Taipei) Region",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-asia-pacific-taipei-region",
+        "Services": [
+            "AWS Glue"
+        ]
+    },
+    {
+        "Category": "Analytics",
         "Title": "Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service",
         "Date": "07/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service",
@@ -196,8 +293,8 @@
         "Date": "06/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -249,8 +346,8 @@
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -275,8 +372,8 @@
         "Date": "23/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -292,8 +389,8 @@
         "Date": "22/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -430,8 +527,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Redshift Serverless",
+            "Amazon Redshift",
             "AWS Backup"
         ]
     },
@@ -459,9 +556,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service",
         "Services": [
+            "Amazon OpenSearch Service",
             "Amazon Q Developer",
-            "Amazon Q",
-            "Amazon OpenSearch Service"
+            "Amazon Q"
         ]
     },
     {
@@ -547,8 +644,8 @@
         "Date": "21/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -566,8 +663,8 @@
         "Date": "18/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-current-trailing-tracks-release-updates",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -603,8 +700,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-kinesis-data-streams-internet-protocol-version-6",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -613,8 +710,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -623,8 +720,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-fedramp-high-authorization",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -633,8 +730,8 @@
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-data-firehose-real-time-streaming-data-s3-tables/",
         "Services": [
-            "Amazon S3",
-            "Amazon Data Firehose"
+            "Amazon Data Firehose",
+            "Amazon S3"
         ]
     },
     {
@@ -695,8 +792,8 @@
         "Date": "13/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -705,8 +802,8 @@
         "Date": "13/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions",
         "Services": [
-            "Amazon Redshift",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Redshift"
         ]
     },
     {
@@ -742,8 +839,8 @@
         "Date": "08/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-data-api-sso-iam-identity-center/",
         "Services": [
-            "Amazon Redshift",
-            "AWS IAM Identity Center"
+            "AWS IAM Identity Center",
+            "Amazon Redshift"
         ]
     },
     {
@@ -813,8 +910,8 @@
         "Date": "18/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -841,8 +938,8 @@
         "Date": "11/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-serverless-ip-address-3-per-subnet/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -928,8 +1025,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-emr-serverless-public-subnets",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {

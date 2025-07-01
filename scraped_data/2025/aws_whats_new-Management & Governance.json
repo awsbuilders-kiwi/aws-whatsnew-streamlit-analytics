@@ -1,6 +1,48 @@
 [
     {
         "Category": "Management & Governance",
+        "Title": "Now in GA: Accelerate troubleshooting with Amazon CloudWatch investigations",
+        "Date": "06/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ga-accelerate-troubleshooting-amazon-cloudwatch-investigations"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS License Manager now supports license type conversions for AWS Marketplace products",
+        "Date": "06/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-license-manager-conversions-marketplace-products/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now supports seven new compliance frameworks",
+        "Date": "06/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Control Tower now supports service-linked AWS Config managed Config rules",
+        "Date": "06/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-service-linked-aws-config-managed-rules"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS CloudTrail enhances logging for Amazon S3 DeleteObjects API",
+        "Date": "06/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloudtrail-logging-amazon-s3-deleteobjects-api"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Console Mobile Application adds support for CloudWatch Log Insights",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-console-mobile-application-cloudwatch-log-insights"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "Amazon CloudWatch agent adds support for EBS detailed performance statistics",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-agent-ebs-performance-statistics/"
+    },
+    {
+        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements",
         "Date": "06/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements"
@@ -61,15 +103,15 @@
     },
     {
         "Category": "Management & Governance",
-        "Title": "AWS Organizations now supports Internet Protocol Version 6 (IPv6)",
-        "Date": "05/21/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/"
-    },
-    {
-        "Category": "Management & Governance",
         "Title": "Amazon CloudWatch Application Signals introduces auto-monitor support for EKS workloads",
         "Date": "05/21/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-signals-auto-monitor-eks-workloads/"
+    },
+    {
+        "Category": "Management & Governance",
+        "Title": "AWS Organizations now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "05/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/"
     },
     {
         "Category": "Management & Governance",

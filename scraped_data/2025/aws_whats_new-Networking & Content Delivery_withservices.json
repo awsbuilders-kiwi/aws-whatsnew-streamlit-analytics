@@ -1,6 +1,32 @@
 [
     {
         "Category": "Networking & Content Delivery",
+        "Title": "Amazon Route 53 launches capacity utilization metric for Resolver endpoints",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-capacity-metric-resolver-endpoints/",
+        "Services": [
+            "Amazon Route 53"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Network Firewall now supports AWS Transit Gateway native integration",
+        "Date": "17/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/",
+        "Services": [
+            "AWS Network Firewall",
+            "AWS Transit Gateway"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Cloud WAN simplifies network operations with Security Group Referencing and enhanced DNS support",
+        "Date": "12/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloud-wan-network-operations-security-referencing-dns/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
         "Title": "AWS Site-to-Site VPN introduces three new capabilities for enhanced security",
         "Date": "04/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-site-to-site-vpn-three-capabilities-enhanced-security/",
@@ -236,8 +262,8 @@
         "Date": "26/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Location Service"
+            "Amazon Location Service",
+            "AWS PrivateLink"
         ]
     },
     {

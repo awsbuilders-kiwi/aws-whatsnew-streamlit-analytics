@@ -1,6 +1,90 @@
 [
     {
         "Category": "Storage",
+        "Title": "Amazon EC2 I7ie instances are now available in additional AWS regions",
+        "Date": "06/28/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup now supports copying Amazon S3 backups across Regions and accounts in the AWS GovCloud (US) Regions",
+        "Date": "06/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for OpenZFS now supports Amazon S3 access",
+        "Date": "06/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables are now available in two additional AWS Regions",
+        "Date": "06/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-two-additional-aws-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables",
+        "Date": "06/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Express One Zone now supports atomic renaming of objects with a single API call",
+        "Date": "06/19/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-express-one-zone-atomic-renaming-objects-api/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup Audit Manager is now available in six additional regions",
+        "Date": "06/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "AWS Backup launches Multi-party approval support for logically air-gapped vaults",
+        "Date": "06/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 extends additional context for HTTP 403 Access Denied error messages to AWS Organizations",
+        "Date": "06/17/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EC2 I8g instances now available in AWS Europe (Ireland) region",
+        "Date": "06/13/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i8g-instances-europe-ireland-region/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables now provide storage cost visibility for individual tables",
+        "Date": "06/12/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-storage-cost-visibility-individual-tables/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon CloudWatch agent adds support for EBS detailed performance statistics",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-agent-ebs-performance-statistics/"
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon EFS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-internet-protocol-version-6/"
+    },
+    {
+        "Category": "Storage",
         "Title": "AWS Backup is now available in AWS Asia Pacific (Taipei) Region",
         "Date": "06/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-asia-pacific-taipei-region"

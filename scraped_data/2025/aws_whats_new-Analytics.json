@@ -1,6 +1,72 @@
 [
     {
         "Category": "Analytics",
+        "Title": "Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities",
+        "Date": "06/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue Data Catalog usage metrics now available with Amazon CloudWatch",
+        "Date": "06/27/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-data-catalog-usage-metrics-cloudwatch/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon SageMaker now supports automatic synchronization from Git to S3",
+        "Date": "06/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access",
+        "Date": "06/26/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon EMR on EKS now supports Service Quotas",
+        "Date": "06/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables",
+        "Date": "06/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon OpenSearch Serverless now supports Point in Time (PIT) and SQL search in the AWS GovCloud (US) Regions",
+        "Date": "06/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-pit-sql-search-aws-govcloud-us-regions"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Lambda announces native support for Avro and Protobuf formatted Kafka events",
+        "Date": "06/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-native-support-avro-protobuf-kafka-events/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Amazon MSK expands Express Brokers to Mexico (Central) and Asia Pacific (Thailand) regions",
+        "Date": "06/18/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "Express Brokers in Amazon MSK now support Apache Kafka version 3.8",
+        "Date": "06/11/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8"
+    },
+    {
+        "Category": "Analytics",
+        "Title": "AWS Glue now available in Asia Pacific (Taipei) Region",
+        "Date": "06/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-asia-pacific-taipei-region"
+    },
+    {
+        "Category": "Analytics",
         "Title": "Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service",
         "Date": "06/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service"

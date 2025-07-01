@@ -1,6 +1,127 @@
 [
     {
         "Category": "Machine Learning",
+        "Title": "AWS HealthOmics announces automatic input parameter interpolation for Nextflow workflows",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-input-parameter-interpolation/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support",
+        "Date": "26/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Guardrails announces tiers for content filters and denied topics",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Anthropic's Claude 3.7 Sonnet is now available on Amazon Bedrock in London",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/anthropics-claude-3-7-sonnet-amazon-bedrock-london",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon GuardDuty Extended Threat Detection now supports Amazon EKS",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Announcing price reductions for Amazon SageMaker AI GPU-accelerated instances",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/price-reductions-amazon-sagemaker-ai-gpu-accelerated-instances",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Nova Sonic adds support for Spanish language",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-nova-sonic-spanish-language",
+        "Services": []
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Lex improves conversational accuracy with LLM-Assisted NLU",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-conversational-accuracy-llm-assisted-nlu/",
+        "Services": [
+            "Amazon Lex"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Bedrock Custom Model Import now supports Qwen models",
+        "Date": "12/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Amazon Q Developer introduces Pro Tier upgrades for Builder IDs",
+        "Date": "12/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "Powertools for AWS Lambda introduces Bedrock Agents Function utility",
+        "Date": "11/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
+        "Title": "AWS HealthLake is now available in the AWS Europe (Ireland) Region",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region",
+        "Services": [
+            "AWS HealthLake"
+        ]
+    },
+    {
+        "Category": "Machine Learning",
         "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
         "Date": "07/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances",

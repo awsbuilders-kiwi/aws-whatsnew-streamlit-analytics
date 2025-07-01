@@ -1,6 +1,38 @@
 [
     {
         "Category": "Containers",
+        "Title": "Amazon EMR on EKS now supports Service Quotas",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon ECR enhanced scanning now surfaces image use status",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon GuardDuty Extended Threat Detection now supports Amazon EKS",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Containers",
+        "Title": "Amazon EKS Pod Identity simplifies the experience for cross-account access",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access",
+        "Services": []
+    },
+    {
+        "Category": "Containers",
         "Title": "Amazon EKS add-ons now supports Private CA Connector for Kubernetes",
         "Date": "05/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/",
@@ -95,8 +127,8 @@
         "Date": "16/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router",
         "Services": [
-            "AWS Batch",
-            "Amazon Elastic Container Service"
+            "Amazon Elastic Container Service",
+            "AWS Batch"
         ]
     },
     {

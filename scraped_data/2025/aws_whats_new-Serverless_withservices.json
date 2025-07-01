@@ -1,6 +1,33 @@
 [
     {
         "Category": "Serverless",
+        "Title": "Amazon OpenSearch Serverless now supports Point in Time (PIT) and SQL search in the AWS GovCloud (US) Regions",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-pit-sql-search-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon OpenSearch Serverless"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Step Functions TestState now available in the AWS GovCloud (US) Regions",
+        "Date": "21/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-step-functions-teststate-govcloud-regions",
+        "Services": [
+            "AWS Step Functions"
+        ]
+    },
+    {
+        "Category": "Serverless",
+        "Title": "AWS Lambda now supports SnapStart for Python and .NET functions in 23 additional regions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-snapstart-python-net-functions-23-regions/",
+        "Services": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "Category": "Serverless",
         "Title": "Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs",
         "Date": "07/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances",
@@ -30,8 +57,8 @@
         "Date": "15/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-kinesis-data-streams-ipv6-vpc-endpoints",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -47,8 +74,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -57,8 +84,8 @@
         "Date": "22/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -67,8 +94,8 @@
         "Date": "18/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -102,8 +129,8 @@
         "Date": "21/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {

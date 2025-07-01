@@ -1,6 +1,16 @@
 [
     {
         "Category": "Application Integration",
+        "Title": "Amazon EventBridge now supports AWS CodeBuild batch builds as a target",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/",
+        "Services": [
+            "AWS CodeBuild",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Application Integration",
         "Title": "Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint",
         "Date": "09/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/",

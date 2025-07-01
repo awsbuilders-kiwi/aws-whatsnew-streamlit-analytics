@@ -1,6 +1,38 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "AWS End User Messaging now supports Service Quotas",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "AWS Payment Cryptography is now available in AWS Asia Pacific (Mumbai) and Asia Pacific (Osaka)",
+        "Date": "19/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-payment-cryptography-aws-asia-pacific-mumbai-osaka",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect enhances communication limits for Outbound Campaigns",
+        "Date": "14/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Connect launches profile explorer for unified customer views",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-profile-explorer-unified-customer-views",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
         "Title": "AWS Wickr announces a Preview experience for files",
         "Date": "06/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files",
@@ -91,8 +123,8 @@
         "Date": "15/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon SES"
+            "Amazon SES",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -189,8 +221,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
             "Amazon Connect",
-            "Amazon WorkSpaces",
-            "Amazon AppStream 2.0"
+            "Amazon AppStream 2.0",
+            "Amazon WorkSpaces"
         ]
     },
     {

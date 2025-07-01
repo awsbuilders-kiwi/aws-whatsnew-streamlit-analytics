@@ -1,6 +1,25 @@
 [
     {
         "Category": "End User Computing",
+        "Title": "Amazon WorkSpaces Personal now supports PrivateLink for streaming traffic",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-personal-privatelink-streaming-traffic",
+        "Services": [
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "End User Computing",
+        "Title": "Announcing Amazon WorkSpaces Core Managed Instances to simplify VDI migrations",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-core-managed-instances-vdi-migrations",
+        "Services": [
+            "Amazon WorkSpaces Core",
+            "Amazon WorkSpaces"
+        ]
+    },
+    {
+        "Category": "End User Computing",
         "Title": "Amazon WorkSpaces Pools now supports AlwaysOn running mode",
         "Date": "16/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-pools-alwayson-running-mode/",
@@ -63,8 +82,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
             "Amazon Connect",
-            "Amazon WorkSpaces",
-            "Amazon AppStream 2.0"
+            "Amazon AppStream 2.0",
+            "Amazon WorkSpaces"
         ]
     },
     {

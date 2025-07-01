@@ -1,6 +1,33 @@
 [
     {
         "Category": "Front End Web & Mobile",
+        "Title": "AWS AppSync is now available in 3 additional regions",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS AppSync Enhances Security with Default Encryption for GraphQL API Caching",
+        "Date": "11/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-security-encryption-graphql-api-caching/",
+        "Services": [
+            "AWS AppSync"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
+        "Title": "AWS Console Mobile Application adds support for CloudWatch Log Insights",
+        "Date": "10/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-console-mobile-application-cloudwatch-log-insights",
+        "Services": [
+            "AWS Console Mobile Application"
+        ]
+    },
+    {
+        "Category": "Front End Web & Mobile",
         "Title": "AWS Amplify Hosting announces customizable build instances",
         "Date": "30/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-amplify-hosting-customizable-build-instances",
@@ -135,8 +162,8 @@
         "Date": "26/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Location Service"
+            "Amazon Location Service",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -170,8 +197,8 @@
         "Date": "29/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/",
         "Services": [
-            "AWS Amplify",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Amplify"
         ]
     },
     {

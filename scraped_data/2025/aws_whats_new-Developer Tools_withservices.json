@@ -1,6 +1,62 @@
 [
     {
         "Category": "Developer Tools",
+        "Title": "Amazon Q Developer Java upgrade transformation CLI is now generally available",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon EventBridge now supports AWS CodeBuild batch builds as a target",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/",
+        "Services": [
+            "AWS CodeBuild",
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Inspector launches code security to shift security left in development",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces open-source AWS API Models",
+        "Date": "14/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models",
+        "Services": []
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Extend Amazon Q Developer IDE plugins with MCP tools",
+        "Date": "14/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-ide-plugins-mcp-tools/",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "Amazon Q Developer launches Java upgrade selective transformation in CLI (Preview)",
+        "Date": "11/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview",
+        "Services": [
+            "Amazon Q Developer",
+            "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio",
         "Date": "06/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio",
@@ -88,8 +144,8 @@
         "Date": "17/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploying-lambda-traffic-shifting/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CodePipeline"
         ]
     },
     {
