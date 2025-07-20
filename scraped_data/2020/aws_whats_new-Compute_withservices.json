@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "AWS Lambda"
         ]
     },
     {
@@ -176,8 +176,8 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/deploy-microsoft-active-directory-infrastructure-on-amazon-ec2-using-aws-launch-wizard/",
         "Services": [
-            "AWS Launch Wizard",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -441,8 +441,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -474,8 +474,8 @@
         "Date": "20/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -616,8 +616,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {
@@ -661,8 +661,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "29/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/",
         "Services": [
-            "AWS Certificate Manager",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Certificate Manager"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Lambda",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Lambda"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "AWS Compute Optimizer",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1043,8 +1043,8 @@
         "Date": "17/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/",
         "Services": [
-            "AWS Lambda",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Lambda"
         ]
     },
     {
@@ -1217,8 +1217,8 @@
         "Date": "28/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/seamlessly-join-amazon-ec2-for-linux-instance-to-aws-directory-service/",
         "Services": [
-            "Amazon EC2",
-            "AWS Directory Service"
+            "AWS Directory Service",
+            "Amazon EC2"
         ]
     },
     {
@@ -1744,8 +1744,8 @@
         "Date": "16/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-auto-scaling-now-supports-instance-refresh-within-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2464,8 +2464,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-provides-notifications-via-aws-health-services/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2492,8 +2492,8 @@
         "Date": "20/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-supports-enabling-and-disabling-scaling-policies/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2675,8 +2675,8 @@
         "Date": "22/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-vpc-ingress-routing-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {

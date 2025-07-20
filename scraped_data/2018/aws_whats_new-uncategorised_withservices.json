@@ -439,8 +439,8 @@
         "Date": "14/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-shield-adds-advanced-ddos-protection-for-aws-global-accelerator/",
         "Services": [
-            "AWS Shield",
-            "AWS Global Accelerator"
+            "AWS Global Accelerator",
+            "AWS Shield"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "12/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-organizations-supports-aws-license-manager/",
         "Services": [
-            "AWS Organizations",
-            "AWS License Manager"
+            "AWS License Manager",
+            "AWS Organizations"
         ]
     },
     {
@@ -814,8 +814,8 @@
         "Date": "06/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-service-catalog-announces-integration-with-aws-organizations/",
         "Services": [
-            "AWS Organizations",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Organizations"
         ]
     },
     {
@@ -1117,8 +1117,8 @@
         "Date": "29/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-fargate-and-amazon-ecs-now-integrate-with-aws-cloud-map/",
         "Services": [
-            "AWS Cloud Map",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Cloud Map"
         ]
     },
     {
@@ -1390,8 +1390,8 @@
         "Date": "27/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-comprehend-medical/",
         "Services": [
-            "Amazon Comprehend Medical",
-            "Amazon Comprehend"
+            "Amazon Comprehend",
+            "Amazon Comprehend Medical"
         ]
     },
     {
@@ -1672,10 +1672,10 @@
         "Date": "22/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
+            "Elastic Load Balancing",
             "Amazon S3",
-            "Amazon API Gateway",
             "AWS CloudFormation",
-            "Elastic Load Balancing"
+            "Amazon API Gateway"
         ]
     },
     {
@@ -1694,8 +1694,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-dms-supports-elasticsearch-kinesis-datastreams/",
         "Services": [
             "Amazon Kinesis Data Streams",
-            "AWS Database Migration Service",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Database Migration Service"
         ]
     },
     {
@@ -1946,8 +1946,8 @@
         "Date": "20/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/analyze-live-video-at-scale-in-real-time-using-amazon-kinesis-video-streams-and-amazon-sagemaker/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -2006,8 +2006,8 @@
         "Date": "20/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudtrail-adds-support-for-aws-organizations/",
         "Services": [
-            "AWS Organizations",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Organizations"
         ]
     },
     {
@@ -2291,10 +2291,10 @@
         "Date": "16/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-serverless-application-repository-supports-additional-resources/",
         "Services": [
+            "AWS Glue",
             "AWS Serverless Application Repository",
             "Amazon Route 53",
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Step Functions"
         ]
     },
     {
@@ -2689,8 +2689,8 @@
         "Date": "12/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/Secrets_Manager_integration_CloudFormation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2784,9 +2784,9 @@
         "Date": "09/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-secrets-manager--/",
         "Services": [
-            "Amazon API Gateway",
+            "Amazon CloudWatch",
             "AWS CloudFormation",
-            "Amazon CloudWatch"
+            "Amazon API Gateway"
         ]
     },
     {
@@ -3227,8 +3227,8 @@
         "Date": "02/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -3708,8 +3708,8 @@
         "Date": "17/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/emr_support_for_glue_fgac_cross_account_access/",
         "Services": [
-            "Amazon EMR",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon EMR"
         ]
     },
     {
@@ -3718,8 +3718,8 @@
         "Date": "17/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/athena_glue_fgac/",
         "Services": [
-            "Amazon Athena",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Athena"
         ]
     },
     {
@@ -4078,8 +4078,8 @@
         "Date": "09/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-guardduty-provides-customization-of-notification-frequency-to-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -4163,8 +4163,8 @@
         "Date": "05/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/kinesis-video-streams-fragment-level-metadata-support/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -4298,8 +4298,8 @@
         "Date": "02/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/aws-organizations-supports-aws-directory-service-multi-account-capabilities/",
         "Services": [
-            "AWS Organizations",
-            "AWS Directory Service"
+            "AWS Directory Service",
+            "AWS Organizations"
         ]
     },
     {
@@ -4551,8 +4551,8 @@
         "Date": "26/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-privatelink-now-supports-access-over-aws-vpn/",
         "Services": [
-            "AWS VPN",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS VPN"
         ]
     },
     {
@@ -4672,9 +4672,9 @@
         "Date": "21/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
-            "Amazon API Gateway",
-            "Amazon Aurora",
             "Amazon ElastiCache",
+            "Amazon Aurora",
+            "Amazon API Gateway",
             "AWS CloudFormation"
         ]
     },
@@ -5032,8 +5032,8 @@
         "Date": "07/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/amazon-api-gateway-adds-support-for-aws-x-ray/",
         "Services": [
-            "Amazon API Gateway",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -5170,8 +5170,8 @@
         "Date": "01/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/kinesis-video-streams-producer-sdk-windows/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -5484,8 +5484,8 @@
         "Date": "23/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-cloudformation-now-supports-aws-privatelink-/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -5624,8 +5624,8 @@
         "Date": "17/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-shield-advanced-onboarding-sign-up-wizard-create-rate-based-rules-rbr-cloudwatch-alarms/",
         "Services": [
-            "AWS Shield",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Shield"
         ]
     },
     {
@@ -5788,8 +5788,8 @@
         "Date": "14/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-cloudhsm-audit-logs-are-now-available-in-amazon-cloudwatch/",
         "Services": [
-            "AWS CloudHSM",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudHSM"
         ]
     },
     {
@@ -5869,8 +5869,8 @@
         "Date": "10/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-cloudtrail-adds-vpc-endpoint-support-to-aws-privatelink/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -6127,8 +6127,8 @@
         "Date": "04/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/automatically-create-amazon-cloudfront-distributions-for-aws-elemental-mediapackage-channels-from-aws-management-console/",
         "Services": [
-            "Amazon CloudFront",
-            "AWS Elemental MediaPackage"
+            "AWS Elemental MediaPackage",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -6187,8 +6187,8 @@
         "Date": "02/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/storage-gateway-adds-kms-support-for-encryption/",
         "Services": [
-            "AWS Key Management Service",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "AWS Key Management Service"
         ]
     },
     {
@@ -6231,8 +6231,8 @@
         "Date": "01/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-config-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Config",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Config"
         ]
     },
     {
@@ -6241,8 +6241,8 @@
         "Date": "01/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/amazon-mq-now-supports-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon MQ",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon MQ"
         ]
     },
     {
@@ -6277,8 +6277,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/expanding_aws_privatelink_support_for_amazon_kinesis_data_streams/",
         "Services": [
             "Amazon Kinesis Data Streams",
-            "AWS PrivateLink",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -6331,8 +6331,8 @@
         "Date": "31/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/amazon-connect-now-supports-using-cross-region-amazon-lex-bots/",
         "Services": [
-            "Amazon Connect",
-            "Amazon Lex"
+            "Amazon Lex",
+            "Amazon Connect"
         ]
     },
     {
@@ -6611,8 +6611,8 @@
         "Date": "20/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-codebuild-adds-build-monitoring-and-notifications-with-amazon-cloudwatch/",
         "Services": [
-            "AWS CodeBuild",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -6655,8 +6655,8 @@
         "Date": "20/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-device-farm-adds-integration-with-aws-codepipeline/",
         "Services": [
-            "AWS Device Farm",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS Device Farm"
         ]
     },
     {
@@ -6842,8 +6842,8 @@
         "Date": "17/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/new-sbe1-instances-for-snowball-edge/",
         "Services": [
-            "Amazon EC2",
-            "AWS Snowball"
+            "AWS Snowball",
+            "Amazon EC2"
         ]
     },
     {
@@ -7037,9 +7037,9 @@
         "Date": "12/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/reserved-instance-purchase-recommendations-redshift-elasticache-elasticsearch-reservations/",
         "Services": [
-            "AWS Cost Explorer",
+            "Amazon ElastiCache",
             "Amazon Redshift",
-            "Amazon ElastiCache"
+            "AWS Cost Explorer"
         ]
     },
     {
@@ -7048,8 +7048,8 @@
         "Date": "12/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/amazon-transcribe-now-lets-you-designate-your-own-amazon-s3-buckets-to-store-transcription-outputs/",
         "Services": [
-            "Amazon Transcribe",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Transcribe"
         ]
     },
     {
@@ -7321,9 +7321,9 @@
         "Date": "29/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-transcribe-is-now-integrated-with-aws-cloudtrail-and-amazon-cloudwatch-events/",
         "Services": [
-            "AWS CloudTrail",
+            "Amazon CloudWatch",
             "Amazon Transcribe",
-            "Amazon CloudWatch"
+            "AWS CloudTrail"
         ]
     },
     {
@@ -7537,8 +7537,8 @@
         "Date": "25/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-connect-now-supports-amazon-lex-in-the-us-west-oregon-aws-region/",
         "Services": [
-            "Amazon Connect",
-            "Amazon Lex"
+            "Amazon Lex",
+            "Amazon Connect"
         ]
     },
     {
@@ -7776,8 +7776,8 @@
         "Date": "16/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -8523,8 +8523,8 @@
         "Date": "23/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-aurora-publishes-general-slow-query-and-error-logs-to-amazon-cloudwatch/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Aurora"
         ]
     },
     {
@@ -8567,8 +8567,8 @@
         "Date": "23/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-macie-adds-new-dashboard-to-identify-publicly-accessible-amazon-simple-storage-service-objects/",
         "Services": [
-            "Amazon Simple Storage Service",
-            "Amazon Macie"
+            "Amazon Macie",
+            "Amazon Simple Storage Service"
         ]
     },
     {
@@ -8900,8 +8900,8 @@
         "Date": "11/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-connect-now-supports-keypad-input-with-an-amazon-lex-chat/",
         "Services": [
-            "Amazon Connect",
-            "Amazon Lex"
+            "Amazon Lex",
+            "Amazon Connect"
         ]
     },
     {
@@ -9102,8 +9102,8 @@
         "Date": "08/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/kinesis_data_analytics_application_monitoring_using_cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -9723,8 +9723,8 @@
         "Date": "11/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/amazon-SNS-now-supports-aws-privatelink/",
         "Services": [
-            "Amazon Simple Notification Service",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Simple Notification Service"
         ]
     },
     {
@@ -11216,8 +11216,8 @@
         "Date": "21/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/amazon-ec2-auto-scaling-adds-support-for-service-linked-roles/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -11226,8 +11226,8 @@
         "Date": "20/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-opsworks-stacks-event-sources-are-now-available-in-amazon-cloudwatch-events/",
         "Services": [
-            "AWS OpsWorks",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -11433,8 +11433,8 @@
         "Date": "09/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-shield-now-integrated-with-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Shield"
+            "AWS Shield",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -11459,8 +11459,8 @@
         "Date": "09/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/amazon-connect-adds-speech-synthesis-markup-language-support-for-amazon-lex-chatbots/",
         "Services": [
-            "Amazon Connect",
-            "Amazon Lex"
+            "Amazon Lex",
+            "Amazon Connect"
         ]
     },
     {
@@ -11892,8 +11892,8 @@
         "Date": "22/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-key-management-service-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Key Management Service",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Key Management Service"
         ]
     },
     {
@@ -12110,8 +12110,8 @@
         "Date": "10/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-batch-adds-support-for-aws-cloudtrail-audit-calls/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS CloudTrail"
         ]
     },
     {

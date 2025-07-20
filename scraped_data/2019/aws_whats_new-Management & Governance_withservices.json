@@ -59,11 +59,11 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Lambda",
+            "Amazon S3",
             "AWS CodePipeline",
+            "AWS Lambda",
             "Amazon API Gateway",
-            "Amazon S3"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -412,8 +412,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -455,8 +455,8 @@
         "Date": "08/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -582,8 +582,8 @@
         "Date": "25/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-aws-chatbot-chatops-for-aws/",
         "Services": [
-            "Amazon Chime",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon Chime"
         ]
     },
     {
@@ -689,8 +689,8 @@
         "Date": "24/05/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/aws-backup-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS Backup",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Backup"
         ]
     },
     {

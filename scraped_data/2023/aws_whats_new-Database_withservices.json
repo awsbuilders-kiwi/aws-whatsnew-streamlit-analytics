@@ -41,8 +41,8 @@
         "Date": "22/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Bedrock"
+            "Amazon Bedrock",
+            "Amazon Aurora"
         ]
     },
     {
@@ -76,8 +76,8 @@
         "Date": "21/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -118,9 +118,9 @@
         "Date": "18/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
-            "Amazon QuickSight",
             "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -214,8 +214,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -252,8 +252,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon OpenSearch Service"
+            "Amazon OpenSearch Service",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -941,8 +941,8 @@
         "Date": "08/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/",
         "Services": [
-            "AWS Backup",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS Backup"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "20/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/",
         "Services": [
-            "Amazon Forecast",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Forecast"
         ]
     },
     {
@@ -1301,8 +1301,8 @@
         "Date": "15/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1694,8 +1694,8 @@
         "Date": "16/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/",
         "Services": [
-            "Amazon Timestream",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Timestream"
         ]
     },
     {
@@ -1838,8 +1838,8 @@
         "Date": "18/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -1999,9 +1999,9 @@
         "Date": "18/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/",
         "Services": [
-            "Amazon S3",
+            "AWS Glue",
             "AWS Database Migration Service",
-            "AWS Glue"
+            "Amazon S3"
         ]
     },
     {
@@ -2060,8 +2060,8 @@
         "Date": "10/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -2268,8 +2268,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/",
         "Services": [
-            "Amazon ElastiCache",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -2476,8 +2476,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
             "Amazon Kinesis Data Streams",
-            "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon DynamoDB"
         ]
     },
     {
