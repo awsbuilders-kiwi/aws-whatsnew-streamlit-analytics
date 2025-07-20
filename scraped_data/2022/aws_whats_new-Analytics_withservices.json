@@ -14,8 +14,8 @@
         "Date": "20/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon FinSpace"
+            "Amazon FinSpace",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -212,8 +212,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-supports-auto-copy-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon S3"
         ]
     },
     {
@@ -222,8 +222,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -232,8 +232,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/",
         "Services": [
-            "AWS Data Exchange",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon OpenSearch Serverless"
+            "Amazon OpenSearch Serverless",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -307,8 +307,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-integration-apache-spark-amazon-emr/",
         "Services": [
-            "Amazon EMR",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon EMR"
         ]
     },
     {
@@ -354,7 +354,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
         "Services": [
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon MSK"
         ]
     },
     {
@@ -489,8 +490,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
             "Amazon DynamoDB",
-            "EMR Serverless",
             "Amazon S3",
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -664,8 +665,8 @@
         "Date": "18/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -764,7 +765,9 @@
         "Title": "Amazon MSK Serverless expands its availability to Asia Pacific (Mumbai) and Canada (Central) AWS Regions",
         "Date": "04/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -790,8 +793,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-kinesis-data-streams-capability-inspect-data-records-aws-management-console/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -808,7 +811,9 @@
         "Title": "Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage",
         "Date": "29/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -858,7 +863,9 @@
         "Title": "Amazon MSK Connect now supports private DNS hostnames for enhanced security",
         "Date": "27/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -874,7 +881,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 3.3.1",
         "Date": "26/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-support-apache-kafka-version-3-3-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -882,8 +891,8 @@
         "Date": "15/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -947,7 +956,9 @@
         "Title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) is now available in Asia Pacific (Jakarta) AWS Region",
         "Date": "30/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -964,7 +975,9 @@
         "Title": "Amazon MSK Serverless is now HIPAA eligible",
         "Date": "27/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1167,7 +1180,8 @@
         "Date": "16/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/",
         "Services": [
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon MSK"
         ]
     },
     {
@@ -1285,8 +1299,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/",
         "Services": [
             "Amazon CloudFront",
-            "Amazon S3",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon S3"
         ]
     },
     {
@@ -1492,7 +1506,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0",
         "Date": "22/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1616,8 +1632,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -1734,7 +1750,9 @@
         "Title": "Amazon MSK Serverless is now generally available",
         "Date": "28/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1998,7 +2016,9 @@
         "Title": "Amazon MSK Connect now supports external secrets and configuration with config providers",
         "Date": "10/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2040,7 +2060,8 @@
         "Date": "02/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/",
         "Services": [
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon MSK"
         ]
     },
     {
@@ -2048,7 +2069,9 @@
         "Title": "Amazon MSK Serverless is now available in Europe (Ireland)",
         "Date": "01/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-serverless-available-europe-ireland/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2199,7 +2222,9 @@
         "Title": "Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker",
         "Date": "31/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2242,14 +2267,18 @@
         "Title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) is Now Available in Asia Pacific (Osaka)",
         "Date": "25/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) is now available in Africa (Cape Town)",
         "Date": "25/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2357,8 +2386,8 @@
         "Date": "05/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Data Exchange"
         ]
     },
     {

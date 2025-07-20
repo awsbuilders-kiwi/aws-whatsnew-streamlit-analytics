@@ -59,10 +59,10 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
+            "AWS CloudFormation",
             "AWS Lambda",
             "AWS CodePipeline",
             "Amazon API Gateway",
-            "AWS CloudFormation",
             "Amazon S3"
         ]
     },
@@ -72,8 +72,8 @@
         "Date": "13/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -412,8 +412,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -438,8 +438,8 @@
         "Date": "11/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-chatbot-now-supports-notifications-from-aws-config/",
         "Services": [
-            "AWS Config",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "AWS Config"
         ]
     },
     {
@@ -474,9 +474,9 @@
         "Date": "20/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
+            "Amazon EC2",
             "Amazon ElastiCache",
-            "AWS CloudFormation",
-            "Amazon EC2"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -689,8 +689,8 @@
         "Date": "24/05/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/aws-backup-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Backup"
+            "AWS Backup",
+            "AWS CloudFormation"
         ]
     },
     {

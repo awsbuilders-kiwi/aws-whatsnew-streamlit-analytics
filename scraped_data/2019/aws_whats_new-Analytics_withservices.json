@@ -5,8 +5,8 @@
         "Date": "19/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-kinesis-video-streams-available-nine-more-regions/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -23,7 +23,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.3.1",
         "Date": "19/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-msk-adds-support-for-apache-kafka-version-2-3-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -67,7 +69,9 @@
         "Title": "Introducing Open Monitoring with Prometheus for Amazon MSK",
         "Date": "10/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-open-monitoring-with-prometheus-for-amazon-msk/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -191,8 +195,8 @@
         "Date": "27/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-for-fluent-bit-now-supports-amazon-kinesis-data-streams/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -487,7 +491,9 @@
         "Title": "You can now expand your Amazon MSK clusters and deploy new clusters across 2-AZs",
         "Date": "17/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/now-expand-your-amazon-msk-clusters-and-deploy-new-clusters-across-2-azs/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -521,7 +527,9 @@
         "Title": "Amazon MSK is now available in 17 AWS regions including Sao Paulo, Hong Kong, N. California, and Canada",
         "Date": "09/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-msk-now-available-17-aws-regions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -654,8 +662,8 @@
         "Date": "16/08/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/amazon-kinesis-data-streams-changes-license-for-its-producer-library-to-apache-license2/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -754,14 +762,18 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.2.1 and expands availability to EU (Stockholm), Asia Pacific (Mumbai), and Asia Pacific (Seoul)",
         "Date": "01/08/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-msk-adds-support-apache-kafka-version-221-expands-availability-stockholm-mumbai-seoul/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK is now PCI DSS compliant",
         "Date": "26/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-msk-now-pci-dss-compliant/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -796,8 +808,8 @@
         "Date": "10/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-container-insights-for-ecs-and-aws-fargate-in-preview/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -857,7 +869,9 @@
         "Title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) is now Generally Available",
         "Date": "31/05/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/amazon_managed_streaming_for_apache_kafka_amazon_msk_is_now_generally_available/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",

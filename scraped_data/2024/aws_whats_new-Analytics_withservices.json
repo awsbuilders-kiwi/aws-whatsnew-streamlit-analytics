@@ -4,14 +4,18 @@
         "Title": "Amazon MSK now extends support for Graviton3 based M7G instances in Europe (Paris) region",
         "Date": "24/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-graviton3-based-m7g-instances-paris/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK Connect adds support for Apache Kafka Connect version 3.7",
         "Date": "21/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -45,7 +49,9 @@
         "Title": "Amazon MSK is now available in Asia Pacific (Malaysia) Region",
         "Date": "19/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-asia-pacific-malaysia-region/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -196,8 +202,8 @@
         "Date": "04/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -258,8 +264,8 @@
         "Date": "02/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon Security Lake"
+            "Amazon Security Lake",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -313,8 +319,8 @@
         "Date": "26/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -368,9 +374,9 @@
         "Date": "23/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector",
         "Services": [
-            "Amazon Kinesis",
+            "Amazon Managed Service for Apache Flink",
             "Amazon Kinesis Data Streams",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -467,8 +473,8 @@
         "Date": "22/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-data-catalog-apache-iceberg-table-optimization-amazon-vpc/",
         "Services": [
-            "AWS Glue",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS Glue"
         ]
     },
     {
@@ -495,8 +501,8 @@
         "Date": "21/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-on-demand-mode-writing-up-10gbs",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -586,8 +592,8 @@
         "Date": "19/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/",
         "Services": [
-            "Amazon Q",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Q"
         ]
     },
     {
@@ -660,8 +666,8 @@
         "Date": "13/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -679,8 +685,8 @@
         "Date": "12/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -759,7 +765,9 @@
         "Title": "Express brokers for Amazon MSK is now generally available",
         "Date": "08/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/express-brokers-amazon-msk-generally-available/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -801,7 +809,8 @@
         "Date": "07/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-msk-vector-embedding-generation-amazon-bedrock",
         "Services": [
-            "Amazon Bedrock"
+            "Amazon Bedrock",
+            "Amazon MSK"
         ]
     },
     {
@@ -844,8 +853,8 @@
         "Date": "31/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai",
         "Services": [
-            "Amazon Bedrock",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Bedrock"
         ]
     },
     {
@@ -1117,7 +1126,8 @@
         "Date": "02/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon MSK"
         ]
     },
     {
@@ -1126,7 +1136,8 @@
         "Date": "01/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-mtls-amazon-msk/",
         "Services": [
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon MSK"
         ]
     },
     {
@@ -1151,8 +1162,8 @@
         "Date": "26/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1170,7 +1181,9 @@
         "Title": "Multi-VPC private connectivity is now supported for Amazon MSK clusters configured with any authentication mechanism",
         "Date": "21/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/multi-vpc-private-connectivity-amazon-msk-clusters-configured-authentication-mechanism",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1186,7 +1199,9 @@
         "Title": "Amazon MSK now extends support for Graviton3 based M7G instances in Europe (London) region",
         "Date": "19/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1221,8 +1236,8 @@
         "Date": "17/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/",
         "Services": [
-            "Amazon Q",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Q"
         ]
     },
     {
@@ -1286,7 +1301,9 @@
         "Title": "Amazon MSK enhances cross-cluster replication with support for identical topic names",
         "Date": "11/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1312,8 +1329,8 @@
         "Date": "07/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1359,9 +1376,9 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
-            "AWS PrivateLink",
             "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1488,8 +1505,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/",
         "Services": [
             "Amazon Athena",
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -1569,8 +1586,8 @@
         "Date": "01/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless",
         "Services": [
-            "EMR Serverless",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "EMR Serverless"
         ]
     },
     {
@@ -1808,7 +1825,9 @@
         "Title": "Amazon MSK supports in-place upgrades from M5, T3 instance types to Graviton3 based M7G",
         "Date": "26/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-msk-upgrades-m5-t3-instance-graviton3-m7g/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1973,8 +1992,8 @@
         "Date": "08/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-data-firehose-integration-secrets-manager",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon Data Firehose"
+            "Amazon Data Firehose",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -1982,7 +2001,9 @@
         "Title": "Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless",
         "Date": "07/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2036,14 +2057,18 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 3.7",
         "Date": "30/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-support-apache-kafka-version-3-7",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK launches support for KRaft mode for new Apache Kafka clusters",
         "Date": "30/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-kraft-mode-apache-kafka-clusters/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2151,9 +2176,9 @@
         "Date": "20/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2161,7 +2186,9 @@
         "Title": "Amazon MSK now supports the removal of brokers from MSK provisioned clusters",
         "Date": "17/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2311,8 +2338,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-data-integration-aws-glue-generally-available/",
         "Services": [
-            "AWS Glue",
-            "Amazon Q"
+            "Amazon Q",
+            "AWS Glue"
         ]
     },
     {
@@ -2330,8 +2357,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-usage-analysis-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -2434,7 +2461,9 @@
         "Title": "Amazon MSK is now available in Canada West (Calgary) Region",
         "Date": "15/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-msk-canada-west-calgary-region/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2568,7 +2597,9 @@
         "Title": "Amazon MSK Connect now supports deleting worker configurations and tagging resources",
         "Date": "23/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2586,8 +2617,8 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/",
         "Services": [
-            "Amazon DataZone",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon DataZone"
         ]
     },
     {
@@ -2605,9 +2636,9 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2653,9 +2684,9 @@
         "Date": "18/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/",
         "Services": [
-            "AWS Secrets Manager",
             "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -2672,7 +2703,9 @@
         "Title": "Amazon MSK Replicator now supports replicating existing data on Kafka topics",
         "Date": "14/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2719,8 +2752,8 @@
         "Date": "01/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2820,7 +2853,9 @@
         "Title": "Amazon MSK now supports in-place version upgrades for Tiered Storage enabled clusters",
         "Date": "17/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-in-place-version-upgrades-tiered-storage-enabled-clusters/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2879,7 +2914,9 @@
         "Title": "Amazon MSK expands support for M7g instances to 2 additional AWS Regions",
         "Date": "13/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-m7g-instances-2-regions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2887,8 +2924,8 @@
         "Date": "09/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-formerly-kinesis-data-firehose/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Data Firehose"
+            "Amazon Data Firehose",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2933,7 +2970,9 @@
         "Title": "Amazon MSK Replicator is now available in 9 additional AWS regions",
         "Date": "08/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-replicator-9-additional-regions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2995,8 +3034,8 @@
         "Date": "31/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/",
         "Services": [
-            "AWS Glue",
-            "Amazon Q"
+            "Amazon Q",
+            "AWS Glue"
         ]
     },
     {

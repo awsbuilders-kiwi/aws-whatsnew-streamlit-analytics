@@ -76,8 +76,8 @@
         "Date": "21/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -214,8 +214,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
         "Services": [
-            "Amazon Q",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Q"
         ]
     },
     {
@@ -941,8 +941,8 @@
         "Date": "08/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/",
         "Services": [
-            "Amazon Aurora",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Aurora"
         ]
     },
     {
@@ -1838,8 +1838,8 @@
         "Date": "18/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -1999,9 +1999,9 @@
         "Date": "18/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/",
         "Services": [
+            "Amazon S3",
             "AWS Database Migration Service",
-            "AWS Glue",
-            "Amazon S3"
+            "AWS Glue"
         ]
     },
     {
@@ -2475,9 +2475,9 @@
         "Date": "04/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Kinesis"
         ]
     },
     {

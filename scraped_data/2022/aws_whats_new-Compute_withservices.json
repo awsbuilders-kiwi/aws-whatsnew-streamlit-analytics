@@ -180,8 +180,8 @@
         "Date": "09/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -274,7 +274,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
         "Services": [
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon MSK"
         ]
     },
     {
@@ -699,8 +700,8 @@
         "Date": "28/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/",
         "Services": [
-            "Amazon EC2",
-            "VMware Cloud on AWS"
+            "VMware Cloud on AWS",
+            "Amazon EC2"
         ]
     },
     {
@@ -755,8 +756,8 @@
         "Date": "25/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/",
         "Services": [
-            "AWS Batch",
-            "Amazon Elastic Kubernetes Service"
+            "Amazon Elastic Kubernetes Service",
+            "AWS Batch"
         ]
     },
     {
@@ -813,8 +814,9 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/",
         "Services": [
+            "AWS Lambda",
             "Amazon MQ",
-            "AWS Lambda"
+            "Amazon MSK"
         ]
     },
     {
@@ -832,8 +834,8 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1123,8 +1125,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "Amazon Route 53",
-            "AWS App Runner"
+            "AWS App Runner",
+            "Amazon Route 53"
         ]
     },
     {
@@ -1167,9 +1169,9 @@
         "Date": "31/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/",
         "Services": [
+            "VMware Cloud on AWS",
             "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx",
-            "VMware Cloud on AWS"
+            "Amazon FSx"
         ]
     },
     {
@@ -1244,7 +1246,8 @@
         "Date": "17/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/",
         "Services": [
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -1408,9 +1411,9 @@
         "Date": "07/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
+            "Amazon EC2 Auto Scaling",
             "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1463,8 +1466,8 @@
         "Date": "24/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1666,8 +1669,8 @@
         "Date": "19/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1676,8 +1679,8 @@
         "Date": "17/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2016,8 +2019,8 @@
         "Date": "24/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2026,8 +2029,8 @@
         "Date": "23/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2182,8 +2185,8 @@
         "Date": "24/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2253,7 +2256,8 @@
         "Date": "31/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/",
         "Services": [
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -2321,8 +2325,9 @@
         "Date": "20/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/",
         "Services": [
+            "AWS Lambda",
             "Amazon MQ",
-            "AWS Lambda"
+            "Amazon MSK"
         ]
     },
     {

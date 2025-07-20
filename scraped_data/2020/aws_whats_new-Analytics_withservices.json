@@ -4,7 +4,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.7.0",
         "Date": "29/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-msk-adds-support-for-apache-kafka-version-2-7-0/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -48,7 +50,9 @@
         "Title": "Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API",
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/apache-kafka-client-resiliency-testing-easier-with-amazon-msk-reboot-broker-api/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -85,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon Kinesis",
             "AWS Lambda",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -310,7 +314,9 @@
         "Title": "Amazon MSK now offers consumer lag metrics and select topic-level metrics for free",
         "Date": "23/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -362,7 +368,9 @@
         "Title": "Amazon MSK customers can now use Cruise Control to more easily scale and balance resource utilization within clusters",
         "Date": "18/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-customers-can-now-use-cruise-control-to-more-easily-scale-and-balance-resource-utilization-within-clusters/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -395,8 +403,8 @@
         "Date": "14/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -510,8 +518,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -572,7 +580,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.6.0",
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-msk-adds-support-for-apache-kafka-version-2-6-0/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -737,7 +747,9 @@
         "Title": "Amazon MSK launches new education classes and labs",
         "Date": "02/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-msk-launches-new-education-classes-and-labs/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -753,14 +765,18 @@
         "Title": "Amazon MSK can now automatically expand cluster storage",
         "Date": "01/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-can-now-automatically-expand-cluster-storage/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK adds supports for Apache Kafka version 2.5.1",
         "Date": "30/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-adds-support-apache-kafka-versions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -820,7 +836,8 @@
         "Date": "21/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-supports-sasl-scram-authentication-with-usernames-and-passwords-secured-by-aws-secrets-manager/",
         "Services": [
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon MSK"
         ]
     },
     {
@@ -933,7 +950,9 @@
         "Title": "Amazon MSK now offers version 2.4.1.1, fixing a perpetual rebalance bug in Apache Kafka 2.4.1",
         "Date": "09/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-offers-version-2-4-1-1-fixing-a-perpetual-rebalance-bug-in-apache-kafka-2-4-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -979,7 +998,9 @@
         "Title": "Amazon MSK is now available in Europe (Milan)",
         "Date": "29/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-msk-now-available-milan/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -987,8 +1008,8 @@
         "Date": "19/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-kinesis-data-streams-two-new-api-features-simplify-consuming-data-from-kinesis-streams/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1280,14 +1301,18 @@
         "Title": "Amazon MSK provides additional EC2 M5 broker sizes for more flexibility and cost optimization",
         "Date": "27/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-msk-provides-additional-ec2-m5-broker-sizes-for-more-flexibility-and-cost-optimization/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK now supports 3 AWS Availability Zones in S\u00e3o Paulo and Canada regions",
         "Date": "27/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-msk-supports-3-aws-availability-zones-in-sao-paulo-canada/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1422,7 +1447,9 @@
         "Title": "Amazon MSK now supports Apache Kafka version upgrades",
         "Date": "28/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-msk-supports-apache-kafka-version-upgrades/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1515,7 +1542,9 @@
         "Title": "Amazon MSK is now available in AWS GovCloud (US) Regions",
         "Date": "06/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-msk-available-aws-govcloud-regions/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1547,8 +1576,8 @@
         "Date": "29/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-kinesis-video-streams-adds-api-support-to-easily-retrieve-media-clips/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1617,7 +1646,9 @@
         "Title": "Amazon MSK is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD",
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-msk-now-available-beijing-sinnet-ningxia-nwcd/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1660,7 +1691,9 @@
         "Title": "Create Amazon MSK clusters with T3 brokers for less than $2.50/day",
         "Date": "09/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/create-amazon-msk-clusters-with-t3-brokers/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1703,7 +1736,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.4.1",
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-msk-adds-support-for-apache-kafka-version-2-4-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1729,8 +1764,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-managed-services-expands-big-data-capabilities-with-support-for-amazon-sagemaker-aws-lake-formation-amazon-cloudsearch/",
         "Services": [
-            "Amazon CloudSearch",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon CloudSearch"
         ]
     },
     {
@@ -1757,8 +1792,8 @@
         "Date": "23/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-streams-now-supports-scaling-up-to-10000-mbs-throughput-with-a-single-api-call/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1811,8 +1846,8 @@
         "Date": "12/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-firehose-now-supports-aws-privatelink-in-govcloud-regions/",
         "Services": [
-            "Amazon Kinesis",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1844,7 +1879,8 @@
         "Date": "27/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-msk-can-now-stream-broker-logs-to-cloudwatch-logs-s3-elasticsearch-service/",
         "Services": [
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon MSK"
         ]
     },
     {
@@ -1852,7 +1888,9 @@
         "Title": "Amazon MSK increases the default broker limit per cluster to 30 brokers",
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-msk-increases-the-default-broker-limit-per-cluster-to-30-brokers/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1896,7 +1934,9 @@
         "Title": "Amazon MSK is now available in Middle East (Bahrain)",
         "Date": "24/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-msk-now-available-bahrain/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1904,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {

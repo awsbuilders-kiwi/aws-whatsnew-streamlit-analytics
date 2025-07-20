@@ -12,8 +12,8 @@
         "Date": "02/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon Security Lake"
+            "Amazon Security Lake",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -186,8 +186,8 @@
         "Date": "07/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -212,8 +212,8 @@
         "Date": "20/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/",
         "Services": [
-            "Amazon MQ",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MQ"
         ]
     },
     {
@@ -256,8 +256,8 @@
         "Date": "10/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -356,7 +356,9 @@
         "Title": "Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless",
         "Date": "07/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Serverless",
@@ -478,8 +480,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-pipes-event-delivery-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -645,8 +647,8 @@
         "Date": "12/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/",
         "Services": [
-            "Amazon EBS",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon EBS"
         ]
     }
 ]

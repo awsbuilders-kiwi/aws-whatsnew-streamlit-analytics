@@ -4,14 +4,18 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.6.3",
         "Date": "21/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK adds support for Apache Kafka version 2.7.2",
         "Date": "21/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-support-apache-kafka-version-2-7-2/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -134,8 +138,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -162,7 +166,9 @@
         "Title": "Introducing Amazon MSK Serverless in public preview",
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -341,7 +347,9 @@
         "Title": "You can now securely connect to your Amazon MSK clusters over the internet",
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/securely-connect-amazon-msk-clusters-over-internet/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -368,8 +376,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -414,8 +422,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -487,8 +495,8 @@
         "Date": "03/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -538,8 +546,8 @@
         "Date": "19/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -548,8 +556,8 @@
         "Date": "15/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -645,7 +653,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.8.1",
         "Date": "01/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -738,7 +748,9 @@
         "Title": "Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings",
         "Date": "17/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -754,7 +766,9 @@
         "Title": "Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK",
         "Date": "16/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -849,7 +863,9 @@
         "Title": "Amazon MSK adds metrics for increased visibility of capacity",
         "Date": "25/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-msk-adds-metrics-increased-visibility-capacity/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -898,8 +914,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Glue"
         ]
     },
     {
@@ -969,7 +985,9 @@
         "Title": "AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management",
         "Date": "04/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-data-streaming-solution-amazon-msk-support-aws-iam-streamline-access-control-management/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1082,8 +1100,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/",
         "Services": [
-            "AWS Glue",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Glue"
         ]
     },
     {
@@ -1263,8 +1281,8 @@
         "Date": "27/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1290,7 +1308,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.7.1",
         "Date": "25/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-msk-adds-support-for-apache-kafka-version-2-7-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1325,7 +1345,9 @@
         "Title": "AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds support for Apache Kafka versions 2.8.0 and 2.6.2",
         "Date": "19/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-streaming-solution-for-amazon-msk-adds-support-for-apache-kafka-versions-2-8-0-and-2-6-2/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1410,7 +1432,9 @@
         "Title": "Introducing IAM Access Control for Apache Kafka on Amazon MSK",
         "Date": "07/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1479,8 +1503,8 @@
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -1488,7 +1512,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.6.2",
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-for-apache-kafka-version-2-6-2/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1504,7 +1530,9 @@
         "Title": "Amazon MSK adds support for Apache Kafka version 2.8.0",
         "Date": "29/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-apache-kafka-version-2-8-0/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -1589,8 +1617,8 @@
         "Date": "16/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -1640,8 +1668,8 @@
         "Date": "07/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
+            "Amazon Kinesis",
             "AWS Glue"
         ]
     },
@@ -1651,8 +1679,8 @@
         "Date": "03/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -1787,8 +1815,8 @@
         "Date": "12/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1797,8 +1825,8 @@
         "Date": "11/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1916,8 +1944,8 @@
         "Date": "18/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -1980,7 +2008,8 @@
         "Date": "06/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-data-streaming-solution/",
         "Services": [
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon MSK"
         ]
     },
     {
@@ -2031,14 +2060,18 @@
         "Title": "Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers",
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
         "Title": "Amazon MSK adds support for Apache Kafka version 2.6.1",
         "Date": "19/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-adds-support-for-apache-kafka-version-2-6-1/",
-        "Services": []
+        "Services": [
+            "Amazon MSK"
+        ]
     },
     {
         "Category": "Analytics",
@@ -2071,8 +2104,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Glue",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Glue"
         ]
     },
     {

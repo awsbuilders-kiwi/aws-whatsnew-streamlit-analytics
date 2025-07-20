@@ -217,8 +217,8 @@
         "Date": "25/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/",
         "Services": [
-            "AWS Batch",
-            "Amazon Elastic Kubernetes Service"
+            "Amazon Elastic Kubernetes Service",
+            "AWS Batch"
         ]
     },
     {
@@ -366,8 +366,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "Amazon Route 53",
-            "AWS App Runner"
+            "AWS App Runner",
+            "Amazon Route 53"
         ]
     },
     {
@@ -376,8 +376,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/",
         "Services": [
-            "AWS Step Functions",
             "AWS Lambda",
+            "AWS Step Functions",
             "Amazon Managed Service for Prometheus"
         ]
     },
@@ -482,8 +482,8 @@
         "Date": "24/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/",
         "Services": [
-            "Amazon Elastic Kubernetes Service",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon Elastic Kubernetes Service"
         ]
     },
     {
@@ -695,8 +695,8 @@
         "Date": "23/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
