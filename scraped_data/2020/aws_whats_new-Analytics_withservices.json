@@ -32,8 +32,8 @@
         "Date": "23/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon S3"
         ]
     },
     {
@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -89,8 +89,8 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon DynamoDB",
             "Amazon Kinesis",
+            "Amazon DynamoDB",
             "AWS Lambda"
         ]
     },
@@ -476,8 +476,8 @@
         "Date": "07/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/",
         "Services": [
-            "Amazon S3",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon S3"
         ]
     },
     {
@@ -542,8 +542,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "Amazon S3"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Redshift"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
         "Services": [
-            "AWS Step Functions",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Step Functions"
         ]
     },
     {
@@ -667,8 +667,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/",
         "Services": [
-            "Amazon EMR",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon EMR"
         ]
     },
     {
@@ -729,8 +729,8 @@
         "Date": "03/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-active-directory-saml-providers-amazon-athena/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -907,8 +907,8 @@
         "Date": "15/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-appflow-supports-new-data-formats-ingesting-flies-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "Amazon S3"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "15/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-querying-apache-hudi-datasets-amazon-s3-based-data-lake/",
         "Services": [
-            "Amazon S3",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon S3"
         ]
     },
     {
@@ -1208,8 +1208,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-for-managing-data-catalogs-using-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1218,8 +1218,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/introducing-genomics-tertiary-analysis-and-data-lakes-using-aws-glue-amazon-athena/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1764,8 +1764,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-managed-services-expands-big-data-capabilities-with-support-for-amazon-sagemaker-aws-lake-formation-amazon-cloudsearch/",
         "Services": [
-            "Amazon CloudSearch",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon CloudSearch"
         ]
     },
     {
@@ -1811,8 +1811,8 @@
         "Date": "14/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-athena-adds-support-for-managing-athena-workgroups-using-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {

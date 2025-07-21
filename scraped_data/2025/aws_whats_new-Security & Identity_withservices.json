@@ -1,0 +1,910 @@
+[
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Inspector now available in additional AWS Regions",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-inspector-additional-aws-regions",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Config rules add classifications from AWS Control Tower Control Catalog",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog",
+        "Services": [
+            "AWS Config",
+            "AWS Control Tower"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules",
+        "Date": "28/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules",
+        "Services": [
+            "AWS WAF",
+            "AWS Firewall Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers (ALB)",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito introduces AWS WAF support for Managed Login",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login",
+        "Services": [
+            "Amazon Cognito",
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific (Taipei) Region",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region",
+        "Services": [
+            "AWS Directory Service"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Security Incident Response adds integration with Amazon EventBridge",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-incident-response-integration-eventbridge/",
+        "Services": [
+            "Amazon EventBridge"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Service Reference Information now supports annotations for service actions",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-service-reference-information-annotations/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Private CA now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "24/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-private-ca-internet-protocol-version-6/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS expands resource control policies (RCPs) support to two additional services",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Payment Cryptography is now available in AWS Asia Pacific (Mumbai) and Asia Pacific (Osaka)",
+        "Date": "19/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-payment-cryptography-aws-asia-pacific-mumbai-osaka",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Express.js developers can now add authorization in minutes with Amazon Verified Permissions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Inspector launches code security to shift security left in development",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF reduces web application security configuration steps and provides expert-level protection",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall launches support for active threat defense",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-active-threat-defense",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Introducing the reimagined AWS MSSP Competency",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/reimagined-aws-mssp-competency",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS IAM now enforces MFA for root users across all account types",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Certificate Manager introduces public certificates you can use anywhere",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/",
+        "Services": [
+            "AWS Certificate Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Extended Threat Detection now supports Amazon EKS",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Introducing AWS Security Hub for risk prioritization and response at scale (Preview)",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-hub-risk-prioritization-response-scale/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Shield introduces network security director (preview)",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview",
+        "Services": [
+            "AWS Shield"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall now supports AWS Transit Gateway native integration",
+        "Date": "17/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/",
+        "Services": [
+            "AWS Network Firewall",
+            "AWS Transit Gateway"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Control Tower now supports seven new compliance frameworks",
+        "Date": "14/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks",
+        "Services": [
+            "AWS Control Tower"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS KMS adds support for post-quantum ML-DSA digital signatures",
+        "Date": "14/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon EKS Pod Identity simplifies the experience for cross-account access",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-pod-identity-cross-account-access",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF now supports automatic application layer distributed denial of service (DDoS) protection",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-automatic-application-layer-ddos-protection",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Verified Permissions reduces authorization request price by up to 97%",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-verified-permissions-reduces-price/",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS KMS launches on-demand key rotation for imported keys",
+        "Date": "07/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-on-demand-key-rotation-imported-keys/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Announcing ASN match support for AWS WAF",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/asn-match-aws-waf",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Wickr announces a Preview experience for files",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall launches new monitoring dashboard",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-monitoring-dashboard",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Resource Groups now supports IPv6",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-supports-ipv6",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon EKS add-ons now supports Private CA Connector for Kubernetes",
+        "Date": "05/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Private CA announces support for Microsoft Active Directory child domains",
+        "Date": "03/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-private-ca-microsoft-active-directory-child-domains",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon EMR enables enhanced Apache Spark capabilities for Lake Formation tables with full table access",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-emr-apache-spark-capabilities-lake-formation-table",
+        "Services": [
+            "Amazon EMR"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Security Hub now supports NIST SP 800-171 Revision 2",
+        "Date": "30/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-hub-nist-sp-800-171-revision-2",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall Adds Support for Multiple VPC Endpoints",
+        "Date": "29/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-network-firewall-multiple-vpc-endpoints/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Secrets Manager announces support for cost allocation tags for secrets",
+        "Date": "28/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Organizations now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "21/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/",
+        "Services": [
+            "AWS Organizations"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Inspector enhances container security by mapping ECR images to running containers",
+        "Date": "20/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-inspector-container-security-images/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Config rules now available in additional AWS Regions",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions",
+        "Services": [
+            "AWS Config"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito now supports OIDC prompt parameter",
+        "Date": "17/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cognito-oidc-prompt-parameter/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Malware Protection for EC2 now available in AWS GovCloud (US) Regions",
+        "Date": "14/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-guardduty-malware-protection-ec2-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Security Incident Response is now available in three additional AWS Regions",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-incident-response-three-additional-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Shield Advanced is now available in AWS Asia Pacific (Thailand) and AWS Mexico (Central) regions",
+        "Date": "09/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-shield-advanced-thailand-mexico-regions/",
+        "Services": [
+            "AWS Shield"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Verified Permissions now supports policy store tagging",
+        "Date": "07/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions",
+        "Date": "06/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Resource control policies (RCPs) are now available in the AWS GovCloud (US) Regions",
+        "Date": "03/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/resource-control-policies-aws-govcloud-us-regions",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF Targeted Bot Control and Fraud Control is now available in two additional regions",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-waf-targeted-bot-fraud-control-two-regions/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito adds enhanced context support for machine-to-machine (M2M) authorization flows",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-context-machine-to-machine-flows/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Automated HTTP validated public certificates with Amazon CloudFront",
+        "Date": "29/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/automated-http-validated-public-certificates-amazon-cloudfront",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito now supports refresh token rotation",
+        "Date": "23/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-refresh-token-rotation/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS STS global endpoint now serves your requests locally in regions enabled by default",
+        "Date": "19/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Security Incident Response now supports integration with AWS PrivateLink",
+        "Date": "18/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink",
+        "Services": [
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Verified Permissions now supports policy store deletion protection",
+        "Date": "18/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Announcing 223 new AWS Config rules in AWS Control Tower",
+        "Date": "12/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower",
+        "Services": [
+            "AWS Config",
+            "AWS Control Tower"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider",
+        "Date": "11/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS IAM Identity Center is now available in the Asia Pacific (Malaysia) AWS Region",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region",
+        "Services": [
+            "AWS IAM Identity Center"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Security Lake now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-internet-protocol-version-6/",
+        "Services": [
+            "Amazon Security Lake"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Security Lake achieves FedRamp High and Moderate authorization",
+        "Date": "03/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization",
+        "Services": [
+            "Amazon Security Lake"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD",
+        "Date": "03/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available",
+        "Date": "03/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Resource Access Manager (RAM) now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "01/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6",
+        "Services": [
+            "AWS Resource Access Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Identity and Access Management now supports dual-stack (IPv4 and IPv6) environments",
+        "Date": "29/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-identity-access-management-dual-stack-ipv4-ipv6-environments",
+        "Services": [
+            "AWS Identity and Access Management"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon ElastiCache now supports AWS PrivateLink in AWS Asia Pacific (Jakarta) and Asia Pacific (Hyderabad) Regions",
+        "Date": "29/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-elasticache-aws-privatelink-asia-pacific-jakarta-asia-pacific-hyderabad-regions",
+        "Services": [
+            "Amazon ElastiCache",
+            "AWS PrivateLink"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall adds pass action rule alerts and JA4 filtering",
+        "Date": "28/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Amplify Hosting announces Web Application Firewall Protection in general availability",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-web-application-firewall-protection/",
+        "Services": [
+            "AWS Amplify"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall is now available in the Asia Pacific (Thailand) and Mexico (Central) Regions",
+        "Date": "27/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-thailand-mexico-central-regions/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Directory Service for Microsoft AD and AD Connector available in Mexico and Thailand",
+        "Date": "22/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-directory-service-microsoft-ad-connector-mexico-thailand/",
+        "Services": [
+            "AWS Directory Service"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall introduces new flow management feature",
+        "Date": "21/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF now supports URI fragment field matching",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Firewall Manager is now available in the AWS Asia Pacific (Thailand) and AWS Mexico (Central) regions",
+        "Date": "19/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions",
+        "Services": [
+            "AWS Firewall Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Verified Access achieves FedRAMP High and Moderate authorization",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-verified-access-fedramp-high-moderate-authorization",
+        "Services": [
+            "AWS Verified Access"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Extended Threat Detection now available in AWS GovCloud (US) and China Regions",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-extended-threat-detection-govcloud-china/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Announcing the New AWS Wickr Admin Console",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/new-aws-wickr-admin-console",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Malware Protection for S3 now available in AWS GovCloud (US) Regions",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-malware-protection-s3-govcloud/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Service Reference Information now supports resources and condition keys",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Inspector expands ECR support for minimal container base images and enhanced detections",
+        "Date": "13/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-inspector-container-base-images-enhanced-detections/",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito is now available in Asia Pacific (Malaysia) Region",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-asia-pacific-malaysia-region",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Announcing new feature tiers: Essentials and Plus for Amazon Cognito in AWS GovCloud (US) Regions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/new-feature-tiers-essentials-plus-amazon-cognito-aws-govcloud-us-regions",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF now supports PCI DSS4.0 compliance protection with partner solutions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-pci-compliance-protection-partner-solutions/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF Targeted Bot Control is now available in the AWS GovCloud (US) Regions",
+        "Date": "11/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-targeted-bot-control-govcloud-us-regions/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules",
+        "Date": "07/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon EKS now envelope encrypts all Kubernetes API data by default",
+        "Date": "06/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "IAM Access Analyzer now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "06/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/iam-access-analyzer-supports-ipv6/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF is now available in two additional AWS regions",
+        "Date": "06/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Secrets Manager increases the API Requests per Second limits",
+        "Date": "05/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-secrets-manager-increases-api-requests-seconds",
+        "Services": [
+            "AWS Secrets Manager"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Cognito now supports access token customization for machine-to-machine (M2M) authorization flows",
+        "Date": "04/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-access-token-m2m-authorization-flows/",
+        "Services": [
+            "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Network Firewall simplifies policy management with enhanced console features",
+        "Date": "01/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-policy-management-console-features/",
+        "Services": [
+            "AWS Network Firewall"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon RDS now provides visibility into IAM DB Authentication metrics and logs",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF enhances integration with Service Quotas",
+        "Date": "25/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Verified Permissions now supports the Cedar JSON entity format",
+        "Date": "25/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF enhances Data Protection and logging experience",
+        "Date": "19/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon Inspector enhances the security engine for container images scanning",
+        "Date": "15/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning",
+        "Services": [
+            "Amazon Inspector"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS",
+        "Date": "12/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF Console adds new top insights visualizations in additional regions",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions",
+        "Services": [
+            "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues",
+        "Services": [
+            "AWS CloudTrail",
+            "AWS IAM Identity Center"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Malware Protection for S3 announces price reduction",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Verified Access launches Zero Trust access to resources over non-HTTP(S) protocols",
+        "Date": "07/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/",
+        "Services": [
+            "AWS Verified Access"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Wickr now provides a dedicated space to organize and access files",
+        "Date": "06/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS IAM announces support for encrypted SAML assertions",
+        "Date": "06/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/",
+        "Services": []
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS",
+        "Date": "04/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty is now available in AWS Asia Pacific (Malaysia) Region",
+        "Date": "17/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Security Hub now integrates with Amazon Route 53 Resolver DNS Firewall",
+        "Date": "14/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/",
+        "Services": [
+            "Amazon Route 53",
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF Console adds new Top Insights Visualizations",
+        "Date": "04/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-waf-console-top-insights-visualizations/",
+        "Services": [
+            "AWS WAF"
+        ]
+    }
+]

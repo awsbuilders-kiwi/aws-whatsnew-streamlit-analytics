@@ -1,6 +1,29 @@
 [
     {
         "Category": "Business Applications",
+        "Title": "Amazon Connect forecasting, capacity planning, and scheduling is now available in AWS GovCloud (US-West)",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecasting-capacity-planning-scheduling-aws-govcloud-us-west",
+        "Services": [
+            "Amazon Connect"
+        ]
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Q-Index now supports seamless application-level authentication",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/q-index-seamless-application-level-authentication/",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
+        "Title": "Amazon Simple Email Service is now available in three new AWS Regions",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions",
+        "Services": []
+    },
+    {
+        "Category": "Business Applications",
         "Title": "AWS End User Messaging now supports Service Quotas",
         "Date": "24/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/",
@@ -220,8 +243,8 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
-            "Amazon WorkSpaces",
             "Amazon AppStream 2.0",
+            "Amazon WorkSpaces",
             "Amazon Connect"
         ]
     },

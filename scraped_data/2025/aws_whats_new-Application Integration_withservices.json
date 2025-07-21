@@ -1,12 +1,39 @@
 [
     {
         "Category": "Application Integration",
+        "Title": "Amazon SNS now supports delivery to Amazon Data Firehose in three additional AWS Regions",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-data-firehose-additional-aws-regions",
+        "Services": [
+            "Amazon Data Firehose"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS B2B Data Interchange introduces splitting of inbound EDI documents",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-b2b-data-interchange-splitting-inbound-edi-documents/",
+        "Services": [
+            "AWS B2B Data Interchange"
+        ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "AWS B2B Data Interchange introduces new configuration capabilities for generated EDI documents",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-b2b-data-interchange-configuration-edi-documents/",
+        "Services": [
+            "AWS B2B Data Interchange"
+        ]
+    },
+    {
+        "Category": "Application Integration",
         "Title": "Amazon EventBridge now supports AWS CodeBuild batch builds as a target",
         "Date": "27/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/",
         "Services": [
-            "AWS CodeBuild",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -106,8 +133,8 @@
         "Date": "26/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS PrivateLink"
         ]
     },
     {

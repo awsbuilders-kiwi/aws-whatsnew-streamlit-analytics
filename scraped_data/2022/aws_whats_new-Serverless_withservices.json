@@ -5,8 +5,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS Lambda"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon S3",
             "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon DynamoDB",
+            "Amazon S3"
         ]
     },
     {
@@ -179,8 +179,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -228,8 +228,8 @@
         "Date": "05/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/",
         "Services": [
-            "Amazon Aurora",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Aurora"
         ]
     },
     {
@@ -279,8 +279,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "AWS App Runner",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS App Runner"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -385,8 +385,8 @@
         "Date": "05/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Lambda"
         ]
     },
     {

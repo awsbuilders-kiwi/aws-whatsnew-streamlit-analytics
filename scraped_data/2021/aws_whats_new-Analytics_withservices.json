@@ -258,8 +258,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Athena",
+            "Amazon Redshift",
             "Amazon Managed Grafana"
         ]
     },
@@ -328,8 +328,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -338,8 +338,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Step Functions"
         ]
     },
     {
@@ -357,8 +357,8 @@
         "Date": "19/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -376,8 +376,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -422,8 +422,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "19/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -556,8 +556,8 @@
         "Date": "15/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -914,8 +914,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Glue"
         ]
     },
     {
@@ -960,8 +960,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/",
         "Services": [
-            "Amazon S3",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon S3"
         ]
     },
     {
@@ -1029,8 +1029,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-exporting-data-aws-iot-sitewise-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "Amazon S3"
         ]
     },
     {
@@ -1100,8 +1100,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/",
         "Services": [
-            "AWS Glue",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Glue"
         ]
     },
     {
@@ -1371,8 +1371,8 @@
         "Date": "13/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -1679,8 +1679,8 @@
         "Date": "03/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -1815,8 +1815,8 @@
         "Date": "12/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "18/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -2104,8 +2104,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Glue",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Glue"
         ]
     },
     {

@@ -28,8 +28,8 @@
         "Date": "22/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -68,8 +68,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -180,8 +180,8 @@
         "Date": "09/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -327,8 +327,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS Lambda"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -700,8 +700,8 @@
         "Date": "28/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/",
         "Services": [
-            "VMware Cloud on AWS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -814,9 +814,9 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/",
         "Services": [
+            "Amazon MQ",
             "AWS Lambda",
-            "Amazon MSK",
-            "Amazon MQ"
+            "Amazon MSK"
         ]
     },
     {
@@ -834,8 +834,8 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1125,8 +1125,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "AWS App Runner",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS App Runner"
         ]
     },
     {
@@ -1411,8 +1411,8 @@
         "Date": "07/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/",
         "Services": [
-            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
+            "Amazon EC2",
             "Amazon CloudWatch"
         ]
     },
@@ -1456,8 +1456,8 @@
         "Date": "28/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/",
         "Services": [
-            "Amazon EC2",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EC2"
         ]
     },
     {
@@ -1466,8 +1466,8 @@
         "Date": "24/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1564,8 +1564,8 @@
         "Date": "01/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/",
         "Services": [
-            "Amazon EC2",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EC2"
         ]
     },
     {
@@ -1669,8 +1669,8 @@
         "Date": "19/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1679,8 +1679,8 @@
         "Date": "17/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1734,8 +1734,8 @@
         "Date": "05/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Lambda"
         ]
     },
     {
@@ -1765,8 +1765,8 @@
         "Date": "27/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -1784,8 +1784,8 @@
         "Date": "27/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -1869,8 +1869,8 @@
         "Date": "19/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -1898,8 +1898,8 @@
         "Date": "12/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/",
         "Services": [
-            "AWS App Runner",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS App Runner"
         ]
     },
     {
@@ -2019,8 +2019,8 @@
         "Date": "24/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2029,8 +2029,8 @@
         "Date": "23/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2123,8 +2123,8 @@
         "Date": "01/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2185,8 +2185,8 @@
         "Date": "24/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2325,9 +2325,9 @@
         "Date": "20/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/",
         "Services": [
+            "Amazon MQ",
             "AWS Lambda",
-            "Amazon MSK",
-            "Amazon MQ"
+            "Amazon MSK"
         ]
     },
     {

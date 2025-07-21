@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -195,8 +195,8 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon DynamoDB",
             "Amazon Kinesis",
+            "Amazon DynamoDB",
             "AWS Lambda"
         ]
     },
@@ -206,8 +206,8 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon DynamoDB",
             "Amazon Kinesis",
+            "Amazon DynamoDB",
             "AWS Lambda"
         ]
     },
@@ -431,8 +431,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-and-spot-fleet-integrate-with-amazon-eventbridge-easier-operations-monitoring/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon EC2"
         ]
     },
     {
@@ -441,8 +441,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -474,8 +474,8 @@
         "Date": "20/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "06/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -661,8 +661,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -671,8 +671,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/",
         "Services": [
-            "AWS Wavelength",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Wavelength"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS Fargate",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Fargate"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -1217,8 +1217,8 @@
         "Date": "28/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/seamlessly-join-amazon-ec2-for-linux-instance-to-aws-directory-service/",
         "Services": [
-            "AWS Directory Service",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Directory Service"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "Amazon EFS",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon EFS"
         ]
     },
     {
@@ -1744,8 +1744,8 @@
         "Date": "16/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-auto-scaling-now-supports-instance-refresh-within-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1824,8 +1824,8 @@
         "Date": "04/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-auto-scaling-available-7-additional-aws-regions-predictive-scaling-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Auto Scaling"
+            "AWS Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1966,8 +1966,8 @@
         "Date": "11/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/control-your-email-flows-in-amazon-workmail-using-aws-lambda/",
         "Services": [
-            "AWS Lambda",
-            "Amazon WorkMail"
+            "Amazon WorkMail",
+            "AWS Lambda"
         ]
     },
     {
@@ -2436,8 +2436,8 @@
         "Date": "29/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-systems-manager-now-supports-aws-privatelink-in-aws-govcloud-regions/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -2464,8 +2464,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-provides-notifications-via-aws-health-services/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2492,8 +2492,8 @@
         "Date": "20/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-supports-enabling-and-disabling-scaling-policies/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2536,8 +2536,8 @@
         "Date": "14/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/now-enable-amazon-ec2-hibernation-on-demand-reserved-instances-aws-cloudformation/",
         "Services": [
-            "Amazon EC2",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EC2"
         ]
     },
     {
@@ -2675,8 +2675,8 @@
         "Date": "22/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-vpc-ingress-routing-now-supports-aws-cloudformation/",
         "Services": [
-            "Amazon VPC",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon VPC"
         ]
     },
     {

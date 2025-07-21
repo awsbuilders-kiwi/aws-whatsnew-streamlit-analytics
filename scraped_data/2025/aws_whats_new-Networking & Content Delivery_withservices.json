@@ -1,6 +1,31 @@
 [
     {
         "Category": "Networking & Content Delivery",
+        "Title": "AWS announces new AWS Data Transfer Terminal location in Munich",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-data-transfer-terminal-munich/",
+        "Services": []
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "Amazon CloudFront announces support for HTTPS DNS records",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records",
+        "Services": [
+            "Amazon CloudFront"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
+        "Title": "AWS Global Accelerator now supports endpoints in two additional AWS Regions",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-global-accelerator-endpoints-two-additional-regions/",
+        "Services": [
+            "AWS Global Accelerator"
+        ]
+    },
+    {
+        "Category": "Networking & Content Delivery",
         "Title": "Amazon Route 53 launches capacity utilization metric for Resolver endpoints",
         "Date": "28/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-capacity-metric-resolver-endpoints/",
@@ -225,8 +250,8 @@
         "Date": "26/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -262,8 +287,8 @@
         "Date": "26/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Location Service"
+            "Amazon Location Service",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -288,8 +313,8 @@
         "Date": "14/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/",
         "Services": [
-            "AWS Security Hub",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS Security Hub"
         ]
     },
     {

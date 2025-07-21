@@ -1,6 +1,59 @@
 [
     {
         "Category": "Compute",
+        "Title": "Amazon EC2 R8g instances now available in additional regions",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r8g-instances-additional-regions",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Fargate now supports SOCI Index Manifest v2 for greater deployment consistency",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-fargate-soci-index-manifest-v2-deployment-consistency",
+        "Services": [
+            "AWS Fargate"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 R7i instances are now available in Asia Pacific (Hyderabad) Region",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r7i-instances-asia-pacific-hyderabad-region/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "New features for AWS Neuron 2.24 include PyTorch 2.7 and inference enhancements",
+        "Date": "03/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neuron-2-24-pytorch-2-7-inference-enhancements/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
+        "Title": "Now generally available: Amazon EC2 C8gn instance",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing Amazon EBS gp3 volumes for second-generation AWS Outposts racks",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
+        "Services": [
+            "AWS Outposts",
+            "Amazon EBS"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "Research and Engineering Studio on AWS Version 2025.06 now available",
         "Date": "28/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available",
@@ -114,8 +167,8 @@
         "Date": "19/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -237,8 +290,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -393,8 +446,8 @@
         "Date": "17/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Lightsail"
+            "Amazon Lightsail",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -516,8 +569,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -623,8 +676,8 @@
         "Date": "19/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
         "Services": [
-            "Amazon CloudWatch",
-            "Red Hat OpenShift Service on AWS"
+            "Red Hat OpenShift Service on AWS",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -770,9 +823,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Systems Manager",
             "AWS Elastic Beanstalk",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -919,8 +972,8 @@
         "Date": "12/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config",
         "Services": [
-            "Amazon EC2",
-            "AWS Config"
+            "AWS Config",
+            "Amazon EC2"
         ]
     },
     {
@@ -1018,8 +1071,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1037,8 +1090,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elastic-beanstalk-ruby-3-4-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1284,8 +1337,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-python-3-13-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1294,8 +1347,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-net-9-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1304,8 +1357,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-php-8-4-amazon-linux-2023/",
         "Services": [
-            "Amazon Linux 2023",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Linux 2023"
         ]
     },
     {
@@ -1418,9 +1471,9 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
+            "Amazon EC2 Auto Scaling",
             "Amazon EC2",
-            "AWS Compute Optimizer",
-            "Amazon EC2 Auto Scaling"
+            "AWS Compute Optimizer"
         ]
     },
     {

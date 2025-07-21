@@ -1,6 +1,34 @@
 [
     {
         "Category": "Storage",
+        "Title": "Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume",
+        "Services": [
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Express One Zone now supports tags for cost allocation and attribute-based access control",
+        "Date": "03/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-express-one-zone-tags-cost-allocation-attribute-based-access-control",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Announcing Amazon EBS gp3 volumes for second-generation AWS Outposts racks",
+        "Date": "01/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
+        "Services": [
+            "AWS Outposts",
+            "Amazon EBS"
+        ]
+    },
+    {
+        "Category": "Storage",
         "Title": "Amazon EC2 I7ie instances are now available in additional AWS regions",
         "Date": "28/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions",
@@ -14,8 +42,8 @@
         "Date": "27/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions",
         "Services": [
-            "Amazon S3",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon S3"
         ]
     },
     {
@@ -108,8 +136,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -163,8 +191,8 @@
         "Date": "03/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -201,8 +229,8 @@
         "Date": "29/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -309,8 +337,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-thailand-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -319,8 +347,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-mexico-central-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -428,8 +456,8 @@
         "Date": "08/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -438,8 +466,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -448,9 +476,9 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/",
         "Services": [
-            "AWS Backup",
             "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "AWS Backup"
         ]
     },
     {
@@ -531,9 +559,9 @@
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/",
         "Services": [
+            "AWS Backup",
             "Amazon FSx for OpenZFS",
-            "Amazon FSx",
-            "AWS Backup"
+            "Amazon FSx"
         ]
     },
     {
@@ -560,8 +588,8 @@
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx",
         "Services": [
-            "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -579,8 +607,8 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -598,8 +626,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink",
         "Services": [
-            "Data Lifecycle Manager",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Data Lifecycle Manager"
         ]
     },
     {
@@ -762,8 +790,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
