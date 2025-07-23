@@ -191,8 +191,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -264,8 +264,8 @@
         "Date": "17/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-iot-device-defender-application-security-posture/",
         "Services": [
-            "AWS IoT Device Defender",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "AWS IoT Device Defender"
         ]
     },
     {
@@ -292,8 +292,8 @@
         "Date": "15/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -320,8 +320,8 @@
         "Date": "09/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-firewall-manager-import-existing-aws-network-firewall-resources/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -364,9 +364,9 @@
         "Date": "03/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-amazon-fsx-netapp-ontap-sap-hana-host-auto-failover/",
         "Services": [
-            "AWS Launch Wizard",
             "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -455,8 +455,8 @@
         "Date": "18/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon Detective"
+            "Amazon Detective",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -677,8 +677,8 @@
         "Date": "27/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -724,8 +724,8 @@
         "Date": "03/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "Date": "26/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/",
         "Services": [
-            "Amazon Macie",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Macie"
         ]
     },
     {
@@ -828,8 +828,8 @@
         "Date": "26/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -892,8 +892,8 @@
         "Date": "14/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -1096,8 +1096,8 @@
         "Date": "10/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -1311,8 +1311,8 @@
         "Date": "14/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/",
         "Services": [
-            "Amazon SES",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "Amazon SES"
         ]
     },
     {
@@ -1375,8 +1375,8 @@
         "Date": "24/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -1454,8 +1454,8 @@
         "Date": "26/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon Elastic Kubernetes Service"
+            "Amazon Elastic Kubernetes Service",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -1501,8 +1501,8 @@
         "Date": "08/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/",
         "Services": [
-            "AWS Firewall Manager",
-            "AWS Shield"
+            "AWS Shield",
+            "AWS Firewall Manager"
         ]
     },
     {

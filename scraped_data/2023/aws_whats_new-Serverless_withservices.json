@@ -77,8 +77,8 @@
         "Date": "18/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -166,8 +166,8 @@
         "Date": "01/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -273,8 +273,8 @@
         "Date": "16/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -326,8 +326,8 @@
         "Date": "01/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -354,9 +354,9 @@
         "Date": "26/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
-            "Amazon EMR",
+            "Amazon CloudWatch",
             "EMR Serverless",
-            "Amazon CloudWatch"
+            "Amazon EMR"
         ]
     },
     {
@@ -374,8 +374,8 @@
         "Date": "17/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS X-Ray"
         ]
     },
     {
@@ -553,8 +553,8 @@
         "Date": "21/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
+            "AWS Systems Manager",
             "AWS Secrets Manager",
-            "AWS App Runner",
-            "AWS Systems Manager"
+            "AWS App Runner"
         ]
     }
 ]

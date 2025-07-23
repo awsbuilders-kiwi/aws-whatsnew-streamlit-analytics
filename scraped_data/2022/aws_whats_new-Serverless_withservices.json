@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
-            "Amazon EMR",
+            "Amazon S3",
             "EMR Serverless",
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon EMR",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -228,8 +228,8 @@
         "Date": "05/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -385,8 +385,8 @@
         "Date": "05/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
         "Services": [
-            "Amazon Elastic File System",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Elastic File System"
         ]
     },
     {

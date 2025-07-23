@@ -15,10 +15,10 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/",
         "Services": [
-            "Amazon S3",
             "Amazon Chime SDK",
+            "AWS Key Management Service",
             "Amazon Chime",
-            "AWS Key Management Service"
+            "Amazon S3"
         ]
     },
     {
@@ -127,8 +127,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/",
         "Services": [
-            "AWS Transfer Family",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Transfer Family"
         ]
     },
     {
@@ -189,9 +189,9 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/",
         "Services": [
-            "Amazon Transcribe",
             "Amazon Chime SDK",
-            "Amazon Chime"
+            "Amazon Chime",
+            "Amazon Transcribe"
         ]
     },
     {
@@ -320,8 +320,8 @@
         "Date": "17/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/",
         "Services": [
-            "Amazon WorkMail",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon WorkMail"
         ]
     },
     {

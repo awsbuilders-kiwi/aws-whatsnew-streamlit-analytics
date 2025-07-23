@@ -326,8 +326,8 @@
         "Date": "30/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
-            "AWS DataSync",
             "Amazon FSx for Windows File Server",
+            "AWS DataSync",
             "Amazon FSx"
         ]
     },
@@ -484,8 +484,8 @@
         "Date": "08/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/",
         "Services": [
-            "AWS Transfer Family",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Transfer Family"
         ]
     }
 ]
