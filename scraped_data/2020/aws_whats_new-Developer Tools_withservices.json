@@ -264,8 +264,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -369,8 +369,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-code-artifact-supports-aws-cloudformation/",
         "Services": [
-            "AWS CodeArtifact",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS CodeArtifact"
         ]
     },
     {
@@ -493,8 +493,8 @@
         "Date": "14/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS Step Functions",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1050,8 +1050,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-codeguru-profiler-now-includes-support-for-aws-cloudformation/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -1183,9 +1183,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
             "AWS CodeBuild",
-            "AWS CodeCommit",
             "AWS CodeDeploy",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -1297,8 +1297,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
             "AWS CodeBuild",
-            "AWS CodeCommit",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CodeCommit"
         ]
     },
     {

@@ -57,9 +57,9 @@
         "Date": "23/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/",
         "Services": [
-            "Amazon Kinesis Data Streams",
             "Amazon Kinesis",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -400,8 +400,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
             "AWS Secrets Manager",
-            "AWS App Runner"
+            "AWS App Runner",
+            "AWS Systems Manager"
         ]
     }
 ]

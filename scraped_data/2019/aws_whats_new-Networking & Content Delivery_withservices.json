@@ -137,8 +137,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "AWS Auto Scaling",
             "AWS PrivateLink",
+            "AWS Auto Scaling",
             "Amazon EC2 Auto Scaling",
             "Amazon EC2"
         ]
@@ -196,10 +196,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS Amplify",
-            "Amazon API Gateway",
             "AWS App Mesh",
-            "AWS CodePipeline",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon API Gateway",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -227,8 +227,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
             "Amazon CloudWatch",
-            "AWS CloudFormation",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "AWS CloudFormation"
         ]
     },
     {

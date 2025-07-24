@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -16,8 +16,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/",
         "Services": [
             "Amazon S3",
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -86,8 +86,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-data-deduplication-reducing-storage-costs/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-monitoring-user-level-storage-consumption/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -106,8 +106,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-enforcement-in-transit-encryption/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -116,8 +116,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-managing-file-shares-via-powershell/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -154,8 +154,8 @@
         "Date": "20/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-for-windows-file-server-now-supports-file-systems-that-span-multiple-availability-zones/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -183,10 +183,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS Amplify",
-            "Amazon API Gateway",
             "AWS App Mesh",
-            "AWS CodePipeline",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon API Gateway",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-fsx-for-windows-file-server-enables-administrators-to-restore-activity-on-files-locked-by-inactive-users/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "14/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateway-adds-amazon-cloudwatch-logging-and-metrics-for-file-gateway/",
         "Services": [
-            "AWS Storage Gateway",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Storage Gateway"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "04/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-fsx-lustre-reduces-minimum-file-system-size/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "26/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-s3-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -507,8 +507,8 @@
         "Date": "07/02/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/amazon-fsx-for-lustre-offers-new-options-and-faster-speeds/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     }
 ]

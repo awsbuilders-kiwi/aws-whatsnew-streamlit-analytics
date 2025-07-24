@@ -206,8 +206,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Athena",
+            "Amazon Redshift",
             "Amazon Managed Grafana"
         ]
     },
@@ -258,8 +258,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -425,8 +425,8 @@
         "Date": "01/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/",
         "Services": [
-            "Amazon MemoryDB",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon MemoryDB"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "23/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -565,8 +565,8 @@
         "Date": "17/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -658,8 +658,8 @@
         "Date": "01/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -862,8 +862,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "Amazon EBS",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon EBS"
         ]
     },
     {
@@ -901,8 +901,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/",
         "Services": [
             "AWS Organizations",
-            "AWS License Manager",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS License Manager"
         ]
     },
     {
@@ -1029,8 +1029,8 @@
         "Date": "23/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/",
         "Services": [
-            "Amazon Lookout for Metrics",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Lookout for Metrics"
         ]
     },
     {
@@ -1107,9 +1107,9 @@
         "Date": "28/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
+            "AWS Launch Wizard",
             "Amazon FSx for Windows File Server",
-            "Amazon FSx",
-            "AWS Launch Wizard"
+            "Amazon FSx"
         ]
     },
     {
@@ -1164,10 +1164,10 @@
         "Date": "19/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/",
         "Services": [
+            "Amazon EBS",
             "AWS Lambda",
             "Amazon S3",
-            "AWS Compute Optimizer",
-            "Amazon EBS"
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -1320,8 +1320,8 @@
         "Date": "27/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/third-party-software-built-aws-control-tower-available-aws-control-tower-console-powered-aws-marketplace/",
         "Services": [
-            "AWS Marketplace",
-            "AWS Control Tower"
+            "AWS Control Tower",
+            "AWS Marketplace"
         ]
     },
     {
@@ -1411,8 +1411,8 @@
         "Date": "12/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/",
         "Services": [
-            "AWS Backup",
-            "Amazon FSx"
+            "Amazon FSx",
+            "AWS Backup"
         ]
     },
     {
@@ -1421,8 +1421,8 @@
         "Date": "10/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-lambda-insights-now-supports-aws-lambda-container-images-general-availability/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1830,8 +1830,8 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon Elastic File System",
             "Amazon CloudWatch",
+            "Amazon Elastic File System",
             "Amazon EFS"
         ]
     },
@@ -1841,8 +1841,8 @@
         "Date": "09/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/",
         "Services": [
-            "AWS DataSync",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS DataSync"
         ]
     },
     {

@@ -138,8 +138,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -185,8 +185,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -258,8 +258,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Athena",
+            "Amazon Redshift",
             "Amazon Managed Grafana"
         ]
     },
@@ -328,8 +328,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -338,8 +338,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Step Functions"
         ]
     },
     {
@@ -422,8 +422,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/",
         "Services": [
-            "Amazon AppFlow",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -495,8 +495,8 @@
         "Date": "03/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -914,8 +914,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Glue"
         ]
     },
     {
@@ -1281,8 +1281,8 @@
         "Date": "27/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/",
         "Services": [
-            "Amazon AppFlow",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1617,8 +1617,8 @@
         "Date": "16/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "Amazon S3"
         ]
     },
     {
@@ -1668,9 +1668,9 @@
         "Date": "07/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/",
         "Services": [
-            "Amazon Kinesis Data Streams",
             "Amazon Kinesis",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1825,8 +1825,8 @@
         "Date": "11/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {

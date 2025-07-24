@@ -264,8 +264,8 @@
         "Date": "27/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/",
         "Services": [
-            "Amazon EC2",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "Amazon EC2"
         ]
     },
     {
@@ -699,8 +699,8 @@
         "Date": "01/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/",
         "Services": [
-            "Amazon S3",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon S3"
         ]
     },
     {
@@ -1385,8 +1385,8 @@
         "Date": "03/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/",
         "Services": [
-            "AWS Batch",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Batch"
         ]
     },
     {
@@ -1558,8 +1558,8 @@
         "Date": "15/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/",
         "Services": [
-            "AWS Batch",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Batch"
         ]
     },
     {
@@ -2304,8 +2304,8 @@
         "Date": "22/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/",
         "Services": [
-            "AWS Batch",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Batch"
         ]
     },
     {
@@ -2554,8 +2554,8 @@
         "Date": "14/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -2729,9 +2729,9 @@
         "Date": "31/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/",
         "Services": [
-            "AWS Snow Family",
+            "Snow Family",
             "AWS Snowcone",
-            "Snow Family"
+            "AWS Snow Family"
         ]
     },
     {
@@ -2811,8 +2811,8 @@
         "Date": "20/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/",
         "Services": [
-            "Amazon EC2",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon EC2"
         ]
     },
     {
@@ -2894,9 +2894,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
             "AWS Secrets Manager",
-            "AWS App Runner"
+            "AWS App Runner",
+            "AWS Systems Manager"
         ]
     },
     {

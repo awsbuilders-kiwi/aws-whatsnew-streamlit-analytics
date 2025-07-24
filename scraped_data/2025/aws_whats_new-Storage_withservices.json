@@ -52,9 +52,9 @@
         "Date": "26/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access",
         "Services": [
-            "Amazon S3",
+            "Amazon FSx",
             "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon S3"
         ]
     },
     {
@@ -86,18 +86,18 @@
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup Audit Manager is now available in six additional regions",
+        "Title": "AWS Backup launches Multi-party approval support for logically air-gapped vaults",
         "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/",
         "Services": [
             "AWS Backup"
         ]
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup launches Multi-party approval support for logically air-gapped vaults",
+        "Title": "AWS Backup Audit Manager is now available in six additional regions",
         "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/",
         "Services": [
             "AWS Backup"
         ]
@@ -108,8 +108,8 @@
         "Date": "17/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations",
         "Services": [
-            "Amazon S3",
-            "AWS Organizations"
+            "AWS Organizations",
+            "Amazon S3"
         ]
     },
     {
@@ -136,8 +136,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -191,8 +191,8 @@
         "Date": "03/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -210,8 +210,8 @@
         "Date": "30/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-new-storage-class",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -229,8 +229,8 @@
         "Date": "29/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Date": "28/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql",
         "Services": [
-            "AWS Backup",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS Backup"
         ]
     },
     {
@@ -273,52 +273,12 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon FSx for Lustre is now available in the AWS Asia Pacific (Thailand) Region",
-        "Date": "10/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-thailand-region/",
-        "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon FSx for Lustre is now available in the AWS Mexico (Central) Region",
-        "Date": "10/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-aws-mexico-central-region",
-        "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon FSx for Windows File Server is now available in the AWS Mexico (Central) Region",
-        "Date": "10/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-mexico-central-region",
-        "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon FSx for Windows File Server is now available in the AWS Asia Pacific (Thailand) Region",
-        "Date": "10/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-asia-pacific-thailand-region",
-        "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon FSx for OpenZFS is now available in the AWS Asia Pacific (Thailand) Region",
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-openzfs-thailand-region/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -327,8 +287,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-openzfs-mexico-central-region/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -337,8 +297,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-thailand-region/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -347,8 +307,48 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-mexico-central-region/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in the AWS Asia Pacific (Thailand) Region",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-thailand-region/",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Lustre is now available in the AWS Mexico (Central) Region",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-aws-mexico-central-region",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in the AWS Mexico (Central) Region",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-mexico-central-region",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for Windows File Server is now available in the AWS Asia Pacific (Thailand) Region",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-asia-pacific-thailand-region",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -456,8 +456,8 @@
         "Date": "08/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -466,8 +466,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -476,8 +476,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Redshift Serverless",
+            "Amazon Redshift",
             "AWS Backup"
         ]
     },
@@ -528,20 +528,20 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon S3 Access Grants simplify authentication when using both IAM and Identity Provider permissions",
-        "Date": "15/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-access-grants-authentication-provider-permissions/",
-        "Services": [
-            "Amazon S3"
-        ]
-    },
-    {
-        "Category": "Storage",
         "Title": "AWS Storage Gateway is now available in AWS Asia Pacific (Thailand) Region",
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-storage-gateway-asia-pacific-thailand-region/",
         "Services": [
             "AWS Storage Gateway"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Access Grants simplify authentication when using both IAM and Identity Provider permissions",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-access-grants-authentication-provider-permissions/",
+        "Services": [
+            "Amazon S3"
         ]
     },
     {
@@ -555,13 +555,32 @@
     },
     {
         "Category": "Storage",
+        "Title": "AWS Backup adds logically air-gapped vault support for Amazon FSx",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx",
+        "Services": [
+            "Amazon FSx",
+            "AWS Backup"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon S3 Tables add create and query table support in the S3 console",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/",
+        "Services": [
+            "Amazon S3"
+        ]
+    },
+    {
+        "Category": "Storage",
         "Title": "AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions",
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/",
         "Services": [
-            "AWS Backup",
+            "Amazon FSx",
             "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "AWS Backup"
         ]
     },
     {
@@ -584,31 +603,12 @@
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup adds logically air-gapped vault support for Amazon FSx",
-        "Date": "14/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx",
-        "Services": [
-            "AWS Backup",
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
-        "Title": "Amazon S3 Tables add create and query table support in the S3 console",
-        "Date": "14/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/",
-        "Services": [
-            "Amazon S3"
-        ]
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing",
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink",
         "Services": [
-            "AWS PrivateLink",
-            "Data Lifecycle Manager"
+            "Data Lifecycle Manager",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -654,8 +654,8 @@
         "Date": "13/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -678,20 +678,20 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
-        "Date": "08/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/",
-        "Services": [
-            "Amazon FSx"
-        ]
-    },
-    {
-        "Category": "Storage",
         "Title": "Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 (IPv6)",
         "Date": "08/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/",
         "Services": [
             "Data Lifecycle Manager"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx now supports Internet Protocol Version 6 (IPv6) on FSx Service APIs",
+        "Date": "08/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/",
+        "Services": [
+            "Amazon FSx"
         ]
     },
     {
@@ -768,15 +768,6 @@
     },
     {
         "Category": "Storage",
-        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
-        "Date": "16/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/",
-        "Services": [
-            "AWS Backup"
-        ]
-    },
-    {
-        "Category": "Storage",
         "Title": "AWS Backup is now available in AWS Asia Pacific (Thailand)",
         "Date": "16/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-asia-pacific-thailand/",
@@ -786,12 +777,11 @@
     },
     {
         "Category": "Storage",
-        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
-        "Date": "04/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region",
+        "Title": "AWS Backup supports organization-wide reports in AWS GovCloud (US) Regions",
+        "Date": "16/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "AWS Backup"
         ]
     },
     {
@@ -800,8 +790,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -810,8 +800,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -820,8 +810,18 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
+        ]
+    },
+    {
+        "Category": "Storage",
+        "Title": "Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific (Malaysia) Region",
+        "Date": "04/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region",
+        "Services": [
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     }
 ]

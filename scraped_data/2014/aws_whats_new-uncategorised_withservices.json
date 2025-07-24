@@ -114,8 +114,8 @@
         "Date": "17/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/16/aws-storage-gateway-api-calls-are-now-available-in-aws-cloudtrail/",
         "Services": [
-            "AWS Storage Gateway",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Storage Gateway"
         ]
     },
     {
@@ -124,8 +124,8 @@
         "Date": "16/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/15/aws-opsworks-supports-custom-shutdown-timeouts-and-elastic-load-balancing-connection-draining/",
         "Services": [
-            "Elastic Load Balancing",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "Elastic Load Balancing"
         ]
     },
     {
@@ -388,8 +388,8 @@
         "Date": "11/11/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/11/10/announcing-aws-cloudtrail-integration-with-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1641,8 +1641,8 @@
         "Date": "29/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/28/amazon-cloudfront-api-calls-now-supported-by-aws-cloudtrail/",
         "Services": [
-            "Amazon CloudFront",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -2190,8 +2190,8 @@
         "Date": "04/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/03/aws-cloudformation-supports-aws-opsworks/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2295,9 +2295,9 @@
         "Date": "11/02/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/02/10/aws-cloudformation-supports-amazon-redshift-and-updating-aws-elastic-beanstalk/",
         "Services": [
-            "Amazon Redshift",
             "AWS CloudFormation",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2363,8 +2363,8 @@
         "Date": "22/01/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/01/21/announcing-new-amazon-ec2-m3-instance-sizes-and-lower-prices-for-amazon-s3-and-amazon-ebs/",
         "Services": [
-            "Amazon S3",
             "Amazon EBS",
+            "Amazon S3",
             "Amazon EC2"
         ]
     },

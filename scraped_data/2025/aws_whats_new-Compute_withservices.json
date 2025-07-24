@@ -61,18 +61,18 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 C7i instances are now available in the Middle East (UAE) Region",
+        "Title": "Amazon EC2 I7ie instances are now available in additional AWS regions",
         "Date": "28/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions",
         "Services": [
             "Amazon EC2"
         ]
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 I7ie instances are now available in additional AWS regions",
+        "Title": "Amazon EC2 C7i instances are now available in the Middle East (UAE) Region",
         "Date": "28/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/",
         "Services": [
             "Amazon EC2"
         ]
@@ -147,19 +147,19 @@
     },
     {
         "Category": "Compute",
+        "Title": "Announcing Job Completion Metadata Logging for AWS Parallel Computing Service (PCS)",
+        "Date": "20/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/job-completion-metadata-logging-aws-pcs/",
+        "Services": []
+    },
+    {
+        "Category": "Compute",
         "Title": "Amazon EC2 I7ie instances now available in AWS Europe (Spain) region",
         "Date": "20/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-europe-spain-region/",
         "Services": [
             "Amazon EC2"
         ]
-    },
-    {
-        "Category": "Compute",
-        "Title": "Announcing Job Completion Metadata Logging for AWS Parallel Computing Service (PCS)",
-        "Date": "20/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/job-completion-metadata-logging-aws-pcs/",
-        "Services": []
     },
     {
         "Category": "Compute",
@@ -207,6 +207,15 @@
     },
     {
         "Category": "Compute",
+        "Title": "Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/",
+        "Services": [
+            "Amazon SageMaker AI"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe (London) Region",
         "Date": "18/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/",
@@ -234,15 +243,6 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing",
-        "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/",
-        "Services": [
-            "Amazon SageMaker AI"
-        ]
-    },
-    {
-        "Category": "Compute",
         "Title": "AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances",
         "Date": "17/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/",
@@ -261,19 +261,19 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon ECS adds support for updating capacity provider configuration for ECS services",
-        "Date": "13/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-capacity-provider-configuration-ecs/",
-        "Services": []
-    },
-    {
-        "Category": "Compute",
         "Title": "Amazon EC2 I8g instances now available in AWS Europe (Ireland) region",
         "Date": "13/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i8g-instances-europe-ireland-region/",
         "Services": [
             "Amazon EC2"
         ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon ECS adds support for updating capacity provider configuration for ECS services",
+        "Date": "13/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-capacity-provider-configuration-ecs/",
+        "Services": []
     },
     {
         "Category": "Compute",
@@ -290,8 +290,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -337,18 +337,18 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 M7g instances are now available in AWS GovCloud (US-West) Region",
+        "Title": "Amazon EC2 C7a instances are now available in AWS Europe (London) Region",
         "Date": "05/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-aws-govcloud-us-west-region",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/",
         "Services": [
             "Amazon EC2"
         ]
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 C7a instances are now available in AWS Europe (London) Region",
+        "Title": "Amazon EC2 M7g instances are now available in AWS GovCloud (US-West) Region",
         "Date": "05/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-aws-govcloud-us-west-region",
         "Services": [
             "Amazon EC2"
         ]
@@ -362,18 +362,18 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 I4i instances now available in AWS Europe (Spain) region",
+        "Title": "Amazon EC2 High Memory U7i instances are now available in Europe (Frankfurt) Region",
         "Date": "04/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i4i-instances-spain-region/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-high-memory-u7i-instances-frankfurt/",
         "Services": [
             "Amazon EC2"
         ]
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 High Memory U7i instances are now available in Europe (Frankfurt) Region",
+        "Title": "Amazon EC2 I4i instances now available in AWS Europe (Spain) region",
         "Date": "04/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-high-memory-u7i-instances-frankfurt/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i4i-instances-spain-region/",
         "Services": [
             "Amazon EC2"
         ]
@@ -569,8 +569,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -618,15 +618,6 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 I4g instances are now available in AWS Asia Pacific (Sydney) Region",
-        "Date": "24/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region",
-        "Services": [
-            "Amazon EC2"
-        ]
-    },
-    {
-        "Category": "Compute",
         "Title": "Amazon EC2 M8g instances now available in AWS US West (N. California) Region",
         "Date": "24/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region",
@@ -636,9 +627,9 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 R7gd instances are now available in additional AWS Regions",
-        "Date": "23/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions",
+        "Title": "Amazon EC2 I4g instances are now available in AWS Asia Pacific (Sydney) Region",
+        "Date": "24/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region",
         "Services": [
             "Amazon EC2"
         ]
@@ -654,9 +645,9 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 C6id instances are now available in AWS Europe (Paris) region",
-        "Date": "22/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6id-instances-europe-paris-region/",
+        "Title": "Amazon EC2 R7gd instances are now available in additional AWS Regions",
+        "Date": "23/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions",
         "Services": [
             "Amazon EC2"
         ]
@@ -666,6 +657,15 @@
         "Title": "Introducing Amazon EC2 C8gd, M8gd, and R8gd instances",
         "Date": "22/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Amazon EC2 C6id instances are now available in AWS Europe (Paris) region",
+        "Date": "22/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6id-instances-europe-paris-region/",
         "Services": [
             "Amazon EC2"
         ]
@@ -691,6 +691,15 @@
     },
     {
         "Category": "Compute",
+        "Title": "Amazon EC2 M8g instances now available in additional AWS regions",
+        "Date": "16/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/",
+        "Services": [
+            "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
         "Title": "Amazon EC2 C8g instances now available in additional regions",
         "Date": "16/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/",
@@ -706,15 +715,6 @@
         "Services": [
             "AWS Batch",
             "Amazon Elastic Container Service"
-        ]
-    },
-    {
-        "Category": "Compute",
-        "Title": "Amazon EC2 M8g instances now available in additional AWS regions",
-        "Date": "16/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/",
-        "Services": [
-            "Amazon EC2"
         ]
     },
     {
@@ -755,18 +755,18 @@
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 M6id instances are now available in US West (N. California) region",
+        "Title": "Amazon EC2 R6id instances are now available in Europe (Spain) region",
         "Date": "11/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m6id-instances-n-california-region/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r6id-instances-europe-spain-region/",
         "Services": [
             "Amazon EC2"
         ]
     },
     {
         "Category": "Compute",
-        "Title": "Amazon EC2 R6id instances are now available in Europe (Spain) region",
+        "Title": "Amazon EC2 M6id instances are now available in US West (N. California) region",
         "Date": "11/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r6id-instances-europe-spain-region/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m6id-instances-n-california-region/",
         "Services": [
             "Amazon EC2"
         ]
@@ -804,8 +804,8 @@
         "Date": "04/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -823,8 +823,8 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Elastic Beanstalk",
             "AWS Secrets Manager",
+            "AWS Elastic Beanstalk",
             "AWS Systems Manager"
         ]
     },
@@ -1071,8 +1071,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1209,20 +1209,20 @@
     },
     {
         "Category": "Compute",
-        "Title": "AWS Lambda adds application performance monitoring (APM) for Java and .NET runtimes via Application Signals",
-        "Date": "15/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/",
-        "Services": [
-            "AWS Lambda"
-        ]
-    },
-    {
-        "Category": "Compute",
         "Title": "Amazon EC2 C7g instances are now available in the AWS Europe (Zurich) Region",
         "Date": "15/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/",
         "Services": [
             "Amazon EC2"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "AWS Lambda adds application performance monitoring (APM) for Java and .NET runtimes via Application Signals",
+        "Date": "15/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/",
+        "Services": [
+            "AWS Lambda"
         ]
     },
     {
@@ -1324,15 +1324,6 @@
     },
     {
         "Category": "Compute",
-        "Title": "Announcing new AWS Wavelength Zone in Casablanca",
-        "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca",
-        "Services": [
-            "AWS Wavelength"
-        ]
-    },
-    {
-        "Category": "Compute",
         "Title": "AWS Elastic Beanstalk now supports Python 3.13 on Amazon Linux 2023",
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-python-3-13-amazon-linux-2023/",
@@ -1359,6 +1350,15 @@
         "Services": [
             "Amazon Linux 2023",
             "AWS Elastic Beanstalk"
+        ]
+    },
+    {
+        "Category": "Compute",
+        "Title": "Announcing new AWS Wavelength Zone in Casablanca",
+        "Date": "31/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca",
+        "Services": [
+            "AWS Wavelength"
         ]
     },
     {

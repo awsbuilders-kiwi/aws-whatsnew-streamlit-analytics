@@ -1,20 +1,20 @@
 [
     {
         "Category": "Operations ",
-        "Title": "AWS HealthImaging now supports DICOMweb BulkData",
-        "Date": "02/07/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-bulkdata/",
-        "Services": []
-    },
-    {
-        "Category": "Operations ",
         "Title": "Amazon CloudWatch PutMetricData API now supports AWS CloudTrail data event logging",
         "Date": "02/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-putmetricdata-api-aws-cloudtrail-data-event-logging",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
+    },
+    {
+        "Category": "Operations ",
+        "Title": "AWS HealthImaging now supports DICOMweb BulkData",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-bulkdata/",
+        "Services": []
     },
     {
         "Category": "Operations ",
@@ -32,8 +32,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Control Tower"
+            "AWS Control Tower",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -80,8 +80,8 @@
         "Date": "12/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloudtrail-logging-amazon-s3-deleteobjects-api",
         "Services": [
-            "Amazon S3",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon S3"
         ]
     },
     {
@@ -104,20 +104,20 @@
     },
     {
         "Category": "Operations ",
-        "Title": "Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements",
-        "Date": "06/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements",
-        "Services": [
-            "Amazon CloudWatch"
-        ]
-    },
-    {
-        "Category": "Operations ",
         "Title": "Amazon Managed Service for Prometheus now available in 7 additional AWS Regions",
         "Date": "06/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/",
         "Services": [
             "Amazon Managed Service for Prometheus"
+        ]
+    },
+    {
+        "Category": "Operations ",
+        "Title": "Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements",
+        "Date": "06/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements",
+        "Services": [
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -172,20 +172,20 @@
     },
     {
         "Category": "Operations ",
-        "Title": "Amazon Managed Service for Prometheus launches query insights and control capabilities",
-        "Date": "23/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/",
-        "Services": [
-            "Amazon Managed Service for Prometheus"
-        ]
-    },
-    {
-        "Category": "Operations ",
         "Title": "AWS Control Tower releases Enabled controls view for centralized visibility",
         "Date": "23/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/",
         "Services": [
             "AWS Control Tower"
+        ]
+    },
+    {
+        "Category": "Operations ",
+        "Title": "Amazon Managed Service for Prometheus launches query insights and control capabilities",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/",
+        "Services": [
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -251,6 +251,15 @@
     },
     {
         "Category": "Operations ",
+        "Title": "AWS Systems Manager adds customization options for onboarding configuration",
+        "Date": "08/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/",
+        "Services": [
+            "AWS Systems Manager"
+        ]
+    },
+    {
+        "Category": "Operations ",
         "Title": "AWS Resource Explorer supports 41 new resource types",
         "Date": "08/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-resource-explorer-41-new-resource-types/",
@@ -263,15 +272,6 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/",
         "Services": [
             "Amazon Managed Service for Prometheus"
-        ]
-    },
-    {
-        "Category": "Operations ",
-        "Title": "AWS Systems Manager adds customization options for onboarding configuration",
-        "Date": "08/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/",
-        "Services": [
-            "AWS Systems Manager"
         ]
     },
     {
@@ -289,8 +289,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -299,8 +299,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-chat-applications-aws-systems-manager-node-access-approvals",
         "Services": [
-            "Amazon Q",
             "Amazon Q Developer",
+            "Amazon Q",
             "AWS Systems Manager"
         ]
     },
@@ -342,8 +342,8 @@
         "Date": "26/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -387,6 +387,15 @@
     },
     {
         "Category": "Operations ",
+        "Title": "Amazon Managed Service for Prometheus now supports label-based active series limits",
+        "Date": "19/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/",
+        "Services": [
+            "Amazon Managed Service for Prometheus"
+        ]
+    },
+    {
+        "Category": "Operations ",
         "Title": "Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS (ROSA)",
         "Date": "19/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
@@ -403,15 +412,6 @@
         "Services": [
             "Amazon Lightsail",
             "AWS Console Mobile Application"
-        ]
-    },
-    {
-        "Category": "Operations ",
-        "Title": "Amazon Managed Service for Prometheus now supports label-based active series limits",
-        "Date": "19/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/",
-        "Services": [
-            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -558,9 +558,9 @@
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
         "Services": [
-            "Amazon Q",
             "Amazon Q Developer",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon Q"
         ]
     },
     {
@@ -581,19 +581,19 @@
     },
     {
         "Category": "Operations ",
+        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
+        "Date": "11/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
+        "Services": []
+    },
+    {
+        "Category": "Operations ",
         "Title": "Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL",
         "Date": "11/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql",
         "Services": [
             "Amazon CloudWatch"
         ]
-    },
-    {
-        "Category": "Operations ",
-        "Title": "CloudWatch Application Signals now supports Runtime Metrics for .NET Applications",
-        "Date": "11/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/",
-        "Services": []
     },
     {
         "Category": "Operations ",
@@ -624,19 +624,19 @@
     },
     {
         "Category": "Operations ",
-        "Title": "CloudWatch Database Insights now supports historical OS process snapshots",
-        "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots",
-        "Services": []
-    },
-    {
-        "Category": "Operations ",
         "Title": "Amazon CloudWatch Synthetics adds IPv6 support",
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/",
         "Services": [
             "Amazon CloudWatch"
         ]
+    },
+    {
+        "Category": "Operations ",
+        "Title": "CloudWatch Database Insights now supports historical OS process snapshots",
+        "Date": "31/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots",
+        "Services": []
     },
     {
         "Category": "Operations ",
@@ -661,19 +661,19 @@
     },
     {
         "Category": "Operations ",
+        "Title": "AWS Resource Groups now supports 172 more resource types",
+        "Date": "24/01/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types",
+        "Services": []
+    },
+    {
+        "Category": "Operations ",
         "Title": "Amazon CloudWatch allows alarming on data up to 7 days old",
         "Date": "24/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/",
         "Services": [
             "Amazon CloudWatch"
         ]
-    },
-    {
-        "Category": "Operations ",
-        "Title": "AWS Resource Groups now supports 172 more resource types",
-        "Date": "24/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types",
-        "Services": []
     },
     {
         "Category": "Operations ",

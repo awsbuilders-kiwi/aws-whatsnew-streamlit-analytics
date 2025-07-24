@@ -249,10 +249,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS Amplify",
-            "Amazon API Gateway",
             "AWS App Mesh",
-            "AWS CodePipeline",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon API Gateway",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -278,9 +278,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
             "AWS CodeBuild",
-            "AWS CodeCommit",
             "AWS CodeDeploy",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -289,8 +289,8 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-codebuild-adds-support-for-aws-secrets-manager/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -693,8 +693,8 @@
         "Date": "22/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-cloud9-supports-aws-cloudtrail-logging/",
         "Services": [
-            "AWS Cloud9",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Cloud9"
         ]
     },
     {

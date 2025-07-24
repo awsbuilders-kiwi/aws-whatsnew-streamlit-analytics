@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -241,8 +241,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -260,8 +260,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "AWS Auto Scaling",
             "AWS PrivateLink",
+            "AWS Auto Scaling",
             "Amazon EC2 Auto Scaling",
             "Amazon EC2"
         ]
@@ -1212,8 +1212,8 @@
         "Services": [
             "Amazon EFS",
             "AWS CloudFormation",
-            "Amazon EC2",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EC2"
         ]
     },
     {
