@@ -320,9 +320,9 @@
         "Date": "26/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
+            "Amazon DynamoDB",
             "Amazon Kinesis",
-            "AWS Lambda",
-            "Amazon DynamoDB"
+            "AWS Lambda"
         ]
     },
     {
@@ -454,8 +454,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS Lambda"
         ]
     },
     {
@@ -540,8 +540,8 @@
         "Date": "19/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS Lambda"
         ]
     },
     {
@@ -691,8 +691,8 @@
         "Date": "09/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "Date": "04/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic Container Registry"
+            "Amazon Elastic Container Registry",
+            "AWS Lambda"
         ]
     },
     {
@@ -752,8 +752,8 @@
         "Date": "29/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/",
         "Services": [
-            "Amazon Lightsail",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Lightsail"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "07/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS Lambda"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "02/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/",
         "Services": [
-            "AWS Lambda",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Lambda"
         ]
     },
     {
@@ -1268,8 +1268,8 @@
         "Date": "25/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/",
         "Services": [
-            "Amazon VPC",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon VPC"
         ]
     },
     {
@@ -1355,8 +1355,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Lake Formation",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1399,8 +1399,8 @@
         "Date": "06/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/",
         "Services": [
-            "Amazon EventBridge",
             "Amazon EC2 Auto Scaling",
+            "Amazon EventBridge",
             "Amazon EC2"
         ]
     },
@@ -1506,8 +1506,8 @@
         "Date": "28/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {
@@ -1711,8 +1711,8 @@
         "Date": "23/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Lambda"
         ]
     },
     {
@@ -2710,8 +2710,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     },
     {

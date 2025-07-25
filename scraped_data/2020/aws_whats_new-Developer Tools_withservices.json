@@ -274,8 +274,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {
@@ -369,8 +369,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-code-artifact-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS CodeArtifact"
+            "AWS CodeArtifact",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -493,8 +493,8 @@
         "Date": "14/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS X-Ray"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-codeguru-profiler-now-includes-support-for-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodeDeploy",
             "AWS CodePipeline",
-            "AWS CodeCommit"
+            "AWS CodeDeploy",
+            "AWS CodeCommit",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1296,9 +1296,9 @@
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
-            "AWS CodeBuild",
             "AWS CodeDeploy",
-            "AWS CodeCommit"
+            "AWS CodeCommit",
+            "AWS CodeBuild"
         ]
     },
     {

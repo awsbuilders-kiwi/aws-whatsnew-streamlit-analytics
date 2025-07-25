@@ -533,8 +533,8 @@
         "Date": "08/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/",
         "Services": [
-            "Amazon Bedrock",
-            "AWS Audit Manager"
+            "AWS Audit Manager",
+            "Amazon Bedrock"
         ]
     },
     {
@@ -1370,8 +1370,8 @@
         "Date": "06/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-apis-organizations/",
         "Services": [
-            "AWS Organizations",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Organizations"
         ]
     },
     {
@@ -1398,8 +1398,8 @@
         "Date": "05/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-checks-amazon-efs/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS Lambda"
         ]
     },
     {
@@ -2103,8 +2103,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Amazon MemoryDB"
+            "Amazon MemoryDB",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -2123,10 +2123,10 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon DynamoDB",
-            "AWS CloudFormation",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams",
+            "AWS CloudFormation"
         ]
     },
     {

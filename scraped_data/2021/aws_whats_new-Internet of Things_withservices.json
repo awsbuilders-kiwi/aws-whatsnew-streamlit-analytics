@@ -134,8 +134,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS IoT Device Management"
+            "AWS IoT Device Management",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -384,8 +384,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -543,8 +543,8 @@
         "Date": "17/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-sitewise-monitor-adds-support-for-accessing-monitor-portals-using-aws-iam-users-and-roles/",
         "Services": [
-            "AWS Identity and Access Management",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "AWS Identity and Access Management"
         ]
     },
     {
@@ -608,9 +608,9 @@
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/",
         "Services": [
-            "AWS IoT Device Defender",
             "AWS IoT Core",
-            "AWS IoT Device Management"
+            "AWS IoT Device Management",
+            "AWS IoT Device Defender"
         ]
     },
     {

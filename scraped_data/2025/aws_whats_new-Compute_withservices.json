@@ -290,8 +290,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -804,8 +804,8 @@
         "Date": "04/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -823,8 +823,8 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Secrets Manager",
             "AWS Elastic Beanstalk",
+            "AWS Secrets Manager",
             "AWS Systems Manager"
         ]
     },
@@ -1471,8 +1471,8 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
-            "AWS Compute Optimizer",
             "Amazon EC2 Auto Scaling",
+            "AWS Compute Optimizer",
             "Amazon EC2"
         ]
     },

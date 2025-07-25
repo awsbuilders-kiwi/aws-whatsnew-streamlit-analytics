@@ -43,8 +43,8 @@
         "Date": "22/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/launch-amazon-emr-clusters-in-amazon-vpc-private-subnets/",
         "Services": [
-            "Amazon VPC",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon VPC"
         ]
     },
     {
@@ -411,9 +411,9 @@
         "Date": "03/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-codepipeline-aws-config-and-more/",
         "Services": [
+            "AWS CodePipeline",
             "AWS Config",
-            "AWS CloudFormation",
-            "AWS CodePipeline"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -572,8 +572,8 @@
         "Date": "18/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/introducing-amazon-vpc-endpoints-for-amazon-s3-in-us-govcloud-region/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -775,8 +775,8 @@
         "Date": "22/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-data-pipeline-now-supports-amazon-emr-4x-software-releases/",
         "Services": [
-            "AWS Data Pipeline",
-            "Amazon EMR"
+            "Amazon EMR",
+            "AWS Data Pipeline"
         ]
     },
     {
@@ -1055,8 +1055,8 @@
         "Date": "01/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-cloudformation-adds-support-for-aws-codedeploy-and-more/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1463,10 +1463,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/aws-cloudformation-updates-support-for-amazon-vpc-aws-lambda-aws-elastic-beanstalk-amazon-rds-and-amazon-s3/",
         "Services": [
             "AWS Elastic Beanstalk",
-            "Amazon S3",
-            "Amazon VPC",
             "AWS Lambda",
-            "AWS CloudFormation"
+            "Amazon S3",
+            "AWS CloudFormation",
+            "Amazon VPC"
         ]
     },
     {
@@ -1740,8 +1740,8 @@
         "Date": "28/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/amazon-dynamodb-amazon-rds-oracle-mysql-engines-amazon-emr-covered-under-aws-business-associate-agreement/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -2216,10 +2216,10 @@
         "Date": "11/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
-            "AWS Lambda",
             "AWS CloudFormation",
-            "AWS Data Pipeline",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Lambda",
+            "AWS Data Pipeline"
         ]
     },
     {
@@ -2314,8 +2314,8 @@
         "Date": "02/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/run-parallel-hadoop-jobs-on-your-amazon-emr-cluster-using-aws-data-pipeline/",
         "Services": [
-            "AWS Data Pipeline",
-            "Amazon EMR"
+            "Amazon EMR",
+            "AWS Data Pipeline"
         ]
     },
     {
@@ -2519,8 +2519,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/introducing-amazon-vpc-endpoints-for-amazon-s3/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -2788,8 +2788,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-cognito-events-run-aws-lambda-functions-in-response-to-events-in-amazon-cognito/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "AWS Lambda"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS Lambda",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Lambda"
         ]
     },
     {
@@ -3027,8 +3027,8 @@
         "Date": "26/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-emr-support-for-amazon-s3-client-side-encryption-now-available/",
         "Services": [
-            "Amazon S3",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon S3"
         ]
     },
     {
@@ -3251,8 +3251,8 @@
         "Date": "06/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-cloudsearch-launches-domain-performance-metrics-through-amazon-cloudwatch-and-support-for-index-field-statistics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon CloudSearch"
+            "Amazon CloudSearch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -3271,8 +3271,8 @@
         "Date": "04/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/introducing-amazon-cognito-streams-automatically-stream-user-id-data-to-amazon-kinesis/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -3308,8 +3308,8 @@
         "Date": "27/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/26/aws-trusted-advisor-adds-four-new-checks-for-elastic-load-balancing/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Elastic Load Balancing"
+            "Elastic Load Balancing",
+            "AWS Trusted Advisor"
         ]
     },
     {
