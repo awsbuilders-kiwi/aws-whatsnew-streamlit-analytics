@@ -139,8 +139,8 @@
         "Date": "17/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/easily-launch-select-third-party-software-on-aws-using-new-compatibility-between-aws-marketplace-and-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1462,11 +1462,11 @@
         "Date": "25/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/aws-cloudformation-updates-support-for-amazon-vpc-aws-lambda-aws-elastic-beanstalk-amazon-rds-and-amazon-s3/",
         "Services": [
+            "AWS CloudFormation",
+            "Amazon VPC",
             "AWS Elastic Beanstalk",
             "AWS Lambda",
-            "Amazon S3",
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon S3"
         ]
     },
     {
@@ -1553,8 +1553,8 @@
         "Date": "18/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-ec2-container-service-supports-amazon-cloudwatch-monitoring/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2216,10 +2216,10 @@
         "Date": "11/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon EC2",
-            "AWS Lambda",
-            "AWS Data Pipeline"
+            "AWS CloudFormation",
+            "AWS Data Pipeline",
+            "AWS Lambda"
         ]
     },
     {
@@ -2529,8 +2529,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/amazon-rds-and-amazon-redshift-now-support-encryption-via-aws-key-management-service-in-the-aws-govcloud-us-region/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2788,8 +2788,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-cognito-events-run-aws-lambda-functions-in-response-to-events-in-amazon-cognito/",
         "Services": [
-            "Amazon Cognito",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Cognito"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2895,8 +2895,8 @@
         "Date": "04/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/amazon-emr-now-supports-amazon-ec2-dense-storage-d2-instances/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -2964,8 +2964,8 @@
         "Date": "01/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/announcing-single-sign-on-between-amazon-workspaces-and-amazon-workdocs/",
         "Services": [
-            "Amazon WorkDocs",
-            "Amazon WorkSpaces"
+            "Amazon WorkSpaces",
+            "Amazon WorkDocs"
         ]
     },
     {
@@ -2983,8 +2983,8 @@
         "Date": "31/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/aws-opsworks-supports-amazon-ebs-with-increased-maximum-performance-and-size/",
         "Services": [
-            "Amazon EBS",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "Amazon EBS"
         ]
     },
     {
@@ -3251,8 +3251,8 @@
         "Date": "06/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-cloudsearch-launches-domain-performance-metrics-through-amazon-cloudwatch-and-support-for-index-field-statistics/",
         "Services": [
-            "Amazon CloudSearch",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon CloudSearch"
         ]
     },
     {
@@ -3271,8 +3271,8 @@
         "Date": "04/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/introducing-amazon-cognito-streams-automatically-stream-user-id-data-to-amazon-kinesis/",
         "Services": [
-            "Amazon Cognito",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Cognito"
         ]
     },
     {

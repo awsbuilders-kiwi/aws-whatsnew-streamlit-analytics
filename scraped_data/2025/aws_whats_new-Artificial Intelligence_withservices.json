@@ -51,9 +51,9 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets",
+        "Title": "Q-Index now supports seamless application-level authentication",
         "Date": "02/07/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-ai-descriptions-custom-assets/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/q-index-seamless-application-level-authentication/",
         "Services": []
     },
     {
@@ -65,9 +65,9 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Q-Index now supports seamless application-level authentication",
+        "Title": "Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets",
         "Date": "02/07/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/q-index-seamless-application-level-authentication/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-ai-descriptions-custom-assets/",
         "Services": []
     },
     {
@@ -113,19 +113,19 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "25/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/",
+        "Services": []
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Guardrails announces tiers for content filters and denied topics",
         "Date": "25/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics",
         "Services": [
             "Amazon Bedrock"
         ]
-    },
-    {
-        "Category": "Artificial Intelligence",
-        "Title": "Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs",
-        "Date": "25/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/",
-        "Services": []
     },
     {
         "Category": "Artificial Intelligence",
@@ -194,8 +194,8 @@
         "Date": "12/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -287,6 +287,15 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Anthropic's Claude 4 foundation models now in Amazon Bedrock",
+        "Date": "23/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management",
         "Date": "23/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management",
@@ -298,15 +307,6 @@
         "Date": "23/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals",
         "Services": []
-    },
-    {
-        "Category": "Artificial Intelligence",
-        "Title": "Anthropic's Claude 4 foundation models now in Amazon Bedrock",
-        "Date": "23/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock",
-        "Services": [
-            "Amazon Bedrock"
-        ]
     },
     {
         "Category": "Artificial Intelligence",
@@ -390,6 +390,13 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "SageMaker Hyperpod Flexible Training Plans expands to new regions",
+        "Date": "10/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/sagemaker-hyperpod-flexible-training-plans-new-regions/",
+        "Services": []
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events",
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events",
@@ -399,20 +406,13 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "SageMaker Hyperpod Flexible Training Plans expands to new regions",
-        "Date": "10/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/sagemaker-hyperpod-flexible-training-plans-new-regions/",
-        "Services": []
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon SageMaker AI enhances Amazon Q Developer with custom code suggestions and workspace context",
         "Date": "09/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-ai-q-developer-custom-code/",
         "Services": [
-            "Amazon Q",
+            "Amazon Q Developer",
             "Amazon SageMaker AI",
-            "Amazon Q Developer"
+            "Amazon Q"
         ]
     },
     {
@@ -629,15 +629,6 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock",
-        "Date": "09/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/",
-        "Services": [
-            "Amazon Bedrock"
-        ]
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications",
         "Date": "09/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications",
@@ -656,6 +647,15 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock",
+        "Date": "09/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/",
+        "Services": [
+            "Amazon Bedrock"
+        ]
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock announces general availability of prompt caching",
         "Date": "08/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching",
@@ -665,16 +665,16 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Announcing Amazon Nova Reel 1.1",
+        "Title": "Amazon Nova Canvas now supports fine-tuning",
         "Date": "08/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-reel-1-1/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/",
         "Services": []
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon Nova Canvas now supports fine-tuning",
+        "Title": "Announcing Amazon Nova Reel 1.1",
         "Date": "08/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-reel-1-1/",
         "Services": []
     },
     {
@@ -783,15 +783,6 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon Bedrock Model Evaluation LLM-as-a-judge is now generally available",
-        "Date": "21/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-model-evaluation-llm-as-a-judge/",
-        "Services": [
-            "Amazon Bedrock"
-        ]
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock now supports RAG Evaluation (generally available)",
         "Date": "21/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-rag-evaluation-generally-available/",
@@ -806,6 +797,15 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-europe-ireland-region/",
         "Services": [
             "Amazon Q"
+        ]
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Amazon Bedrock Model Evaluation LLM-as-a-judge is now generally available",
+        "Date": "21/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-model-evaluation-llm-as-a-judge/",
+        "Services": [
+            "Amazon Bedrock"
         ]
     },
     {
@@ -853,19 +853,19 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Amazon SageMaker Unified Studio is now generally available",
+        "Date": "14/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/",
+        "Services": []
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock\u2019s capabilities now generally available within Amazon SageMaker Unified Studio",
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrocks-capabilities-amazon-sagemaker-unified-studio",
         "Services": [
             "Amazon Bedrock"
         ]
-    },
-    {
-        "Category": "Artificial Intelligence",
-        "Title": "Amazon SageMaker Unified Studio is now generally available",
-        "Date": "14/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/",
-        "Services": []
     },
     {
         "Category": "Artificial Intelligence",
@@ -926,19 +926,19 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options",
+        "Date": "08/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/",
+        "Services": []
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Knowledge Bases supports GraphRAG now generally available",
         "Date": "08/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available",
         "Services": [
             "Amazon Bedrock"
         ]
-    },
-    {
-        "Category": "Artificial Intelligence",
-        "Title": "AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options",
-        "Date": "08/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/",
-        "Services": []
     },
     {
         "Category": "Artificial Intelligence",
@@ -1021,8 +1021,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-generally-available-sagemaker-canvas",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -1106,8 +1106,8 @@
         "Date": "07/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-experience-pro-tier-subscriptions/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -1143,8 +1143,8 @@
         "Date": "05/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-console-errors-aws-commercial-regions",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -1153,8 +1153,8 @@
         "Date": "31/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-pro-tier-automated-user-onboarding-emails",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     },
     {
@@ -1195,18 +1195,18 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Luma AI's Ray2 visual AI model now available in Amazon Bedrock",
+        "Title": "Amazon Bedrock Flows announces preview of multi-turn conversation support",
         "Date": "24/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/",
         "Services": [
             "Amazon Bedrock"
         ]
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon Bedrock Flows announces preview of multi-turn conversation support",
+        "Title": "Luma AI's Ray2 visual AI model now available in Amazon Bedrock",
         "Date": "24/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/",
         "Services": [
             "Amazon Bedrock"
         ]
@@ -1217,8 +1217,8 @@
         "Date": "09/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-sagemaker-code-editor-ide/",
         "Services": [
-            "Amazon Q",
-            "Amazon Q Developer"
+            "Amazon Q Developer",
+            "Amazon Q"
         ]
     }
 ]

@@ -58,8 +58,8 @@
         "Date": "18/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/17/aws-codedeploy-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -124,8 +124,8 @@
         "Date": "16/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/15/aws-opsworks-supports-custom-shutdown-timeouts-and-elastic-load-balancing-connection-draining/",
         "Services": [
-            "Elastic Load Balancing",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "Elastic Load Balancing"
         ]
     },
     {
@@ -189,8 +189,8 @@
         "Date": "08/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/08/aws-opsworks-supports-existing-ec2-instances-and-on-premises-servers/",
         "Services": [
-            "AWS OpsWorks",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -471,8 +471,8 @@
         "Date": "06/11/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/11/05/amazon-route-53-now-supports-private-dns-with-amazon-vpc/",
         "Services": [
-            "Amazon Route 53",
-            "Amazon VPC"
+            "Amazon VPC",
+            "Amazon Route 53"
         ]
     },
     {
@@ -653,8 +653,8 @@
         "Date": "22/10/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/10/21/amazon-cloudwatch-logs-announces-enhanced-support-for-amazon-ec2-instances-running-microsoft-windows-server/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -748,8 +748,8 @@
         "Date": "09/10/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/10/09/amazon-cloudfront-publishes-six-operational-metrics-to-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudFront",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -1701,8 +1701,8 @@
         "Date": "22/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/21/aws-trusted-advisor-now-monitors-service-limits-for-amazon-ses-amazon-vpc-and-auto-scaling/",
         "Services": [
-            "Amazon VPC",
             "Amazon SES",
+            "Amazon VPC",
             "AWS Trusted Advisor"
         ]
     },
@@ -1835,8 +1835,8 @@
         "Date": "07/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/06/provision-amazon-kinesis-with-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1957,8 +1957,8 @@
         "Date": "23/04/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/04/22/amazon-redshift-new-features-concurrency-copy-from-emr-ssl/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2190,8 +2190,8 @@
         "Date": "04/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/03/aws-cloudformation-supports-aws-opsworks/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2295,9 +2295,9 @@
         "Date": "11/02/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/02/10/aws-cloudformation-supports-amazon-redshift-and-updating-aws-elastic-beanstalk/",
         "Services": [
-            "Amazon Redshift",
+            "AWS CloudFormation",
             "AWS Elastic Beanstalk",
-            "AWS CloudFormation"
+            "Amazon Redshift"
         ]
     },
     {
@@ -2363,8 +2363,8 @@
         "Date": "22/01/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/01/21/announcing-new-amazon-ec2-m3-instance-sizes-and-lower-prices-for-amazon-s3-and-amazon-ebs/",
         "Services": [
-            "Amazon EBS",
             "Amazon EC2",
+            "Amazon EBS",
             "Amazon S3"
         ]
     },

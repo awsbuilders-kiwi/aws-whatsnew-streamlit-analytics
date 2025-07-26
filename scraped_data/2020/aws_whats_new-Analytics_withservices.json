@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon DynamoDB",
             "Amazon Kinesis",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -403,8 +403,8 @@
         "Date": "14/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Redshift"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
         "Services": [
-            "Amazon Athena",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "Amazon Athena"
         ]
     },
     {
@@ -836,8 +836,8 @@
         "Date": "21/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-supports-sasl-scram-authentication-with-usernames-and-passwords-secured-by-aws-secrets-manager/",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1265,8 +1265,8 @@
         "Date": "07/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-encrypting-log-file-with-aws-kms-customer-management-cmks-with-more-flexible-security/",
         "Services": [
-            "Amazon EMR",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon EMR"
         ]
     },
     {
@@ -1566,8 +1566,8 @@
         "Date": "30/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-emr-support-for-running-clusters-with-amazon-ec2-spot-instances-govcloud/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1576,8 +1576,8 @@
         "Date": "29/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-kinesis-video-streams-adds-api-support-to-easily-retrieve-media-clips/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {

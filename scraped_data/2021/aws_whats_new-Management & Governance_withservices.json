@@ -80,8 +80,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS IoT Greengrass"
+            "AWS IoT Greengrass",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -178,8 +178,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Athena",
-            "Amazon Managed Grafana"
+            "Amazon Managed Grafana",
+            "Amazon Redshift"
         ]
     },
     {
@@ -364,8 +364,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/",
         "Services": [
-            "AWS Launch Wizard",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -610,8 +610,8 @@
         "Date": "10/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -901,8 +901,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/",
         "Services": [
             "AWS License Manager",
-            "AWS Organizations",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS Organizations"
         ]
     },
     {
@@ -1107,9 +1107,9 @@
         "Date": "28/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
+            "Amazon FSx",
             "AWS Launch Wizard",
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -1145,8 +1145,8 @@
         "Date": "20/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/customizations-for-aws-control-tower-adds-more-scaling-optimizations-and-improves-compatiblity-with-aws-codebuild/",
         "Services": [
-            "AWS Control Tower",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS Control Tower"
         ]
     },
     {
@@ -1165,9 +1165,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/",
         "Services": [
             "AWS Compute Optimizer",
-            "Amazon EBS",
             "Amazon S3",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon EBS"
         ]
     },
     {
@@ -1320,8 +1320,8 @@
         "Date": "27/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/third-party-software-built-aws-control-tower-available-aws-control-tower-console-powered-aws-marketplace/",
         "Services": [
-            "AWS Control Tower",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS Control Tower"
         ]
     },
     {
@@ -1330,8 +1330,8 @@
         "Date": "23/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-now-supports-amazon-elastic-container-service-clusters/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon Elastic Container Service"
+            "Amazon Elastic Container Service",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1411,8 +1411,8 @@
         "Date": "12/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/",
         "Services": [
-            "AWS Backup",
-            "Amazon FSx"
+            "Amazon FSx",
+            "AWS Backup"
         ]
     },
     {
@@ -1680,8 +1680,8 @@
         "Date": "24/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -1717,8 +1717,8 @@
         "Date": "03/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/",
         "Services": [
-            "Amazon API Gateway",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -1830,9 +1830,9 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon Elastic File System",
             "Amazon CloudWatch",
-            "Amazon EFS"
+            "Amazon EFS",
+            "Amazon Elastic File System"
         ]
     },
     {
@@ -1841,8 +1841,8 @@
         "Date": "09/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS DataSync"
+            "AWS DataSync",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1860,8 +1860,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {

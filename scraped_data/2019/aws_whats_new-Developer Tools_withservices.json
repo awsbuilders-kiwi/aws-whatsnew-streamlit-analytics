@@ -98,8 +98,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -248,11 +248,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS Amplify",
             "AWS CloudFormation",
+            "AWS CodePipeline",
             "AWS App Mesh",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Amplify"
         ]
     },
     {
@@ -277,8 +277,8 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
             "AWS CodeDeploy",
+            "AWS CodePipeline",
             "AWS CodeCommit",
             "AWS CodeBuild"
         ]
@@ -289,8 +289,8 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-codebuild-adds-support-for-aws-secrets-manager/",
         "Services": [
-            "AWS Secrets Manager",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EventBridge"
         ]
     },
     {

@@ -212,8 +212,8 @@
         "Date": "23/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-amazon-polly-neural-text-to-speech-ntts-voices/",
         "Services": [
-            "Amazon Polly",
-            "Amazon Lex"
+            "Amazon Lex",
+            "Amazon Polly"
         ]
     },
     {
@@ -611,8 +611,8 @@
         "Date": "04/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/",
         "Services": [
-            "Amazon Textract",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Textract"
         ]
     },
     {
@@ -936,8 +936,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
-            "Snow Family",
             "AWS IoT Greengrass",
+            "Snow Family",
             "AWS Snow Family"
         ]
     },
@@ -948,8 +948,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/",
         "Services": [
             "Amazon Transcribe",
-            "Amazon Chime",
-            "Amazon Chime SDK"
+            "Amazon Chime SDK",
+            "Amazon Chime"
         ]
     },
     {
@@ -1286,9 +1286,9 @@
         "Date": "15/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
             "Amazon CloudWatch",
-            "Amazon Translate"
+            "Amazon Translate",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -1853,8 +1853,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Glue",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Glue"
         ]
     }
 ]
