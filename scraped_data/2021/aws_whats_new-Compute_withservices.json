@@ -260,8 +260,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/",
         "Services": [
-            "Amazon S3",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon S3"
         ]
     },
     {
@@ -320,9 +320,9 @@
         "Date": "26/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
+            "Amazon DynamoDB",
             "Amazon Kinesis",
-            "AWS Lambda",
-            "Amazon DynamoDB"
+            "AWS Lambda"
         ]
     },
     {
@@ -1399,8 +1399,8 @@
         "Date": "06/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/",
         "Services": [
-            "Amazon EC2",
             "Amazon EventBridge",
+            "Amazon EC2",
             "Amazon EC2 Auto Scaling"
         ]
     },
@@ -1612,8 +1612,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -1711,8 +1711,8 @@
         "Date": "23/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Lambda"
         ]
     },
     {
@@ -2249,8 +2249,8 @@
         "Date": "31/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -2409,8 +2409,8 @@
         "Date": "06/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon S3"
         ]
     },
     {
@@ -2710,8 +2710,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     },
     {

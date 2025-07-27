@@ -264,8 +264,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS CodeCommit"
+            "AWS CodeCommit",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -1144,8 +1144,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
-            "AWS CodeDeploy",
-            "AWS CodePipeline",
             "AWS CodeCommit",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodePipeline",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1230,8 +1230,8 @@
         "Date": "07/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/provision-aws-chatbot-configurations-aws-cloudformation/",
         "Services": [
-            "AWS Chatbot",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Chatbot"
         ]
     },
     {
@@ -1296,9 +1296,9 @@
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
-            "AWS CodeDeploy",
             "AWS CodeCommit",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1332,8 +1332,8 @@
         "Date": "07/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-codebuild-adds-support-for-amazon-efs/",
         "Services": [
-            "Amazon EFS",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "Amazon EFS"
         ]
     },
     {

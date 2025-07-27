@@ -23,9 +23,9 @@
         "Date": "28/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/",
         "Services": [
+            "AWS WAF",
             "AWS Directory Service",
-            "AWS CloudFormation",
-            "AWS WAF"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -447,8 +447,8 @@
         "Date": "02/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/new-chicago-edge-location-cloudfront-route-53/",
         "Services": [
-            "Amazon CloudFront",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -572,8 +572,8 @@
         "Date": "18/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/introducing-amazon-vpc-endpoints-for-amazon-s3-in-us-govcloud-region/",
         "Services": [
-            "Amazon S3",
-            "Amazon VPC"
+            "Amazon VPC",
+            "Amazon S3"
         ]
     },
     {
@@ -1055,8 +1055,8 @@
         "Date": "01/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-cloudformation-adds-support-for-aws-codedeploy-and-more/",
         "Services": [
-            "AWS CodeDeploy",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1462,9 +1462,9 @@
         "Date": "25/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/aws-cloudformation-updates-support-for-amazon-vpc-aws-lambda-aws-elastic-beanstalk-amazon-rds-and-amazon-s3/",
         "Services": [
+            "AWS Elastic Beanstalk",
             "AWS CloudFormation",
             "Amazon VPC",
-            "AWS Elastic Beanstalk",
             "AWS Lambda",
             "Amazon S3"
         ]
@@ -1553,8 +1553,8 @@
         "Date": "18/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-ec2-container-service-supports-amazon-cloudwatch-monitoring/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -2216,10 +2216,10 @@
         "Date": "11/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
-            "Amazon EC2",
-            "AWS CloudFormation",
             "AWS Data Pipeline",
-            "AWS Lambda"
+            "Amazon EC2",
+            "AWS Lambda",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2519,8 +2519,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/introducing-amazon-vpc-endpoints-for-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon VPC"
+            "Amazon VPC",
+            "Amazon S3"
         ]
     },
     {
@@ -2788,8 +2788,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-cognito-events-run-aws-lambda-functions-in-response-to-events-in-amazon-cognito/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "AWS Lambda"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS Lambda",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Lambda"
         ]
     },
     {
@@ -2895,8 +2895,8 @@
         "Date": "04/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/amazon-emr-now-supports-amazon-ec2-dense-storage-d2-instances/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -2964,8 +2964,8 @@
         "Date": "01/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/announcing-single-sign-on-between-amazon-workspaces-and-amazon-workdocs/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon WorkDocs"
+            "Amazon WorkDocs",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -2983,8 +2983,8 @@
         "Date": "31/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/aws-opsworks-supports-amazon-ebs-with-increased-maximum-performance-and-size/",
         "Services": [
-            "AWS OpsWorks",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -3251,8 +3251,8 @@
         "Date": "06/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-cloudsearch-launches-domain-performance-metrics-through-amazon-cloudwatch-and-support-for-index-field-statistics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon CloudSearch"
+            "Amazon CloudSearch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -3308,8 +3308,8 @@
         "Date": "27/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/26/aws-trusted-advisor-adds-four-new-checks-for-elastic-load-balancing/",
         "Services": [
-            "Elastic Load Balancing",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Elastic Load Balancing"
         ]
     },
     {

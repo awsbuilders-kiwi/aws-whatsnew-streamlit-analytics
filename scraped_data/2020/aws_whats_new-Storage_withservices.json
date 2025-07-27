@@ -15,8 +15,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -34,8 +34,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -270,8 +270,8 @@
         "Date": "10/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-object-ownership-now-generally-available-with-aws-cloudformation-support/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon S3"
         ]
     },
     {
@@ -473,8 +473,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -492,8 +492,8 @@
         "Date": "29/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-efs-integrates-aws-systems-manager-simplify-management-amazon-efs-clients/",
         "Services": [
-            "Amazon EFS",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon EFS"
         ]
     },
     {
@@ -615,8 +615,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "Amazon EFS",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon EFS"
         ]
     },
     {
@@ -716,8 +716,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-fsx-lustre-supports-automatic-updates-amazon-s3/",
         "Services": [
             "Amazon FSx",
-            "Amazon S3",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon S3"
         ]
     },
     {
@@ -886,8 +886,8 @@
         "Date": "08/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-redshift-now-supports-writing-to-external-tables-in-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon S3"
         ]
     },
     {
@@ -942,8 +942,8 @@
         "Date": "20/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-efs-now-available-milan/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -961,8 +961,8 @@
         "Date": "13/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-efs-now-available-cape-town/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -1104,8 +1104,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-snowball-adds-task-automation-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Snowball"
+            "AWS Snowball",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1130,8 +1130,8 @@
         "Date": "09/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-ecs-aws-fargate-support-amazon-efs-filesystems-generally-available/",
         "Services": [
-            "Amazon EFS",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon EFS"
         ]
     },
     {
@@ -1331,8 +1331,8 @@
         "Date": "07/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-codebuild-adds-support-for-amazon-efs/",
         "Services": [
-            "Amazon EFS",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "Amazon EFS"
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "Date": "05/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-elastic-file-system-amazon-efs-is-now-available-in-the-aws-govcloud-us-east-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -1369,9 +1369,9 @@
         "Date": "31/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-backup-is-now-available-for-amazon-elastic-file-system-efs-in-4-additional-regions/",
         "Services": [
-            "Amazon EFS",
             "Amazon Elastic File System",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EFS"
         ]
     },
     {
@@ -1380,9 +1380,9 @@
         "Date": "24/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-datasync-transfer-data-to-and-from-amazon-fsx-windows-file-server/",
         "Services": [
-            "Amazon FSx",
+            "Amazon FSx for Windows File Server",
             "AWS DataSync",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx"
         ]
     },
     {
@@ -1391,8 +1391,8 @@
         "Date": "23/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-efs-available-in-aws-china/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {

@@ -206,9 +206,9 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Athena",
             "Amazon Managed Grafana",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Athena"
         ]
     },
     {
@@ -364,8 +364,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/",
         "Services": [
-            "Amazon EBS",
-            "AWS Launch Wizard"
+            "AWS Launch Wizard",
+            "Amazon EBS"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "23/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -900,8 +900,8 @@
         "Date": "17/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/",
         "Services": [
-            "AWS License Manager",
             "AWS Marketplace",
+            "AWS License Manager",
             "AWS Organizations"
         ]
     },
@@ -1107,9 +1107,9 @@
         "Date": "28/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
-            "Amazon FSx",
             "AWS Launch Wizard",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1165,9 +1165,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/",
         "Services": [
             "AWS Compute Optimizer",
-            "Amazon S3",
+            "Amazon EBS",
             "AWS Lambda",
-            "Amazon EBS"
+            "Amazon S3"
         ]
     },
     {
@@ -1438,8 +1438,8 @@
         "Date": "09/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/",
         "Services": [
-            "Amazon Connect",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Connect"
         ]
     },
     {
@@ -1830,9 +1830,9 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
+            "Amazon Elastic File System",
             "Amazon CloudWatch",
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon EFS"
         ]
     },
     {

@@ -10,20 +10,20 @@
     },
     {
         "Category": "Databases",
-        "Title": "Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume",
-        "Date": "04/07/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume",
-        "Services": [
-            "Amazon Aurora"
-        ]
-    },
-    {
-        "Category": "Databases",
         "Title": "Amazon Neptune Graph Explorer Introduces Native Query Support for Gremlin and openCypher",
         "Date": "04/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-graph-explorer-native-query-support/",
         "Services": [
             "Amazon Neptune"
+        ]
+    },
+    {
+        "Category": "Databases",
+        "Title": "Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume",
+        "Date": "04/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume",
+        "Services": [
+            "Amazon Aurora"
         ]
     },
     {
@@ -44,20 +44,20 @@
     },
     {
         "Category": "Databases",
-        "Title": "Amazon Relational Database Service Custom (Amazon RDS Custom) for Oracle now supports Multi-AZ deployments",
-        "Date": "02/07/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-relational-database-service-custom-az-deployments/",
-        "Services": [
-            "Amazon Relational Database Service"
-        ]
-    },
-    {
-        "Category": "Databases",
         "Title": "Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21",
         "Date": "02/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/",
         "Services": [
             "Amazon Aurora"
+        ]
+    },
+    {
+        "Category": "Databases",
+        "Title": "Amazon Relational Database Service Custom (Amazon RDS Custom) for Oracle now supports Multi-AZ deployments",
+        "Date": "02/07/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-relational-database-service-custom-az-deployments/",
+        "Services": [
+            "Amazon Relational Database Service"
         ]
     },
     {
@@ -75,8 +75,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elasticache-aws-privatelink-additional-regions",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -363,8 +363,8 @@
         "Date": "06/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -663,8 +663,8 @@
         "Date": "27/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink",
         "Services": [
-            "Amazon DynamoDB",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -794,8 +794,8 @@
         "Date": "13/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -804,8 +804,8 @@
         "Date": "13/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -922,8 +922,8 @@
         "Date": "18/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {

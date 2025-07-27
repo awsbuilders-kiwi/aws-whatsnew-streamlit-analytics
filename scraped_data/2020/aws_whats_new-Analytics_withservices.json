@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
+            "Amazon DynamoDB",
             "Amazon Kinesis",
-            "AWS Lambda",
-            "Amazon DynamoDB"
+            "AWS Lambda"
         ]
     },
     {
@@ -403,8 +403,8 @@
         "Date": "14/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -667,8 +667,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/",
         "Services": [
-            "Amazon EMR",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon EMR"
         ]
     },
     {
@@ -729,8 +729,8 @@
         "Date": "03/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-active-directory-saml-providers-amazon-athena/",
         "Services": [
-            "Amazon Athena",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1208,8 +1208,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-for-managing-data-catalogs-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1218,8 +1218,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/introducing-genomics-tertiary-analysis-and-data-lakes-using-aws-glue-amazon-athena/",
         "Services": [
-            "Amazon Athena",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Athena"
         ]
     },
     {
@@ -1566,8 +1566,8 @@
         "Date": "30/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-emr-support-for-running-clusters-with-amazon-ec2-spot-instances-govcloud/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1576,8 +1576,8 @@
         "Date": "29/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-kinesis-video-streams-adds-api-support-to-easily-retrieve-media-clips/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1811,8 +1811,8 @@
         "Date": "14/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-athena-adds-support-for-managing-athena-workgroups-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1846,8 +1846,8 @@
         "Date": "12/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-firehose-now-supports-aws-privatelink-in-govcloud-regions/",
         "Services": [
-            "Amazon Kinesis",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Kinesis"
         ]
     },
     {

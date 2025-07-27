@@ -137,9 +137,9 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "Amazon EC2",
-            "AWS PrivateLink",
             "AWS Auto Scaling",
+            "AWS PrivateLink",
+            "Amazon EC2",
             "Amazon EC2 Auto Scaling"
         ]
     },
@@ -195,9 +195,9 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CloudFormation",
             "AWS CodePipeline",
             "AWS App Mesh",
+            "AWS CloudFormation",
             "Amazon API Gateway",
             "AWS Amplify"
         ]
@@ -226,8 +226,8 @@
         "Date": "02/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
-            "Amazon CloudWatch",
             "Amazon CloudFront",
+            "Amazon CloudWatch",
             "AWS CloudFormation"
         ]
     },
@@ -315,8 +315,8 @@
         "Date": "01/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-direct-connect-support-for-aws-transit-gateway-is-now-available-in-asia-pacific-sydney-region/",
         "Services": [
-            "AWS Direct Connect",
-            "AWS Transit Gateway"
+            "AWS Transit Gateway",
+            "AWS Direct Connect"
         ]
     },
     {
@@ -325,8 +325,8 @@
         "Date": "26/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-direct-connect-support-for-aws-transit-gateway-is-now-available-in-six-additional-regions/",
         "Services": [
-            "AWS Direct Connect",
-            "AWS Transit Gateway"
+            "AWS Transit Gateway",
+            "AWS Direct Connect"
         ]
     },
     {
@@ -387,8 +387,8 @@
         "Date": "23/08/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/aws-direct-connect-support-aws-transit-gateway-available-eu-regions/",
         "Services": [
-            "AWS Direct Connect",
-            "AWS Transit Gateway"
+            "AWS Transit Gateway",
+            "AWS Direct Connect"
         ]
     },
     {
@@ -431,8 +431,8 @@
         "Date": "22/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/aws-direct-connect-support-aws-transit-gateway-now-available-in-aws-eu-ireland-region/",
         "Services": [
-            "AWS Direct Connect",
-            "AWS Transit Gateway"
+            "AWS Transit Gateway",
+            "AWS Direct Connect"
         ]
     },
     {
