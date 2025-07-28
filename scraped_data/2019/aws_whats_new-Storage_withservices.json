@@ -86,8 +86,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-data-deduplication-reducing-storage-costs/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-monitoring-user-level-storage-consumption/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -106,8 +106,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-enforcement-in-transit-encryption/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -116,8 +116,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-managing-file-shares-via-powershell/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -154,8 +154,8 @@
         "Date": "20/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-for-windows-file-server-now-supports-file-systems-that-span-multiple-availability-zones/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -182,11 +182,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
+            "AWS Amplify",
             "AWS App Mesh",
-            "AWS CloudFormation",
             "Amazon API Gateway",
-            "AWS Amplify"
+            "AWS CloudFormation",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Date": "22/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-fsx-for-windows-file-server-enables-administrators-to-restore-activity-on-files-locked-by-inactive-users/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -478,8 +478,8 @@
         "Date": "21/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
             "Amazon VPC",
+            "AWS PrivateLink",
             "AWS Storage Gateway"
         ]
     },

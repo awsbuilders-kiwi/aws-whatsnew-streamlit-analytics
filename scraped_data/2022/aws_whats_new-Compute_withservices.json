@@ -274,8 +274,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon Redshift"
         ]
     },
     {
@@ -327,8 +327,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -700,8 +700,8 @@
         "Date": "28/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/",
         "Services": [
-            "VMware Cloud on AWS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -1169,9 +1169,9 @@
         "Date": "31/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/",
         "Services": [
-            "VMware Cloud on AWS",
             "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "Amazon FSx",
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -1411,9 +1411,9 @@
         "Date": "07/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
             "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1879,8 +1879,8 @@
         "Date": "18/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS PrivateLink"
         ]
     },
     {

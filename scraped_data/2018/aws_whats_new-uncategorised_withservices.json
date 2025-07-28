@@ -379,8 +379,8 @@
         "Date": "18/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/introducing-aws-cloudformation-template-support-for-aws-iot-analytics/",
         "Services": [
-            "AWS IoT Analytics",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS IoT Analytics"
         ]
     },
     {
@@ -439,8 +439,8 @@
         "Date": "14/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-shield-adds-advanced-ddos-protection-for-aws-global-accelerator/",
         "Services": [
-            "AWS Shield",
-            "AWS Global Accelerator"
+            "AWS Global Accelerator",
+            "AWS Shield"
         ]
     },
     {
@@ -449,8 +449,8 @@
         "Date": "14/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-batch-now-supports-amazon-ec2-p3dn-instances/",
         "Services": [
-            "AWS Batch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Batch"
         ]
     },
     {
@@ -500,8 +500,8 @@
         "Date": "14/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/amazon-sqs-vpc-endpoints-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "12/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-organizations-supports-aws-license-manager/",
         "Services": [
-            "AWS License Manager",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS License Manager"
         ]
     },
     {
@@ -641,8 +641,8 @@
         "Date": "12/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-batch-now-supports-amazon-ec2-c5n-instances-featuring-100-gbps-of-network-bandwidth/",
         "Services": [
-            "AWS Batch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Batch"
         ]
     },
     {
@@ -1051,8 +1051,8 @@
         "Date": "29/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-fsx-windows/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1117,8 +1117,8 @@
         "Date": "29/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-fargate-and-amazon-ecs-now-integrate-with-aws-cloud-map/",
         "Services": [
-            "AWS Cloud Map",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Cloud Map"
         ]
     },
     {
@@ -1672,10 +1672,10 @@
         "Date": "22/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
+            "Amazon API Gateway",
             "Elastic Load Balancing",
-            "Amazon S3",
             "AWS CloudFormation",
-            "Amazon API Gateway"
+            "Amazon S3"
         ]
     },
     {
@@ -1694,8 +1694,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-dms-supports-elasticsearch-kinesis-datastreams/",
         "Services": [
             "AWS Database Migration Service",
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1817,8 +1817,8 @@
         "Date": "21/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-batch-now-supports-amazon-ec2-instances-featuring-amd-epyc-processors/",
         "Services": [
-            "AWS Batch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Batch"
         ]
     },
     {
@@ -2006,8 +2006,8 @@
         "Date": "20/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudtrail-adds-support-for-aws-organizations/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2272,8 +2272,8 @@
         "Date": "16/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/api-gateway-enables-api-publishers-to-easily-deploy-the-serverless-developer-portal-as-an-app/",
         "Services": [
-            "AWS Serverless Application Repository",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Serverless Application Repository"
         ]
     },
     {
@@ -2291,9 +2291,9 @@
         "Date": "16/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-serverless-application-repository-supports-additional-resources/",
         "Services": [
+            "Amazon Route 53",
             "AWS Glue",
             "AWS Serverless Application Repository",
-            "Amazon Route 53",
             "AWS Step Functions"
         ]
     },
@@ -2689,8 +2689,8 @@
         "Date": "12/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/Secrets_Manager_integration_CloudFormation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2785,8 +2785,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-secrets-manager--/",
         "Services": [
             "Amazon CloudWatch",
-            "AWS CloudFormation",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -3159,8 +3159,8 @@
         "Date": "06/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-api-gateway-adds-support-for-aws-waf/",
         "Services": [
-            "AWS WAF",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS WAF"
         ]
     },
     {
@@ -3190,8 +3190,8 @@
         "Date": "05/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-inspector-adds-amazon-ec2-instance-details-to-security-findings/",
         "Services": [
-            "Amazon Inspector",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon Inspector"
         ]
     },
     {
@@ -3227,8 +3227,8 @@
         "Date": "02/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -3501,8 +3501,8 @@
         "Date": "24/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon_elasticache_now_supports_the_next_generation_general-purpose_and_memory-optimized_amazon_ec2_m5_and_r5_nodes/",
         "Services": [
-            "Amazon ElastiCache",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -3525,8 +3525,8 @@
         "Date": "23/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-efs-now-supports-aws-vpn-and-inter-region-vpc-peering/",
         "Services": [
-            "AWS VPN",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS VPN"
         ]
     },
     {
@@ -3698,8 +3698,8 @@
         "Date": "17/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/aws-service-catalog-adds-integration-with-aws-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -4672,10 +4672,10 @@
         "Date": "21/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
-            "Amazon ElastiCache",
+            "Amazon API Gateway",
             "Amazon Aurora",
-            "AWS CloudFormation",
-            "Amazon API Gateway"
+            "Amazon ElastiCache",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4702,8 +4702,8 @@
         "Date": "21/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-dms-aws-sct-now-support-the-migration-of-apache-cassandra-databases/",
         "Services": [
-            "AWS Database Migration Service",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS Database Migration Service"
         ]
     },
     {
@@ -4819,8 +4819,8 @@
         "Date": "17/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/amazon-workspaces-now-lets-you-track-login-events-using-amazon-c/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon WorkSpaces"
+            "Amazon WorkSpaces",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -4938,8 +4938,8 @@
         "Date": "12/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-config-adds-support-for-aws-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS Config"
+            "AWS Config",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -5624,8 +5624,8 @@
         "Date": "17/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-shield-advanced-onboarding-sign-up-wizard-create-rate-based-rules-rbr-cloudwatch-alarms/",
         "Services": [
-            "AWS Shield",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Shield"
         ]
     },
     {
@@ -5695,8 +5695,8 @@
         "Date": "15/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-iot-core-and-iot-device-management-now-available-in-the-aws-govcloud-region/",
         "Services": [
-            "AWS IoT Device Management",
-            "AWS IoT Core"
+            "AWS IoT Core",
+            "AWS IoT Device Management"
         ]
     },
     {
@@ -5739,8 +5739,8 @@
         "Date": "15/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-appsync-adds-quick-start-for-amazon-aurora/",
         "Services": [
-            "AWS AppSync",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS AppSync"
         ]
     },
     {
@@ -5841,8 +5841,8 @@
         "Date": "10/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-config-adds-support-for-aws-systems-manager-patch-compliance-and-association-compliance/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Config"
+            "AWS Config",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -5869,8 +5869,8 @@
         "Date": "10/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-cloudtrail-adds-vpc-endpoint-support-to-aws-privatelink/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -6012,8 +6012,8 @@
         "Date": "08/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-config-adds-support-for-aws-shield/",
         "Services": [
-            "AWS Shield",
-            "AWS Config"
+            "AWS Config",
+            "AWS Shield"
         ]
     },
     {
@@ -6231,8 +6231,8 @@
         "Date": "01/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-config-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Config"
+            "AWS Config",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -6277,8 +6277,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/expanding_aws_privatelink_support_for_amazon_kinesis_data_streams/",
         "Services": [
             "AWS PrivateLink",
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -6427,8 +6427,8 @@
         "Date": "26/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-systems-manager-parameter-store-integrates-with-aws-secrets-manager-and-adds-parameter-version-labeling/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -6553,8 +6553,8 @@
         "Date": "25/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-iot-core-and-aws-iot-device-management-now-hipaa-eligible/",
         "Services": [
-            "AWS IoT Device Management",
-            "AWS IoT Core"
+            "AWS IoT Core",
+            "AWS IoT Device Management"
         ]
     },
     {
@@ -6655,8 +6655,8 @@
         "Date": "20/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-device-farm-adds-integration-with-aws-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS Device Farm"
+            "AWS Device Farm",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -6842,8 +6842,8 @@
         "Date": "17/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/new-sbe1-instances-for-snowball-edge/",
         "Services": [
-            "AWS Snowball",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Snowball"
         ]
     },
     {
@@ -7011,8 +7011,8 @@
         "Date": "12/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-secrets-manager-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -7038,8 +7038,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/reserved-instance-purchase-recommendations-redshift-elasticache-elasticsearch-reservations/",
         "Services": [
             "AWS Cost Explorer",
-            "Amazon Redshift",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "Amazon Redshift"
         ]
     },
     {
@@ -7322,8 +7322,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-transcribe-is-now-integrated-with-aws-cloudtrail-and-amazon-cloudwatch-events/",
         "Services": [
             "Amazon Transcribe",
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -7403,8 +7403,8 @@
         "Date": "28/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/aws-amplify-now-supports-AI-powered-chatbots-with-amazon-lex/",
         "Services": [
-            "Amazon Lex",
-            "AWS Amplify"
+            "AWS Amplify",
+            "Amazon Lex"
         ]
     },
     {
@@ -7463,8 +7463,8 @@
         "Date": "27/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/aws-lambda-and-amazon-api-gateway-are-now-available-in-aws-china-ningxia-region-operated-by-nwcd/",
         "Services": [
-            "AWS Lambda",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Lambda"
         ]
     },
     {
@@ -7776,8 +7776,8 @@
         "Date": "16/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -8426,8 +8426,8 @@
         "Date": "25/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-inspector-adds-ability-to-run-security-assessments-on-amazon-ec2-instances-without-adding-tags/",
         "Services": [
-            "Amazon Inspector",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon Inspector"
         ]
     },
     {
@@ -8523,8 +8523,8 @@
         "Date": "23/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-aurora-publishes-general-slow-query-and-error-logs-to-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -8567,8 +8567,8 @@
         "Date": "23/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-macie-adds-new-dashboard-to-identify-publicly-accessible-amazon-simple-storage-service-objects/",
         "Services": [
-            "Amazon Macie",
-            "Amazon Simple Storage Service"
+            "Amazon Simple Storage Service",
+            "Amazon Macie"
         ]
     },
     {
@@ -8577,8 +8577,8 @@
         "Date": "22/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/aws-cloudformation-supports-aws-budgets-resource/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Budgets"
+            "AWS Budgets",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -8701,8 +8701,8 @@
         "Date": "17/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/AWS-elastic-beanstalk-adds-support-for-health-events-in-amazon-cloudWatch-logs/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -9512,8 +9512,8 @@
         "Date": "25/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/aws-config-adds-support-for-aws-elastic-beanstalk/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "AWS Config"
+            "AWS Config",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -9652,8 +9652,8 @@
         "Date": "14/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/aws-amplify-adds-support-for-graphql-and-aws-appsync-enabling-re/",
         "Services": [
-            "AWS AppSync",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS AppSync"
         ]
     },
     {
@@ -9723,8 +9723,8 @@
         "Date": "11/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/amazon-SNS-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Simple Notification Service"
+            "Amazon Simple Notification Service",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -10011,8 +10011,8 @@
         "Date": "03/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/amazon-api-gateway-supports-cross-account-aws-lambda-authorizers/",
         "Services": [
-            "AWS Lambda",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Lambda"
         ]
     },
     {
@@ -10116,8 +10116,8 @@
         "Date": "30/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-config-notifications-are-now-integrated-with-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Config"
+            "AWS Config",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -10369,8 +10369,8 @@
         "Date": "23/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloud9-supports-local-debugging-of-aws-lambda-functions-in-python/",
         "Services": [
-            "AWS Lambda",
-            "AWS Cloud9"
+            "AWS Cloud9",
+            "AWS Lambda"
         ]
     },
     {
@@ -10393,8 +10393,8 @@
         "Date": "22/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-codepipeline-supports-push-events-from-amazon-s3/",
         "Services": [
-            "AWS CodePipeline",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -10572,8 +10572,8 @@
         "Date": "16/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-appsync-now-supports-android-graphql-subscriptions-and-relea/",
         "Services": [
-            "AWS AppSync",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS AppSync"
         ]
     },
     {
@@ -10582,8 +10582,8 @@
         "Date": "16/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloudtrail-log-search-using-amazon-athena/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -10917,8 +10917,8 @@
         "Date": "02/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-batch-as-amazon-cloudwatch-target/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Batch"
+            "AWS Batch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -10927,8 +10927,8 @@
         "Date": "02/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/amazon-cloudwatch-events-now-supports-aws-batch-as-an-event-target/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Batch"
+            "AWS Batch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -11226,8 +11226,8 @@
         "Date": "20/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-opsworks-stacks-event-sources-are-now-available-in-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -11316,8 +11316,8 @@
         "Date": "16/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-config-adds-support-for-aws-waf-rulegroups/",
         "Services": [
-            "AWS WAF",
-            "AWS Config"
+            "AWS Config",
+            "AWS WAF"
         ]
     },
     {
@@ -11433,8 +11433,8 @@
         "Date": "09/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-shield-now-integrated-with-aws-cloudtrail/",
         "Services": [
-            "AWS Shield",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Shield"
         ]
     },
     {
@@ -11855,8 +11855,8 @@
         "Date": "24/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/amazon-ec2-spot-two-minute-warning-is-now-available-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -12100,8 +12100,8 @@
         "Date": "11/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-shield-advanced-and-aws-waf-now-available-in-asia-pacific-sydney-and-eu-frankfurt-regions/",
         "Services": [
-            "AWS Shield",
-            "AWS WAF"
+            "AWS WAF",
+            "AWS Shield"
         ]
     },
     {
@@ -12110,8 +12110,8 @@
         "Date": "10/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-batch-adds-support-for-aws-cloudtrail-audit-calls/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS CloudTrail"
         ]
     },
     {

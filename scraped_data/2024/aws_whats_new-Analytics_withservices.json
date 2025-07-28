@@ -319,8 +319,8 @@
         "Date": "26/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -374,9 +374,9 @@
         "Date": "23/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Managed Service for Apache Flink",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -501,8 +501,8 @@
         "Date": "21/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-on-demand-mode-writing-up-10gbs",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -592,8 +592,8 @@
         "Date": "19/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -685,8 +685,8 @@
         "Date": "12/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -809,8 +809,8 @@
         "Date": "07/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-msk-vector-embedding-generation-amazon-bedrock",
         "Services": [
-            "Amazon Bedrock",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon Bedrock"
         ]
     },
     {
@@ -1014,8 +1014,8 @@
         "Date": "16/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1033,8 +1033,8 @@
         "Date": "16/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-zero-etl-integration-redshift-generally-available",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1106,8 +1106,8 @@
         "Date": "02/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-serverless-job-run-concurrency-queuing-controls/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -1126,8 +1126,8 @@
         "Date": "02/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1136,8 +1136,8 @@
         "Date": "01/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-mtls-amazon-msk/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1162,8 +1162,8 @@
         "Date": "26/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1172,8 +1172,8 @@
         "Date": "25/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions",
         "Services": [
-            "Amazon Redshift",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1236,8 +1236,8 @@
         "Date": "17/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1329,8 +1329,8 @@
         "Date": "07/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1348,8 +1348,8 @@
         "Date": "05/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -1377,8 +1377,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
             "Amazon Redshift Serverless",
-            "Amazon Redshift",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1505,8 +1505,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/",
         "Services": [
             "AWS Glue",
-            "Amazon Redshift",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1576,8 +1576,8 @@
         "Date": "02/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/",
         "Services": [
-            "Amazon Redshift",
-            "AWS IAM Identity Center"
+            "AWS IAM Identity Center",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1586,8 +1586,8 @@
         "Date": "01/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless",
         "Services": [
-            "EMR Serverless",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "EMR Serverless"
         ]
     },
     {
@@ -1633,8 +1633,8 @@
         "Date": "19/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-aurora-zero-etl-integration-redshift-8-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2011,8 +2011,8 @@
         "Date": "05/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2086,8 +2086,8 @@
         "Date": "25/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/connect-jupyter-notebooks-amazon-emr-serverless-apache-livy-endpoints",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2177,8 +2177,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail",
         "Services": [
             "AWS CloudTrail",
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2299,9 +2299,9 @@
         "Date": "07/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-performance-monitoring-apache-spark-jobs/",
         "Services": [
-            "EMR Serverless",
             "Amazon Managed Service for Prometheus",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2319,8 +2319,8 @@
         "Date": "02/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2357,8 +2357,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-usage-analysis-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Config"
+            "AWS Config",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2471,8 +2471,8 @@
         "Date": "15/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon QuickSight"
+            "Amazon QuickSight",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -2542,8 +2542,8 @@
         "Date": "03/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/",
         "Services": [
-            "AWS Glue",
-            "Amazon DataZone"
+            "Amazon DataZone",
+            "AWS Glue"
         ]
     },
     {
@@ -2552,8 +2552,8 @@
         "Date": "02/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-zero-etl-integration-redshift-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2607,8 +2607,8 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2636,9 +2636,9 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/",
         "Services": [
-            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams",
             "AWS Lambda",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2656,8 +2656,8 @@
         "Date": "21/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2684,9 +2684,9 @@
         "Date": "18/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/",
         "Services": [
+            "AWS Secrets Manager",
             "Amazon Redshift Serverless",
-            "Amazon Redshift",
-            "AWS Secrets Manager"
+            "Amazon Redshift"
         ]
     },
     {
@@ -2713,8 +2713,8 @@
         "Date": "12/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-graviton-2-emr-serverless-china-regions/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2723,9 +2723,9 @@
         "Date": "12/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-allocation-metrics-cloudwatch/",
         "Services": [
-            "EMR Serverless",
             "Amazon CloudWatch",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2752,8 +2752,8 @@
         "Date": "01/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2805,8 +2805,8 @@
         "Date": "24/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2815,8 +2815,8 @@
         "Date": "22/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-dynamodb-zero-etl-integration-redshift-virginia/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2834,8 +2834,8 @@
         "Date": "19/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -2943,8 +2943,8 @@
         "Date": "09/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/",
         "Services": [
-            "Amazon Managed Blockchain",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Managed Blockchain"
         ]
     },
     {

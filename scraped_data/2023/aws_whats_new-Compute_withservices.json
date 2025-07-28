@@ -264,8 +264,8 @@
         "Date": "27/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -2719,8 +2719,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/",
         "Services": [
             "Amazon EC2",
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -2729,9 +2729,9 @@
         "Date": "31/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/",
         "Services": [
-            "AWS Snowcone",
             "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snowcone"
         ]
     },
     {
@@ -2894,9 +2894,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
-            "AWS App Runner",
+            "AWS Secrets Manager",
             "AWS Systems Manager",
-            "AWS Secrets Manager"
+            "AWS App Runner"
         ]
     },
     {

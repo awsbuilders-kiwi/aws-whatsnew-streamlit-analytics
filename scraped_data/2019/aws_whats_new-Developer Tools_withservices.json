@@ -98,8 +98,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -248,11 +248,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
+            "AWS Amplify",
             "AWS App Mesh",
-            "AWS CloudFormation",
             "Amazon API Gateway",
-            "AWS Amplify"
+            "AWS CloudFormation",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -277,10 +277,10 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
-            "AWS CodeCommit",
             "AWS CodeBuild",
-            "AWS CodePipeline",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CodeCommit",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "15/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codepipeline-enables-setting-environment-variables-on-aws-codebuild-build-jobs/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -497,8 +497,8 @@
         "Date": "25/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-aws-chatbot-chatops-for-aws/",
         "Services": [
-            "Amazon Chime",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon Chime"
         ]
     },
     {
@@ -693,8 +693,8 @@
         "Date": "22/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-cloud9-supports-aws-cloudtrail-logging/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Cloud9"
+            "AWS Cloud9",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -703,8 +703,8 @@
         "Date": "18/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-codepipeline-now-supports-deploying-to-amazon-s3/",
         "Services": [
-            "AWS CodePipeline",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS CodePipeline"
         ]
     }
 ]

@@ -176,8 +176,8 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/deploy-microsoft-active-directory-infrastructure-on-amazon-ec2-using-aws-launch-wizard/",
         "Services": [
-            "AWS Launch Wizard",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -671,8 +671,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/",
         "Services": [
-            "AWS Wavelength",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Wavelength"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1043,8 +1043,8 @@
         "Date": "17/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -1385,8 +1385,8 @@
         "Date": "11/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-fargate-aws-eks-included-compute-savings-plan/",
         "Services": [
-            "Savings Plans",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Savings Plans"
         ]
     },
     {
@@ -1612,8 +1612,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1622,8 +1622,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-amazon-cloudwatch-metrics-amazon-ec2-on-demand-capacity-reservations/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2115,8 +2115,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2235,8 +2235,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -2436,8 +2436,8 @@
         "Date": "29/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-systems-manager-now-supports-aws-privatelink-in-aws-govcloud-regions/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS PrivateLink"
         ]
     },
     {

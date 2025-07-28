@@ -427,9 +427,9 @@
         "Date": "09/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Cognito",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -671,8 +671,8 @@
         "Date": "01/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-cli-adds-support-for-storing-environment-variables-and-secrets-accessed-by-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS Lambda"
         ]
     },
     {
@@ -1068,8 +1068,8 @@
         "Date": "20/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {

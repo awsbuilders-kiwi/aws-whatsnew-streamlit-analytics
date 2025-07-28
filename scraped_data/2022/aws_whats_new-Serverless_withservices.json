@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
-            "EMR Serverless",
+            "Amazon S3",
             "Amazon EMR",
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "EMR Serverless",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -179,8 +179,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {

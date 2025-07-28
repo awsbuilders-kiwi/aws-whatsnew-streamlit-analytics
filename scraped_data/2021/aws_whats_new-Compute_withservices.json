@@ -320,9 +320,9 @@
         "Date": "26/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -585,8 +585,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/",
         "Services": [
-            "AWS Step Functions",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Step Functions"
         ]
     },
     {
@@ -663,8 +663,8 @@
         "Date": "10/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/",
         "Services": [
-            "AWS Step Functions",
-            "AWS App Runner"
+            "AWS App Runner",
+            "AWS Step Functions"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "Date": "04/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/",
         "Services": [
-            "Amazon Elastic Container Registry",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Elastic Container Registry"
         ]
     },
     {
@@ -880,8 +880,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1400,8 +1400,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/",
         "Services": [
             "Amazon EventBridge",
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1526,8 +1526,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2249,8 +2249,8 @@
         "Date": "31/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {

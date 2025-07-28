@@ -14,9 +14,9 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
+            "AWS DataSync",
             "Amazon FSx",
-            "Amazon FSx for Lustre",
-            "AWS DataSync"
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -25,8 +25,8 @@
         "Date": "10/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/",
         "Services": [
-            "Amazon FSx",
             "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx",
             "AWS CloudFormation"
         ]
     },
@@ -36,8 +36,8 @@
         "Date": "09/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -46,8 +46,8 @@
         "Date": "09/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -325,8 +325,8 @@
         "Date": "08/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/",
         "Services": [
-            "Amazon Neptune",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Neptune"
         ]
     },
     {
@@ -540,8 +540,8 @@
         "Date": "02/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -614,9 +614,9 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
-            "AWS IoT Greengrass",
             "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS IoT Greengrass"
         ]
     },
     {
@@ -714,8 +714,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -821,9 +821,9 @@
         "Date": "30/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
-            "Amazon FSx for Windows File Server",
             "AWS DataSync",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -852,8 +852,8 @@
         "Date": "09/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -878,8 +878,8 @@
         "Date": "28/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
-            "AWS Launch Wizard",
             "Amazon FSx for Windows File Server",
+            "AWS Launch Wizard",
             "Amazon FSx"
         ]
     },
@@ -995,8 +995,8 @@
         "Date": "17/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/",
         "Services": [
-            "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -1014,8 +1014,8 @@
         "Date": "12/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/",
         "Services": [
-            "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -1238,8 +1238,8 @@
         "Date": "04/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
             "Amazon Elastic File System",
-            "Amazon CloudWatch",
-            "Amazon EFS"
+            "Amazon EFS",
+            "Amazon CloudWatch"
         ]
     },
     {
