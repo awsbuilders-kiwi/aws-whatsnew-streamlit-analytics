@@ -74,9 +74,9 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "Amazon Q Developer CLI now supports Claude Sonnet 4",
+        "Title": "Amazon Q Developer Eclipse IDE plugin is now generally available",
         "Date": "06/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-cli-claude-sonnet-4/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-eclipse-ide-plugin/",
         "Services": [
             "Amazon Q",
             "Amazon Q Developer"
@@ -84,9 +84,9 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "Amazon Q Developer Eclipse IDE plugin is now generally available",
+        "Title": "Amazon Q Developer CLI now supports Claude Sonnet 4",
         "Date": "06/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-eclipse-ide-plugin/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-cli-claude-sonnet-4/",
         "Services": [
             "Amazon Q",
             "Amazon Q Developer"
@@ -151,8 +151,8 @@
         "Date": "17/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploying-lambda-traffic-shifting/",
         "Services": [
-            "AWS Lambda",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS Lambda"
         ]
     },
     {
@@ -383,20 +383,20 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations",
-        "Date": "25/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/",
-        "Services": [
-            "Amazon Q"
-        ]
-    },
-    {
-        "Category": "Developer Tools",
         "Title": "Amazon Corretto 24 is now generally available",
         "Date": "25/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/",
         "Services": [
             "Amazon Corretto"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations",
+        "Date": "25/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/",
+        "Services": [
+            "Amazon Q"
         ]
     },
     {
@@ -419,19 +419,19 @@
     },
     {
         "Category": "Developer Tools",
-        "Title": "AWS CodeConnections adds support for new condition key",
-        "Date": "15/03/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key",
-        "Services": []
-    },
-    {
-        "Category": "Developer Tools",
         "Title": "AWS CodePipeline supports invoking pipeline execution with a new action type",
         "Date": "15/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-invoking-pipeline-new-action-type/",
         "Services": [
             "AWS CodePipeline"
         ]
+    },
+    {
+        "Category": "Developer Tools",
+        "Title": "AWS CodeConnections adds support for new condition key",
+        "Date": "15/03/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key",
+        "Services": []
     },
     {
         "Category": "Developer Tools",
@@ -504,6 +504,15 @@
     },
     {
         "Category": "Developer Tools",
+        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
+        "Date": "27/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/",
+        "Services": [
+            "AWS CodeBuild"
+        ]
+    },
+    {
+        "Category": "Developer Tools",
         "Title": "AWS CodeBuild adds support for managed runners for GitLab Self-Managed",
         "Date": "27/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-runners-gitlab-self-managed",
@@ -527,17 +536,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/",
         "Services": [
             "Amazon Q",
-            "Amazon Q Developer",
-            "AWS Chatbot"
-        ]
-    },
-    {
-        "Category": "Developer Tools",
-        "Title": "AWS CodeBuild now supports merging parallel test reports and new compute options",
-        "Date": "27/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-merging-parallel-test-reports-compute-options/",
-        "Services": [
-            "AWS CodeBuild"
+            "AWS Chatbot",
+            "Amazon Q Developer"
         ]
     },
     {

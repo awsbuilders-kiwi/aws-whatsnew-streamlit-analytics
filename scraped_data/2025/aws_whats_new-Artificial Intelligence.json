@@ -37,9 +37,9 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Q-Index now supports seamless application-level authentication",
+        "Title": "AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance",
         "Date": "07/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/q-index-seamless-application-level-authentication/"
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance"
     },
     {
         "Category": "Artificial Intelligence",
@@ -49,9 +49,9 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance",
+        "Title": "Q-Index now supports seamless application-level authentication",
         "Date": "07/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance"
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/07/q-index-seamless-application-level-authentication/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -85,15 +85,15 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs",
-        "Date": "06/25/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Guardrails announces tiers for content filters and denied topics",
         "Date": "06/25/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs",
+        "Date": "06/25/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -205,12 +205,6 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Anthropic's Claude 4 foundation models now in Amazon Bedrock",
-        "Date": "05/23/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management",
         "Date": "05/23/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management"
@@ -220,6 +214,12 @@
         "Title": "AWS HealthImaging now supports DICOMweb series level metadata retrievals",
         "Date": "05/23/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Anthropic's Claude 4 foundation models now in Amazon Bedrock",
+        "Date": "05/23/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock"
     },
     {
         "Category": "Artificial Intelligence",
@@ -283,15 +283,15 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "SageMaker Hyperpod Flexible Training Plans expands to new regions",
-        "Date": "05/10/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/sagemaker-hyperpod-flexible-training-plans-new-regions/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events",
         "Date": "05/10/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "SageMaker Hyperpod Flexible Training Plans expands to new regions",
+        "Date": "05/10/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/sagemaker-hyperpod-flexible-training-plans-new-regions/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -457,6 +457,12 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock",
+        "Date": "04/09/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/"
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications",
         "Date": "04/09/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications"
@@ -469,27 +475,21 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock",
-        "Date": "04/09/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock announces general availability of prompt caching",
         "Date": "04/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching"
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon Nova Canvas now supports fine-tuning",
-        "Date": "04/08/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Announcing Amazon Nova Reel 1.1",
         "Date": "04/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-reel-1-1/"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Amazon Nova Canvas now supports fine-tuning",
+        "Date": "04/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -565,6 +565,12 @@
     },
     {
         "Category": "Artificial Intelligence",
+        "Title": "Amazon Bedrock Model Evaluation LLM-as-a-judge is now generally available",
+        "Date": "03/21/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-model-evaluation-llm-as-a-judge/"
+    },
+    {
+        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock now supports RAG Evaluation (generally available)",
         "Date": "03/21/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-rag-evaluation-generally-available/"
@@ -574,12 +580,6 @@
         "Title": "Amazon Q Business now available in AWS Europe (Ireland) region",
         "Date": "03/21/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-europe-ireland-region/"
-    },
-    {
-        "Category": "Artificial Intelligence",
-        "Title": "Amazon Bedrock Model Evaluation LLM-as-a-judge is now generally available",
-        "Date": "03/21/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-model-evaluation-llm-as-a-judge/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -613,15 +613,15 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon SageMaker Unified Studio is now generally available",
-        "Date": "03/14/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock’s capabilities now generally available within Amazon SageMaker Unified Studio",
         "Date": "03/14/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrocks-capabilities-amazon-sagemaker-unified-studio"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Amazon SageMaker Unified Studio is now generally available",
+        "Date": "03/14/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -667,15 +667,15 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options",
-        "Date": "03/08/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Amazon Bedrock Knowledge Bases supports GraphRAG now generally available",
         "Date": "03/08/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options",
+        "Date": "03/08/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/"
     },
     {
         "Category": "Artificial Intelligence",
@@ -853,15 +853,15 @@
     },
     {
         "Category": "Artificial Intelligence",
-        "Title": "Amazon Bedrock Flows announces preview of multi-turn conversation support",
-        "Date": "01/24/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/"
-    },
-    {
-        "Category": "Artificial Intelligence",
         "Title": "Luma AI's Ray2 visual AI model now available in Amazon Bedrock",
         "Date": "01/24/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/"
+    },
+    {
+        "Category": "Artificial Intelligence",
+        "Title": "Amazon Bedrock Flows announces preview of multi-turn conversation support",
+        "Date": "01/24/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/"
     },
     {
         "Category": "Artificial Intelligence",

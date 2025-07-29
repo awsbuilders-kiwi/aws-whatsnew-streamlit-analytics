@@ -243,9 +243,9 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended",
         "Services": [
-            "Amazon WorkSpaces",
             "Amazon Connect",
-            "Amazon AppStream 2.0"
+            "Amazon AppStream 2.0",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -352,16 +352,16 @@
     },
     {
         "Category": "Business Applications",
-        "Title": "SES Mail Manager is now available in 11 new AWS Regions, 17 total",
+        "Title": "SES Mail Manager adds support for address and domain lists",
         "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists",
         "Services": []
     },
     {
         "Category": "Business Applications",
-        "Title": "SES Mail Manager adds support for address and domain lists",
+        "Title": "SES Mail Manager is now available in 11 new AWS Regions, 17 total",
         "Date": "31/01/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions",
         "Services": []
     },
     {
@@ -370,8 +370,8 @@
         "Date": "22/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon Connect"
+            "Amazon Connect",
+            "Amazon WorkSpaces"
         ]
     },
     {

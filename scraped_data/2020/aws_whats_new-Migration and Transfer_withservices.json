@@ -14,8 +14,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -34,8 +34,8 @@
         "Date": "28/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-supports-aws-waf-identity-provider-integrations/",
         "Services": [
-            "AWS WAF",
-            "AWS Transfer Family"
+            "AWS Transfer Family",
+            "AWS WAF"
         ]
     },
     {
@@ -303,8 +303,8 @@
         "Date": "18/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-datasync-can-now-transfer-data-to-from-aws-snowcone/",
         "Services": [
-            "AWS DataSync",
-            "AWS Snowcone"
+            "AWS Snowcone",
+            "AWS DataSync"
         ]
     },
     {
@@ -374,8 +374,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-aws-opshub-snow-family/",
         "Services": [
-            "Snow Family",
-            "AWS Snowball"
+            "AWS Snowball",
+            "Snow Family"
         ]
     },
     {
@@ -439,8 +439,8 @@
         "Date": "24/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-datasync-transfer-data-to-and-from-amazon-fsx-windows-file-server/",
         "Services": [
-            "AWS DataSync",
             "Amazon FSx",
+            "AWS DataSync",
             "Amazon FSx for Windows File Server"
         ]
     },

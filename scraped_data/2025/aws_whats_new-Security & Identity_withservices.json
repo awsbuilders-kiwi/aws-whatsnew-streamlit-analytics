@@ -43,9 +43,16 @@
         "Date": "27/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login",
         "Services": [
-            "AWS WAF",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "AWS WAF"
         ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Service Reference Information now supports annotations for service actions",
+        "Date": "27/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-service-reference-information-annotations/",
+        "Services": []
     },
     {
         "Category": "Security & Identity",
@@ -64,13 +71,6 @@
         "Services": [
             "Amazon EventBridge"
         ]
-    },
-    {
-        "Category": "Security & Identity",
-        "Title": "AWS Service Reference Information now supports annotations for service actions",
-        "Date": "27/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-service-reference-information-annotations/",
-        "Services": []
     },
     {
         "Category": "Security & Identity",
@@ -95,15 +95,6 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "Express.js developers can now add authorization in minutes with Amazon Verified Permissions",
-        "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/",
-        "Services": [
-            "Amazon Verified Permissions"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
         "Title": "Amazon Inspector launches code security to shift security left in development",
         "Date": "18/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development",
@@ -118,6 +109,42 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection",
         "Services": [
             "AWS WAF"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Express.js developers can now add authorization in minutes with Amazon Verified Permissions",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/",
+        "Services": [
+            "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Amazon GuardDuty Extended Threat Detection now supports Amazon EKS",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks",
+        "Services": [
+            "Amazon GuardDuty"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "Introducing AWS Security Hub for risk prioritization and response at scale (Preview)",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-hub-risk-prioritization-response-scale/",
+        "Services": [
+            "AWS Security Hub"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS Shield introduces network security director (preview)",
+        "Date": "18/06/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview",
+        "Services": [
+            "AWS Shield"
         ]
     },
     {
@@ -161,39 +188,12 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "Amazon GuardDuty Extended Threat Detection now supports Amazon EKS",
-        "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-guardduty-threat-detection-eks",
-        "Services": [
-            "Amazon GuardDuty"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
-        "Title": "Introducing AWS Security Hub for risk prioritization and response at scale (Preview)",
-        "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-hub-risk-prioritization-response-scale/",
-        "Services": [
-            "AWS Security Hub"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
-        "Title": "AWS Shield introduces network security director (preview)",
-        "Date": "18/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview",
-        "Services": [
-            "AWS Shield"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
         "Title": "AWS Network Firewall now supports AWS Transit Gateway native integration",
         "Date": "17/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/",
         "Services": [
-            "AWS Transit Gateway",
-            "AWS Network Firewall"
+            "AWS Network Firewall",
+            "AWS Transit Gateway"
         ]
     },
     {
@@ -271,16 +271,16 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "AWS Resource Groups now supports IPv6",
+        "Title": "Amazon EKS add-ons now supports Private CA Connector for Kubernetes",
         "Date": "05/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-supports-ipv6",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/",
         "Services": []
     },
     {
         "Category": "Security & Identity",
-        "Title": "Amazon EKS add-ons now supports Private CA Connector for Kubernetes",
+        "Title": "AWS Resource Groups now supports IPv6",
         "Date": "05/06/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-supports-ipv6",
         "Services": []
     },
     {
@@ -414,20 +414,20 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "AWS WAF Targeted Bot Control and Fraud Control is now available in two additional regions",
-        "Date": "01/05/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-waf-targeted-bot-fraud-control-two-regions/",
-        "Services": [
-            "AWS WAF"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
         "Title": "Amazon Cognito adds enhanced context support for machine-to-machine (M2M) authorization flows",
         "Date": "01/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-context-machine-to-machine-flows/",
         "Services": [
             "Amazon Cognito"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF Targeted Bot Control and Fraud Control is now available in two additional regions",
+        "Date": "01/05/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-waf-targeted-bot-fraud-control-two-regions/",
+        "Services": [
+            "AWS WAF"
         ]
     },
     {
@@ -519,19 +519,19 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD",
-        "Date": "03/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/",
-        "Services": []
-    },
-    {
-        "Category": "Security & Identity",
         "Title": "AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available",
         "Date": "03/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/",
         "Services": [
             "Amazon Cognito"
         ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD",
+        "Date": "03/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/",
+        "Services": []
     },
     {
         "Category": "Security & Identity",
@@ -778,20 +778,20 @@
     },
     {
         "Category": "Security & Identity",
-        "Title": "AWS WAF enhances integration with Service Quotas",
-        "Date": "25/02/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/",
-        "Services": [
-            "AWS WAF"
-        ]
-    },
-    {
-        "Category": "Security & Identity",
         "Title": "Amazon Verified Permissions now supports the Cedar JSON entity format",
         "Date": "25/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/",
         "Services": [
             "Amazon Verified Permissions"
+        ]
+    },
+    {
+        "Category": "Security & Identity",
+        "Title": "AWS WAF enhances integration with Service Quotas",
+        "Date": "25/02/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/",
+        "Services": [
+            "AWS WAF"
         ]
     },
     {
@@ -834,8 +834,8 @@
         "Date": "07/02/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues",
         "Services": [
-            "AWS IAM Identity Center",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS IAM Identity Center"
         ]
     },
     {
@@ -894,8 +894,8 @@
         "Date": "14/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/",
         "Services": [
-            "AWS Security Hub",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS Security Hub"
         ]
     },
     {

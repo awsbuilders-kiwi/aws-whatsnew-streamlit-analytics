@@ -60,8 +60,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/",
         "Services": [
-            "AWS Data Exchange",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "Amazon AppFlow",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -542,8 +542,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
         "Services": [
-            "Amazon Athena",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "Amazon Athena"
         ]
     },
     {
@@ -729,8 +729,8 @@
         "Date": "03/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-active-directory-saml-providers-amazon-athena/",
         "Services": [
-            "Amazon Athena",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Athena"
         ]
     },
     {
@@ -907,8 +907,8 @@
         "Date": "15/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-appflow-supports-new-data-formats-ingesting-flies-amazon-s3/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1218,8 +1218,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/introducing-genomics-tertiary-analysis-and-data-lakes-using-aws-glue-amazon-athena/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {

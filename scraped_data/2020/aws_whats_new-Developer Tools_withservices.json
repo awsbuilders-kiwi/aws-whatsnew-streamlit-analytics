@@ -264,8 +264,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -510,8 +510,8 @@
         "Date": "08/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-codeguru-profiler-supports-aws-privatelink/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -1050,8 +1050,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Batch",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Batch"
         ]
     },
     {
@@ -1144,8 +1144,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
+            "AWS CodePipeline",
             "AWS CodeBuild",
             "AWS CodeDeploy",
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodeCommit"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon CloudWatch"
         ]
     },
     {

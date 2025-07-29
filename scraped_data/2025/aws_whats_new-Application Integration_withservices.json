@@ -106,19 +106,19 @@
     },
     {
         "Category": "Application Integration",
-        "Title": "Amazon SNS now supports Internet Protocol Version 6 (IPv6)",
-        "Date": "04/04/2025",
-        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sns-internet-protocol-version-6/",
-        "Services": []
-    },
-    {
-        "Category": "Application Integration",
         "Title": "AWS Step Functions expands SDK integrations with Amazon Backup Search and 137 additional APIs",
         "Date": "04/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-step-functions-sdk-integrations-backup-search-apis/",
         "Services": [
             "AWS Step Functions"
         ]
+    },
+    {
+        "Category": "Application Integration",
+        "Title": "Amazon SNS now supports Internet Protocol Version 6 (IPv6)",
+        "Date": "04/04/2025",
+        "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sns-internet-protocol-version-6/",
+        "Services": []
     },
     {
         "Category": "Application Integration",
@@ -133,8 +133,8 @@
         "Date": "26/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon EventBridge"
         ]
     },
     {
