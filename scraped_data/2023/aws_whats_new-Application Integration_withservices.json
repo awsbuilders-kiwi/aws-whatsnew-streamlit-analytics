@@ -134,8 +134,8 @@
         "Date": "26/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/",
         "Services": [
-            "AWS Step Functions",
-            "Amazon Bedrock"
+            "Amazon Bedrock",
+            "AWS Step Functions"
         ]
     },
     {
@@ -315,9 +315,9 @@
         "Date": "13/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/",
         "Services": [
-            "EMR Serverless",
             "Amazon EMR",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "EMR Serverless"
         ]
     },
     {
@@ -544,9 +544,9 @@
         "Date": "15/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/",
         "Services": [
+            "Amazon VPC Lattice",
             "Amazon VPC",
-            "AWS Step Functions",
-            "Amazon VPC Lattice"
+            "AWS Step Functions"
         ]
     },
     {
@@ -750,8 +750,8 @@
         "Date": "17/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-step-functions-integration-35-services-emr-serverless/",
         "Services": [
-            "EMR Serverless",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "EMR Serverless"
         ]
     },
     {
@@ -760,8 +760,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-mq-kms-support-rabbitmq-brokers/",
         "Services": [
-            "AWS Key Management Service",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Key Management Service"
         ]
     },
     {

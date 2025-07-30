@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -143,8 +143,8 @@
         "Date": "18/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -616,8 +616,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "06/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS Fargate",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Fargate"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "AWS Compute Optimizer",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1043,8 +1043,8 @@
         "Date": "17/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1824,8 +1824,8 @@
         "Date": "04/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-auto-scaling-available-7-additional-aws-regions-predictive-scaling-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Auto Scaling"
+            "AWS Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2115,8 +2115,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2235,8 +2235,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -2436,8 +2436,8 @@
         "Date": "29/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-systems-manager-now-supports-aws-privatelink-in-aws-govcloud-regions/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -2536,8 +2536,8 @@
         "Date": "14/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/now-enable-amazon-ec2-hibernation-on-demand-reserved-instances-aws-cloudformation/",
         "Services": [
-            "Amazon EC2",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EC2"
         ]
     },
     {
@@ -2675,8 +2675,8 @@
         "Date": "22/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-vpc-ingress-routing-now-supports-aws-cloudformation/",
         "Services": [
-            "Amazon VPC",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon VPC"
         ]
     },
     {

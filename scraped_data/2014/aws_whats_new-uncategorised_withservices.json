@@ -58,8 +58,8 @@
         "Date": "18/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/17/aws-codedeploy-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -124,8 +124,8 @@
         "Date": "16/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/15/aws-opsworks-supports-custom-shutdown-timeouts-and-elastic-load-balancing-connection-draining/",
         "Services": [
-            "AWS OpsWorks",
-            "Elastic Load Balancing"
+            "Elastic Load Balancing",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -388,8 +388,8 @@
         "Date": "11/11/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/11/10/announcing-aws-cloudtrail-integration-with-amazon-cloudwatch-logs/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -471,8 +471,8 @@
         "Date": "06/11/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/11/05/amazon-route-53-now-supports-private-dns-with-amazon-vpc/",
         "Services": [
-            "Amazon VPC",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "Amazon VPC"
         ]
     },
     {
@@ -748,8 +748,8 @@
         "Date": "09/10/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/10/09/amazon-cloudfront-publishes-six-operational-metrics-to-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudFront",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "15/09/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/09/15/amazon-elasticache-api-calls-are-now-available-in-aws-cloudtrail/",
         "Services": [
-            "Amazon ElastiCache",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -1701,9 +1701,9 @@
         "Date": "22/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/21/aws-trusted-advisor-now-monitors-service-limits-for-amazon-ses-amazon-vpc-and-auto-scaling/",
         "Services": [
+            "AWS Trusted Advisor",
             "Amazon VPC",
-            "Amazon SES",
-            "AWS Trusted Advisor"
+            "Amazon SES"
         ]
     },
     {
@@ -1835,8 +1835,8 @@
         "Date": "07/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/06/provision-amazon-kinesis-with-aws-cloudformation/",
         "Services": [
-            "Amazon Kinesis",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1957,8 +1957,8 @@
         "Date": "23/04/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/04/22/amazon-redshift-new-features-concurrency-copy-from-emr-ssl/",
         "Services": [
-            "Amazon EMR",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon EMR"
         ]
     },
     {
@@ -2108,9 +2108,9 @@
         "Date": "19/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/18/aws-trusted-advisor-adds-five-new-checks-on-aws-cloudtrail-and-amazon-route-53/",
         "Services": [
-            "AWS CloudTrail",
+            "AWS Trusted Advisor",
             "Amazon Route 53",
-            "AWS Trusted Advisor"
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2190,8 +2190,8 @@
         "Date": "04/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/03/aws-cloudformation-supports-aws-opsworks/",
         "Services": [
-            "AWS OpsWorks",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -2295,9 +2295,9 @@
         "Date": "11/02/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/02/10/aws-cloudformation-supports-amazon-redshift-and-updating-aws-elastic-beanstalk/",
         "Services": [
-            "AWS Elastic Beanstalk",
             "AWS CloudFormation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -2363,9 +2363,9 @@
         "Date": "22/01/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/01/21/announcing-new-amazon-ec2-m3-instance-sizes-and-lower-prices-for-amazon-s3-and-amazon-ebs/",
         "Services": [
+            "Amazon EBS",
             "Amazon EC2",
-            "Amazon S3",
-            "Amazon EBS"
+            "Amazon S3"
         ]
     },
     {

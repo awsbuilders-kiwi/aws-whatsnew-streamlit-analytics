@@ -53,8 +53,8 @@
         "Date": "03/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EBS"
+            "Amazon EBS",
+            "Amazon EC2"
         ]
     },
     {
@@ -86,8 +86,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-data-deduplication-reducing-storage-costs/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-monitoring-user-level-storage-consumption/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -106,8 +106,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-enables-enforcement-in-transit-encryption/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -116,8 +116,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-windows-file-server-supports-managing-file-shares-via-powershell/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -154,8 +154,8 @@
         "Date": "20/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-fsx-for-windows-file-server-now-supports-file-systems-that-span-multiple-availability-zones/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -183,10 +183,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS CodePipeline",
-            "AWS CloudFormation",
-            "AWS Amplify",
             "Amazon API Gateway",
-            "AWS App Mesh"
+            "AWS App Mesh",
+            "AWS CloudFormation",
+            "AWS Amplify"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-fsx-for-windows-file-server-enables-administrators-to-restore-activity-on-files-locked-by-inactive-users/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "14/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateway-adds-amazon-cloudwatch-logging-and-metrics-for-file-gateway/",
         "Services": [
-            "AWS Storage Gateway",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Storage Gateway"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "26/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-s3-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -478,8 +478,8 @@
         "Date": "21/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/",
         "Services": [
-            "Amazon VPC",
             "AWS PrivateLink",
+            "Amazon VPC",
             "AWS Storage Gateway"
         ]
     },

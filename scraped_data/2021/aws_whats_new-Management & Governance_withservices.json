@@ -80,8 +80,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS IoT Greengrass"
+            "AWS IoT Greengrass",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Managed Grafana",
             "Amazon Athena",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Managed Grafana"
         ]
     },
     {
@@ -258,8 +258,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -425,8 +425,8 @@
         "Date": "01/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/",
         "Services": [
-            "Amazon MemoryDB",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon MemoryDB"
         ]
     },
     {
@@ -480,8 +480,8 @@
         "Date": "12/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/",
         "Services": [
-            "Amazon Elastic Container Service",
-            "AWS Console Mobile Application"
+            "AWS Console Mobile Application",
+            "Amazon Elastic Container Service"
         ]
     },
     {
@@ -490,8 +490,8 @@
         "Date": "12/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cloudformation-manage-applications-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "23/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/",
         "Services": [
-            "Service Catalog",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Service Catalog"
         ]
     },
     {
@@ -565,8 +565,8 @@
         "Date": "17/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -610,8 +610,8 @@
         "Date": "10/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -862,8 +862,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -872,8 +872,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudformation-supports-aws-systems-manager-distributor-change-calendar/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -901,8 +901,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/",
         "Services": [
             "AWS License Manager",
-            "AWS Marketplace",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS Marketplace"
         ]
     },
     {
@@ -964,8 +964,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-application-manager-now-supports-full-lifecycle-management-of-aws-cloudformation-templates-and-stacks/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1107,9 +1107,9 @@
         "Date": "28/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
-            "Amazon FSx",
             "Amazon FSx for Windows File Server",
-            "AWS Launch Wizard"
+            "AWS Launch Wizard",
+            "Amazon FSx"
         ]
     },
     {
@@ -1145,8 +1145,8 @@
         "Date": "20/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/customizations-for-aws-control-tower-adds-more-scaling-optimizations-and-improves-compatiblity-with-aws-codebuild/",
         "Services": [
-            "AWS Control Tower",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS Control Tower"
         ]
     },
     {
@@ -1164,10 +1164,10 @@
         "Date": "19/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/",
         "Services": [
-            "AWS Compute Optimizer",
-            "Amazon S3",
             "AWS Lambda",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Compute Optimizer",
+            "Amazon S3"
         ]
     },
     {
@@ -1294,8 +1294,8 @@
         "Date": "28/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1320,8 +1320,8 @@
         "Date": "27/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/third-party-software-built-aws-control-tower-available-aws-control-tower-console-powered-aws-marketplace/",
         "Services": [
-            "AWS Control Tower",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS Control Tower"
         ]
     },
     {
@@ -1383,8 +1383,8 @@
         "Date": "16/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/now-reference-latest-aws-systems-manager-parameter-values-in-aws-cloudformation-templates-without-specifying-parameter-versions/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1411,8 +1411,8 @@
         "Date": "12/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/",
         "Services": [
-            "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -1438,8 +1438,8 @@
         "Date": "09/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/",
         "Services": [
-            "Amazon Connect",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Connect"
         ]
     },
     {
@@ -1548,8 +1548,8 @@
         "Date": "25/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudtrail-adds-logging-of-data-events-for-amazon-dynamoDB/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1717,8 +1717,8 @@
         "Date": "03/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/",
         "Services": [
-            "Amazon API Gateway",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -1779,8 +1779,8 @@
         "Date": "29/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/",
         "Services": [
-            "AWS Control Tower",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS Control Tower"
         ]
     },
     {
@@ -1831,8 +1831,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
             "Amazon Elastic File System",
-            "Amazon EFS",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EFS"
         ]
     },
     {
@@ -1841,8 +1841,8 @@
         "Date": "09/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/",
         "Services": [
-            "AWS DataSync",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS DataSync"
         ]
     },
     {

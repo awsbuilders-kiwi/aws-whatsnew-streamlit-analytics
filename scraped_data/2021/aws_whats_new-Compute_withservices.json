@@ -146,8 +146,8 @@
         "Date": "03/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -320,9 +320,9 @@
         "Date": "26/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -454,8 +454,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -540,8 +540,8 @@
         "Date": "19/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -585,8 +585,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/",
         "Services": [
-            "AWS Step Functions",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Step Functions"
         ]
     },
     {
@@ -663,8 +663,8 @@
         "Date": "10/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/",
         "Services": [
-            "AWS Step Functions",
-            "AWS App Runner"
+            "AWS App Runner",
+            "AWS Step Functions"
         ]
     },
     {
@@ -691,8 +691,8 @@
         "Date": "09/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "Date": "04/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/",
         "Services": [
-            "Amazon Elastic Container Registry",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Elastic Container Registry"
         ]
     },
     {
@@ -752,8 +752,8 @@
         "Date": "29/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/",
         "Services": [
-            "Amazon Lightsail",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Lightsail"
         ]
     },
     {
@@ -880,8 +880,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "07/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -968,8 +968,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/",
         "Services": [
-            "VMware Cloud on AWS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "02/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1506,8 +1506,8 @@
         "Date": "28/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -1516,8 +1516,8 @@
         "Date": "28/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/",
         "Services": [
-            "Amazon EC2",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EC2"
         ]
     },
     {
@@ -1526,8 +1526,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1612,8 +1612,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -1711,8 +1711,8 @@
         "Date": "23/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/",
         "Services": [
-            "Amazon Elastic File System",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Elastic File System"
         ]
     },
     {
@@ -1753,8 +1753,8 @@
         "Date": "14/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/",
         "Services": [
-            "Amazon EC2",
             "Amazon EBS",
+            "Amazon EC2",
             "AWS Backup"
         ]
     },
@@ -2124,8 +2124,8 @@
         "Date": "21/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -2710,8 +2710,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     },
     {

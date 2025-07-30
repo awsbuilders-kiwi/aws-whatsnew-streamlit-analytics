@@ -23,8 +23,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -42,8 +42,8 @@
         "Date": "27/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions",
         "Services": [
-            "Amazon S3",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon S3"
         ]
     },
     {
@@ -52,9 +52,9 @@
         "Date": "26/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access",
         "Services": [
+            "Amazon FSx for OpenZFS",
             "Amazon FSx",
-            "Amazon S3",
-            "Amazon FSx for OpenZFS"
+            "Amazon S3"
         ]
     },
     {
@@ -108,8 +108,8 @@
         "Date": "17/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations",
         "Services": [
-            "Amazon S3",
-            "AWS Organizations"
+            "AWS Organizations",
+            "Amazon S3"
         ]
     },
     {
@@ -136,8 +136,8 @@
         "Date": "10/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -191,8 +191,8 @@
         "Date": "03/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -229,8 +229,8 @@
         "Date": "29/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Date": "28/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql",
         "Services": [
-            "Amazon Aurora",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Aurora"
         ]
     },
     {
@@ -277,8 +277,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-openzfs-thailand-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for OpenZFS"
+            "Amazon FSx for OpenZFS",
+            "Amazon FSx"
         ]
     },
     {
@@ -287,8 +287,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-openzfs-mexico-central-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for OpenZFS"
+            "Amazon FSx for OpenZFS",
+            "Amazon FSx"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-thailand-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -307,8 +307,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-mexico-central-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -337,8 +337,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-mexico-central-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -347,8 +347,8 @@
         "Date": "10/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-asia-pacific-thailand-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -456,8 +456,8 @@
         "Date": "08/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -466,8 +466,8 @@
         "Date": "02/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -559,8 +559,8 @@
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx",
         "Services": [
-            "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -578,9 +578,9 @@
         "Date": "14/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/",
         "Services": [
-            "Amazon FSx",
             "Amazon FSx for OpenZFS",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx"
         ]
     },
     {
@@ -607,8 +607,8 @@
         "Date": "06/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "01/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink",
         "Services": [
-            "Data Lifecycle Manager",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Data Lifecycle Manager"
         ]
     },
     {
@@ -790,8 +790,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for OpenZFS"
+            "Amazon FSx for OpenZFS",
+            "Amazon FSx"
         ]
     },
     {
@@ -810,8 +810,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -820,8 +820,8 @@
         "Date": "04/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for NetApp ONTAP"
+            "Amazon FSx for NetApp ONTAP",
+            "Amazon FSx"
         ]
     }
 ]

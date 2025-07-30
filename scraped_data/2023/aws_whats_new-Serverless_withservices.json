@@ -77,8 +77,8 @@
         "Date": "18/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -166,8 +166,8 @@
         "Date": "01/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -273,8 +273,8 @@
         "Date": "16/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -326,8 +326,8 @@
         "Date": "01/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -354,9 +354,9 @@
         "Date": "26/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
-            "EMR Serverless",
+            "Amazon CloudWatch",
             "Amazon EMR",
-            "Amazon CloudWatch"
+            "EMR Serverless"
         ]
     },
     {
@@ -400,8 +400,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -482,8 +482,8 @@
         "Date": "01/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -501,8 +501,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS X-Ray"
         ]
     },
     {
@@ -553,8 +553,8 @@
         "Date": "21/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
+            "AWS App Runner",
             "AWS Systems Manager",
-            "AWS Secrets Manager",
-            "AWS App Runner"
+            "AWS Secrets Manager"
         ]
     }
 ]
