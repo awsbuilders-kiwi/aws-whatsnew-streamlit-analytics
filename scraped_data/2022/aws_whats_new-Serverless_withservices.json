@@ -96,8 +96,8 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
+            "Amazon S3",
             "Amazon DynamoDB",
-            "Amazon EMR",
             "EMR Serverless",
-            "Amazon S3"
+            "Amazon EMR"
         ]
     },
     {
@@ -179,8 +179,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -279,8 +279,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "AWS App Runner",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS App Runner"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS CloudFormation"
         ]
     },
     {

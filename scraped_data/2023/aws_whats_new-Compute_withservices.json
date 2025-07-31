@@ -436,8 +436,8 @@
         "Date": "16/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-auto-scaling-ec2-instance-replacement/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -699,8 +699,8 @@
         "Date": "01/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/",
         "Services": [
-            "Amazon Athena",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Athena"
         ]
     },
     {
@@ -1385,8 +1385,8 @@
         "Date": "03/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/",
         "Services": [
-            "AWS Fargate",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Fargate"
         ]
     },
     {
@@ -1539,8 +1539,8 @@
         "Date": "17/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/",
         "Services": [
-            "AWS Lambda",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Lambda"
         ]
     },
     {
@@ -1558,8 +1558,8 @@
         "Date": "15/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/",
         "Services": [
-            "AWS Fargate",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Fargate"
         ]
     },
     {
@@ -2304,8 +2304,8 @@
         "Date": "22/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/",
         "Services": [
-            "AWS Fargate",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Fargate"
         ]
     },
     {
@@ -2554,8 +2554,8 @@
         "Date": "14/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -2598,8 +2598,8 @@
         "Date": "10/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-auto-scaling-instance-refresh-standby-scale-in-protected-ec2/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2608,8 +2608,8 @@
         "Date": "10/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-auto-scaling-instance-refresh-rollback/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2718,9 +2718,9 @@
         "Date": "31/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/",
         "Services": [
+            "Snow Family",
             "AWS Snow Family",
-            "Amazon EC2",
-            "Snow Family"
+            "Amazon EC2"
         ]
     },
     {
@@ -2729,9 +2729,9 @@
         "Date": "31/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/",
         "Services": [
-            "AWS Snow Family",
             "Snow Family",
-            "AWS Snowcone"
+            "AWS Snowcone",
+            "AWS Snow Family"
         ]
     },
     {
@@ -2811,8 +2811,8 @@
         "Date": "20/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/",
         "Services": [
-            "Amazon EC2",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon EC2"
         ]
     },
     {
@@ -2828,8 +2828,8 @@
         "Date": "18/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-activating-predictive-scaling-policy/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2884,8 +2884,8 @@
         "Date": "07/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-forecasts-frequently-predictive-scaling/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2894,9 +2894,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
+            "AWS Secrets Manager",
             "AWS App Runner",
-            "AWS Systems Manager",
-            "AWS Secrets Manager"
+            "AWS Systems Manager"
         ]
     },
     {

@@ -32,8 +32,8 @@
         "Date": "23/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/",
         "Services": [
-            "Amazon EMR",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EMR"
         ]
     },
     {
@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
+            "Amazon Kinesis",
             "AWS Lambda",
-            "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -476,8 +476,8 @@
         "Date": "07/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Aurora"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Redshift"
         ]
     },
     {
@@ -836,8 +836,8 @@
         "Date": "21/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-supports-sasl-scram-authentication-with-usernames-and-passwords-secured-by-aws-secrets-manager/",
         "Services": [
-            "Amazon MSK",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon MSK"
         ]
     },
     {
@@ -1008,8 +1008,8 @@
         "Date": "19/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-kinesis-data-streams-two-new-api-features-simplify-consuming-data-from-kinesis-streams/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "15/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-querying-apache-hudi-datasets-amazon-s3-based-data-lake/",
         "Services": [
-            "Amazon Athena",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Athena"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1265,8 +1265,8 @@
         "Date": "07/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-encrypting-log-file-with-aws-kms-customer-management-cmks-with-more-flexible-security/",
         "Services": [
-            "Amazon EMR",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon EMR"
         ]
     },
     {
@@ -1566,8 +1566,8 @@
         "Date": "30/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-emr-support-for-running-clusters-with-amazon-ec2-spot-instances-govcloud/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1764,8 +1764,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-managed-services-expands-big-data-capabilities-with-support-for-amazon-sagemaker-aws-lake-formation-amazon-cloudsearch/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon CloudSearch"
+            "Amazon CloudSearch",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1792,8 +1792,8 @@
         "Date": "23/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-streams-now-supports-scaling-up-to-10000-mbs-throughput-with-a-single-api-call/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1879,8 +1879,8 @@
         "Date": "27/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-msk-can-now-stream-broker-logs-to-cloudwatch-logs-s3-elasticsearch-service/",
         "Services": [
-            "Amazon MSK",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon MSK"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {

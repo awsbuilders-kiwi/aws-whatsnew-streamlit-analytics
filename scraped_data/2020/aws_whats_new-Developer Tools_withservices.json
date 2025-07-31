@@ -510,8 +510,8 @@
         "Date": "08/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-codeguru-profiler-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -815,8 +815,8 @@
         "Date": "24/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-config-integrates-aws-cloudformation-registry/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
-            "AWS CodeBuild",
             "AWS CodePipeline",
-            "AWS CodeDeploy",
-            "AWS CodeCommit"
+            "AWS CodeCommit",
+            "AWS CodeBuild",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1296,9 +1296,9 @@
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
+            "AWS CodeCommit",
             "AWS CodeBuild",
-            "AWS CodeDeploy",
-            "AWS CodeCommit"
+            "AWS CodeDeploy"
         ]
     },
     {

@@ -15,8 +15,8 @@
         "Date": "21/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-global-accelerator-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Global Accelerator"
+            "AWS Global Accelerator",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -34,8 +34,8 @@
         "Date": "19/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/cloudfront-realtime-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -137,10 +137,10 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "AWS Auto Scaling",
-            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "AWS PrivateLink"
+            "AWS Auto Scaling",
+            "AWS PrivateLink",
+            "Amazon EC2"
         ]
     },
     {
@@ -196,10 +196,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS CodePipeline",
-            "Amazon API Gateway",
-            "AWS App Mesh",
             "AWS CloudFormation",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS App Mesh",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -227,8 +227,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
             "AWS CloudFormation",
-            "Amazon CloudWatch",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -262,8 +262,8 @@
         "Date": "22/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS PrivateLink"
         ]
     },
     {

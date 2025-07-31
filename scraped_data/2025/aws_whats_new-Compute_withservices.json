@@ -48,8 +48,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -167,8 +167,8 @@
         "Date": "19/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -823,9 +823,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Systems Manager",
+            "AWS Secrets Manager",
             "AWS Elastic Beanstalk",
-            "AWS Secrets Manager"
+            "AWS Systems Manager"
         ]
     },
     {
@@ -972,8 +972,8 @@
         "Date": "12/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config",
         "Services": [
-            "Amazon EC2",
-            "AWS Config"
+            "AWS Config",
+            "Amazon EC2"
         ]
     },
     {
@@ -1471,9 +1471,9 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
-            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "Amazon EC2"
         ]
     },
     {

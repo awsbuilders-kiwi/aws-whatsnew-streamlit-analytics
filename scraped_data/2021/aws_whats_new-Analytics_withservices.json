@@ -138,8 +138,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -148,8 +148,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/",
         "Services": [
-            "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon EMR"
         ]
     },
     {
@@ -328,8 +328,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -376,8 +376,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Redshift"
         ]
     },
     {
@@ -422,8 +422,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "19/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "Amazon Redshift"
         ]
     },
     {
@@ -556,8 +556,8 @@
         "Date": "15/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -960,8 +960,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/",
         "Services": [
-            "Amazon EMR",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EMR"
         ]
     },
     {
@@ -1029,8 +1029,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-exporting-data-aws-iot-sitewise-amazon-s3/",
         "Services": [
-            "AWS IoT SiteWise",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS IoT SiteWise"
         ]
     },
     {
@@ -1100,8 +1100,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/",
         "Services": [
-            "AWS Glue",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Glue"
         ]
     },
     {
@@ -1327,8 +1327,8 @@
         "Date": "24/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -1617,8 +1617,8 @@
         "Date": "16/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Data Exchange"
         ]
     },
     {
@@ -1668,9 +1668,9 @@
         "Date": "07/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/",
         "Services": [
-            "Amazon Kinesis Data Streams",
             "Amazon Kinesis",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1679,8 +1679,8 @@
         "Date": "03/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1689,8 +1689,8 @@
         "Date": "02/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-supported-on-amazon-ec2-graviton-2-based-instances-in-govcloud-regions/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1753,8 +1753,8 @@
         "Date": "31/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon EC2"
         ]
     },
     {
@@ -1815,8 +1815,8 @@
         "Date": "12/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "18/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -2008,8 +2008,8 @@
         "Date": "06/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-data-streaming-solution/",
         "Services": [
-            "Amazon MSK",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon MSK"
         ]
     },
     {
