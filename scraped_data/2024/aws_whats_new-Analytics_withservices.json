@@ -319,8 +319,8 @@
         "Date": "26/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -374,9 +374,9 @@
         "Date": "23/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector",
         "Services": [
+            "Amazon Managed Service for Apache Flink",
             "Amazon Kinesis",
-            "Amazon Kinesis Data Streams",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -473,8 +473,8 @@
         "Date": "22/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-data-catalog-apache-iceberg-table-optimization-amazon-vpc/",
         "Services": [
-            "Amazon VPC",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon VPC"
         ]
     },
     {
@@ -666,8 +666,8 @@
         "Date": "13/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -962,8 +962,8 @@
         "Date": "19/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon QuickSight"
+            "Amazon QuickSight",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -997,8 +997,8 @@
         "Date": "18/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-aws-iam-identity-center-account-instance",
         "Services": [
-            "Amazon DataZone",
-            "AWS IAM Identity Center"
+            "AWS IAM Identity Center",
+            "Amazon DataZone"
         ]
     },
     {
@@ -1376,9 +1376,9 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
-            "AWS PrivateLink",
             "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1504,9 +1504,9 @@
         "Date": "09/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/",
         "Services": [
-            "Amazon Athena",
             "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Athena"
         ]
     },
     {
@@ -1992,8 +1992,8 @@
         "Date": "08/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-data-firehose-integration-secrets-manager",
         "Services": [
-            "AWS Secrets Manager",
-            "Amazon Data Firehose"
+            "Amazon Data Firehose",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -2096,8 +2096,8 @@
         "Date": "23/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-zero-etl-integration-s3/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -2338,8 +2338,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-data-integration-aws-glue-generally-available/",
         "Services": [
-            "Amazon Q",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Q"
         ]
     },
     {
@@ -2357,8 +2357,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-usage-analysis-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -2542,8 +2542,8 @@
         "Date": "03/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/",
         "Services": [
-            "Amazon DataZone",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon DataZone"
         ]
     },
     {
@@ -2637,8 +2637,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/",
         "Services": [
             "Amazon Kinesis",
-            "AWS Lambda",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "AWS Lambda"
         ]
     },
     {
@@ -2723,9 +2723,9 @@
         "Date": "12/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-allocation-metrics-cloudwatch/",
         "Services": [
+            "Amazon CloudWatch",
             "EMR Serverless",
-            "Amazon EMR",
-            "Amazon CloudWatch"
+            "Amazon EMR"
         ]
     },
     {
@@ -2943,8 +2943,8 @@
         "Date": "09/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/",
         "Services": [
-            "Amazon Managed Blockchain",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Managed Blockchain"
         ]
     },
     {
@@ -3034,8 +3034,8 @@
         "Date": "31/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/",
         "Services": [
-            "Amazon Q",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Q"
         ]
     },
     {

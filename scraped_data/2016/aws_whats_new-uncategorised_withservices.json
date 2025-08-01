@@ -131,8 +131,8 @@
         "Date": "21/12/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/12/amazon-emr-now-supports-events-and-notifications-with-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon EMR",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EMR"
         ]
     },
     {
@@ -155,8 +155,8 @@
         "Date": "21/12/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/12/on-premises-access-to-amazon-efs-via-aws-direct-connect-available-in-us-east-n-virginia-region/",
         "Services": [
-            "Amazon EFS",
-            "AWS Direct Connect"
+            "AWS Direct Connect",
+            "Amazon EFS"
         ]
     },
     {
@@ -422,8 +422,8 @@
         "Date": "06/12/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/12/amazon-efs-introduces-the-ability-to-access-amazon-efs-file-systems-from-on-premises-servers-via-aws-direct-connect/",
         "Services": [
-            "Amazon EFS",
-            "AWS Direct Connect"
+            "AWS Direct Connect",
+            "Amazon EFS"
         ]
     },
     {
@@ -448,8 +448,8 @@
         "Date": "02/12/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-integrates-with-amazon-ec2-systems-manager-to-provide-continuous-monitoring-and-governance-of-software-on-your-ec2-instances-and-on-premises-systems/",
         "Services": [
-            "AWS Config",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Config"
         ]
     },
     {
@@ -718,8 +718,8 @@
         "Date": "01/12/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/11/amazon-efs-introduces-the-ability-to-access-amazon-efs-file-systems-from-on-premises-servers-via-aws-direct-connect/",
         "Services": [
-            "Amazon EFS",
-            "AWS Direct Connect"
+            "AWS Direct Connect",
+            "Amazon EFS"
         ]
     },
     {
@@ -1095,8 +1095,8 @@
         "Date": "19/11/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/11/aws-cloudformation-supports-aws-serverless-application-model-aws-lambda-environment-variables-and-new-cli-commands/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1749,8 +1749,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/10/amazon-aurora-new-features-aws-lambda-integration-and-data-load-from-amazon-s3-to-aurora-tables/",
         "Services": [
             "Amazon S3",
-            "AWS Lambda",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "AWS Lambda"
         ]
     },
     {
@@ -1766,8 +1766,8 @@
         "Date": "14/10/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/10/use-hosted-git-repositories-from-aws-codecommit-with-aws-elastic-beanstalk/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -1853,8 +1853,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/10/ipv6-support-for-cloudfront-waf-and-s3-transfer-acceleration/",
         "Services": [
             "Amazon S3",
-            "Amazon CloudFront",
-            "AWS WAF"
+            "AWS WAF",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -1863,8 +1863,8 @@
         "Date": "07/10/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/10/introducing-a-node-js-library-for-porting-express-applications-to-amazon-api-gateway-and-aws-lambda/",
         "Services": [
-            "AWS Lambda",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Lambda"
         ]
     },
     {
@@ -2046,8 +2046,8 @@
         "Date": "21/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/aws-lambda-simplifies-amazon-api-gateway-integration/",
         "Services": [
-            "AWS Lambda",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Lambda"
         ]
     },
     {
@@ -2065,8 +2065,8 @@
         "Date": "21/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-elastic-transcoder-now-publishes-operational-metrics-to-amazon-cloudwatch/",
         "Services": [
-            "Amazon Elastic Transcoder",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Elastic Transcoder"
         ]
     },
     {
@@ -2084,8 +2084,8 @@
         "Date": "20/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/aws-cloudtrail-now-records-amazon-ec2-spot-instances-launch-and-termination-events/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2103,8 +2103,8 @@
         "Date": "19/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/aws-cloudformation-updated-support-for-aws-kms-amazon-ec2-spot-instances-amazon-ecs-and-amazon-elasticsearch-service/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2163,8 +2163,8 @@
         "Date": "16/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/aws-codedeploy-introduces-deployment-monitoring-with-amazon-cloudwatch-alarms-and-automatic-deployment-rollback/",
         "Services": [
-            "AWS CodeDeploy",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -2212,8 +2212,8 @@
         "Date": "13/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-ec2-container-service-supports-container-logging-to-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2231,8 +2231,8 @@
         "Date": "10/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/monitor-and-react-to-deployment-changes-in-aws-codedeploy-with-amazon-cloudwatch-events/",
         "Services": [
-            "AWS CodeDeploy",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -2312,8 +2312,8 @@
         "Date": "02/09/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cognito-adds-a-user-import-tool-and-aws-cloudtrail-support-for-your-user-pools/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Cognito"
         ]
     },
     {
@@ -2654,8 +2654,8 @@
         "Date": "09/08/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/08/aws-cloudformation-adds-support-for-aws-certificate-manager-amazon-ec2-service-auto-scaling-and-additional-updates/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Certificate Manager"
+            "AWS Certificate Manager",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -3181,8 +3181,8 @@
         "Date": "29/06/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/06/amazon-elastic-file-system-efs-is-now-generally-available/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -3422,8 +3422,8 @@
         "Date": "15/06/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/06/new-edge-location-in-new-delhi-india-for-amazon-cloudfront-and-amazon-route-53/",
         "Services": [
-            "Amazon CloudFront",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -3471,9 +3471,9 @@
         "Date": "09/06/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/06/aws-cloudformation-adds-support-for-amazon-vpc-flow-logs-amazon-kinesis-firehose-streams-and-other-updates/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon Kinesis",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -3832,8 +3832,8 @@
         "Date": "04/05/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/05/aws-database-migration-service-now-supports-migrations-to-amazon-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Database Migration Service"
+            "AWS Database Migration Service",
+            "Amazon Redshift"
         ]
     },
     {
@@ -3872,8 +3872,8 @@
         "Date": "28/04/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/04/aws-waf-now-integrated-with-aws-cloudtrail/",
         "Services": [
-            "AWS WAF",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS WAF"
         ]
     },
     {
@@ -3921,10 +3921,10 @@
         "Date": "25/04/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/04/aws-cloudformation-updates-amazon-ec2-amazon-ecs-aws-lambda-and-amazon-gamelift-resource-support/",
         "Services": [
+            "Amazon EC2",
             "AWS CloudFormation",
-            "Amazon GameLift",
             "AWS Lambda",
-            "Amazon EC2"
+            "Amazon GameLift"
         ]
     },
     {
@@ -3961,8 +3961,8 @@
         "Date": "22/04/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/04/amazon-cloudwatch-events-now-supported-in-aws-cloudformation-templates/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4098,8 +4098,8 @@
         "Date": "19/04/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/04/aws-cloudformation-adds-support-for-amazon-api-gateway-and-updated-resource-support/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4360,8 +4360,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/03/aws-trusted-advisor-adds-checks-for-amazon-s3-amazon-redshift-reserved-instances-security-and-service-limits/",
         "Services": [
             "Amazon S3",
-            "Amazon Redshift",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon Redshift"
         ]
     },
     {
@@ -4852,9 +4852,9 @@
         "Date": "27/02/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/02/aws-cloudformation-adds-support-for-amazon-vpc-nat-gateway-amazon-ec2-container-registry-and-more/",
         "Services": [
-            "AWS CloudFormation",
+            "Amazon EC2",
             "Amazon VPC",
-            "Amazon EC2"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4936,8 +4936,8 @@
         "Date": "18/02/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/02/aws-cloudtrail-now-supports-amazon-cognito/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Cognito"
         ]
     },
     {
@@ -4980,9 +4980,9 @@
         "Date": "17/02/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/02/amazon-emr-now-supports-amazon-ebs-volumes-and-m4-and-c4-amazon-ec2-families/",
         "Services": [
+            "Amazon EC2",
             "Amazon EBS",
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EMR"
         ]
     },
     {
@@ -5217,8 +5217,8 @@
         "Date": "21/01/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/01/amazon-cloudfront-integrates-with-aws-certificate-manager/",
         "Services": [
-            "Amazon CloudFront",
-            "AWS Certificate Manager"
+            "AWS Certificate Manager",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -5347,8 +5347,8 @@
         "Date": "12/01/2016",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2016/01/aws-elastic-beanstalk-adds-support-for-t2-nano-instances-and-amazon-ec2-container-registry/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Elastic Beanstalk"
         ]
     },
     {

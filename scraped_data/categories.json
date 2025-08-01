@@ -20,7 +20,7 @@
         "value": "compute"
     },
     {
-        "name": "Contact Center ",
+        "name": "Contact Center",
         "value": "customer-enablement"
     },
     {
@@ -56,20 +56,16 @@
         "value": "migration"
     },
     {
-        "name": "Networking & Content Delivery",
-        "value": "networking-and-content-delivery"
+        "name": "Networking and Content Delivery",
+        "value": "networking"
     },
     {
-        "name": "Operations ",
-        "value": "management-and-governance"
+        "name": "Security, Identity, and Compliance",
+        "value": "security"
     },
     {
-        "name": "Partners",
-        "value": "aws-marketplace-and-partners"
-    },
-    {
-        "name": "Security & Identity",
-        "value": "security-identity-and-compliance"
+        "name": "Serverless",
+        "value": "serverless"
     },
     {
         "name": "Storage",
@@ -77,6 +73,6 @@
     },
     {
         "name": "Training and Certification",
-        "value": "training-and-certification"
+        "value": "training-certification"
     }
 ]

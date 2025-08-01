@@ -83,8 +83,8 @@
         "Date": "26/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-ecs-runtime-monitoring-fargate/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -856,8 +856,8 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
-            "AWS Secrets Manager",
             "AWS App Runner",
+            "AWS Secrets Manager",
             "AWS Systems Manager"
         ]
     },
