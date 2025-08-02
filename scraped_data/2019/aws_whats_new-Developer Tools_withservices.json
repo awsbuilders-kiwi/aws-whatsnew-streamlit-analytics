@@ -98,8 +98,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon EC2"
         ]
     },
     {
@@ -248,11 +248,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "Amazon API Gateway",
-            "AWS Amplify",
-            "AWS CloudFormation",
             "AWS App Mesh",
-            "AWS CodePipeline"
+            "AWS CloudFormation",
+            "AWS Amplify",
+            "AWS CodePipeline",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -277,9 +277,9 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
-            "AWS CodeDeploy",
-            "AWS CodeBuild",
             "AWS CodePipeline",
+            "AWS CodeBuild",
+            "AWS CodeDeploy",
             "AWS CodeCommit"
         ]
     },
@@ -402,8 +402,8 @@
         "Date": "15/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codepipeline-enables-setting-environment-variables-on-aws-codebuild-build-jobs/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -435,8 +435,8 @@
         "Date": "29/08/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/AWS_Chatbot_Now_Supports_Notifications_from_AWS_Systems_Manager/",
         "Services": [
-            "AWS Chatbot",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Chatbot"
         ]
     },
     {
@@ -497,8 +497,8 @@
         "Date": "25/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-aws-chatbot-chatops-for-aws/",
         "Services": [
-            "Amazon Chime",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon Chime"
         ]
     },
     {
@@ -703,8 +703,8 @@
         "Date": "18/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-codepipeline-now-supports-deploying-to-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "Amazon S3"
         ]
     }
 ]

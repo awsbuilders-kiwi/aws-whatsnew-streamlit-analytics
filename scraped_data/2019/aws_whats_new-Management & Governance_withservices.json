@@ -60,10 +60,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
             "Amazon S3",
-            "Amazon API Gateway",
-            "AWS Lambda",
             "AWS CloudFormation",
-            "AWS CodePipeline"
+            "AWS Lambda",
+            "AWS CodePipeline",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -474,9 +474,9 @@
         "Date": "20/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
+            "Amazon ElastiCache",
             "Amazon EC2",
-            "AWS CloudFormation",
-            "Amazon ElastiCache"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -582,8 +582,8 @@
         "Date": "25/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-aws-chatbot-chatops-for-aws/",
         "Services": [
-            "Amazon Chime",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "Amazon Chime"
         ]
     },
     {

@@ -58,8 +58,8 @@
         "Date": "18/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/17/aws-codedeploy-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -114,8 +114,8 @@
         "Date": "17/12/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/12/16/aws-storage-gateway-api-calls-are-now-available-in-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -388,8 +388,8 @@
         "Date": "11/11/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/11/10/announcing-aws-cloudtrail-integration-with-amazon-cloudwatch-logs/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "15/09/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/09/15/amazon-elasticache-api-calls-are-now-available-in-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1580,8 +1580,8 @@
         "Date": "05/06/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/06/04/aws-opsworks-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1641,8 +1641,8 @@
         "Date": "29/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/28/amazon-cloudfront-api-calls-now-supported-by-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1701,9 +1701,9 @@
         "Date": "22/05/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/05/21/aws-trusted-advisor-now-monitors-service-limits-for-amazon-ses-amazon-vpc-and-auto-scaling/",
         "Services": [
+            "Amazon SES",
             "Amazon VPC",
-            "AWS Trusted Advisor",
-            "Amazon SES"
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -1957,8 +1957,8 @@
         "Date": "23/04/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/04/22/amazon-redshift-new-features-concurrency-copy-from-emr-ssl/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2108,9 +2108,9 @@
         "Date": "19/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/18/aws-trusted-advisor-adds-five-new-checks-on-aws-cloudtrail-and-amazon-route-53/",
         "Services": [
-            "AWS CloudTrail",
+            "AWS Trusted Advisor",
             "Amazon Route 53",
-            "AWS Trusted Advisor"
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2190,8 +2190,8 @@
         "Date": "04/03/2014",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2014/03/03/aws-cloudformation-supports-aws-opsworks/",
         "Services": [
-            "AWS OpsWorks",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS OpsWorks"
         ]
     },
     {

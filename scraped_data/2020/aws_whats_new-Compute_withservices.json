@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {
@@ -196,8 +196,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon DynamoDB",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -207,8 +207,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon DynamoDB",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -441,8 +441,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -474,8 +474,8 @@
         "Date": "20/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -616,8 +616,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -661,8 +661,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -671,8 +671,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/",
         "Services": [
-            "Amazon EC2",
-            "AWS Wavelength"
+            "AWS Wavelength",
+            "Amazon EC2"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "29/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/",
         "Services": [
-            "Amazon EC2",
-            "AWS Certificate Manager"
+            "AWS Certificate Manager",
+            "Amazon EC2"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS Fargate",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Fargate"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "Amazon EBS",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "Amazon EBS"
         ]
     },
     {
@@ -1744,8 +1744,8 @@
         "Date": "16/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-auto-scaling-now-supports-instance-refresh-within-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1966,8 +1966,8 @@
         "Date": "11/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/control-your-email-flows-in-amazon-workmail-using-aws-lambda/",
         "Services": [
-            "Amazon WorkMail",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon WorkMail"
         ]
     },
     {
@@ -2419,8 +2419,8 @@
         "Date": "03/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-lustre-csi-driver-supports-new-file-system-deployment-options/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -2436,8 +2436,8 @@
         "Date": "29/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-systems-manager-now-supports-aws-privatelink-in-aws-govcloud-regions/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -2464,8 +2464,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-provides-notifications-via-aws-health-services/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -2492,8 +2492,8 @@
         "Date": "20/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-supports-enabling-and-disabling-scaling-policies/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {

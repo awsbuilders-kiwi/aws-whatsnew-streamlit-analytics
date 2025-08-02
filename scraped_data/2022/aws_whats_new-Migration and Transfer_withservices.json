@@ -23,8 +23,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -42,9 +42,9 @@
         "Date": "15/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/",
         "Services": [
-            "AWS Key Management Service",
             "AWS PrivateLink",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Key Management Service"
         ]
     },
     {
@@ -53,8 +53,8 @@
         "Date": "07/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/",
         "Services": [
-            "Snow Family",
-            "AWS Snow Family"
+            "AWS Snow Family",
+            "Snow Family"
         ]
     },
     {

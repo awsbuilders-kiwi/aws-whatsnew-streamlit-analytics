@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -241,8 +241,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -260,8 +260,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
+            "Amazon EC2",
             "AWS Auto Scaling",
             "AWS PrivateLink"
         ]
@@ -308,8 +308,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon EC2"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-supports-instance-weighting/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -412,8 +412,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-supports-max-instance-lifetime/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1210,10 +1210,10 @@
         "Date": "15/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-cloudformation-updates-amazon-ec2-ecs-efs-s3-and-more/",
         "Services": [
-            "Amazon S3",
-            "Amazon EC2",
             "Amazon EFS",
-            "AWS CloudFormation"
+            "Amazon EC2",
+            "AWS CloudFormation",
+            "Amazon S3"
         ]
     },
     {
