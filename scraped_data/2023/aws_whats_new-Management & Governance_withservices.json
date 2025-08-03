@@ -23,8 +23,8 @@
         "Date": "22/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -613,8 +613,8 @@
         "Date": "30/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-trusted-advisor-64-checks-aws-config/",
         "Services": [
-            "AWS Config",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "AWS Config"
         ]
     },
     {
@@ -991,8 +991,8 @@
         "Date": "11/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-cloudwatch-agent-opentelemetry-traces-x-ray/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1219,8 +1219,8 @@
         "Date": "24/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-enhanced-management-capabilities-cloudformation/",
         "Services": [
-            "AWS Security Hub",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Security Hub"
         ]
     },
     {
@@ -1370,8 +1370,8 @@
         "Date": "06/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-apis-organizations/",
         "Services": [
-            "AWS Organizations",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Organizations"
         ]
     },
     {
@@ -1398,8 +1398,8 @@
         "Date": "05/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-checks-amazon-efs/",
         "Services": [
-            "Amazon EFS",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon EFS"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS Lambda"
         ]
     },
     {
@@ -1565,8 +1565,8 @@
         "Date": "04/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-resilience-hub-trust-advisor-dynamodb-support/",
         "Services": [
-            "Amazon DynamoDB",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -2103,8 +2103,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/",
         "Services": [
-            "Amazon MemoryDB",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon MemoryDB"
         ]
     },
     {
@@ -2113,8 +2113,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/",
         "Services": [
-            "Amazon ElastiCache",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -2123,10 +2123,10 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/",
         "Services": [
-            "Amazon Kinesis",
+            "AWS CloudFormation",
             "Amazon Kinesis Data Streams",
-            "Amazon DynamoDB",
-            "AWS CloudFormation"
+            "Amazon Kinesis",
+            "Amazon DynamoDB"
         ]
     },
     {

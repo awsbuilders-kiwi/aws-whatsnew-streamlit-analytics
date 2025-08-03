@@ -134,8 +134,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/",
         "Services": [
-            "AWS IoT Device Management",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS IoT Device Management"
         ]
     },
     {
@@ -277,8 +277,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
-            "AWS IoT Greengrass",
             "AWS Snow Family",
+            "AWS IoT Greengrass",
             "Snow Family"
         ]
     },
@@ -347,8 +347,8 @@
         "Date": "26/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/",
         "Services": [
-            "AWS IoT Greengrass",
-            "FreeRTOS"
+            "FreeRTOS",
+            "AWS IoT Greengrass"
         ]
     },
     {
@@ -437,8 +437,8 @@
         "Date": "27/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/",
         "Services": [
-            "AWS IoT Events",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "AWS IoT Events"
         ]
     },
     {
@@ -580,8 +580,8 @@
         "Date": "03/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/",
         "Services": [
-            "FreeRTOS",
-            "AWS IoT Device Defender"
+            "AWS IoT Device Defender",
+            "FreeRTOS"
         ]
     },
     {
@@ -608,9 +608,9 @@
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/",
         "Services": [
-            "AWS IoT Device Management",
+            "AWS IoT Device Defender",
             "AWS IoT Core",
-            "AWS IoT Device Defender"
+            "AWS IoT Device Management"
         ]
     },
     {
