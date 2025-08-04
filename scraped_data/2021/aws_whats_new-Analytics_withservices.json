@@ -185,8 +185,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -258,8 +258,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Athena",
             "Amazon Redshift",
+            "Amazon Athena",
             "Amazon Managed Grafana"
         ]
     },
@@ -328,8 +328,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -338,8 +338,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/",
         "Services": [
-            "Amazon Athena",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "Amazon Athena"
         ]
     },
     {
@@ -495,8 +495,8 @@
         "Date": "03/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/",
         "Services": [
-            "AWS Lake Formation",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -914,8 +914,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Lake Formation",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1100,8 +1100,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/",
         "Services": [
-            "AWS Glue",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Glue"
         ]
     },
     {
@@ -1815,8 +1815,8 @@
         "Date": "12/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1825,8 +1825,8 @@
         "Date": "11/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {

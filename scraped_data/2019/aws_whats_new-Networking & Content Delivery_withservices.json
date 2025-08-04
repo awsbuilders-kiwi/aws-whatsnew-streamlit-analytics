@@ -34,8 +34,8 @@
         "Date": "19/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/cloudfront-realtime-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -137,10 +137,10 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "AWS PrivateLink",
-            "AWS Auto Scaling"
+            "AWS Auto Scaling",
+            "Amazon EC2",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -195,11 +195,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "Amazon API Gateway",
+            "AWS CloudFormation",
             "AWS Amplify",
+            "Amazon API Gateway",
             "AWS CodePipeline",
-            "AWS App Mesh",
-            "AWS CloudFormation"
+            "AWS App Mesh"
         ]
     },
     {
@@ -226,9 +226,9 @@
         "Date": "02/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
+            "Amazon CloudFront",
             "Amazon CloudWatch",
-            "AWS CloudFormation",
-            "Amazon CloudFront"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -262,8 +262,8 @@
         "Date": "22/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS PrivateLink"
         ]
     },
     {

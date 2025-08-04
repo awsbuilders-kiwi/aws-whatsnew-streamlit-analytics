@@ -14,8 +14,8 @@
         "Date": "20/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon FinSpace"
+            "Amazon FinSpace",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -149,8 +149,8 @@
         "Date": "07/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -212,8 +212,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-supports-auto-copy-amazon-s3/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Redshift"
         ]
     },
     {
@@ -232,8 +232,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/",
         "Services": [
-            "AWS Lake Formation",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -242,8 +242,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-data-sharing-centralized-access-control-lake-formation-preview/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -326,8 +326,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -489,10 +489,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR",
             "Amazon S3",
-            "Amazon DynamoDB"
+            "EMR Serverless",
+            "Amazon DynamoDB",
+            "Amazon EMR"
         ]
     },
     {
@@ -646,8 +646,8 @@
         "Date": "18/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-monitoring-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -738,8 +738,8 @@
         "Date": "08/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-redshift-serverless-us-west-northern-california-europe-paris-aws-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -947,8 +947,8 @@
         "Date": "06/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1180,8 +1180,8 @@
         "Date": "16/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1298,9 +1298,9 @@
         "Date": "27/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/",
         "Services": [
-            "Amazon Redshift",
             "Amazon S3",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1400,8 +1400,8 @@
         "Date": "12/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1632,8 +1632,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -1714,8 +1714,8 @@
         "Date": "09/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -2060,8 +2060,8 @@
         "Date": "02/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS CloudFormation"
         ]
     },
     {

@@ -264,8 +264,8 @@
         "Date": "02/12/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon Security Lake"
+            "Amazon Security Lake",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -319,8 +319,8 @@
         "Date": "26/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -374,9 +374,9 @@
         "Date": "23/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector",
         "Services": [
+            "Amazon Kinesis Data Streams",
             "Amazon Managed Service for Apache Flink",
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -473,8 +473,8 @@
         "Date": "22/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-data-catalog-apache-iceberg-table-optimization-amazon-vpc/",
         "Services": [
-            "Amazon VPC",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon VPC"
         ]
     },
     {
@@ -602,8 +602,8 @@
         "Date": "16/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-continuous-replication-database-changes-apache-iceberg-tables-s3",
         "Services": [
-            "Amazon Data Firehose",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Data Firehose"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "09/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-serverless-higher-capacity-1024-rpus/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -881,8 +881,8 @@
         "Date": "31/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-ai-driven-scaling-optimization",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -918,8 +918,8 @@
         "Date": "25/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -962,8 +962,8 @@
         "Date": "19/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -997,8 +997,8 @@
         "Date": "18/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-aws-iam-identity-center-account-instance",
         "Services": [
-            "AWS IAM Identity Center",
-            "Amazon DataZone"
+            "Amazon DataZone",
+            "AWS IAM Identity Center"
         ]
     },
     {
@@ -1033,8 +1033,8 @@
         "Date": "16/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-zero-etl-integration-redshift-generally-available",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1116,8 +1116,8 @@
         "Date": "02/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-data-firehose-data-streams-iceberg-format-tables-s3/",
         "Services": [
-            "Amazon Data Firehose",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Data Firehose"
         ]
     },
     {
@@ -1172,8 +1172,8 @@
         "Date": "25/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1255,8 +1255,8 @@
         "Date": "14/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1274,8 +1274,8 @@
         "Date": "13/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1376,8 +1376,8 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
-            "Amazon Redshift",
             "Amazon Redshift Serverless",
+            "Amazon Redshift",
             "AWS PrivateLink"
         ]
     },
@@ -1396,8 +1396,8 @@
         "Date": "30/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1504,8 +1504,8 @@
         "Date": "09/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/",
         "Services": [
-            "Amazon Athena",
             "Amazon Redshift",
+            "Amazon Athena",
             "AWS Glue"
         ]
     },
@@ -1586,8 +1586,8 @@
         "Date": "01/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless",
         "Services": [
-            "AWS Lake Formation",
-            "EMR Serverless"
+            "EMR Serverless",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1623,8 +1623,8 @@
         "Date": "19/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-redshift-serverless-lower-base-capacity-london/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1633,8 +1633,8 @@
         "Date": "19/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-aurora-zero-etl-integration-redshift-8-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1797,8 +1797,8 @@
         "Date": "27/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-lower-base-capacity-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1816,8 +1816,8 @@
         "Date": "26/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-lower-base-capacity-mumbai/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1982,8 +1982,8 @@
         "Date": "08/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-middle-east-uae-region",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2048,8 +2048,8 @@
         "Date": "31/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-zurich-spain",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2076,8 +2076,8 @@
         "Date": "29/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-china-ningxia-region",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2176,9 +2176,9 @@
         "Date": "20/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail",
         "Services": [
-            "AWS CloudTrail",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2196,8 +2196,8 @@
         "Date": "17/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2299,8 +2299,8 @@
         "Date": "07/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-performance-monitoring-apache-spark-jobs/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
             "EMR Serverless",
+            "Amazon Managed Service for Prometheus",
             "Amazon EMR"
         ]
     },
@@ -2338,8 +2338,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-data-integration-aws-glue-generally-available/",
         "Services": [
-            "Amazon Q",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Q"
         ]
     },
     {
@@ -2357,8 +2357,8 @@
         "Date": "01/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-usage-analysis-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -2542,8 +2542,8 @@
         "Date": "03/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/",
         "Services": [
-            "AWS Glue",
-            "Amazon DataZone"
+            "Amazon DataZone",
+            "AWS Glue"
         ]
     },
     {
@@ -2552,8 +2552,8 @@
         "Date": "02/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-zero-etl-integration-redshift-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2617,8 +2617,8 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon DataZone"
+            "Amazon DataZone",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2636,9 +2636,9 @@
         "Date": "22/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/",
         "Services": [
-            "AWS Lambda",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -2656,8 +2656,8 @@
         "Date": "21/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2684,8 +2684,8 @@
         "Date": "18/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/",
         "Services": [
-            "Amazon Redshift",
             "Amazon Redshift Serverless",
+            "Amazon Redshift",
             "AWS Secrets Manager"
         ]
     },
@@ -2723,8 +2723,8 @@
         "Date": "12/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-allocation-metrics-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
             "EMR Serverless",
+            "Amazon CloudWatch",
             "Amazon EMR"
         ]
     },
@@ -2844,8 +2844,8 @@
         "Date": "17/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/",
         "Services": [
-            "Amazon Data Firehose",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Data Firehose"
         ]
     },
     {
@@ -3034,8 +3034,8 @@
         "Date": "31/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/",
         "Services": [
-            "Amazon Q",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Q"
         ]
     },
     {
@@ -3044,8 +3044,8 @@
         "Date": "30/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon DataZone"
+            "Amazon DataZone",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -3070,8 +3070,8 @@
         "Date": "17/01/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-specifying-file-extension-data-streams-s3/",
         "Services": [
-            "Amazon Data Firehose",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Data Firehose"
         ]
     },
     {
