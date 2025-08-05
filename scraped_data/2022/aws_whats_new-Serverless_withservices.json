@@ -60,8 +60,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon OpenSearch Serverless"
+            "Amazon OpenSearch Serverless",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
-            "Amazon S3",
             "EMR Serverless",
-            "Amazon DynamoDB",
-            "Amazon EMR"
+            "Amazon S3",
+            "Amazon EMR",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -179,8 +179,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "AWS App Runner",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS App Runner"
         ]
     },
     {
@@ -279,8 +279,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/",
         "Services": [
-            "AWS App Runner",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS App Runner"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {

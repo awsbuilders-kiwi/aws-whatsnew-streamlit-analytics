@@ -14,9 +14,9 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
-            "Amazon FSx",
             "Amazon FSx for Lustre",
-            "AWS DataSync"
+            "AWS DataSync",
+            "Amazon FSx"
         ]
     },
     {
@@ -90,9 +90,9 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/",
         "Services": [
-            "Amazon S3",
+            "Amazon FSx for Lustre",
             "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon S3"
         ]
     },
     {
@@ -101,8 +101,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-openzfs/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -111,9 +111,9 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/",
         "Services": [
-            "Amazon S3",
+            "Amazon FSx for Lustre",
             "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon S3"
         ]
     },
     {
@@ -141,9 +141,9 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/",
         "Services": [
-            "Amazon S3",
+            "Amazon FSx for Lustre",
             "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon S3"
         ]
     },
     {
@@ -187,8 +187,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -206,8 +206,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -325,8 +325,8 @@
         "Date": "08/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/",
         "Services": [
-            "AWS Backup",
-            "Amazon Neptune"
+            "Amazon Neptune",
+            "AWS Backup"
         ]
     },
     {
@@ -416,8 +416,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/",
         "Services": [
-            "Amazon S3",
-            "AWS Transfer Family"
+            "AWS Transfer Family",
+            "Amazon S3"
         ]
     },
     {
@@ -478,8 +478,8 @@
         "Date": "20/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/",
         "Services": [
-            "Amazon GameLift",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon GameLift"
         ]
     },
     {
@@ -614,9 +614,9 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
-            "AWS IoT Greengrass",
             "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS IoT Greengrass"
         ]
     },
     {
@@ -634,8 +634,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/",
         "Services": [
-            "Amazon S3",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon S3"
         ]
     },
     {
@@ -822,8 +822,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
             "Amazon FSx for Windows File Server",
-            "Amazon FSx",
-            "AWS DataSync"
+            "AWS DataSync",
+            "Amazon FSx"
         ]
     },
     {
@@ -889,8 +889,8 @@
         "Date": "27/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1182,8 +1182,8 @@
         "Date": "04/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -1340,8 +1340,8 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon EFS",
             "Amazon Elastic File System",
+            "Amazon EFS",
             "Amazon CloudWatch"
         ]
     },
@@ -1351,8 +1351,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     }
 ]

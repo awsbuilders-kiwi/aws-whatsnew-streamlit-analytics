@@ -143,8 +143,8 @@
         "Date": "18/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -196,8 +196,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon DynamoDB",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -207,8 +207,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon DynamoDB",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -431,8 +431,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-and-spot-fleet-integrate-with-amazon-eventbridge-easier-operations-monitoring/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -441,8 +441,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -474,8 +474,8 @@
         "Date": "20/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "06/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/",
         "Services": [
-            "Amazon MQ",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MQ"
         ]
     },
     {
@@ -661,8 +661,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "29/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/",
         "Services": [
-            "Amazon EC2",
-            "AWS Certificate Manager"
+            "AWS Certificate Manager",
+            "Amazon EC2"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1043,8 +1043,8 @@
         "Date": "17/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "Amazon EFS",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon EFS"
         ]
     },
     {
@@ -1744,8 +1744,8 @@
         "Date": "16/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-auto-scaling-now-supports-instance-refresh-within-auto-scaling-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -1824,8 +1824,8 @@
         "Date": "04/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-auto-scaling-available-7-additional-aws-regions-predictive-scaling-amazon-ec2/",
         "Services": [
-            "AWS Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -2115,8 +2115,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2419,8 +2419,8 @@
         "Date": "03/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-lustre-csi-driver-supports-new-file-system-deployment-options/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -2464,8 +2464,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-provides-notifications-via-aws-health-services/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2492,8 +2492,8 @@
         "Date": "20/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-ec2-auto-scaling-now-supports-enabling-and-disabling-scaling-policies/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2675,8 +2675,8 @@
         "Date": "22/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-vpc-ingress-routing-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {

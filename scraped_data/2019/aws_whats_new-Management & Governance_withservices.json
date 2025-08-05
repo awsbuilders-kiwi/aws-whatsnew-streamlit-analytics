@@ -59,10 +59,10 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
-            "Amazon S3",
             "AWS CloudFormation",
-            "AWS Lambda",
             "Amazon API Gateway",
+            "Amazon S3",
+            "AWS Lambda",
             "AWS CodePipeline"
         ]
     },
@@ -438,8 +438,8 @@
         "Date": "11/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-chatbot-now-supports-notifications-from-aws-config/",
         "Services": [
-            "AWS Chatbot",
-            "AWS Config"
+            "AWS Config",
+            "AWS Chatbot"
         ]
     },
     {
@@ -455,8 +455,8 @@
         "Date": "08/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -474,8 +474,8 @@
         "Date": "20/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
-            "Amazon ElastiCache",
             "Amazon EC2",
+            "Amazon ElastiCache",
             "AWS CloudFormation"
         ]
     },
@@ -582,8 +582,8 @@
         "Date": "25/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-aws-chatbot-chatops-for-aws/",
         "Services": [
-            "AWS Chatbot",
-            "Amazon Chime"
+            "Amazon Chime",
+            "AWS Chatbot"
         ]
     },
     {

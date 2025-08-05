@@ -260,8 +260,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -321,8 +321,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon DynamoDB",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -349,8 +349,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -454,8 +454,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -516,8 +516,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -540,8 +540,8 @@
         "Date": "19/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -550,8 +550,8 @@
         "Date": "18/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon Redshift"
         ]
     },
     {
@@ -585,8 +585,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/",
         "Services": [
-            "AWS Step Functions",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Step Functions"
         ]
     },
     {
@@ -752,8 +752,8 @@
         "Date": "29/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Lightsail"
+            "Amazon Lightsail",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -870,8 +870,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -880,8 +880,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "07/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -968,8 +968,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "VMware Cloud on AWS"
+            "VMware Cloud on AWS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "02/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1206,8 +1206,8 @@
         "Date": "01/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1399,9 +1399,9 @@
         "Date": "06/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/",
         "Services": [
-            "Amazon EventBridge",
+            "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EventBridge"
         ]
     },
     {
@@ -1451,8 +1451,8 @@
         "Date": "30/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -1612,8 +1612,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/",
         "Services": [
-            "Amazon MQ",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MQ"
         ]
     },
     {
@@ -1916,8 +1916,8 @@
         "Date": "20/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-auto-scaling-introduces-predictive-scaling-native-scaling-policy/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2157,8 +2157,8 @@
         "Date": "09/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2330,8 +2330,8 @@
         "Date": "19/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2390,8 +2390,8 @@
         "Date": "13/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2478,8 +2478,8 @@
         "Date": "24/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2710,8 +2710,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2720,8 +2720,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {

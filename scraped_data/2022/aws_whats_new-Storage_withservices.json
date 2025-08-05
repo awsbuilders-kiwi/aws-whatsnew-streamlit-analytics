@@ -5,8 +5,8 @@
         "Date": "28/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -33,8 +33,8 @@
         "Date": "17/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -61,8 +61,8 @@
         "Date": "16/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elastic-file-system-efs-available-aws-europe-zurich-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -163,8 +163,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/",
         "Services": [
-            "Amazon S3",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "Amazon S3"
         ]
     },
     {
@@ -202,8 +202,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -267,8 +267,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-support-amazon-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Redshift"
         ]
     },
     {
@@ -369,8 +369,8 @@
         "Date": "15/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon S3"
         ]
     },
     {
@@ -388,8 +388,8 @@
         "Date": "15/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-lustre-file-systems-available-additional-aws-regions/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -506,8 +506,8 @@
         "Date": "18/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-elastic-file-system-available-middle-east-uae-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -577,8 +577,8 @@
         "Date": "04/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-openzfs-available-new-regions/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -669,8 +669,8 @@
         "Date": "13/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -698,9 +698,9 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/",
         "Services": [
-            "AWS Step Functions",
             "Amazon Managed Service for Prometheus",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Step Functions"
         ]
     },
     {
@@ -733,9 +733,9 @@
         "Date": "31/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/",
         "Services": [
+            "VMware Cloud on AWS",
             "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx",
-            "VMware Cloud on AWS"
+            "Amazon FSx"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "Date": "27/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/",
         "Services": [
-            "Amazon S3",
             "Amazon CloudFront",
+            "Amazon S3",
             "Amazon Redshift"
         ]
     },
@@ -849,9 +849,9 @@
         "Date": "28/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
+            "AWS DataSync",
             "Amazon FSx",
-            "AWS DataSync"
+            "Amazon FSx for NetApp ONTAP"
         ]
     },
     {
@@ -902,8 +902,8 @@
         "Date": "02/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -940,8 +940,8 @@
         "Date": "31/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/",
         "Services": [
-            "Amazon EFS",
-            "AWS DataSync"
+            "AWS DataSync",
+            "Amazon EFS"
         ]
     },
     {
@@ -988,8 +988,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1018,9 +1018,9 @@
         "Date": "18/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/",
         "Services": [
-            "Amazon FSx for OpenZFS",
             "Amazon FSx",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1103,8 +1103,8 @@
         "Date": "19/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1113,9 +1113,9 @@
         "Date": "13/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/",
         "Services": [
-            "Amazon FSx for OpenZFS",
+            "AWS DataSync",
             "Amazon FSx",
-            "AWS DataSync"
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1153,9 +1153,9 @@
         "Date": "06/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/",
         "Services": [
+            "Amazon FSx for Lustre",
             "Amazon FSx",
-            "AWS Backup",
-            "Amazon FSx for Lustre"
+            "AWS Backup"
         ]
     },
     {
@@ -1192,9 +1192,9 @@
         "Date": "02/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/",
         "Services": [
+            "VMware Cloud on AWS",
             "AWS Outposts",
-            "AWS Backup",
-            "VMware Cloud on AWS"
+            "AWS Backup"
         ]
     },
     {
@@ -1265,8 +1265,8 @@
         "Date": "04/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1275,8 +1275,8 @@
         "Date": "02/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "Date": "04/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/",
         "Services": [
-            "AWS Storage Gateway",
-            "Amazon FSx"
+            "Amazon FSx",
+            "AWS Storage Gateway"
         ]
     },
     {
@@ -1351,8 +1351,8 @@
         "Date": "03/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/",
         "Services": [
-            "Amazon FSx for OpenZFS",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for OpenZFS"
         ]
     },
     {
@@ -1361,8 +1361,8 @@
         "Date": "01/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1381,8 +1381,8 @@
         "Date": "27/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {

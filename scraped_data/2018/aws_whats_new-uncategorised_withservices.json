@@ -293,8 +293,8 @@
         "Date": "20/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-auto-scaling-is-now-available-in-8-more-regions-worldwide/",
         "Services": [
-            "AWS Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -439,8 +439,8 @@
         "Date": "14/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-shield-adds-advanced-ddos-protection-for-aws-global-accelerator/",
         "Services": [
-            "AWS Shield",
-            "AWS Global Accelerator"
+            "AWS Global Accelerator",
+            "AWS Shield"
         ]
     },
     {
@@ -612,8 +612,8 @@
         "Date": "12/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/amazon-efs-available-in-aws-govcloud--us-west-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "12/12/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/12/aws-organizations-supports-aws-license-manager/",
         "Services": [
-            "AWS License Manager",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS License Manager"
         ]
     },
     {
@@ -1061,8 +1061,8 @@
         "Date": "29/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-fsx-lustre/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1390,8 +1390,8 @@
         "Date": "27/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-comprehend-medical/",
         "Services": [
-            "Amazon Comprehend",
-            "Amazon Comprehend Medical"
+            "Amazon Comprehend Medical",
+            "Amazon Comprehend"
         ]
     },
     {
@@ -1672,9 +1672,9 @@
         "Date": "22/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
-            "Amazon API Gateway",
-            "Elastic Load Balancing",
             "Amazon S3",
+            "Elastic Load Balancing",
+            "Amazon API Gateway",
             "AWS CloudFormation"
         ]
     },
@@ -1875,8 +1875,8 @@
         "Date": "21/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-predictive-scaling-for-amazon-EC2-in-aws-auto-scaling/",
         "Services": [
-            "AWS Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -1946,8 +1946,8 @@
         "Date": "20/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/analyze-live-video-at-scale-in-real-time-using-amazon-kinesis-video-streams-and-amazon-sagemaker/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2152,8 +2152,8 @@
         "Date": "19/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-config-launches-a-new-aws-config-rule-to-support-aws-cloudformation-stack-drift-detection/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2293,8 +2293,8 @@
         "Services": [
             "Amazon Route 53",
             "AWS Serverless Application Repository",
-            "AWS Step Functions",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2785,8 +2785,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/aws-cloudformation-coverage-updates-for-amazon-secrets-manager--/",
         "Services": [
             "Amazon API Gateway",
-            "Amazon CloudWatch",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -3227,8 +3227,8 @@
         "Date": "02/11/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/11/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -3292,8 +3292,8 @@
         "Date": "30/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/firewall-manager-now-supports-multiple-aws-waf-rulegroups-per-policy/",
         "Services": [
-            "AWS WAF",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS WAF"
         ]
     },
     {
@@ -3501,8 +3501,8 @@
         "Date": "24/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon_elasticache_now_supports_the_next_generation_general-purpose_and_memory-optimized_amazon_ec2_m5_and_r5_nodes/",
         "Services": [
-            "Amazon ElastiCache",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -3525,8 +3525,8 @@
         "Date": "23/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-efs-now-supports-aws-vpn-and-inter-region-vpc-peering/",
         "Services": [
-            "AWS VPN",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS VPN"
         ]
     },
     {
@@ -3698,8 +3698,8 @@
         "Date": "17/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/aws-service-catalog-adds-integration-with-aws-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -4163,8 +4163,8 @@
         "Date": "05/10/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/10/kinesis-video-streams-fragment-level-metadata-support/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -4672,10 +4672,10 @@
         "Date": "21/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amaz/",
         "Services": [
-            "Amazon ElastiCache",
             "Amazon Aurora",
-            "AWS CloudFormation",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "Amazon ElastiCache",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4938,8 +4938,8 @@
         "Date": "12/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/09/aws-config-adds-support-for-aws-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS Config"
+            "AWS Config",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -5170,8 +5170,8 @@
         "Date": "01/09/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/kinesis-video-streams-producer-sdk-windows/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -5484,8 +5484,8 @@
         "Date": "23/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-cloudformation-now-supports-aws-privatelink-/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -5624,8 +5624,8 @@
         "Date": "17/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-shield-advanced-onboarding-sign-up-wizard-create-rate-based-rules-rbr-cloudwatch-alarms/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Shield"
+            "AWS Shield",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5841,8 +5841,8 @@
         "Date": "10/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-config-adds-support-for-aws-systems-manager-patch-compliance-and-association-compliance/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Config"
+            "AWS Config",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -6012,8 +6012,8 @@
         "Date": "08/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/aws-config-adds-support-for-aws-shield/",
         "Services": [
-            "AWS Shield",
-            "AWS Config"
+            "AWS Config",
+            "AWS Shield"
         ]
     },
     {
@@ -6127,8 +6127,8 @@
         "Date": "04/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/08/automatically-create-amazon-cloudfront-distributions-for-aws-elemental-mediapackage-channels-from-aws-management-console/",
         "Services": [
-            "Amazon CloudFront",
-            "AWS Elemental MediaPackage"
+            "AWS Elemental MediaPackage",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -6231,8 +6231,8 @@
         "Date": "01/08/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-config-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Config"
+            "AWS Config",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -6427,8 +6427,8 @@
         "Date": "26/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-systems-manager-parameter-store-integrates-with-aws-secrets-manager-and-adds-parameter-version-labeling/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -6611,8 +6611,8 @@
         "Date": "20/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-codebuild-adds-build-monitoring-and-notifications-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -6679,8 +6679,8 @@
         "Date": "19/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/amazon-mq-now-supports-aws-cloudtrail/",
         "Services": [
-            "Amazon MQ",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon MQ"
         ]
     },
     {
@@ -7038,8 +7038,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/reserved-instance-purchase-recommendations-redshift-elasticache-elasticsearch-reservations/",
         "Services": [
             "Amazon ElastiCache",
-            "Amazon Redshift",
-            "AWS Cost Explorer"
+            "AWS Cost Explorer",
+            "Amazon Redshift"
         ]
     },
     {
@@ -7067,8 +7067,8 @@
         "Date": "11/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/amazon-elastic-file-system-amazon-efs-available-in-asia-pacific-tokyo-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -7118,8 +7118,8 @@
         "Date": "10/07/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/07/aws-glue-now-supports-reading-from-amazon-dynamodb-tables/",
         "Services": [
-            "Amazon DynamoDB",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -7348,8 +7348,8 @@
         "Date": "28/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-cloudwatch-adds-vpc-endpoint-support-to-aws-privatelink/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -7403,8 +7403,8 @@
         "Date": "28/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/aws-amplify-now-supports-AI-powered-chatbots-with-amazon-lex/",
         "Services": [
-            "Amazon Lex",
-            "AWS Amplify"
+            "AWS Amplify",
+            "Amazon Lex"
         ]
     },
     {
@@ -7691,8 +7691,8 @@
         "Date": "20/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/aws-storage-gateway-adds-smb-support-to-store-objects-in-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -7776,8 +7776,8 @@
         "Date": "16/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-guardduty-optimizes-aws-cloudtrail-analysis-reducing-cost-for-customers/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -7899,8 +7899,8 @@
         "Date": "14/06/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/06/amazon-mq-now-supports-aws-cloudformation/",
         "Services": [
-            "Amazon MQ",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon MQ"
         ]
     },
     {
@@ -8359,8 +8359,8 @@
         "Date": "30/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-elastic-file-system-amazon-efs-available-in-asia-pacific-seoul-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -8567,8 +8567,8 @@
         "Date": "23/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/amazon-macie-adds-new-dashboard-to-identify-publicly-accessible-amazon-simple-storage-service-objects/",
         "Services": [
-            "Amazon Simple Storage Service",
-            "Amazon Macie"
+            "Amazon Macie",
+            "Amazon Simple Storage Service"
         ]
     },
     {
@@ -9033,8 +9033,8 @@
         "Date": "09/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/aws-auto-scaling-scaling-plans-can-now-be-created-using-aws-cloudformation/",
         "Services": [
-            "AWS Auto Scaling",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -9226,8 +9226,8 @@
         "Date": "03/05/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/05/aws-config-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Config"
+            "AWS Config",
+            "AWS X-Ray"
         ]
     },
     {
@@ -9652,8 +9652,8 @@
         "Date": "14/04/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/04/aws-amplify-adds-support-for-graphql-and-aws-appsync-enabling-re/",
         "Services": [
-            "AWS AppSync",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS AppSync"
         ]
     },
     {
@@ -10116,8 +10116,8 @@
         "Date": "30/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-config-notifications-are-now-integrated-with-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Config"
+            "AWS Config",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -10572,8 +10572,8 @@
         "Date": "16/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-appsync-now-supports-android-graphql-subscriptions-and-relea/",
         "Services": [
-            "AWS AppSync",
-            "AWS Amplify"
+            "AWS Amplify",
+            "AWS AppSync"
         ]
     },
     {
@@ -10582,8 +10582,8 @@
         "Date": "16/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-cloudtrail-log-search-using-amazon-athena/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -10665,8 +10665,8 @@
         "Date": "14/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/amazon-elastic-file-system-amazon-efs-available-in-us-west-northern-california-region/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -10917,8 +10917,8 @@
         "Date": "02/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/aws-batch-as-amazon-cloudwatch-target/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Batch"
+            "AWS Batch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -10927,8 +10927,8 @@
         "Date": "02/03/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/03/amazon-cloudwatch-events-now-supports-aws-batch-as-an-event-target/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Batch"
+            "AWS Batch",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -11216,8 +11216,8 @@
         "Date": "21/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/amazon-ec2-auto-scaling-adds-support-for-service-linked-roles/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -11316,8 +11316,8 @@
         "Date": "16/02/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/02/aws-config-adds-support-for-aws-waf-rulegroups/",
         "Services": [
-            "AWS WAF",
-            "AWS Config"
+            "AWS Config",
+            "AWS WAF"
         ]
     },
     {
@@ -12100,8 +12100,8 @@
         "Date": "11/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-shield-advanced-and-aws-waf-now-available-in-asia-pacific-sydney-and-eu-frankfurt-regions/",
         "Services": [
-            "AWS WAF",
-            "AWS Shield"
+            "AWS Shield",
+            "AWS WAF"
         ]
     },
     {
@@ -12110,8 +12110,8 @@
         "Date": "10/01/2018",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2018/01/aws-batch-adds-support-for-aws-cloudtrail-audit-calls/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS CloudTrail"
         ]
     },
     {

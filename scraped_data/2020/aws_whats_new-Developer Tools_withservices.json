@@ -493,8 +493,8 @@
         "Date": "14/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS Step Functions",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS Step Functions"
         ]
     },
     {
@@ -815,8 +815,8 @@
         "Date": "24/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-config-integrates-aws-cloudformation-registry/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1050,8 +1050,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1183,9 +1183,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
             "AWS CodeCommit",
+            "AWS CodeBuild",
             "AWS CodeDeploy",
-            "AWS CodePipeline",
-            "AWS CodeBuild"
+            "AWS CodePipeline"
         ]
     },
     {
@@ -1297,8 +1297,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
             "AWS CodeCommit",
-            "AWS CodeDeploy",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1332,8 +1332,8 @@
         "Date": "07/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-codebuild-adds-support-for-amazon-efs/",
         "Services": [
-            "Amazon EFS",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "Amazon EFS"
         ]
     },
     {
