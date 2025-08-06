@@ -76,8 +76,8 @@
         "Date": "21/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -170,8 +170,8 @@
         "Date": "07/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -233,8 +233,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -252,8 +252,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -570,8 +570,8 @@
         "Date": "08/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -941,8 +941,8 @@
         "Date": "08/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/",
         "Services": [
-            "Amazon Aurora",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Aurora"
         ]
     },
     {
@@ -1412,8 +1412,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -1670,8 +1670,8 @@
         "Date": "18/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/",
         "Services": [
-            "Amazon Neptune",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Neptune"
         ]
     },
     {
@@ -1694,8 +1694,8 @@
         "Date": "16/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Timestream"
+            "Amazon Timestream",
+            "Amazon S3"
         ]
     },
     {
@@ -1838,8 +1838,8 @@
         "Date": "18/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -2000,8 +2000,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/",
         "Services": [
             "AWS Database Migration Service",
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -2258,8 +2258,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/",
         "Services": [
-            "Amazon MemoryDB",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon MemoryDB"
         ]
     },
     {
@@ -2475,9 +2475,9 @@
         "Date": "04/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
+            "Amazon DynamoDB",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon Kinesis"
         ]
     },
     {

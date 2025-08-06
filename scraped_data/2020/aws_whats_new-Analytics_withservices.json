@@ -32,8 +32,8 @@
         "Date": "23/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/",
         "Services": [
-            "Amazon EMR",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EMR"
         ]
     },
     {
@@ -60,8 +60,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/",
         "Services": [
-            "AWS Glue",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "AWS Glue"
         ]
     },
     {
@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "Amazon AppFlow",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon Kinesis",
+            "Amazon DynamoDB",
             "AWS Lambda",
-            "Amazon DynamoDB"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -476,8 +476,8 @@
         "Date": "07/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Aurora"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
         "Services": [
-            "Amazon Athena",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "Amazon Athena"
         ]
     },
     {
@@ -667,8 +667,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/",
         "Services": [
-            "Amazon EMR",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon EMR"
         ]
     },
     {
@@ -729,8 +729,8 @@
         "Date": "03/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-active-directory-saml-providers-amazon-athena/",
         "Services": [
-            "Amazon Athena",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "15/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-querying-apache-hudi-datasets-amazon-s3-based-data-lake/",
         "Services": [
-            "Amazon Athena",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Athena"
         ]
     },
     {
@@ -1208,8 +1208,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-for-managing-data-catalogs-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1265,8 +1265,8 @@
         "Date": "07/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-encrypting-log-file-with-aws-kms-customer-management-cmks-with-more-flexible-security/",
         "Services": [
-            "Amazon EMR",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon EMR"
         ]
     },
     {
@@ -1811,8 +1811,8 @@
         "Date": "14/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-athena-adds-support-for-managing-athena-workgroups-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1846,8 +1846,8 @@
         "Date": "12/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-firehose-now-supports-aws-privatelink-in-govcloud-regions/",
         "Services": [
-            "Amazon Kinesis",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1879,8 +1879,8 @@
         "Date": "27/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-msk-can-now-stream-broker-logs-to-cloudwatch-logs-s3-elasticsearch-service/",
         "Services": [
-            "Amazon S3",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon S3"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
