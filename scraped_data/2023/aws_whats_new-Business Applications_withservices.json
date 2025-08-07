@@ -321,10 +321,10 @@
         "Date": "26/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-webrtc-audio-kinesis-video-streams/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Chime SDK",
             "Amazon Chime",
-            "Amazon Kinesis"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis",
+            "Amazon Chime SDK"
         ]
     },
     {
@@ -750,8 +750,8 @@
         "Date": "11/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-pinpoint-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Pinpoint"
+            "Amazon Pinpoint",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -816,9 +816,9 @@
         "Date": "27/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-lex-chatbots/",
         "Services": [
-            "Amazon Lex",
             "Amazon Chime",
-            "Amazon Chime SDK"
+            "Amazon Chime SDK",
+            "Amazon Lex"
         ]
     },
     {

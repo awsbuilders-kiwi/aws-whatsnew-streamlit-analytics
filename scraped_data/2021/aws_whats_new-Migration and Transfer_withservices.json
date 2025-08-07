@@ -14,8 +14,8 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
-            "Amazon FSx for Lustre",
             "Amazon FSx",
+            "Amazon FSx for Lustre",
             "AWS DataSync"
         ]
     },
@@ -297,9 +297,9 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/",
         "Services": [
+            "AWS Storage Gateway",
             "AWS PrivateLink",
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "Amazon S3"
         ]
     },
     {

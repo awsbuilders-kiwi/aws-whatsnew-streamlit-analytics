@@ -335,8 +335,8 @@
         "Date": "18/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -499,8 +499,8 @@
         "Date": "08/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/",
         "Services": [
-            "AWS Organizations",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Organizations"
         ]
     },
     {
@@ -587,8 +587,8 @@
         "Date": "21/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon S3"
         ]
     },
     {
@@ -720,8 +720,8 @@
         "Date": "20/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon S3"
         ]
     },
     {
@@ -771,8 +771,8 @@
         "Date": "03/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "Date": "02/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Config"
+            "AWS Config",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -847,8 +847,8 @@
         "Date": "18/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/",
         "Services": [
-            "Elastic Load Balancing",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "Elastic Load Balancing"
         ]
     },
     {
@@ -936,8 +936,8 @@
         "Date": "03/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1000,9 +1000,9 @@
         "Date": "28/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/",
         "Services": [
+            "AWS Control Tower",
             "AWS Chatbot",
-            "Amazon S3",
-            "AWS Control Tower"
+            "Amazon S3"
         ]
     },
     {
@@ -1052,8 +1052,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1099,8 +1099,8 @@
         "Date": "30/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/",
         "Services": [
-            "AWS Organizations",
-            "AWS Well-Architected Tool"
+            "AWS Well-Architected Tool",
+            "AWS Organizations"
         ]
     },
     {
@@ -1263,8 +1263,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Config"
+            "AWS Config",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1797,8 +1797,8 @@
         "Date": "19/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/",
         "Services": [
-            "AWS Security Hub",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "AWS Security Hub"
         ]
     },
     {
@@ -1850,8 +1850,8 @@
         "Date": "11/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/",
         "Services": [
-            "AWS Launch Wizard",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Launch Wizard"
         ]
     },
     {

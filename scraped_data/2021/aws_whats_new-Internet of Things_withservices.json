@@ -347,8 +347,8 @@
         "Date": "26/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/",
         "Services": [
-            "FreeRTOS",
-            "AWS IoT Greengrass"
+            "AWS IoT Greengrass",
+            "FreeRTOS"
         ]
     },
     {
@@ -384,8 +384,8 @@
         "Date": "15/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -533,8 +533,8 @@
         "Date": "23/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/",
         "Services": [
-            "AWS IoT Core",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS IoT Core"
         ]
     },
     {
@@ -580,8 +580,8 @@
         "Date": "03/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/",
         "Services": [
-            "FreeRTOS",
-            "AWS IoT Device Defender"
+            "AWS IoT Device Defender",
+            "FreeRTOS"
         ]
     },
     {
@@ -608,9 +608,9 @@
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/",
         "Services": [
-            "AWS IoT Core",
+            "AWS IoT Device Management",
             "AWS IoT Device Defender",
-            "AWS IoT Device Management"
+            "AWS IoT Core"
         ]
     },
     {

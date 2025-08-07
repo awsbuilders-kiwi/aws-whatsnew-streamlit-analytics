@@ -531,9 +531,9 @@
         "Date": "18/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/",
         "Services": [
-            "Amazon Lex",
             "Amazon Chime",
-            "Amazon Chime SDK"
+            "Amazon Chime SDK",
+            "Amazon Lex"
         ]
     },
     {
@@ -542,8 +542,8 @@
         "Date": "08/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon SES"
+            "Amazon SES",
+            "AWS CloudFormation"
         ]
     },
     {

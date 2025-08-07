@@ -5,8 +5,8 @@
         "Date": "23/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon S3"
         ]
     },
     {
@@ -169,8 +169,8 @@
         "Date": "24/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/third-party-software-for-amazon-s3-available-in-amazon-s3-management-console-powered-by-aws-marketplace/",
         "Services": [
-            "Amazon S3",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "Amazon S3"
         ]
     },
     {
@@ -223,8 +223,8 @@
         "Date": "17/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/",
         "Services": [
-            "Amazon Simple Storage Service",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "Amazon Simple Storage Service"
         ]
     },
     {
@@ -242,8 +242,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/",
         "Services": [
-            "AWS Backup",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Backup"
         ]
     },
     {
@@ -270,8 +270,8 @@
         "Date": "10/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-object-ownership-now-generally-available-with-aws-cloudformation-support/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -426,8 +426,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fsx-windows-file-server-supports-access-file-systems-alternate-dns-names/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -463,8 +463,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "Amazon EBS",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "Amazon EBS"
         ]
     },
     {
@@ -473,8 +473,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -615,8 +615,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -678,8 +678,8 @@
         "Date": "31/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-guardduty-expands-threat-detection-coverage-to-help-you-better-protect-your-data-stored-in-amazon-s3/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -715,8 +715,8 @@
         "Date": "23/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-fsx-lustre-supports-automatic-updates-amazon-s3/",
         "Services": [
-            "Amazon FSx for Lustre",
             "Amazon S3",
+            "Amazon FSx for Lustre",
             "Amazon FSx"
         ]
     },
@@ -886,8 +886,8 @@
         "Date": "08/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-redshift-now-supports-writing-to-external-tables-in-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon S3"
         ]
     },
     {
@@ -905,8 +905,8 @@
         "Date": "01/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-fsx-for-windows-file-server-now-enables-you-to-grow-storage-scale-performance-on-file-system/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1007,8 +1007,8 @@
         "Date": "01/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-storage-gateway-adds-amazon-s3-intelligent-tiering-for-file-gateway/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -1085,8 +1085,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-aws-opshub-snow-family/",
         "Services": [
-            "AWS Snowball",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snowball"
         ]
     },
     {
@@ -1104,8 +1104,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-snowball-adds-task-automation-aws-systems-manager/",
         "Services": [
-            "AWS Snowball",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Snowball"
         ]
     },
     {
@@ -1130,8 +1130,8 @@
         "Date": "09/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-ecs-aws-fargate-support-amazon-efs-filesystems-generally-available/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -1186,8 +1186,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-for-windows-file-server-is-now-available-in-the-aws-asia-pacific-hong-kong-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1196,8 +1196,8 @@
         "Date": "26/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-windows-file-server-launches-hdd-based-storage/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1286,8 +1286,8 @@
         "Date": "27/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/new-quick-start-deploys-amazon-fsx-for-windows-file-server-on-aws/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1369,9 +1369,9 @@
         "Date": "31/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-backup-is-now-available-for-amazon-elastic-file-system-efs-in-4-additional-regions/",
         "Services": [
-            "AWS Backup",
             "Amazon Elastic File System",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Backup"
         ]
     },
     {
@@ -1426,8 +1426,8 @@
         "Date": "14/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-backup-delivers-fast-restore-experience-amazon-efs-item-level-recovery/",
         "Services": [
-            "AWS Backup",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Backup"
         ]
     },
     {

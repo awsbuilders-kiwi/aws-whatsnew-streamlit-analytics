@@ -5,8 +5,8 @@
         "Date": "28/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -33,8 +33,8 @@
         "Date": "17/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/",
         "Services": [
-            "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon S3"
         ]
     },
     {
@@ -163,8 +163,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/",
         "Services": [
-            "Amazon S3",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "Amazon S3"
         ]
     },
     {
@@ -267,8 +267,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-support-amazon-redshift/",
         "Services": [
-            "AWS Backup",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Backup"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "21/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -369,8 +369,8 @@
         "Date": "15/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon S3"
         ]
     },
     {
@@ -407,8 +407,8 @@
         "Date": "11/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-restore-vmware-workloads-amazon-ec2/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -487,8 +487,8 @@
         "Date": "21/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -623,8 +623,8 @@
         "Date": "22/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -679,8 +679,8 @@
         "Date": "09/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/",
         "Services": [
-            "AWS Backup",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Backup"
         ]
     },
     {
@@ -698,8 +698,8 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
             "AWS Step Functions",
+            "Amazon Managed Service for Prometheus",
             "AWS Lambda"
         ]
     },
@@ -709,8 +709,8 @@
         "Date": "02/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-ability-take-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -744,8 +744,8 @@
         "Date": "11/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -781,8 +781,8 @@
         "Date": "28/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/",
         "Services": [
-            "AWS Backup",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Backup"
         ]
     },
     {
@@ -791,9 +791,9 @@
         "Date": "27/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/",
         "Services": [
-            "Amazon S3",
             "Amazon CloudFront",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon S3"
         ]
     },
     {
@@ -802,8 +802,8 @@
         "Date": "22/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/",
         "Services": [
-            "AWS Backup",
             "Amazon FSx for NetApp ONTAP",
+            "AWS Backup",
             "Amazon FSx"
         ]
     },
@@ -849,8 +849,8 @@
         "Date": "28/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
             "Amazon FSx",
+            "Amazon FSx for NetApp ONTAP",
             "AWS DataSync"
         ]
     },
@@ -892,8 +892,8 @@
         "Date": "03/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/",
         "Services": [
-            "AWS Backup",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Backup"
         ]
     },
     {
@@ -977,9 +977,9 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/",
         "Services": [
-            "AWS Backup",
+            "AWS Storage Gateway",
             "Amazon S3",
-            "AWS Storage Gateway"
+            "AWS Backup"
         ]
     },
     {
@@ -1007,8 +1007,8 @@
         "Date": "18/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/",
         "Services": [
-            "AWS Backup",
             "Amazon FSx for NetApp ONTAP",
+            "AWS Backup",
             "Amazon FSx"
         ]
     },
@@ -1018,8 +1018,8 @@
         "Date": "18/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/",
         "Services": [
-            "AWS Backup",
             "Amazon FSx for OpenZFS",
+            "AWS Backup",
             "Amazon FSx"
         ]
     },
@@ -1076,8 +1076,8 @@
         "Date": "02/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/",
         "Services": [
-            "AWS Outposts",
-            "Amazon Relational Database Service"
+            "Amazon Relational Database Service",
+            "AWS Outposts"
         ]
     },
     {
@@ -1113,8 +1113,8 @@
         "Date": "13/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/",
         "Services": [
-            "Amazon FSx for OpenZFS",
             "Amazon FSx",
+            "Amazon FSx for OpenZFS",
             "AWS DataSync"
         ]
     },
@@ -1134,8 +1134,8 @@
         "Date": "12/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/",
         "Services": [
-            "Amazon FSx",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon FSx"
         ]
     },
     {
@@ -1153,8 +1153,8 @@
         "Date": "06/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/",
         "Services": [
-            "AWS Backup",
             "Amazon FSx for Lustre",
+            "AWS Backup",
             "Amazon FSx"
         ]
     },
@@ -1164,8 +1164,8 @@
         "Date": "05/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/",
         "Services": [
-            "Amazon FSx",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon FSx"
         ]
     },
     {
@@ -1192,9 +1192,9 @@
         "Date": "02/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/",
         "Services": [
+            "VMware Cloud on AWS",
             "AWS Backup",
-            "AWS Outposts",
-            "VMware Cloud on AWS"
+            "AWS Outposts"
         ]
     },
     {
@@ -1285,8 +1285,8 @@
         "Date": "28/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/",
         "Services": [
-            "AWS Backup",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Backup"
         ]
     },
     {
@@ -1313,8 +1313,8 @@
         "Date": "18/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/",
         "Services": [
-            "AWS Backup",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Backup"
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "Date": "04/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/",
         "Services": [
-            "Amazon FSx",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon FSx"
         ]
     },
     {
@@ -1371,8 +1371,8 @@
         "Date": "01/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
