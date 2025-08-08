@@ -14,8 +14,8 @@
         "Date": "20/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/",
         "Services": [
-            "Amazon FinSpace",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon FinSpace"
         ]
     },
     {
@@ -149,8 +149,8 @@
         "Date": "07/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon OpenSearch Serverless"
+            "Amazon OpenSearch Serverless",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -326,8 +326,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -354,8 +354,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
         "Services": [
-            "Amazon MSK",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon MSK"
         ]
     },
     {
@@ -490,9 +490,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
             "Amazon EMR",
+            "Amazon S3",
             "EMR Serverless",
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -665,8 +665,8 @@
         "Date": "18/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/",
         "Services": [
-            "AWS Glue",
-            "Amazon AppFlow"
+            "Amazon AppFlow",
+            "AWS Glue"
         ]
     },
     {
@@ -709,8 +709,8 @@
         "Date": "15/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-support-lake-formation-fine-grained-access-control/",
         "Services": [
-            "Amazon Athena",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Athena"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "Date": "10/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-monitoring-spice-consumption-sending-metrics-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon QuickSight"
+            "Amazon QuickSight",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -738,8 +738,8 @@
         "Date": "08/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-redshift-serverless-us-west-northern-california-europe-paris-aws-regions/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -793,8 +793,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-kinesis-data-streams-capability-inspect-data-records-aws-management-console/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -891,8 +891,8 @@
         "Date": "15/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Glue"
         ]
     },
     {
@@ -947,8 +947,8 @@
         "Date": "06/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1298,9 +1298,9 @@
         "Date": "27/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/",
         "Services": [
-            "Amazon CloudFront",
+            "Amazon S3",
             "Amazon Redshift",
-            "Amazon S3"
+            "Amazon CloudFront"
         ]
     },
     {
@@ -1400,8 +1400,8 @@
         "Date": "12/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1714,8 +1714,8 @@
         "Date": "09/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon Managed Service for Prometheus"
+            "Amazon Managed Service for Prometheus",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2386,8 +2386,8 @@
         "Date": "05/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "AWS Data Exchange",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Data Exchange"
         ]
     },
     {

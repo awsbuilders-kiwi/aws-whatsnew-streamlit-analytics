@@ -5,8 +5,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -60,8 +60,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon OpenSearch Serverless"
+            "Amazon OpenSearch Serverless",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -107,9 +107,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
             "Amazon EMR",
+            "Amazon S3",
             "EMR Serverless",
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -179,8 +179,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "Amazon VPC",
-            "AWS App Runner"
+            "AWS App Runner",
+            "Amazon VPC"
         ]
     },
     {

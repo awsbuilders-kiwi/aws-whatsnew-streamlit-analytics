@@ -412,8 +412,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-codepipeline-aws-config-and-more/",
         "Services": [
             "AWS Config",
-            "AWS CodePipeline",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -498,8 +498,8 @@
         "Date": "23/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-is-now-available-in-aws-govcloud/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -572,8 +572,8 @@
         "Date": "18/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/introducing-amazon-vpc-endpoints-for-amazon-s3-in-us-govcloud-region/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -664,8 +664,8 @@
         "Date": "04/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/amazon-cloudwatch-logs-support-for-amazon-kinesis-firehose/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1074,8 +1074,8 @@
         "Date": "30/09/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/09/near-real-time-processing-of-amazon-cloudwatch-logs-with-aws-lambda/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1462,11 +1462,11 @@
         "Date": "25/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/aws-cloudformation-updates-support-for-amazon-vpc-aws-lambda-aws-elastic-beanstalk-amazon-rds-and-amazon-s3/",
         "Services": [
-            "Amazon VPC",
             "AWS Elastic Beanstalk",
-            "AWS Lambda",
             "Amazon S3",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Lambda",
+            "Amazon VPC"
         ]
     },
     {
@@ -1844,8 +1844,8 @@
         "Date": "15/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/use-amazon-cloudwatch-to-monitor-amazon-workspaces/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon WorkSpaces"
+            "Amazon WorkSpaces",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2216,10 +2216,10 @@
         "Date": "11/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
-            "Amazon EC2",
-            "AWS CloudFormation",
             "AWS Data Pipeline",
-            "AWS Lambda"
+            "Amazon EC2",
+            "AWS Lambda",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2416,8 +2416,8 @@
         "Date": "19/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-now-available-in-northern-california-region/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2519,8 +2519,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/introducing-amazon-vpc-endpoints-for-amazon-s3/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -2529,8 +2529,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/amazon-rds-and-amazon-redshift-now-support-encryption-via-aws-key-management-service-in-the-aws-govcloud-us-region/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2788,8 +2788,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-cognito-events-run-aws-lambda-functions-in-response-to-events-in-amazon-cognito/",
         "Services": [
-            "Amazon Cognito",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Cognito"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -2964,8 +2964,8 @@
         "Date": "01/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/announcing-single-sign-on-between-amazon-workspaces-and-amazon-workdocs/",
         "Services": [
-            "Amazon WorkDocs",
-            "Amazon WorkSpaces"
+            "Amazon WorkSpaces",
+            "Amazon WorkDocs"
         ]
     },
     {
@@ -2983,8 +2983,8 @@
         "Date": "31/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/aws-opsworks-supports-amazon-ebs-with-increased-maximum-performance-and-size/",
         "Services": [
-            "AWS OpsWorks",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS OpsWorks"
         ]
     },
     {
@@ -3261,8 +3261,8 @@
         "Date": "05/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-now-available-in-syd-sing-frank-tokyo-regions/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -3271,8 +3271,8 @@
         "Date": "04/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/introducing-amazon-cognito-streams-automatically-stream-user-id-data-to-amazon-kinesis/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -3308,8 +3308,8 @@
         "Date": "27/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/26/aws-trusted-advisor-adds-four-new-checks-for-elastic-load-balancing/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Elastic Load Balancing"
+            "Elastic Load Balancing",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -3421,8 +3421,8 @@
         "Date": "11/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/11/amazon-route-53-announces-aws-cloudtrail-integration-tagging-health-check-features/",
         "Services": [
-            "Amazon Route 53",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Route 53"
         ]
     },
     {
@@ -3456,8 +3456,8 @@
         "Date": "10/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/10/all-api-calls-to-aws-config-now-available-in-aws-cloudtrail/",
         "Services": [
-            "AWS Config",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Config"
         ]
     },
     {

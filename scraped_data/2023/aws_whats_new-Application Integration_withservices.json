@@ -224,8 +224,8 @@
         "Date": "10/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -273,9 +273,9 @@
         "Date": "03/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -305,8 +305,8 @@
         "Date": "21/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/",
         "Services": [
-            "Amazon MSK",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon MSK"
         ]
     },
     {
@@ -544,9 +544,9 @@
         "Date": "15/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/",
         "Services": [
-            "Amazon VPC",
+            "Amazon VPC Lattice",
             "AWS Step Functions",
-            "Amazon VPC Lattice"
+            "Amazon VPC"
         ]
     },
     {
@@ -750,8 +750,8 @@
         "Date": "17/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-step-functions-integration-35-services-emr-serverless/",
         "Services": [
-            "EMR Serverless",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "EMR Serverless"
         ]
     },
     {

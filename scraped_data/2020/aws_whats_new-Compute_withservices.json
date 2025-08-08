@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -143,8 +143,8 @@
         "Date": "18/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon Kinesis",
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "Amazon Kinesis",
+            "AWS Lambda",
             "Amazon DynamoDB",
-            "AWS Lambda"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "29/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/",
         "Services": [
-            "Amazon EC2",
-            "AWS Certificate Manager"
+            "AWS Certificate Manager",
+            "Amazon EC2"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "AWS Compute Optimizer",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1217,8 +1217,8 @@
         "Date": "28/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/seamlessly-join-amazon-ec2-for-linux-instance-to-aws-directory-service/",
         "Services": [
-            "Amazon EC2",
-            "AWS Directory Service"
+            "AWS Directory Service",
+            "Amazon EC2"
         ]
     },
     {
@@ -2115,8 +2115,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2419,8 +2419,8 @@
         "Date": "03/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-lustre-csi-driver-supports-new-file-system-deployment-options/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {

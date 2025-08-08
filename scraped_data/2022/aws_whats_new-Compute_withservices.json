@@ -28,8 +28,8 @@
         "Date": "22/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Fargate"
+            "AWS Fargate",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -68,8 +68,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -274,8 +274,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/",
         "Services": [
-            "Amazon MSK",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon MSK"
         ]
     },
     {
@@ -327,8 +327,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "01/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/",
         "Services": [
-            "Amazon VPC",
-            "AWS App Runner"
+            "AWS App Runner",
+            "Amazon VPC"
         ]
     },
     {
@@ -814,9 +814,9 @@
         "Date": "13/10/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/",
         "Services": [
-            "Amazon MSK",
             "Amazon MQ",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -1169,9 +1169,9 @@
         "Date": "31/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/",
         "Services": [
+            "Amazon FSx",
             "Amazon FSx for NetApp ONTAP",
-            "VMware Cloud on AWS",
-            "Amazon FSx"
+            "VMware Cloud on AWS"
         ]
     },
     {
@@ -1246,8 +1246,8 @@
         "Date": "17/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -1315,8 +1315,8 @@
         "Date": "29/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS X-Ray"
         ]
     },
     {
@@ -1869,8 +1869,8 @@
         "Date": "19/04/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -2123,8 +2123,8 @@
         "Date": "01/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -2256,8 +2256,8 @@
         "Date": "31/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/",
         "Services": [
-            "Amazon MSK",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
@@ -2325,9 +2325,9 @@
         "Date": "20/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/",
         "Services": [
-            "Amazon MSK",
             "Amazon MQ",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon MSK"
         ]
     },
     {
