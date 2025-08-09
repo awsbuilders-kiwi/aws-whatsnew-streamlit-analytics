@@ -185,8 +185,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -258,9 +258,9 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
+            "Amazon Athena",
             "Amazon Managed Grafana",
-            "Amazon Redshift",
-            "Amazon Athena"
+            "Amazon Redshift"
         ]
     },
     {
@@ -338,8 +338,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/",
         "Services": [
-            "AWS Step Functions",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Step Functions"
         ]
     },
     {
@@ -357,8 +357,8 @@
         "Date": "19/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "19/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Data Exchange"
+            "AWS Data Exchange",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1281,8 +1281,8 @@
         "Date": "27/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1371,8 +1371,8 @@
         "Date": "13/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/",
         "Services": [
-            "AWS Glue",
-            "Amazon Athena"
+            "Amazon Athena",
+            "AWS Glue"
         ]
     },
     {
@@ -1668,9 +1668,9 @@
         "Date": "07/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/",
         "Services": [
-            "AWS Glue",
             "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Glue"
         ]
     },
     {
@@ -1825,8 +1825,8 @@
         "Date": "11/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/",
         "Services": [
-            "Amazon Kinesis Video Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -2008,8 +2008,8 @@
         "Date": "06/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-data-streaming-solution/",
         "Services": [
-            "Amazon S3",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon S3"
         ]
     },
     {

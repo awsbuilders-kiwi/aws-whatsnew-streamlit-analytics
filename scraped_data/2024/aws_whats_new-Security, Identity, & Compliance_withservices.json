@@ -357,8 +357,8 @@
         "Date": "07/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-charges-requests-blocked-aws-waf",
         "Services": [
-            "Amazon CloudFront",
-            "AWS WAF"
+            "AWS WAF",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -408,8 +408,8 @@
         "Date": "26/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls",
         "Services": [
-            "AWS Firewall Manager",
-            "AWS WAF"
+            "AWS WAF",
+            "AWS Firewall Manager"
         ]
     },
     {
@@ -527,8 +527,8 @@
         "Date": "13/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-firewall-privatelink",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Network Firewall"
+            "AWS Network Firewall",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "10/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink",
         "Services": [
-            "AWS Resource Access Manager",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Resource Access Manager"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "19/07/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-90-session-duration-q-developer/",
         "Services": [
-            "Amazon Q",
             "Amazon Q Developer",
-            "AWS IAM Identity Center"
+            "AWS IAM Identity Center",
+            "Amazon Q"
         ]
     },
     {
@@ -800,8 +800,8 @@
         "Date": "12/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/detect-malware-object-uploads-amazon-s3-guardduty",
         "Services": [
-            "Amazon S3",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "Amazon S3"
         ]
     },
     {
@@ -850,8 +850,8 @@
         "Date": "07/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-inspector-container-image-scanning-codecatalyst-github-actions",
         "Services": [
-            "Amazon CodeCatalyst",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "Amazon CodeCatalyst"
         ]
     },
     {
@@ -1036,8 +1036,8 @@
         "Date": "23/04/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-inspector-agentless-vulnerability-assessments-ec2-ga/",
         "Services": [
-            "Amazon EC2",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "Amazon EC2"
         ]
     },
     {
@@ -1166,9 +1166,9 @@
         "Date": "18/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/",
         "Services": [
-            "Amazon Redshift Serverless",
+            "AWS Secrets Manager",
             "Amazon Redshift",
-            "AWS Secrets Manager"
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1186,8 +1186,8 @@
         "Date": "13/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-restore-testing-amazon-ebs-snapshots-archive/",
         "Services": [
-            "AWS Backup",
-            "Amazon Elastic Block Store"
+            "Amazon Elastic Block Store",
+            "AWS Backup"
         ]
     },
     {
