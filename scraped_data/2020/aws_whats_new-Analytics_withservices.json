@@ -32,8 +32,8 @@
         "Date": "23/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/",
         "Services": [
-            "Amazon EMR",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EMR"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
+            "Amazon DynamoDB",
             "AWS Lambda",
-            "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -403,8 +403,8 @@
         "Date": "14/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -561,8 +561,8 @@
         "Date": "23/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "Date": "22/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/",
         "Services": [
-            "Amazon Athena",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "Amazon Athena"
         ]
     },
     {
@@ -667,8 +667,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/",
         "Services": [
-            "Amazon EMR",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon EMR"
         ]
     },
     {
@@ -1008,8 +1008,8 @@
         "Date": "19/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-kinesis-data-streams-two-new-api-features-simplify-consuming-data-from-kinesis-streams/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1208,8 +1208,8 @@
         "Date": "11/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-athena-adds-support-for-managing-data-catalogs-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1566,8 +1566,8 @@
         "Date": "30/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-emr-support-for-running-clusters-with-amazon-ec2-spot-instances-govcloud/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1576,8 +1576,8 @@
         "Date": "29/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-kinesis-video-streams-adds-api-support-to-easily-retrieve-media-clips/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Video Streams"
+            "Amazon Kinesis Video Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1764,8 +1764,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-managed-services-expands-big-data-capabilities-with-support-for-amazon-sagemaker-aws-lake-formation-amazon-cloudsearch/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon CloudSearch"
+            "Amazon CloudSearch",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1792,8 +1792,8 @@
         "Date": "23/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-streams-now-supports-scaling-up-to-10000-mbs-throughput-with-a-single-api-call/",
         "Services": [
-            "Amazon Kinesis Data Streams",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -1811,8 +1811,8 @@
         "Date": "14/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-athena-adds-support-for-managing-athena-workgroups-using-aws-cloudformation/",
         "Services": [
-            "Amazon Athena",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Athena"
         ]
     },
     {

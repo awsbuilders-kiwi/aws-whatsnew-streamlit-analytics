@@ -23,9 +23,9 @@
         "Date": "28/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/",
         "Services": [
-            "AWS WAF",
+            "AWS CloudFormation",
             "AWS Directory Service",
-            "AWS CloudFormation"
+            "AWS WAF"
         ]
     },
     {
@@ -139,8 +139,8 @@
         "Date": "17/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/easily-launch-select-third-party-software-on-aws-using-new-compatibility-between-aws-marketplace-and-aws-cloudformation/",
         "Services": [
-            "AWS Marketplace",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Marketplace"
         ]
     },
     {
@@ -411,9 +411,9 @@
         "Date": "03/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-codepipeline-aws-config-and-more/",
         "Services": [
+            "AWS CloudFormation",
             "AWS CodePipeline",
-            "AWS Config",
-            "AWS CloudFormation"
+            "AWS Config"
         ]
     },
     {
@@ -447,8 +447,8 @@
         "Date": "02/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/new-chicago-edge-location-cloudfront-route-53/",
         "Services": [
-            "Amazon Route 53",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "Amazon Route 53"
         ]
     },
     {
@@ -572,8 +572,8 @@
         "Date": "18/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/introducing-amazon-vpc-endpoints-for-amazon-s3-in-us-govcloud-region/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -664,8 +664,8 @@
         "Date": "04/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/amazon-cloudwatch-logs-support-for-amazon-kinesis-firehose/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1055,8 +1055,8 @@
         "Date": "01/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-cloudformation-adds-support-for-aws-codedeploy-and-more/",
         "Services": [
-            "AWS CodeDeploy",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1074,8 +1074,8 @@
         "Date": "30/09/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/09/near-real-time-processing-of-amazon-cloudwatch-logs-with-aws-lambda/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1462,11 +1462,11 @@
         "Date": "25/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/aws-cloudformation-updates-support-for-amazon-vpc-aws-lambda-aws-elastic-beanstalk-amazon-rds-and-amazon-s3/",
         "Services": [
+            "AWS Elastic Beanstalk",
             "AWS CloudFormation",
-            "Amazon VPC",
-            "AWS Lambda",
             "Amazon S3",
-            "AWS Elastic Beanstalk"
+            "AWS Lambda",
+            "Amazon VPC"
         ]
     },
     {
@@ -1553,8 +1553,8 @@
         "Date": "18/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-ec2-container-service-supports-amazon-cloudwatch-monitoring/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1740,8 +1740,8 @@
         "Date": "28/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/amazon-dynamodb-amazon-rds-oracle-mysql-engines-amazon-emr-covered-under-aws-business-associate-agreement/",
         "Services": [
-            "Amazon EMR",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon EMR"
         ]
     },
     {
@@ -1844,8 +1844,8 @@
         "Date": "15/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/use-amazon-cloudwatch-to-monitor-amazon-workspaces/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -2216,10 +2216,10 @@
         "Date": "11/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
-            "AWS Data Pipeline",
-            "AWS Lambda",
+            "Amazon EC2",
             "AWS CloudFormation",
-            "Amazon EC2"
+            "AWS Data Pipeline",
+            "AWS Lambda"
         ]
     },
     {
@@ -2349,8 +2349,8 @@
         "Date": "28/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/amazon-dynamodb-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2519,8 +2519,8 @@
         "Date": "11/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/introducing-amazon-vpc-endpoints-for-amazon-s3/",
         "Services": [
-            "Amazon VPC",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon VPC"
         ]
     },
     {
@@ -2744,8 +2744,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-announces-the-aws-marketplace-for-desktop-apps-and-amazon-workspaces-application-manager/",
         "Services": [
-            "Amazon WorkSpaces",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS Lambda",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Lambda"
         ]
     },
     {
@@ -2895,8 +2895,8 @@
         "Date": "04/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/amazon-emr-now-supports-amazon-ec2-dense-storage-d2-instances/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -2964,8 +2964,8 @@
         "Date": "01/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/announcing-single-sign-on-between-amazon-workspaces-and-amazon-workdocs/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon WorkDocs"
+            "Amazon WorkDocs",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -3027,8 +3027,8 @@
         "Date": "26/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-emr-support-for-amazon-s3-client-side-encryption-now-available/",
         "Services": [
-            "Amazon EMR",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon EMR"
         ]
     },
     {
@@ -3271,8 +3271,8 @@
         "Date": "04/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/introducing-amazon-cognito-streams-automatically-stream-user-id-data-to-amazon-kinesis/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "Amazon Kinesis"
         ]
     },
     {

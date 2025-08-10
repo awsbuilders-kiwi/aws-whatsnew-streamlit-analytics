@@ -76,8 +76,8 @@
         "Date": "21/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -118,8 +118,8 @@
         "Date": "18/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
-            "Amazon QuickSight",
             "Amazon Redshift",
+            "Amazon QuickSight",
             "AWS Lake Formation"
         ]
     },
@@ -170,8 +170,8 @@
         "Date": "07/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -214,8 +214,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -252,8 +252,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -1838,8 +1838,8 @@
         "Date": "18/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/",
         "Services": [
-            "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Backup"
         ]
     },
     {
@@ -2268,8 +2268,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/",
         "Services": [
-            "AWS Trusted Advisor",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "AWS Trusted Advisor"
         ]
     },
     {
@@ -2475,9 +2475,9 @@
         "Date": "04/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
-            "Amazon Kinesis Data Streams",
+            "Amazon DynamoDB",
             "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
