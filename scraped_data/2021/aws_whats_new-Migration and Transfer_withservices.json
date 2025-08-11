@@ -15,8 +15,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
             "Amazon FSx for Lustre",
-            "Amazon FSx",
-            "AWS DataSync"
+            "AWS DataSync",
+            "Amazon FSx"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/",
         "Services": [
-            "AWS Storage Gateway",
             "Amazon S3",
+            "AWS Storage Gateway",
             "AWS PrivateLink"
         ]
     },
@@ -326,9 +326,9 @@
         "Date": "30/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
+            "AWS DataSync",
             "Amazon FSx for Windows File Server",
-            "Amazon FSx",
-            "AWS DataSync"
+            "Amazon FSx"
         ]
     },
     {
@@ -484,8 +484,8 @@
         "Date": "08/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/",
         "Services": [
-            "Amazon Elastic File System",
-            "AWS Transfer Family"
+            "AWS Transfer Family",
+            "Amazon Elastic File System"
         ]
     }
 ]

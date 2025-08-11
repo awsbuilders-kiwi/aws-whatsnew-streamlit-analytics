@@ -98,8 +98,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "Amazon EC2",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon EC2"
         ]
     },
     {
@@ -140,8 +140,8 @@
         "Date": "25/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws_x-ray_launches_support_for_amazon_cloudwatch_synthetic_canaries/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -248,11 +248,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Amplify",
-            "AWS App Mesh",
             "AWS CodePipeline",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "AWS Amplify",
+            "AWS CloudFormation",
+            "AWS App Mesh"
         ]
     },
     {
@@ -277,10 +277,10 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
+            "AWS CodeBuild",
             "AWS CodeDeploy",
-            "AWS CodeCommit",
             "AWS CodePipeline",
-            "AWS CodeBuild"
+            "AWS CodeCommit"
         ]
     },
     {
@@ -289,8 +289,8 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-codebuild-adds-support-for-aws-secrets-manager/",
         "Services": [
-            "AWS Secrets Manager",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "15/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codepipeline-enables-setting-environment-variables-on-aws-codebuild-build-jobs/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -703,8 +703,8 @@
         "Date": "18/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-codepipeline-now-supports-deploying-to-amazon-s3/",
         "Services": [
-            "AWS CodePipeline",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS CodePipeline"
         ]
     }
 ]

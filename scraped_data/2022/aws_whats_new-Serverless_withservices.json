@@ -5,8 +5,8 @@
         "Date": "21/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/",
         "Services": [
-            "AWS Migration Hub",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS Migration Hub"
         ]
     },
     {
@@ -60,8 +60,8 @@
         "Date": "30/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-support-data-stream-delivery-opensearch-serverless/",
         "Services": [
-            "Amazon OpenSearch Serverless",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon OpenSearch Serverless"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/",
         "Services": [
-            "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "EMR Serverless"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
+            "Amazon EMR",
             "Amazon DynamoDB",
-            "EMR Serverless",
             "Amazon S3",
-            "Amazon EMR"
+            "EMR Serverless"
         ]
     },
     {

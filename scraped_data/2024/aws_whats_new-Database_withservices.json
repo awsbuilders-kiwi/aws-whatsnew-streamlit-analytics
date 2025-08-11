@@ -492,8 +492,8 @@
         "Date": "13/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Managed Service for Apache Flink"
+            "Amazon Managed Service for Apache Flink",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -582,8 +582,8 @@
         "Date": "31/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Bedrock"
+            "Amazon Bedrock",
+            "Amazon Redshift"
         ]
     },
     {
@@ -895,8 +895,8 @@
         "Date": "25/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions",
         "Services": [
-            "Amazon Redshift",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1084,9 +1084,9 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
+            "AWS PrivateLink",
             "Amazon Redshift",
-            "Amazon Redshift Serverless",
-            "AWS PrivateLink"
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1095,8 +1095,8 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune",
         "Services": [
-            "Amazon Neptune",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon Neptune"
         ]
     },
     {
@@ -1133,8 +1133,8 @@
         "Date": "22/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2",
         "Services": [
-            "Amazon EC2",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -1182,8 +1182,8 @@
         "Date": "09/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3",
         "Services": [
-            "Amazon RDS for Db2",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon RDS for Db2"
         ]
     },
     {
@@ -1552,8 +1552,8 @@
         "Date": "05/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target",
         "Services": [
-            "Amazon Timestream",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Timestream"
         ]
     },
     {
@@ -2080,8 +2080,8 @@
         "Date": "21/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/",
         "Services": [
-            "AWS License Manager",
-            "Amazon Relational Database Service"
+            "Amazon Relational Database Service",
+            "AWS License Manager"
         ]
     },
     {

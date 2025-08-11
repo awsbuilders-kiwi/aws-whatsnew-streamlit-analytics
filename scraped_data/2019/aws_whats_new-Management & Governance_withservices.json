@@ -59,11 +59,11 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
-            "AWS CloudFormation",
+            "AWS CodePipeline",
             "Amazon S3",
-            "AWS Lambda",
             "Amazon API Gateway",
-            "AWS CodePipeline"
+            "AWS CloudFormation",
+            "AWS Lambda"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Date": "13/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -438,8 +438,8 @@
         "Date": "11/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-chatbot-now-supports-notifications-from-aws-config/",
         "Services": [
-            "AWS Chatbot",
-            "AWS Config"
+            "AWS Config",
+            "AWS Chatbot"
         ]
     },
     {
@@ -474,9 +474,9 @@
         "Date": "20/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
-            "Amazon EC2",
             "AWS CloudFormation",
-            "Amazon ElastiCache"
+            "Amazon ElastiCache",
+            "Amazon EC2"
         ]
     },
     {
@@ -689,8 +689,8 @@
         "Date": "24/05/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/aws-backup-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Backup"
+            "AWS Backup",
+            "AWS CloudFormation"
         ]
     },
     {
