@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -15,9 +15,9 @@
         "Date": "23/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/",
         "Services": [
-            "Amazon FSx for Lustre",
+            "Amazon FSx",
             "Amazon S3",
-            "Amazon FSx"
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -53,8 +53,8 @@
         "Date": "03/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elastic-files-system-now-available-in-bahrain-stockholm-sau-paulo-hong-kong/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -182,11 +182,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
+            "AWS App Mesh",
             "Amazon API Gateway",
-            "AWS Amplify",
+            "AWS CodePipeline",
             "AWS CloudFormation",
-            "AWS App Mesh"
+            "AWS Amplify"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "04/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-fsx-lustre-reduces-minimum-file-system-size/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     },
     {
@@ -478,8 +478,8 @@
         "Date": "21/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/",
         "Services": [
-            "Amazon VPC",
             "AWS Storage Gateway",
+            "Amazon VPC",
             "AWS PrivateLink"
         ]
     },
@@ -507,8 +507,8 @@
         "Date": "07/02/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/amazon-fsx-for-lustre-offers-new-options-and-faster-speeds/",
         "Services": [
-            "Amazon FSx for Lustre",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Lustre"
         ]
     }
 ]

@@ -5,8 +5,8 @@
         "Date": "23/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-step-functions-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Step Functions",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Step Functions"
         ]
     },
     {
@@ -137,10 +137,10 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EC2 Auto Scaling",
             "Amazon EC2",
-            "AWS Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "AWS Auto Scaling",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -195,11 +195,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
+            "AWS App Mesh",
             "Amazon API Gateway",
-            "AWS Amplify",
+            "AWS CodePipeline",
             "AWS CloudFormation",
-            "AWS App Mesh"
+            "AWS Amplify"
         ]
     },
     {
@@ -226,8 +226,8 @@
         "Date": "02/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon CloudFront",
+            "AWS CloudFormation",
             "Amazon CloudWatch"
         ]
     },

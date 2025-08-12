@@ -98,8 +98,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-elastic-beanstalk-adds-support-for-amazon-ec2-spot-instances/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -140,8 +140,8 @@
         "Date": "25/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws_x-ray_launches_support_for_amazon_cloudwatch_synthetic_canaries/",
         "Services": [
-            "AWS X-Ray",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS X-Ray"
         ]
     },
     {
@@ -248,11 +248,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
+            "AWS App Mesh",
             "Amazon API Gateway",
-            "AWS Amplify",
+            "AWS CodePipeline",
             "AWS CloudFormation",
-            "AWS App Mesh"
+            "AWS Amplify"
         ]
     },
     {
@@ -277,10 +277,10 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodeDeploy",
             "AWS CodePipeline",
-            "AWS CodeCommit"
+            "AWS CodeCommit",
+            "AWS CodeBuild",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "15/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codepipeline-enables-setting-environment-variables-on-aws-codebuild-build-jobs/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -703,8 +703,8 @@
         "Date": "18/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-codepipeline-now-supports-deploying-to-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "Amazon S3"
         ]
     }
 ]

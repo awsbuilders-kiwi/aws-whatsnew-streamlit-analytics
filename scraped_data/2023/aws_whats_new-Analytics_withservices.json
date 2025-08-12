@@ -34,8 +34,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/",
         "Services": [
             "Amazon EMR",
-            "AWS Lake Formation",
-            "EMR Serverless"
+            "EMR Serverless",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
             "Amazon QuickSight",
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -288,8 +288,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -308,8 +308,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -327,8 +327,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -365,8 +365,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -375,8 +375,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/",
         "Services": [
-            "Amazon S3",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon S3"
         ]
     },
     {
@@ -458,8 +458,8 @@
         "Date": "28/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -557,9 +557,9 @@
         "Date": "23/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -631,8 +631,8 @@
         "Date": "21/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-asset-events-amazon-eventbridge/",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "20/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -732,8 +732,8 @@
         "Date": "20/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -853,8 +853,8 @@
         "Date": "17/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-query-editor-athena/",
         "Services": [
-            "Amazon EMR",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon EMR"
         ]
     },
     {
@@ -863,8 +863,8 @@
         "Date": "17/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-apache-spark-native-connectivity-opensearch/",
         "Services": [
-            "AWS Glue",
-            "Amazon OpenSearch Service"
+            "Amazon OpenSearch Service",
+            "AWS Glue"
         ]
     },
     {
@@ -986,8 +986,8 @@
         "Date": "08/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -1006,9 +1006,9 @@
         "Date": "03/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1081,8 +1081,8 @@
         "Date": "30/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1172,8 +1172,8 @@
         "Date": "20/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-amazon-ec2-im4gn-instances/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -1243,9 +1243,9 @@
         "Date": "13/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/",
         "Services": [
-            "AWS Step Functions",
             "Amazon EMR",
-            "EMR Serverless"
+            "EMR Serverless",
+            "AWS Step Functions"
         ]
     },
     {
@@ -1387,8 +1387,8 @@
         "Date": "27/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/",
         "Services": [
-            "Amazon S3",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon S3"
         ]
     },
     {
@@ -1434,8 +1434,8 @@
         "Date": "26/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/",
         "Services": [
-            "AWS Glue",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Glue"
         ]
     },
     {
@@ -1542,8 +1542,8 @@
         "Date": "13/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1677,8 +1677,8 @@
         "Date": "15/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/",
         "Services": [
-            "Amazon QuickSight",
-            "AWS IAM Identity Center"
+            "AWS IAM Identity Center",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -1838,8 +1838,8 @@
         "Date": "28/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-retrieving-secrets-aws-secrets-manager/",
         "Services": [
-            "AWS Secrets Manager",
             "Amazon EMR",
+            "AWS Secrets Manager",
             "EMR Serverless"
         ]
     },
@@ -1886,8 +1886,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
             "Amazon EMR",
-            "Amazon CloudWatch",
-            "EMR Serverless"
+            "EMR Serverless",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1914,8 +1914,8 @@
         "Date": "25/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -1924,9 +1924,9 @@
         "Date": "25/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/",
         "Services": [
-            "AWS Glue",
+            "Amazon Redshift Serverless",
             "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "AWS Glue"
         ]
     },
     {
@@ -1996,8 +1996,8 @@
         "Date": "20/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Forecast"
+            "Amazon Forecast",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2105,8 +2105,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -2201,9 +2201,9 @@
         "Date": "20/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/",
         "Services": [
-            "Amazon Kinesis",
+            "Amazon Redshift Serverless",
             "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2298,8 +2298,8 @@
         "Date": "07/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2470,8 +2470,8 @@
         "Date": "12/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-firehose-document-id-amazon-opensearch-service/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon OpenSearch Service"
+            "Amazon OpenSearch Service",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -2680,8 +2680,8 @@
         "Date": "20/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -2781,8 +2781,8 @@
         "Date": "10/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -3116,8 +3116,8 @@
         "Date": "01/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-streams-on-demand-write-throughput-1gb/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -3199,10 +3199,10 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon Kinesis Data Streams",
+            "AWS CloudFormation",
             "Amazon DynamoDB",
-            "AWS CloudFormation"
+            "Amazon Kinesis"
         ]
     },
     {
