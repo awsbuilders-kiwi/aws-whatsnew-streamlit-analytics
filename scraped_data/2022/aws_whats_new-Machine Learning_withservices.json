@@ -260,8 +260,8 @@
         "Date": "06/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-studio-fine-grained-data-access-control-lake-formation-emr/",
         "Services": [
-            "Amazon EMR",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon EMR"
         ]
     },
     {
@@ -1423,8 +1423,8 @@
         "Date": "02/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/",
         "Services": [
-            "AWS Panorama",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Panorama"
         ]
     },
     {
@@ -1581,8 +1581,8 @@
         "Date": "24/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/",
         "Services": [
-            "AWS Panorama",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Panorama"
         ]
     },
     {
@@ -1627,8 +1627,8 @@
         "Date": "18/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/",
         "Services": [
-            "Amazon Lex",
             "Amazon Chime SDK",
+            "Amazon Lex",
             "Amazon Chime"
         ]
     },
@@ -1649,9 +1649,9 @@
         "Date": "16/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/",
         "Services": [
+            "Amazon FSx",
             "Amazon FSx for Windows File Server",
-            "Amazon Kendra",
-            "Amazon FSx"
+            "Amazon Kendra"
         ]
     },
     {
@@ -1789,8 +1789,8 @@
         "Date": "07/02/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-amazon-forecast/",
         "Services": [
-            "Amazon Forecast",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Forecast"
         ]
     },
     {
@@ -1913,8 +1913,8 @@
         "Date": "14/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-forecast-aws-cloudformation-resources/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Forecast"
+            "Amazon Forecast",
+            "AWS CloudFormation"
         ]
     },
     {

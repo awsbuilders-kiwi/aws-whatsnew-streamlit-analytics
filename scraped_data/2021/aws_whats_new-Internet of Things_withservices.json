@@ -134,8 +134,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS IoT Device Management"
+            "AWS IoT Device Management",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -278,8 +278,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
             "AWS Snow Family",
-            "Snow Family",
-            "AWS IoT Greengrass"
+            "AWS IoT Greengrass",
+            "Snow Family"
         ]
     },
     {
@@ -533,8 +533,8 @@
         "Date": "23/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/",
         "Services": [
-            "Amazon MSK",
-            "AWS IoT Core"
+            "AWS IoT Core",
+            "Amazon MSK"
         ]
     },
     {
@@ -580,8 +580,8 @@
         "Date": "03/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/",
         "Services": [
-            "AWS IoT Device Defender",
-            "FreeRTOS"
+            "FreeRTOS",
+            "AWS IoT Device Defender"
         ]
     },
     {
@@ -608,9 +608,9 @@
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/",
         "Services": [
-            "AWS IoT Device Defender",
             "AWS IoT Device Management",
-            "AWS IoT Core"
+            "AWS IoT Core",
+            "AWS IoT Device Defender"
         ]
     },
     {

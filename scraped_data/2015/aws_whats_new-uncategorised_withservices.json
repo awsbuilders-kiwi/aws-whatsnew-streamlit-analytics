@@ -23,9 +23,9 @@
         "Date": "28/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/",
         "Services": [
-            "AWS Directory Service",
             "AWS CloudFormation",
-            "AWS WAF"
+            "AWS WAF",
+            "AWS Directory Service"
         ]
     },
     {
@@ -139,8 +139,8 @@
         "Date": "17/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/easily-launch-select-third-party-software-on-aws-using-new-compatibility-between-aws-marketplace-and-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -411,9 +411,9 @@
         "Date": "03/12/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-codepipeline-aws-config-and-more/",
         "Services": [
+            "AWS Config",
             "AWS CodePipeline",
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -498,8 +498,8 @@
         "Date": "23/11/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/11/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-is-now-available-in-aws-govcloud/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -775,8 +775,8 @@
         "Date": "22/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-data-pipeline-now-supports-amazon-emr-4x-software-releases/",
         "Services": [
-            "Amazon EMR",
-            "AWS Data Pipeline"
+            "AWS Data Pipeline",
+            "Amazon EMR"
         ]
     },
     {
@@ -1055,8 +1055,8 @@
         "Date": "01/10/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/10/aws-cloudformation-adds-support-for-aws-codedeploy-and-more/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS CodeDeploy"
+            "AWS CodeDeploy",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1074,8 +1074,8 @@
         "Date": "30/09/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/09/near-real-time-processing-of-amazon-cloudwatch-logs-with-aws-lambda/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1553,8 +1553,8 @@
         "Date": "18/08/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-ec2-container-service-supports-amazon-cloudwatch-monitoring/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -1740,8 +1740,8 @@
         "Date": "28/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/amazon-dynamodb-amazon-rds-oracle-mysql-engines-amazon-emr-covered-under-aws-business-associate-agreement/",
         "Services": [
-            "Amazon EMR",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon EMR"
         ]
     },
     {
@@ -1844,8 +1844,8 @@
         "Date": "15/07/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/07/use-amazon-cloudwatch-to-monitor-amazon-workspaces/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -2217,9 +2217,9 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/aws-cloudformation-supports-amazon-ec2-container-service-data-pipeline-lambda-iam-managed-policies/",
         "Services": [
             "Amazon EC2",
-            "AWS Lambda",
+            "AWS Data Pipeline",
             "AWS CloudFormation",
-            "AWS Data Pipeline"
+            "AWS Lambda"
         ]
     },
     {
@@ -2314,8 +2314,8 @@
         "Date": "02/06/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/06/run-parallel-hadoop-jobs-on-your-amazon-emr-cluster-using-aws-data-pipeline/",
         "Services": [
-            "Amazon EMR",
-            "AWS Data Pipeline"
+            "AWS Data Pipeline",
+            "Amazon EMR"
         ]
     },
     {
@@ -2349,8 +2349,8 @@
         "Date": "28/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/amazon-dynamodb-supports-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2416,8 +2416,8 @@
         "Date": "19/05/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/05/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-now-available-in-northern-california-region/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -2744,8 +2744,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-announces-the-aws-marketplace-for-desktop-apps-and-amazon-workspaces-application-manager/",
         "Services": [
-            "Amazon WorkSpaces",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -2788,8 +2788,8 @@
         "Date": "10/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-cognito-events-run-aws-lambda-functions-in-response-to-events-in-amazon-cognito/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Cognito"
+            "Amazon Cognito",
+            "AWS Lambda"
         ]
     },
     {
@@ -2798,8 +2798,8 @@
         "Date": "08/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/aws-cloudformation-supports-aws-lambda-backed-custom-resources/",
         "Services": [
-            "AWS Lambda",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Lambda"
         ]
     },
     {
@@ -2895,8 +2895,8 @@
         "Date": "04/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/04/amazon-emr-now-supports-amazon-ec2-dense-storage-d2-instances/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -2964,8 +2964,8 @@
         "Date": "01/04/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/announcing-single-sign-on-between-amazon-workspaces-and-amazon-workdocs/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon WorkDocs"
+            "Amazon WorkDocs",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -3251,8 +3251,8 @@
         "Date": "06/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/amazon-cloudsearch-launches-domain-performance-metrics-through-amazon-cloudwatch-and-support-for-index-field-statistics/",
         "Services": [
-            "Amazon CloudSearch",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon CloudSearch"
         ]
     },
     {
@@ -3261,8 +3261,8 @@
         "Date": "05/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/aws-cloudtrail-integration-with-amazon-cloudwatch-logs-now-available-in-syd-sing-frank-tokyo-regions/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -3271,8 +3271,8 @@
         "Date": "04/03/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/03/introducing-amazon-cognito-streams-automatically-stream-user-id-data-to-amazon-kinesis/",
         "Services": [
-            "Amazon Cognito",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon Cognito"
         ]
     },
     {
@@ -3421,8 +3421,8 @@
         "Date": "11/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/11/amazon-route-53-announces-aws-cloudtrail-integration-tagging-health-check-features/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -3456,8 +3456,8 @@
         "Date": "10/02/2015",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2015/02/10/all-api-calls-to-aws-config-now-available-in-aws-cloudtrail/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudTrail"
         ]
     },
     {

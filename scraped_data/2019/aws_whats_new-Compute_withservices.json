@@ -72,8 +72,8 @@
         "Date": "13/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -241,8 +241,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -260,10 +260,10 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
+            "AWS PrivateLink",
             "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "AWS Auto Scaling",
-            "AWS PrivateLink"
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -1210,8 +1210,8 @@
         "Date": "15/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-cloudformation-updates-amazon-ec2-ecs-efs-s3-and-more/",
         "Services": [
-            "Amazon EC2",
             "Amazon EFS",
+            "Amazon EC2",
             "AWS CloudFormation",
             "Amazon S3"
         ]

@@ -5,8 +5,8 @@
         "Date": "23/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-step-functions-now-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -15,8 +15,8 @@
         "Date": "21/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-global-accelerator-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Global Accelerator",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Global Accelerator"
         ]
     },
     {
@@ -34,8 +34,8 @@
         "Date": "19/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/cloudfront-realtime-metrics/",
         "Services": [
-            "Amazon CloudFront",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon CloudFront"
         ]
     },
     {
@@ -137,10 +137,10 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
+            "AWS PrivateLink",
             "Amazon EC2",
             "Amazon EC2 Auto Scaling",
-            "AWS Auto Scaling",
-            "AWS PrivateLink"
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -196,10 +196,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS App Mesh",
-            "Amazon API Gateway",
             "AWS CodePipeline",
             "AWS CloudFormation",
-            "AWS Amplify"
+            "AWS Amplify",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -226,9 +226,9 @@
         "Date": "02/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/cloudfront-china-metrics-cloudformation/",
         "Services": [
+            "Amazon CloudWatch",
             "Amazon CloudFront",
-            "AWS CloudFormation",
-            "Amazon CloudWatch"
+            "AWS CloudFormation"
         ]
     },
     {

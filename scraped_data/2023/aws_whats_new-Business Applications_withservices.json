@@ -321,10 +321,10 @@
         "Date": "26/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-webrtc-audio-kinesis-video-streams/",
         "Services": [
-            "Amazon Kinesis Video Streams",
             "Amazon Chime SDK",
             "Amazon Kinesis",
-            "Amazon Chime"
+            "Amazon Chime",
+            "Amazon Kinesis Video Streams"
         ]
     },
     {
@@ -816,8 +816,8 @@
         "Date": "27/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-lex-chatbots/",
         "Services": [
-            "Amazon Lex",
             "Amazon Chime SDK",
+            "Amazon Lex",
             "Amazon Chime"
         ]
     },
@@ -856,8 +856,8 @@
         "Date": "01/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Connect"
+            "Amazon Connect",
+            "AWS CloudFormation"
         ]
     },
     {

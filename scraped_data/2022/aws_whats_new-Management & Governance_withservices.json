@@ -116,8 +116,8 @@
         "Date": "10/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Managed Grafana"
+            "Amazon Managed Grafana",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Date": "08/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-change-manager-displays-aws-cloudtrail-change-requests/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -171,8 +171,8 @@
         "Date": "29/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -499,8 +499,8 @@
         "Date": "08/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -701,8 +701,8 @@
         "Date": "22/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -781,8 +781,8 @@
         "Date": "03/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "Date": "02/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/",
         "Services": [
-            "AWS Config",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Config"
         ]
     },
     {
@@ -936,8 +936,8 @@
         "Date": "03/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -980,8 +980,8 @@
         "Date": "29/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Control Tower"
+            "AWS Control Tower",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1000,8 +1000,8 @@
         "Date": "28/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/",
         "Services": [
-            "AWS Control Tower",
             "AWS Chatbot",
+            "AWS Control Tower",
             "Amazon S3"
         ]
     },
@@ -1179,8 +1179,8 @@
         "Date": "09/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1252,9 +1252,9 @@
         "Date": "26/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/",
         "Services": [
-            "AWS Launch Wizard",
+            "Amazon FSx",
             "Amazon FSx for NetApp ONTAP",
-            "Amazon FSx"
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -1263,8 +1263,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "Date": "09/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -1503,8 +1503,8 @@
         "Date": "29/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/",
         "Services": [
-            "AWS Marketplace",
-            "AWS License Manager"
+            "AWS License Manager",
+            "AWS Marketplace"
         ]
     },
     {
@@ -1609,8 +1609,8 @@
         "Date": "01/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -1762,8 +1762,8 @@
         "Date": "28/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1850,8 +1850,8 @@
         "Date": "11/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/",
         "Services": [
-            "AWS Launch Wizard",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Launch Wizard"
         ]
     },
     {

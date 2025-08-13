@@ -249,10 +249,10 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
             "AWS App Mesh",
-            "Amazon API Gateway",
             "AWS CodePipeline",
             "AWS CloudFormation",
-            "AWS Amplify"
+            "AWS Amplify",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -277,10 +277,10 @@
         "Date": "07/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/introducing-notifications-for-aws-codecommit-aws-codebuild-aws-codedeploy-and-asw-codepipeline/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS CodeCommit",
             "AWS CodeBuild",
-            "AWS CodeDeploy"
+            "AWS CodeCommit",
+            "AWS CodeDeploy",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "15/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-codepipeline-enables-setting-environment-variables-on-aws-codebuild-build-jobs/",
         "Services": [
-            "AWS CodePipeline",
-            "AWS CodeBuild"
+            "AWS CodeBuild",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -435,8 +435,8 @@
         "Date": "29/08/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/08/AWS_Chatbot_Now_Supports_Notifications_from_AWS_Systems_Manager/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -693,8 +693,8 @@
         "Date": "22/01/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/01/aws-cloud9-supports-aws-cloudtrail-logging/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Cloud9"
+            "AWS Cloud9",
+            "AWS CloudTrail"
         ]
     },
     {

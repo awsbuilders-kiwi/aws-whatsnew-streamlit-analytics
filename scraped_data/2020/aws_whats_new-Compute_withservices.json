@@ -37,8 +37,8 @@
         "Date": "24/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS Compute Optimizer"
+            "AWS Compute Optimizer",
+            "AWS Lambda"
         ]
     },
     {
@@ -143,8 +143,8 @@
         "Date": "18/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MSK"
+            "Amazon MSK",
+            "AWS Lambda"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon DynamoDB",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "AWS Lambda"
         ]
     },
     {
@@ -260,8 +260,8 @@
         "Date": "04/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/",
         "Services": [
-            "AWS Fargate",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Fargate"
         ]
     },
     {
@@ -616,8 +616,8 @@
         "Date": "09/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS Lambda"
         ]
     },
     {
@@ -626,8 +626,8 @@
         "Date": "06/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/",
         "Services": [
-            "AWS Lambda",
-            "Amazon MQ"
+            "Amazon MQ",
+            "AWS Lambda"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS Fargate",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Fargate"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Lambda",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Lambda"
         ]
     },
     {
@@ -1043,8 +1043,8 @@
         "Date": "17/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/",
         "Services": [
-            "AWS Lambda",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Lambda"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -1612,8 +1612,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1622,8 +1622,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/announcing-amazon-cloudwatch-metrics-amazon-ec2-on-demand-capacity-reservations/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -1966,8 +1966,8 @@
         "Date": "11/05/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/05/control-your-email-flows-in-amazon-workmail-using-aws-lambda/",
         "Services": [
-            "AWS Lambda",
-            "Amazon WorkMail"
+            "Amazon WorkMail",
+            "AWS Lambda"
         ]
     },
     {
@@ -2235,8 +2235,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
