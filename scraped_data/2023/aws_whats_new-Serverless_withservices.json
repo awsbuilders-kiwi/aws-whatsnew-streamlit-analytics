@@ -58,8 +58,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/",
         "Services": [
             "Amazon Kinesis",
-            "Amazon Kinesis Data Streams",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Kinesis Data Streams"
         ]
     },
     {
@@ -199,8 +199,8 @@
         "Date": "21/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon MSK"
+            "Amazon MSK",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -354,9 +354,9 @@
         "Date": "26/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
             "EMR Serverless",
-            "Amazon EMR"
+            "Amazon EMR",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -400,8 +400,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Aurora"
+            "Amazon Aurora",
+            "Amazon Redshift"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
+            "AWS App Runner",
             "AWS Systems Manager",
-            "AWS Secrets Manager",
-            "AWS App Runner"
+            "AWS Secrets Manager"
         ]
     }
 ]

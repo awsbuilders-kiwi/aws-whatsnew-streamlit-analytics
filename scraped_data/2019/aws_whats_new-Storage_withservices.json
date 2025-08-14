@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -15,9 +15,9 @@
         "Date": "23/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/",
         "Services": [
-            "Amazon FSx",
             "Amazon FSx for Lustre",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon FSx"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Date": "21/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-elastic-files-system-now-available-in-bahrain-stockholm-sau-paulo-hong-kong/",
         "Services": [
-            "Amazon EFS",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "Amazon EFS"
         ]
     },
     {
@@ -182,11 +182,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS App Mesh",
-            "AWS CodePipeline",
-            "AWS CloudFormation",
             "AWS Amplify",
-            "Amazon API Gateway"
+            "AWS CloudFormation",
+            "AWS CodePipeline",
+            "Amazon API Gateway",
+            "AWS App Mesh"
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Date": "22/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
         "Services": [
-            "Amazon EFS",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon EFS"
         ]
     },
     {
@@ -367,8 +367,8 @@
         "Date": "04/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-fsx-lustre-reduces-minimum-file-system-size/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "26/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-s3-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -507,8 +507,8 @@
         "Date": "07/02/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/amazon-fsx-for-lustre-offers-new-options-and-faster-speeds/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     }
 ]
