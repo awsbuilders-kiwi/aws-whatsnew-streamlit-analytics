@@ -70,8 +70,8 @@
         "Date": "28/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/",
         "Services": [
-            "Amazon Inspector",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Inspector"
         ]
     },
     {
@@ -106,9 +106,9 @@
         "Date": "22/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/",
         "Services": [
+            "Amazon S3",
             "Amazon DynamoDB",
             "EMR Serverless",
-            "Amazon S3",
             "Amazon EMR"
         ]
     },
@@ -323,8 +323,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {

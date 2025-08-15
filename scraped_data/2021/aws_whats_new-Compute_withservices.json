@@ -146,8 +146,8 @@
         "Date": "03/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -320,8 +320,8 @@
         "Date": "26/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
         "Services": [
-            "Amazon DynamoDB",
             "Amazon Kinesis",
+            "Amazon DynamoDB",
             "AWS Lambda"
         ]
     },
@@ -349,8 +349,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -516,8 +516,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -585,8 +585,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -663,8 +663,8 @@
         "Date": "10/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/",
         "Services": [
-            "AWS App Runner",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS App Runner"
         ]
     },
     {
@@ -691,8 +691,8 @@
         "Date": "09/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "Date": "04/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Elastic Container Registry"
+            "Amazon Elastic Container Registry",
+            "AWS Lambda"
         ]
     },
     {
@@ -752,8 +752,8 @@
         "Date": "29/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/",
         "Services": [
-            "Amazon Lightsail",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Lightsail"
         ]
     },
     {
@@ -870,8 +870,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -880,8 +880,8 @@
         "Date": "14/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/",
         "Services": [
-            "AWS Batch",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Batch"
         ]
     },
     {
@@ -968,8 +968,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "VMware Cloud on AWS"
+            "VMware Cloud on AWS",
+            "AWS Outposts"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         "Date": "02/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1206,8 +1206,8 @@
         "Date": "01/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1355,8 +1355,8 @@
         "Date": "13/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/",
         "Services": [
-            "AWS Glue",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "AWS Glue"
         ]
     },
     {
@@ -1399,8 +1399,8 @@
         "Date": "06/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
             "Amazon EC2",
+            "Amazon EC2 Auto Scaling",
             "Amazon EventBridge"
         ]
     },
@@ -1451,8 +1451,8 @@
         "Date": "30/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -1506,8 +1506,8 @@
         "Date": "28/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/",
         "Services": [
-            "Amazon CodeGuru",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CodeGuru"
         ]
     },
     {
@@ -1526,8 +1526,8 @@
         "Date": "27/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/",
         "Services": [
-            "AWS CloudTrail",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1753,9 +1753,9 @@
         "Date": "14/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/",
         "Services": [
-            "Amazon EC2",
             "Amazon EBS",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EC2"
         ]
     },
     {
@@ -1916,8 +1916,8 @@
         "Date": "20/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-auto-scaling-introduces-predictive-scaling-native-scaling-policy/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2124,8 +2124,8 @@
         "Date": "21/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -2157,8 +2157,8 @@
         "Date": "09/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2330,8 +2330,8 @@
         "Date": "19/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2390,8 +2390,8 @@
         "Date": "13/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2478,8 +2478,8 @@
         "Date": "24/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {
@@ -2710,8 +2710,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/",
         "Services": [
-            "AWS Glue",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS Glue"
         ]
     },
     {
@@ -2720,8 +2720,8 @@
         "Date": "07/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/",
         "Services": [
-            "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EC2 Auto Scaling"
         ]
     },
     {

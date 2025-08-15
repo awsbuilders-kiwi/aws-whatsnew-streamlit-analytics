@@ -53,8 +53,8 @@
         "Date": "13/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -224,8 +224,8 @@
         "Date": "10/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -273,9 +273,9 @@
         "Date": "03/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/",
         "Services": [
+            "Amazon Kinesis Data Streams",
             "Amazon Kinesis",
-            "Amazon EventBridge",
-            "Amazon Kinesis Data Streams"
+            "Amazon EventBridge"
         ]
     },
     {
@@ -315,8 +315,8 @@
         "Date": "13/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/",
         "Services": [
-            "EMR Serverless",
             "AWS Step Functions",
+            "EMR Serverless",
             "Amazon EMR"
         ]
     },
@@ -544,8 +544,8 @@
         "Date": "15/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/",
         "Services": [
-            "Amazon VPC Lattice",
             "AWS Step Functions",
+            "Amazon VPC Lattice",
             "Amazon VPC"
         ]
     },
@@ -578,8 +578,8 @@
         "Date": "02/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-fraud-detector-event-orchestration-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon Fraud Detector"
+            "Amazon Fraud Detector",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -750,8 +750,8 @@
         "Date": "17/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-step-functions-integration-35-services-emr-serverless/",
         "Services": [
-            "EMR Serverless",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "EMR Serverless"
         ]
     },
     {

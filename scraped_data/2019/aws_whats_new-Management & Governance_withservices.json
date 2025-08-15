@@ -59,11 +59,11 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
-            "Amazon S3",
             "AWS CloudFormation",
-            "AWS CodePipeline",
             "Amazon API Gateway",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon S3",
+            "AWS CodePipeline"
         ]
     },
     {
@@ -72,8 +72,8 @@
         "Date": "13/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon EC2",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EC2"
         ]
     },
     {
@@ -412,8 +412,8 @@
         "Date": "18/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-cloudwatch-sends-alarm-state-change-events-amazon-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -438,8 +438,8 @@
         "Date": "11/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/aws-chatbot-now-supports-notifications-from-aws-config/",
         "Services": [
-            "AWS Config",
-            "AWS Chatbot"
+            "AWS Chatbot",
+            "AWS Config"
         ]
     },
     {
@@ -455,8 +455,8 @@
         "Date": "08/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/",
         "Services": [
-            "Amazon VPC",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon VPC"
         ]
     },
     {
@@ -474,9 +474,9 @@
         "Date": "20/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
-            "Amazon EC2",
+            "AWS CloudFormation",
             "Amazon ElastiCache",
-            "AWS CloudFormation"
+            "Amazon EC2"
         ]
     },
     {

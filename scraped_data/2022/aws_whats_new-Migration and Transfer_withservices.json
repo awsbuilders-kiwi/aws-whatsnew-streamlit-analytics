@@ -42,9 +42,9 @@
         "Date": "15/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/",
         "Services": [
-            "AWS PrivateLink",
             "AWS Key Management Service",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -317,8 +317,8 @@
         "Date": "31/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/",
         "Services": [
-            "AWS DataSync",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS DataSync"
         ]
     },
     {
