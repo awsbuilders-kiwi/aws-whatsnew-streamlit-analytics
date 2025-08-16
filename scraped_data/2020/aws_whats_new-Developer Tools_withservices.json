@@ -264,8 +264,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -369,8 +369,8 @@
         "Date": "09/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-code-artifact-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS CodeArtifact"
+            "AWS CodeArtifact",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -493,8 +493,8 @@
         "Date": "14/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/aws-step-functions-adds-support-for-aws-x-ray/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Step Functions"
+            "AWS Step Functions",
+            "AWS X-Ray"
         ]
     },
     {
@@ -510,8 +510,8 @@
         "Date": "08/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-codeguru-profiler-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon CodeGuru"
+            "Amazon CodeGuru",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -815,8 +815,8 @@
         "Date": "24/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-config-integrates-aws-cloudformation-registry/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1144,8 +1144,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1182,10 +1182,10 @@
         "Date": "02/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/receive-notifications-for-aws-codebuild-codecommit-codedeploy-codepipeline-in-slack/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodePipeline",
+            "AWS CodeDeploy",
             "AWS CodeCommit",
-            "AWS CodeDeploy"
+            "AWS CodePipeline",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -1230,8 +1230,8 @@
         "Date": "07/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/provision-aws-chatbot-configurations-aws-cloudformation/",
         "Services": [
-            "AWS Chatbot",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Chatbot"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-chatbot-supports-amazon-cloudwatch-metrics-logs/",
         "Services": [
-            "AWS Chatbot",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Chatbot"
         ]
     },
     {
@@ -1286,8 +1286,8 @@
         "Date": "14/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/now-enable-amazon-ec2-hibernation-on-demand-reserved-instances-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1296,9 +1296,9 @@
         "Date": "13/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/notification-rules-for-aws-codecommit-aws-codebuild-and-aws-codedeploy-are-now-available-in-hong-kong-and-bahrain/",
         "Services": [
-            "AWS CodeBuild",
+            "AWS CodeDeploy",
             "AWS CodeCommit",
-            "AWS CodeDeploy"
+            "AWS CodeBuild"
         ]
     },
     {
@@ -1332,8 +1332,8 @@
         "Date": "07/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/aws-codebuild-adds-support-for-amazon-efs/",
         "Services": [
-            "AWS CodeBuild",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS CodeBuild"
         ]
     },
     {

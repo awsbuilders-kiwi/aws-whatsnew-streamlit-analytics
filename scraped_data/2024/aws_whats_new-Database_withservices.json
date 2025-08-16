@@ -492,8 +492,8 @@
         "Date": "13/11/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source",
         "Services": [
-            "Amazon Managed Service for Apache Flink",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "Amazon Managed Service for Apache Flink"
         ]
     },
     {
@@ -582,8 +582,8 @@
         "Date": "31/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai",
         "Services": [
-            "Amazon Bedrock",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Bedrock"
         ]
     },
     {
@@ -651,8 +651,8 @@
         "Date": "25/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -732,8 +732,8 @@
         "Date": "16/10/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-zero-etl-integration-redshift/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -895,8 +895,8 @@
         "Date": "25/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -994,8 +994,8 @@
         "Date": "13/09/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1084,9 +1084,9 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
         "Services": [
+            "Amazon Redshift",
             "Amazon Redshift Serverless",
-            "AWS PrivateLink",
-            "Amazon Redshift"
+            "AWS PrivateLink"
         ]
     },
     {
@@ -1095,8 +1095,8 @@
         "Date": "31/08/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune",
         "Services": [
-            "AWS Backup",
-            "Amazon Neptune"
+            "Amazon Neptune",
+            "AWS Backup"
         ]
     },
     {
@@ -1526,8 +1526,8 @@
         "Date": "08/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-middle-east-uae-region",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1552,8 +1552,8 @@
         "Date": "05/06/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target",
         "Services": [
-            "Amazon Timestream",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon Timestream"
         ]
     },
     {
@@ -1569,8 +1569,8 @@
         "Date": "31/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-zurich-spain",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -1643,8 +1643,8 @@
         "Date": "23/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-zero-etl-integration-s3/",
         "Services": [
-            "Amazon OpenSearch Service",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon OpenSearch Service"
         ]
     },
     {
@@ -1683,8 +1683,8 @@
         "Date": "22/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-db2-hourly-licensing-ibm-aws-marketplace/",
         "Services": [
-            "AWS Marketplace",
-            "Amazon RDS for Db2"
+            "Amazon RDS for Db2",
+            "AWS Marketplace"
         ]
     },
     {
@@ -1718,8 +1718,8 @@
         "Date": "17/05/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/",
         "Services": [
-            "Amazon Redshift Serverless",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Redshift Serverless"
         ]
     },
     {
@@ -2021,8 +2021,8 @@
         "Date": "28/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-import-s3-50000-objects-single-bulk-import/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -2080,8 +2080,8 @@
         "Date": "21/03/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/",
         "Services": [
-            "Amazon Relational Database Service",
-            "AWS License Manager"
+            "AWS License Manager",
+            "Amazon Relational Database Service"
         ]
     },
     {
@@ -2310,8 +2310,8 @@
         "Date": "22/02/2024",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-dynamodb-zero-etl-integration-redshift-virginia/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon DynamoDB"
         ]
     },
     {

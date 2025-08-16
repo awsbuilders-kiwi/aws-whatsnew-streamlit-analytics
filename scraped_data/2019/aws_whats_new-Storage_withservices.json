@@ -15,8 +15,8 @@
         "Date": "23/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/",
         "Services": [
-            "Amazon FSx",
             "Amazon S3",
+            "Amazon FSx",
             "Amazon FSx for Lustre"
         ]
     },
@@ -53,8 +53,8 @@
         "Date": "03/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -182,11 +182,11 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CloudFormation",
+            "AWS CodePipeline",
             "Amazon API Gateway",
             "AWS Amplify",
             "AWS App Mesh",
-            "AWS CodePipeline"
+            "AWS CloudFormation"
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Date": "22/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-efs-supports-aws-privatelink/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -323,8 +323,8 @@
         "Date": "14/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-storage-gateway-adds-amazon-cloudwatch-logging-and-metrics-for-file-gateway/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Storage Gateway"
+            "AWS Storage Gateway",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -402,8 +402,8 @@
         "Date": "26/07/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/07/amazon-s3-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -479,8 +479,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/",
         "Services": [
             "AWS Storage Gateway",
-            "AWS PrivateLink",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS PrivateLink"
         ]
     },
     {

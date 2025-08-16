@@ -72,8 +72,8 @@
         "Date": "13/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-spot-now-provides-instance-launch-notifications-via-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -178,8 +178,8 @@
         "Date": "03/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -241,8 +241,8 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-adds-support-for-percentiles-on-amazon-cloudwatch-metrics/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -260,9 +260,9 @@
         "Date": "26/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-ec2-auto-scaling-application-auto-scaling-aws-auto-scaling-support-aws-privatelink/",
         "Services": [
-            "AWS Auto Scaling",
             "Amazon EC2",
             "AWS PrivateLink",
+            "AWS Auto Scaling",
             "Amazon EC2 Auto Scaling"
         ]
     },
@@ -742,8 +742,8 @@
         "Date": "08/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1210,10 +1210,10 @@
         "Date": "15/06/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-cloudformation-updates-amazon-ec2-ecs-efs-s3-and-more/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon S3",
             "Amazon EC2",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS CloudFormation"
         ]
     },
     {

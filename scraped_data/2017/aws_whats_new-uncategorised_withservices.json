@@ -108,8 +108,8 @@
         "Date": "22/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-quicksight-now-supports-cross-account-access-to-amazon-s3-buckets/",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -139,8 +139,8 @@
         "Date": "20/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/aws-elastic-beanstalk-supports-amazon-cloudwatch-log-streaming-for-windows-platforms/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -350,8 +350,8 @@
         "Date": "15/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-api-gateway-supports-amazon-cognito-oauth2-scopes/",
         "Services": [
-            "Amazon Cognito",
-            "Amazon API Gateway"
+            "Amazon API Gateway",
+            "Amazon Cognito"
         ]
     },
     {
@@ -399,8 +399,8 @@
         "Date": "15/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-cloudwatch-introduces-a-new-cloudwatch-agent-with-aws-systems-manager-integration-for-unified-metrics-and-logs-collection/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -649,8 +649,8 @@
         "Date": "07/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-pinpoint-extensions-public-beta-enables-enhanced-pinpoint-segmentation-and-to-add-new-messaging-channels-to-pinpoint-using-aws-lambda/",
         "Services": [
-            "Amazon Pinpoint",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Pinpoint"
         ]
     },
     {
@@ -698,8 +698,8 @@
         "Date": "06/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/12/amazon-inspector-announces-aws-cloudformation-support--a-new-ami-pre-installed-with-the-inspector-agent--and-use-of-service-linked-roles/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -754,8 +754,8 @@
         "Date": "01/12/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/aws-cloudtrail-adds-logging-of-execution-activity-for-aws-lambda-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Lambda"
         ]
     },
     {
@@ -1193,8 +1193,8 @@
         "Date": "29/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/aws-lambda-supports-traffic-shifting-and-phased-deployments-with-aws-codedeploy/",
         "Services": [
-            "AWS CodeDeploy",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS CodeDeploy"
         ]
     },
     {
@@ -1654,8 +1654,8 @@
         "Date": "21/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/identify-opportunities-for-cost-savings-using-aws-cost-explorers-new-amazon-ec2-reserved-instance-purchase-recommendations/",
         "Services": [
-            "AWS Cost Explorer",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Cost Explorer"
         ]
     },
     {
@@ -1768,8 +1768,8 @@
         "Date": "18/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/aws-database-migration-service-adds-support-for-aws-snowball/",
         "Services": [
-            "AWS Snowball",
-            "AWS Database Migration Service"
+            "AWS Database Migration Service",
+            "AWS Snowball"
         ]
     },
     {
@@ -1873,8 +1873,8 @@
         "Date": "17/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/utilization-alerts-for-amazon-redshift--amazon-rds--and-amazon-elasticache-reservations/",
         "Services": [
-            "Amazon ElastiCache",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -1936,9 +1936,9 @@
         "Date": "15/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/aws-config-adds-support-for-aws-waf-and-amazon-cloudfront/",
         "Services": [
-            "AWS WAF",
+            "AWS Config",
             "Amazon CloudFront",
-            "AWS Config"
+            "AWS WAF"
         ]
     },
     {
@@ -2049,9 +2049,9 @@
         "Date": "10/11/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/11/monitor-your-amazon-redshift-amazon-rds-and-amazon-elasticache-reservations-using-aws-cost-explorers-ri-utilization-report/",
         "Services": [
-            "AWS Cost Explorer",
+            "Amazon Redshift",
             "Amazon ElastiCache",
-            "Amazon Redshift"
+            "AWS Cost Explorer"
         ]
     },
     {
@@ -2589,8 +2589,8 @@
         "Date": "20/10/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/10/aws-config-adds-support-for-aws-codebuild/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS Config"
+            "AWS Config",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -2833,8 +2833,8 @@
         "Date": "11/10/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/10/aws-codepipeline-executions-support-push-events-from-aws-codecommit/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -2927,8 +2927,8 @@
         "Date": "06/10/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/10/aws-database-migration-service-adds-amazon-s3-and-azure-sql-database-as-sources/",
         "Services": [
-            "AWS Database Migration Service",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Database Migration Service"
         ]
     },
     {
@@ -3619,8 +3619,8 @@
         "Date": "09/09/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/09/aws-config-adds-support-for-amazon-dynamodb-tables/",
         "Services": [
-            "Amazon DynamoDB",
-            "AWS Config"
+            "AWS Config",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -3745,8 +3745,8 @@
         "Date": "07/09/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/09/amazon-vpc-nat-gateways-now-support-amazon-cloudwatch-monitoring-and-resource-tagging/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon VPC"
+            "Amazon VPC",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -3812,8 +3812,8 @@
         "Date": "06/09/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/09/amazon-workspaces-users-can-now-use-amazon-workdocs-drive/",
         "Services": [
-            "Amazon WorkSpaces",
-            "Amazon WorkDocs"
+            "Amazon WorkDocs",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -3867,8 +3867,8 @@
         "Date": "01/09/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/09/amazon-quicksight-now-supports-search-filter-groups-and-amazon-s3-analytics-connector/",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -4178,8 +4178,8 @@
         "Date": "21/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/amazon-ec2-systems-manager-adds-a-new-amazon-cloudwatch-events-target-association-versioning-for-state-manager-and-approve-action-for-automation/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -4250,8 +4250,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/amazon-ec2-systems-manager-adds-new-maintenance-window-task-types-for-automation-aws-step-functions-and-aws-lambda/",
         "Services": [
             "AWS Step Functions",
-            "Amazon EC2",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon EC2"
         ]
     },
     {
@@ -4278,8 +4278,8 @@
         "Date": "16/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/amazon-redshift-spectrum-now-integrates-with-aws-glue/",
         "Services": [
-            "AWS Glue",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Glue"
         ]
     },
     {
@@ -4295,8 +4295,8 @@
         "Date": "16/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/aws-cloudtrail-integration-is-now-available-in-amazon-lex/",
         "Services": [
-            "Amazon Lex",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Lex"
         ]
     },
     {
@@ -4396,8 +4396,8 @@
         "Date": "12/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/aws-batch-adds-support-for-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -4467,9 +4467,9 @@
         "Date": "11/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/08/aws-marketplace-cost-and-usage-data-now-available-in-aws-cost-explorer-aws-budgets-and-the-aws-cost-and-usage-reports/",
         "Services": [
-            "AWS Cost Explorer",
+            "AWS Budgets",
             "AWS Marketplace",
-            "AWS Budgets"
+            "AWS Cost Explorer"
         ]
     },
     {
@@ -4685,8 +4685,8 @@
         "Date": "01/08/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/07/amazon-quicksight-now-supports-amazon-athena-in-eu-ireland-count-distinct-and-weekly-aggregation/",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon Athena"
+            "Amazon Athena",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -5060,8 +5060,8 @@
         "Date": "13/07/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/07/amazon-cloudwatch-events-now-supports-aws-codepipeline-as-a-target/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5182,8 +5182,8 @@
         "Date": "07/07/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/07/aws-config-tracks-changes-to-aws-cloudformation-stacks/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -5226,10 +5226,10 @@
         "Date": "05/07/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/07/aws-cloudformation-coverage-updates-for-amazon-api-gateway--amazon-ec2--amazon-emr--amazon-dynamodb-and-more/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon API Gateway",
-            "Amazon DynamoDB",
             "Amazon EC2",
+            "Amazon DynamoDB",
+            "AWS CloudFormation",
             "Amazon EMR"
         ]
     },
@@ -5299,8 +5299,8 @@
         "Date": "30/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-codebuild-and-aws-codepipeline-are-now-available-in-us-west-eu-and-canada-regions/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -5355,8 +5355,8 @@
         "Date": "29/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-direct-connect-now-provides-amazon-cloudwatch-monitoring/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Direct Connect"
+            "AWS Direct Connect",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5383,8 +5383,8 @@
         "Date": "28/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-cloudtrail-adds-amazon-cloudwatch-events-to-the-api-activity/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5604,8 +5604,8 @@
         "Date": "17/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/cloudwatch-events-now-supports-amazon-kinesis-firehose/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon Kinesis"
+            "Amazon Kinesis",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5657,8 +5657,8 @@
         "Date": "15/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/configure-amazon-cloudwatch-events-as-an-aws-lambda-event-source/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -5765,9 +5765,9 @@
         "Date": "09/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-trusted-advisor-now-checks-for-public-snapshots-of-amazon-elastic-block-store-ebs-and-amazon-relational-database-service-rds-data/",
         "Services": [
+            "Amazon Elastic Block Store",
             "AWS Trusted Advisor",
-            "Amazon Relational Database Service",
-            "Amazon Elastic Block Store"
+            "Amazon Relational Database Service"
         ]
     },
     {
@@ -5819,8 +5819,8 @@
         "Date": "08/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/saas-sellers-in-aws-marketplace-can-now-log-metering-records-with-aws-cloudtrail/",
         "Services": [
-            "AWS Marketplace",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS Marketplace"
         ]
     },
     {
@@ -5923,10 +5923,10 @@
         "Date": "06/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-cloudformation-now-supports-amazon-emr-security-configurations-aws-lambda-and-aws-x-ray-integration-amazon-cloudwatch-percentile-redshift-resource-tagging-and-other-coverage-updates/",
         "Services": [
-            "AWS CloudFormation",
             "Amazon CloudWatch",
             "AWS Lambda",
             "AWS X-Ray",
+            "AWS CloudFormation",
             "Amazon EMR"
         ]
     },
@@ -6036,8 +6036,8 @@
         "Date": "02/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/amazon-quicksight-adds-support-for-amazon-redshift-spectrum/",
         "Services": [
-            "Amazon QuickSight",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -6070,8 +6070,8 @@
         "Date": "02/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/aws-config-supports-amazon-cloudwatch-alarms-and-additional-rule/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Config"
+            "AWS Config",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -6080,10 +6080,10 @@
         "Date": "02/06/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/06/cloudfront-s3-transfer-acceleration-waf-shield-are-now-hipaa-eligible/",
         "Services": [
-            "AWS Shield",
-            "AWS WAF",
+            "Amazon S3",
             "Amazon CloudFront",
-            "Amazon S3"
+            "AWS Shield",
+            "AWS WAF"
         ]
     },
     {
@@ -6274,8 +6274,8 @@
         "Date": "23/05/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-elastic-block-store-now-supports-cost-allocation-for-snapshots/",
         "Services": [
-            "Amazon EBS",
-            "Amazon Elastic Block Store"
+            "Amazon Elastic Block Store",
+            "Amazon EBS"
         ]
     },
     {
@@ -6414,8 +6414,8 @@
         "Date": "17/05/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/05/amazon-gamelift-metrics-now-available-in-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon GameLift"
+            "Amazon GameLift",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -6440,8 +6440,8 @@
         "Date": "16/05/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/05/aws-x-ray-makes-aws-lambda-request-tracing-generally-available/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS X-Ray"
         ]
     },
     {
@@ -6559,8 +6559,8 @@
         "Date": "10/05/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/05/aws-cloudtrail-adds-data-event-delivery-to-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -6639,8 +6639,8 @@
         "Date": "04/05/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/05/aws-waf-on-alb-now-integrated-with-cloudtrail/",
         "Services": [
-            "AWS WAF",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS WAF"
         ]
     },
     {
@@ -6751,8 +6751,8 @@
         "Date": "29/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-quicksight-now-supports-audit-logging-with-aws-cloudtrail/",
         "Services": [
-            "Amazon QuickSight",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon QuickSight"
         ]
     },
     {
@@ -6761,8 +6761,8 @@
         "Date": "28/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/aws-cloudformation-adds-support-for-amazon-cognito-ebs-elastic-volumes-and-updates-resource-coverage/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Cognito"
         ]
     },
     {
@@ -6780,8 +6780,8 @@
         "Date": "28/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-cognito-now-supported-by-aws-cloudformation/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Cognito"
         ]
     },
     {
@@ -7011,8 +7011,8 @@
         "Date": "20/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/aws-x-ray-now-supports-tracing-for-aws-lambda-preview/",
         "Services": [
-            "AWS X-Ray",
-            "AWS Lambda"
+            "AWS Lambda",
+            "AWS X-Ray"
         ]
     },
     {
@@ -7203,8 +7203,8 @@
         "Date": "10/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/aws-opsworks-stacks-supports-amazon-cloudwatch-logs/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS OpsWorks"
+            "AWS OpsWorks",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -7258,8 +7258,8 @@
         "Date": "06/04/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/04/amazon-athena-can-now-query-encrypted-data-on-s3-adds-support-for-lzo-compression-and-performance-improvements-to-jdbc-driver/",
         "Services": [
-            "Amazon Athena",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Athena"
         ]
     },
     {
@@ -7420,8 +7420,8 @@
         "Date": "29/03/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/03/aws-cloudformation-supports-authoring-templates-with-code-references-and-amazon-vpc-peering/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -7439,8 +7439,8 @@
         "Date": "28/03/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/03/amazon-ec2-and-amazon-ebs-add-support-for-tagging-resources-upon-creation-and-additonal-resource-level-permissions/",
         "Services": [
-            "Amazon EBS",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -7582,8 +7582,8 @@
         "Date": "22/03/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/03/amazon-cloudwatch-events-adds-routing-to-amazon-ec2-run-command/",
         "Services": [
-            "Amazon CloudWatch",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -7829,8 +7829,8 @@
         "Date": "08/03/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/03/aws-codepipeline-adds-support-for-unit-testing/",
         "Services": [
-            "AWS CodeBuild",
-            "AWS CodePipeline"
+            "AWS CodePipeline",
+            "AWS CodeBuild"
         ]
     },
     {
@@ -8133,8 +8133,8 @@
         "Date": "17/02/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/02/aws-config-rules-adds-aws-cloudformation-templates-and-a-test-mode-for-rule-authoring/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Config"
+            "AWS Config",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -8171,8 +8171,8 @@
         "Date": "14/02/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/02/amazon-elastic-block-store-amazon-ebs-enables-live-volume-modifications-with-elastic-volumes/",
         "Services": [
-            "Amazon EBS",
-            "Amazon Elastic Block Store"
+            "Amazon Elastic Block Store",
+            "Amazon EBS"
         ]
     },
     {
@@ -8384,8 +8384,8 @@
         "Date": "31/01/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/01/aws-elastic-beanstalk-extensions-for-amazon-efs/",
         "Services": [
-            "Amazon EFS",
-            "AWS Elastic Beanstalk"
+            "AWS Elastic Beanstalk",
+            "Amazon EFS"
         ]
     },
     {
@@ -8425,8 +8425,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/01/aws-cloudtrail-adds-aws-managed-services-aws-codecommit-and-amazon-gamelift-to-the-api-activity-history/",
         "Services": [
             "Amazon GameLift",
-            "AWS CodeCommit",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -8474,8 +8474,8 @@
         "Date": "26/01/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/01/aws-marketplace-website-integrates-desktop-apps-for-amazon-workspaces/",
         "Services": [
-            "Amazon WorkSpaces",
-            "AWS Marketplace"
+            "AWS Marketplace",
+            "Amazon WorkSpaces"
         ]
     },
     {
@@ -8686,8 +8686,8 @@
         "Date": "12/01/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/01/aws-codecommit-supports-aws-cloudtrail-logging/",
         "Services": [
-            "AWS CodeCommit",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "AWS CodeCommit"
         ]
     },
     {
@@ -8728,8 +8728,8 @@
         "Date": "05/01/2017",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2017/01/amazon-inspector-launches-support-for-ubuntu-16-04-and-an-aws-lambda-blueprint-for-assessment-scheduling/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS Lambda"
         ]
     }
 ]
