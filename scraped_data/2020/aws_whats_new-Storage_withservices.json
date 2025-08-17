@@ -141,8 +141,8 @@
         "Date": "01/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-bucket-keys-reduce-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/",
         "Services": [
-            "Amazon S3",
-            "AWS Key Management Service"
+            "AWS Key Management Service",
+            "Amazon S3"
         ]
     },
     {
@@ -188,8 +188,8 @@
         "Date": "20/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/",
         "Services": [
-            "AWS Backup",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS Backup"
         ]
     },
     {
@@ -223,8 +223,8 @@
         "Date": "17/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/",
         "Services": [
-            "AWS X-Ray",
-            "Amazon Simple Storage Service"
+            "Amazon Simple Storage Service",
+            "AWS X-Ray"
         ]
     },
     {
@@ -242,8 +242,8 @@
         "Date": "12/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/",
         "Services": [
-            "AWS Backup",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Backup"
         ]
     },
     {
@@ -389,8 +389,8 @@
         "Date": "10/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fsx-lustre-supports-storage-quotas/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -473,8 +473,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -492,8 +492,8 @@
         "Date": "29/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-efs-integrates-aws-systems-manager-simplify-management-amazon-efs-clients/",
         "Services": [
-            "Amazon EFS",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "Amazon EFS"
         ]
     },
     {
@@ -615,8 +615,8 @@
         "Date": "18/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -625,8 +625,8 @@
         "Date": "13/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-fsx-lustre-announces-high-performance-hdd-based-shared-storage-compute-workloads/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -716,8 +716,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-fsx-lustre-supports-automatic-updates-amazon-s3/",
         "Services": [
             "Amazon S3",
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -776,8 +776,8 @@
         "Date": "08/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-fsx-lustre-now-supports-aws-graviton2-based-instances/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -829,8 +829,8 @@
         "Date": "25/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-fsx-lustre-provides-highly-durable-file-system-backups/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "25/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-backup-and-aws-organizations-bring-cross-account-data-protection-management-and-monitoring/",
         "Services": [
-            "AWS Backup",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS Backup"
         ]
     },
     {
@@ -1085,8 +1085,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-aws-opshub-snow-family/",
         "Services": [
-            "Snow Family",
-            "AWS Snowball"
+            "AWS Snowball",
+            "Snow Family"
         ]
     },
     {
@@ -1104,8 +1104,8 @@
         "Date": "17/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-snowball-adds-task-automation-aws-systems-manager/",
         "Services": [
-            "AWS Snowball",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Snowball"
         ]
     },
     {
@@ -1130,8 +1130,8 @@
         "Date": "09/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-ecs-aws-fargate-support-amazon-efs-filesystems-generally-available/",
         "Services": [
-            "AWS Fargate",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Fargate"
         ]
     },
     {
@@ -1176,8 +1176,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-for-lustre-is-now-available-in-the-aws-asia-pacific-hong-kong-region/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "Date": "03/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-fsx-lustre-csi-driver-supports-new-file-system-deployment-options/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1296,8 +1296,8 @@
         "Date": "25/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-fsx-lustre-launches-persistent-file-systems-scratch-file-systems-supports-kms-encryption-in-transit/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -1369,9 +1369,9 @@
         "Date": "31/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-backup-is-now-available-for-amazon-elastic-file-system-efs-in-4-additional-regions/",
         "Services": [
-            "AWS Backup",
             "Amazon Elastic File System",
-            "Amazon EFS"
+            "Amazon EFS",
+            "AWS Backup"
         ]
     },
     {
@@ -1381,8 +1381,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-datasync-transfer-data-to-and-from-amazon-fsx-windows-file-server/",
         "Services": [
             "AWS DataSync",
-            "Amazon FSx",
-            "Amazon FSx for Windows File Server"
+            "Amazon FSx for Windows File Server",
+            "Amazon FSx"
         ]
     },
     {
@@ -1426,8 +1426,8 @@
         "Date": "14/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-backup-delivers-fast-restore-experience-amazon-efs-item-level-recovery/",
         "Services": [
-            "AWS Backup",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Backup"
         ]
     },
     {
@@ -1464,8 +1464,8 @@
         "Date": "10/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-fsx-for-lustre-announces-aws-repository-for-lustre-clients/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {

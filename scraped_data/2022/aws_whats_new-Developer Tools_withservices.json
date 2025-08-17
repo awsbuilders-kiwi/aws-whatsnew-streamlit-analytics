@@ -400,9 +400,9 @@
         "Date": "06/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/",
         "Services": [
-            "Amazon Managed Service for Prometheus",
             "AWS Step Functions",
-            "AWS Lambda"
+            "AWS Lambda",
+            "Amazon Managed Service for Prometheus"
         ]
     },
     {
@@ -466,8 +466,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {

@@ -5,8 +5,8 @@
         "Date": "24/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-eks-announces-beta-release-amazon-fsx-lustre-csi-driver/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -16,8 +16,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/new-enhancements-moving-data-amazon-fsx-lustre-amazon-s3/",
         "Services": [
             "Amazon S3",
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -53,8 +53,8 @@
         "Date": "03/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ec2-nitro-system-based-instances-now-support-36-faster-amazon-ebs-optimized-instance-performance/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EBS"
+            "Amazon EBS",
+            "Amazon EC2"
         ]
     },
     {
@@ -182,10 +182,10 @@
         "Date": "12/11/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/11/aws-cloudformation-updates-for-amazon-api-gateway-aws-codepipeline-aws-amplify-amazon-es-aws-app-mesh-and-more/",
         "Services": [
-            "AWS CodePipeline",
-            "Amazon API Gateway",
             "AWS Amplify",
+            "AWS CodePipeline",
             "AWS App Mesh",
+            "Amazon API Gateway",
             "AWS CloudFormation"
         ]
     },
@@ -367,8 +367,8 @@
         "Date": "04/09/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/amazon-fsx-lustre-reduces-minimum-file-system-size/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -479,8 +479,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/06/aws-storage-gateway-now-supports-amazon-vpc-endpoints-aws-privatelink/",
         "Services": [
             "AWS Storage Gateway",
-            "Amazon VPC",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon VPC"
         ]
     },
     {
@@ -507,8 +507,8 @@
         "Date": "07/02/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/02/amazon-fsx-for-lustre-offers-new-options-and-faster-speeds/",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     }
 ]

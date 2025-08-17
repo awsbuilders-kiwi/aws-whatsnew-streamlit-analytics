@@ -118,9 +118,9 @@
         "Date": "18/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
+            "AWS Lake Formation",
             "Amazon Redshift",
-            "Amazon QuickSight",
-            "AWS Lake Formation"
+            "Amazon QuickSight"
         ]
     },
     {
@@ -170,8 +170,8 @@
         "Date": "07/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/",
         "Services": [
-            "Amazon DynamoDB",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -214,8 +214,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Q"
+            "Amazon Q",
+            "Amazon Redshift"
         ]
     },
     {
@@ -252,8 +252,8 @@
         "Date": "29/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/",
         "Services": [
-            "Amazon DynamoDB",
-            "Amazon OpenSearch Service"
+            "Amazon OpenSearch Service",
+            "Amazon DynamoDB"
         ]
     },
     {
@@ -910,8 +910,8 @@
         "Date": "13/09/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/",
         "Services": [
-            "Amazon Redshift",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1282,8 +1282,8 @@
         "Date": "20/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Forecast"
+            "Amazon Forecast",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1301,8 +1301,8 @@
         "Date": "15/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -1670,8 +1670,8 @@
         "Date": "18/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/",
         "Services": [
-            "Amazon Neptune",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon Neptune"
         ]
     },
     {
@@ -2000,8 +2000,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/",
         "Services": [
             "Amazon S3",
-            "AWS Database Migration Service",
-            "AWS Glue"
+            "AWS Glue",
+            "AWS Database Migration Service"
         ]
     },
     {
@@ -2060,8 +2060,8 @@
         "Date": "10/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/",
         "Services": [
-            "Amazon Redshift",
-            "Amazon Redshift Serverless"
+            "Amazon Redshift Serverless",
+            "Amazon Redshift"
         ]
     },
     {
@@ -2258,8 +2258,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/",
         "Services": [
-            "Amazon MemoryDB",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon MemoryDB"
         ]
     },
     {
@@ -2268,8 +2268,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/",
         "Services": [
-            "Amazon ElastiCache",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -2475,8 +2475,8 @@
         "Date": "04/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/",
         "Services": [
-            "Amazon Kinesis",
             "Amazon DynamoDB",
+            "Amazon Kinesis",
             "Amazon Kinesis Data Streams"
         ]
     },

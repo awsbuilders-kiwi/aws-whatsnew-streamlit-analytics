@@ -116,8 +116,8 @@
         "Date": "10/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon Managed Grafana"
+            "Amazon Managed Grafana",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Date": "08/12/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-change-manager-displays-aws-cloudtrail-change-requests/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -335,8 +335,8 @@
         "Date": "18/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -499,8 +499,8 @@
         "Date": "08/11/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -771,8 +771,8 @@
         "Date": "03/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/",
         "Services": [
-            "Amazon EC2",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "Amazon EC2"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "Date": "02/09/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/",
         "Services": [
-            "AWS Config",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS Config"
         ]
     },
     {
@@ -819,8 +819,8 @@
         "Date": "18/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -847,8 +847,8 @@
         "Date": "18/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/",
         "Services": [
-            "Elastic Load Balancing",
-            "Amazon Route 53"
+            "Amazon Route 53",
+            "Elastic Load Balancing"
         ]
     },
     {
@@ -936,8 +936,8 @@
         "Date": "03/08/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/",
         "Services": [
-            "AWS Config",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Config"
         ]
     },
     {
@@ -1000,8 +1000,8 @@
         "Date": "28/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/",
         "Services": [
-            "Amazon S3",
             "AWS Control Tower",
+            "Amazon S3",
             "AWS Chatbot"
         ]
     },
@@ -1052,8 +1052,8 @@
         "Date": "20/07/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
         "Services": [
-            "Amazon EventBridge",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon EventBridge"
         ]
     },
     {
@@ -1099,8 +1099,8 @@
         "Date": "30/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/",
         "Services": [
-            "AWS Well-Architected Tool",
-            "AWS Organizations"
+            "AWS Organizations",
+            "AWS Well-Architected Tool"
         ]
     },
     {
@@ -1179,8 +1179,8 @@
         "Date": "09/06/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/",
         "Services": [
-            "AWS CloudTrail",
-            "AWS Systems Manager"
+            "AWS Systems Manager",
+            "AWS CloudTrail"
         ]
     },
     {
@@ -1252,8 +1252,8 @@
         "Date": "26/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/",
         "Services": [
-            "Amazon FSx for NetApp ONTAP",
             "AWS Launch Wizard",
+            "Amazon FSx for NetApp ONTAP",
             "Amazon FSx"
         ]
     },
@@ -1263,8 +1263,8 @@
         "Date": "25/05/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/",
         "Services": [
-            "AWS Config",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Config"
         ]
     },
     {
@@ -1513,8 +1513,8 @@
         "Date": "24/03/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -1797,8 +1797,8 @@
         "Date": "19/01/2022",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/",
         "Services": [
-            "AWS Security Hub",
-            "AWS Trusted Advisor"
+            "AWS Trusted Advisor",
+            "AWS Security Hub"
         ]
     },
     {

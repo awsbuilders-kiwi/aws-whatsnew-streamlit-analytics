@@ -48,8 +48,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
         "Services": [
-            "AWS Outposts",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Outposts"
         ]
     },
     {
@@ -167,8 +167,8 @@
         "Date": "19/06/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api",
         "Services": [
-            "Amazon EC2",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {
@@ -446,8 +446,8 @@
         "Date": "17/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink",
         "Services": [
-            "Amazon Lightsail",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon Lightsail"
         ]
     },
     {
@@ -804,8 +804,8 @@
         "Date": "04/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/aws-parallelcluster-3-13-ubuntu-24-04-efa-enabled-amazon-fsx-lustre-filesystems",
         "Services": [
-            "Amazon FSx",
-            "Amazon FSx for Lustre"
+            "Amazon FSx for Lustre",
+            "Amazon FSx"
         ]
     },
     {
@@ -823,9 +823,9 @@
         "Date": "01/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager",
         "Services": [
-            "AWS Secrets Manager",
+            "AWS Systems Manager",
             "AWS Elastic Beanstalk",
-            "AWS Systems Manager"
+            "AWS Secrets Manager"
         ]
     },
     {
@@ -1471,9 +1471,9 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
-            "Amazon EC2",
             "AWS Compute Optimizer",
-            "Amazon EC2 Auto Scaling"
+            "Amazon EC2 Auto Scaling",
+            "Amazon EC2"
         ]
     },
     {

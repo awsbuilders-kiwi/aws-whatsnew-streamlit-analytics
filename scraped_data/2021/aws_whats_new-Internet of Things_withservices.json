@@ -134,8 +134,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/",
         "Services": [
-            "AWS IoT Device Management",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS IoT Device Management"
         ]
     },
     {
@@ -277,8 +277,8 @@
         "Date": "11/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
-            "AWS Snow Family",
             "AWS IoT Greengrass",
+            "AWS Snow Family",
             "Snow Family"
         ]
     },
@@ -543,8 +543,8 @@
         "Date": "17/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-sitewise-monitor-adds-support-for-accessing-monitor-portals-using-aws-iam-users-and-roles/",
         "Services": [
-            "AWS Identity and Access Management",
-            "AWS IoT SiteWise"
+            "AWS IoT SiteWise",
+            "AWS Identity and Access Management"
         ]
     },
     {
@@ -608,9 +608,9 @@
         "Date": "22/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/",
         "Services": [
+            "AWS IoT Core",
             "AWS IoT Device Defender",
-            "AWS IoT Device Management",
-            "AWS IoT Core"
+            "AWS IoT Device Management"
         ]
     },
     {
