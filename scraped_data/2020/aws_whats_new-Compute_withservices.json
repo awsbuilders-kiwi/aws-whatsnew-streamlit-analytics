@@ -72,8 +72,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -96,8 +96,8 @@
         "Date": "22/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -195,9 +195,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS Lambda"
         ]
     },
     {
@@ -206,9 +206,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS Lambda"
         ]
     },
     {
@@ -713,8 +713,8 @@
         "Date": "29/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/",
         "Services": [
-            "AWS Certificate Manager",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Certificate Manager"
         ]
     },
     {
@@ -739,8 +739,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/",
         "Services": [
-            "AWS Fargate",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS Fargate"
         ]
     },
     {
@@ -806,8 +806,8 @@
         "Date": "20/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/",
         "Services": [
-            "AWS Lambda",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Lambda"
         ]
     },
     {
@@ -839,8 +839,8 @@
         "Date": "08/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/",
         "Services": [
-            "AWS Compute Optimizer",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Compute Optimizer"
         ]
     },
     {
@@ -867,8 +867,8 @@
         "Date": "07/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ebs-csi-driver-now-supports-aws-outposts/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -1385,8 +1385,8 @@
         "Date": "11/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-fargate-aws-eks-included-compute-savings-plan/",
         "Services": [
-            "Savings Plans",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Savings Plans"
         ]
     },
     {
@@ -1612,8 +1612,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1824,8 +1824,8 @@
         "Date": "04/06/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/06/aws-auto-scaling-available-7-additional-aws-regions-predictive-scaling-amazon-ec2/",
         "Services": [
-            "AWS Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Auto Scaling"
         ]
     },
     {
@@ -2115,8 +2115,8 @@
         "Date": "28/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/introducing-genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/",
         "Services": [
-            "AWS Step Functions",
-            "AWS Batch"
+            "AWS Batch",
+            "AWS Step Functions"
         ]
     },
     {
@@ -2235,8 +2235,8 @@
         "Date": "06/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/aws-elastic-beanstalk-launches-support-for-aws-privatelink/",
         "Services": [
-            "AWS Elastic Beanstalk",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "AWS Elastic Beanstalk"
         ]
     },
     {
@@ -2675,8 +2675,8 @@
         "Date": "22/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-vpc-ingress-routing-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {

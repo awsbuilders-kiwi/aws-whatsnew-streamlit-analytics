@@ -59,10 +59,10 @@
         "Date": "17/12/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/12/aws-cloudformation-updates-for-api-gateway-codepipeline-s3-iam-ecs-rds-es-lambda-and-more/",
         "Services": [
-            "AWS Lambda",
             "AWS CodePipeline",
             "Amazon S3",
             "Amazon API Gateway",
+            "AWS Lambda",
             "AWS CloudFormation"
         ]
     },
@@ -455,8 +455,8 @@
         "Date": "08/10/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-vpc-traffic-mirroring-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon VPC"
+            "Amazon VPC",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -475,8 +475,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-cloudformation-updates-amazon-ec2-ecs-elasticache-elasticsearch/",
         "Services": [
             "AWS CloudFormation",
-            "Amazon ElastiCache",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon ElastiCache"
         ]
     },
     {
@@ -689,8 +689,8 @@
         "Date": "24/05/2019",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2019/05/aws-backup-now-supports-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Backup"
+            "AWS Backup",
+            "AWS CloudFormation"
         ]
     },
     {

@@ -14,8 +14,8 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
-            "AWS DataSync",
             "Amazon FSx for Lustre",
+            "AWS DataSync",
             "Amazon FSx"
         ]
     },
@@ -131,8 +131,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/",
         "Services": [
-            "Amazon S3",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon S3"
         ]
     },
     {
@@ -177,8 +177,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -206,8 +206,8 @@
         "Date": "29/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/",
         "Services": [
-            "Amazon S3",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon S3"
         ]
     },
     {
@@ -251,8 +251,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "16/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-supports-external-ntp-server-configuration/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -362,8 +362,8 @@
         "Date": "02/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -406,8 +406,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Backup"
+            "AWS Backup",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -416,8 +416,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/",
         "Services": [
-            "AWS Transfer Family",
-            "Amazon S3"
+            "Amazon S3",
+            "AWS Transfer Family"
         ]
     },
     {
@@ -604,8 +604,8 @@
         "Date": "12/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -615,8 +615,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/",
         "Services": [
             "AWS IoT Greengrass",
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -803,8 +803,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/",
         "Services": [
-            "Amazon S3",
             "AWS PrivateLink",
+            "Amazon S3",
             "AWS Storage Gateway"
         ]
     },
@@ -822,8 +822,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
             "AWS DataSync",
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -832,9 +832,9 @@
         "Date": "14/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/",
         "Services": [
-            "Amazon EBS",
             "AWS Backup",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EBS"
         ]
     },
     {
@@ -852,8 +852,8 @@
         "Date": "09/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/",
         "Services": [
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -879,8 +879,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
             "AWS Launch Wizard",
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -978,8 +978,8 @@
         "Date": "21/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -1033,8 +1033,8 @@
         "Date": "08/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-now-supports-cost-allocation-tags-for-amazon-efs-backups/",
         "Services": [
-            "Amazon EFS",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon EFS"
         ]
     },
     {
@@ -1172,8 +1172,8 @@
         "Date": "06/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/",
         "Services": [
-            "Amazon S3",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "Amazon S3"
         ]
     },
     {
@@ -1182,8 +1182,8 @@
         "Date": "04/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/",
         "Services": [
-            "Amazon Elastic File System",
-            "Amazon EFS"
+            "Amazon EFS",
+            "Amazon Elastic File System"
         ]
     },
     {
@@ -1192,8 +1192,8 @@
         "Date": "02/03/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "Amazon Connect"
+            "Amazon Connect",
+            "Amazon S3"
         ]
     },
     {
@@ -1238,8 +1238,8 @@
         "Date": "04/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/",
         "Services": [
-            "Amazon CloudWatch",
-            "AWS Backup"
+            "AWS Backup",
+            "Amazon CloudWatch"
         ]
     },
     {
@@ -1257,8 +1257,8 @@
         "Date": "03/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-now-supports-aws-privatelink/",
         "Services": [
-            "Amazon S3",
-            "AWS PrivateLink"
+            "AWS PrivateLink",
+            "Amazon S3"
         ]
     },
     {
@@ -1312,8 +1312,8 @@
         "Date": "14/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -1340,9 +1340,9 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon EFS",
+            "Amazon CloudWatch",
             "Amazon Elastic File System",
-            "Amazon CloudWatch"
+            "Amazon EFS"
         ]
     },
     {

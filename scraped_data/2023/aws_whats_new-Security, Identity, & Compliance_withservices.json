@@ -116,8 +116,8 @@
         "Date": "18/12/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/",
         "Services": [
-            "AWS Lake Formation",
             "Amazon Redshift",
+            "AWS Lake Formation",
             "Amazon QuickSight"
         ]
     },
@@ -223,8 +223,8 @@
         "Date": "27/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS Lambda"
         ]
     },
     {
@@ -233,8 +233,8 @@
         "Date": "27/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -266,8 +266,8 @@
         "Date": "26/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-security-guardduty-ecs-monitoring/",
         "Services": [
-            "Amazon GuardDuty",
-            "Amazon Detective"
+            "Amazon Detective",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -285,8 +285,8 @@
         "Date": "26/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-ecs-runtime-monitoring-fargate/",
         "Services": [
-            "Amazon GuardDuty",
-            "AWS Fargate"
+            "AWS Fargate",
+            "Amazon GuardDuty"
         ]
     },
     {
@@ -793,8 +793,8 @@
         "Date": "19/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/",
         "Services": [
-            "AWS Audit Manager",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Audit Manager"
         ]
     },
     {
@@ -803,8 +803,8 @@
         "Date": "11/08/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/",
         "Services": [
-            "AWS WAF",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS WAF"
         ]
     },
     {
@@ -934,8 +934,8 @@
         "Date": "24/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-enhanced-management-capabilities-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -1014,8 +1014,8 @@
         "Date": "14/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-detective-finding-groups-amazon-inspector/",
         "Services": [
-            "Amazon Detective",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "Amazon Detective"
         ]
     },
     {
@@ -1024,8 +1024,8 @@
         "Date": "14/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-inspector-code-scans-aws-lambda-function/",
         "Services": [
-            "AWS Lambda",
-            "Amazon Inspector"
+            "Amazon Inspector",
+            "AWS Lambda"
         ]
     },
     {
@@ -1385,8 +1385,8 @@
         "Date": "21/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-captcha-javascript-api-support/",
         "Services": [
-            "AWS WAF",
-            "AWS WAF Captcha"
+            "AWS WAF Captcha",
+            "AWS WAF"
         ]
     },
     {
@@ -1414,8 +1414,8 @@
         "Date": "20/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/",
         "Services": [
-            "AWS Lake Formation",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "AWS Lake Formation"
         ]
     },
     {
@@ -1469,8 +1469,8 @@
         "Date": "11/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/",
         "Services": [
-            "AWS WAF",
-            "Amazon CloudFront"
+            "Amazon CloudFront",
+            "AWS WAF"
         ]
     },
     {
@@ -1488,8 +1488,8 @@
         "Date": "11/04/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/",
         "Services": [
-            "AWS WAF",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS WAF"
         ]
     },
     {
@@ -1609,8 +1609,8 @@
         "Date": "17/03/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon GuardDuty"
+            "Amazon GuardDuty",
+            "Amazon Aurora"
         ]
     },
     {
@@ -1744,8 +1744,8 @@
         "Date": "17/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-captcha-ten-additional-languages/",
         "Services": [
-            "AWS WAF",
-            "AWS WAF Captcha"
+            "AWS WAF Captcha",
+            "AWS WAF"
         ]
     },
     {
@@ -1754,8 +1754,8 @@
         "Date": "16/02/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Cognito"
         ]
     },
     {
@@ -1906,8 +1906,8 @@
         "Date": "23/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/",
         "Services": [
-            "Amazon Detective",
-            "Amazon VPC"
+            "Amazon VPC",
+            "Amazon Detective"
         ]
     },
     {

@@ -79,8 +79,8 @@
         "Date": "19/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/",
         "Services": [
-            "Amazon AppFlow",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -89,9 +89,9 @@
         "Date": "15/12/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/",
         "Services": [
-            "AWS Lambda",
             "Amazon Kinesis",
-            "Amazon DynamoDB"
+            "Amazon DynamoDB",
+            "AWS Lambda"
         ]
     },
     {
@@ -476,8 +476,8 @@
         "Date": "07/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon Aurora"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "04/11/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -542,8 +542,8 @@
         "Date": "27/10/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -836,8 +836,8 @@
         "Date": "21/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-supports-sasl-scram-authentication-with-usernames-and-passwords-secured-by-aws-secrets-manager/",
         "Services": [
-            "Amazon MSK",
-            "AWS Secrets Manager"
+            "AWS Secrets Manager",
+            "Amazon MSK"
         ]
     },
     {
@@ -907,8 +907,8 @@
         "Date": "15/09/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-appflow-supports-new-data-formats-ingesting-flies-amazon-s3/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1008,8 +1008,8 @@
         "Date": "19/08/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-kinesis-data-streams-two-new-api-features-simplify-consuming-data-from-kinesis-streams/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1163,8 +1163,8 @@
         "Date": "21/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-amazon-ec2-g4-instances-provides-faster-cheaper-xgboost-training/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1228,8 +1228,8 @@
         "Date": "10/07/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-appflow-sends-flow-status-notifications-amazon-cloudwatch-events/",
         "Services": [
-            "Amazon AppFlow",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon AppFlow"
         ]
     },
     {
@@ -1566,8 +1566,8 @@
         "Date": "30/04/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-emr-support-for-running-clusters-with-amazon-ec2-spot-instances-govcloud/",
         "Services": [
-            "Amazon EMR",
-            "Amazon EC2"
+            "Amazon EC2",
+            "Amazon EMR"
         ]
     },
     {
@@ -1764,8 +1764,8 @@
         "Date": "27/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/aws-managed-services-expands-big-data-capabilities-with-support-for-amazon-sagemaker-aws-lake-formation-amazon-cloudsearch/",
         "Services": [
-            "Amazon CloudSearch",
-            "AWS Lake Formation"
+            "AWS Lake Formation",
+            "Amazon CloudSearch"
         ]
     },
     {
@@ -1792,8 +1792,8 @@
         "Date": "23/03/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-kinesis-data-streams-now-supports-scaling-up-to-10000-mbs-throughput-with-a-single-api-call/",
         "Services": [
-            "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "Amazon Kinesis Data Streams",
+            "Amazon Kinesis"
         ]
     },
     {
@@ -1879,8 +1879,8 @@
         "Date": "27/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-msk-can-now-stream-broker-logs-to-cloudwatch-logs-s3-elasticsearch-service/",
         "Services": [
-            "Amazon MSK",
-            "Amazon S3"
+            "Amazon S3",
+            "Amazon MSK"
         ]
     },
     {
@@ -1916,8 +1916,8 @@
         "Date": "05/02/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/02/amazon-cognito-user-pools-now-supports-logging-for-all-api-calls-with-aws-cloudtrail/",
         "Services": [
-            "Amazon Cognito",
-            "AWS CloudTrail"
+            "AWS CloudTrail",
+            "Amazon Cognito"
         ]
     },
     {
@@ -1944,8 +1944,8 @@
         "Date": "17/01/2020",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2020/01/aws-glue-adds-new-transforms-apache-spark-applications-datasets-amazon-s3/",
         "Services": [
-            "Amazon S3",
-            "AWS Glue"
+            "AWS Glue",
+            "Amazon S3"
         ]
     },
     {

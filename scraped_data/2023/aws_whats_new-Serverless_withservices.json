@@ -57,9 +57,9 @@
         "Date": "23/11/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/",
         "Services": [
-            "AWS Lambda",
+            "Amazon Kinesis Data Streams",
             "Amazon Kinesis",
-            "Amazon Kinesis Data Streams"
+            "AWS Lambda"
         ]
     },
     {
@@ -199,8 +199,8 @@
         "Date": "21/10/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/",
         "Services": [
-            "Amazon MSK",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "Amazon MSK"
         ]
     },
     {
@@ -354,9 +354,9 @@
         "Date": "26/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/",
         "Services": [
+            "Amazon CloudWatch",
             "EMR Serverless",
-            "Amazon EMR",
-            "Amazon CloudWatch"
+            "Amazon EMR"
         ]
     },
     {
@@ -374,8 +374,8 @@
         "Date": "17/07/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/",
         "Services": [
-            "AWS Lambda",
-            "Amazon EventBridge"
+            "Amazon EventBridge",
+            "AWS Lambda"
         ]
     },
     {
@@ -400,8 +400,8 @@
         "Date": "28/06/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/",
         "Services": [
-            "Amazon Aurora",
-            "Amazon Redshift"
+            "Amazon Redshift",
+            "Amazon Aurora"
         ]
     },
     {
@@ -518,8 +518,8 @@
         "Date": "11/05/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
         "Services": [
-            "AWS Lambda",
-            "AWS X-Ray"
+            "AWS X-Ray",
+            "AWS Lambda"
         ]
     },
     {
@@ -688,9 +688,9 @@
         "Date": "06/01/2023",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/",
         "Services": [
+            "AWS Systems Manager",
             "AWS App Runner",
-            "AWS Secrets Manager",
-            "AWS Systems Manager"
+            "AWS Secrets Manager"
         ]
     }
 ]

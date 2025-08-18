@@ -14,8 +14,8 @@
         "Date": "20/12/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
         "Services": [
-            "AWS DataSync",
             "Amazon FSx for Lustre",
+            "AWS DataSync",
             "Amazon FSx"
         ]
     },
@@ -64,8 +64,8 @@
         "Date": "30/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "AWS IoT Device Management"
+            "AWS IoT Device Management",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -251,8 +251,8 @@
         "Date": "12/08/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -297,8 +297,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/",
         "Services": [
-            "Amazon S3",
             "AWS PrivateLink",
+            "Amazon S3",
             "AWS Storage Gateway"
         ]
     },
@@ -327,8 +327,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/",
         "Services": [
             "AWS DataSync",
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -387,8 +387,8 @@
         "Date": "30/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -465,8 +465,8 @@
         "Date": "14/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/",
         "Services": [
-            "AWS Snow Family",
-            "Snow Family"
+            "Snow Family",
+            "AWS Snow Family"
         ]
     },
     {
@@ -484,8 +484,8 @@
         "Date": "08/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/",
         "Services": [
-            "AWS Transfer Family",
-            "Amazon Elastic File System"
+            "Amazon Elastic File System",
+            "AWS Transfer Family"
         ]
     }
 ]

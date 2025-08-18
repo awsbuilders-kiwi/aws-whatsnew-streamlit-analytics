@@ -206,8 +206,8 @@
         "Date": "24/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/",
         "Services": [
-            "Amazon Managed Grafana",
             "Amazon Redshift",
+            "Amazon Managed Grafana",
             "Amazon Athena"
         ]
     },
@@ -258,8 +258,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Date": "22/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -364,8 +364,8 @@
         "Date": "15/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/",
         "Services": [
-            "AWS Launch Wizard",
-            "Amazon EBS"
+            "Amazon EBS",
+            "AWS Launch Wizard"
         ]
     },
     {
@@ -425,8 +425,8 @@
         "Date": "01/11/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/",
         "Services": [
-            "AWS CloudFormation",
-            "Amazon MemoryDB"
+            "Amazon MemoryDB",
+            "AWS CloudFormation"
         ]
     },
     {
@@ -500,8 +500,8 @@
         "Date": "05/10/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -546,8 +546,8 @@
         "Date": "23/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/",
         "Services": [
-            "AWS Systems Manager",
-            "Service Catalog"
+            "Service Catalog",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -565,8 +565,8 @@
         "Date": "17/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/",
         "Services": [
-            "Amazon S3",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon S3"
         ]
     },
     {
@@ -593,8 +593,8 @@
         "Date": "14/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-waf-rate-based-rules/",
         "Services": [
-            "AWS WAF",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS WAF"
         ]
     },
     {
@@ -610,8 +610,8 @@
         "Date": "10/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/",
         "Services": [
-            "AWS Systems Manager",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -620,8 +620,8 @@
         "Date": "08/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/",
         "Services": [
-            "AWS Organizations",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Organizations"
         ]
     },
     {
@@ -648,8 +648,8 @@
         "Date": "01/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/",
         "Services": [
-            "AWS WAF",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS WAF"
         ]
     },
     {
@@ -658,8 +658,8 @@
         "Date": "01/09/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -900,9 +900,9 @@
         "Date": "17/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/",
         "Services": [
+            "AWS Marketplace",
             "AWS Organizations",
-            "AWS License Manager",
-            "AWS Marketplace"
+            "AWS License Manager"
         ]
     },
     {
@@ -954,8 +954,8 @@
         "Date": "08/07/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-firewall-manager-supports-central-monitoring-of-vpc-routes-for-aws-network-firewall/",
         "Services": [
-            "AWS Network Firewall",
-            "AWS Firewall Manager"
+            "AWS Firewall Manager",
+            "AWS Network Firewall"
         ]
     },
     {
@@ -1029,8 +1029,8 @@
         "Date": "23/06/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/",
         "Services": [
-            "Amazon Lookout for Metrics",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon Lookout for Metrics"
         ]
     },
     {
@@ -1108,8 +1108,8 @@
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/",
         "Services": [
             "AWS Launch Wizard",
-            "Amazon FSx for Windows File Server",
-            "Amazon FSx"
+            "Amazon FSx",
+            "Amazon FSx for Windows File Server"
         ]
     },
     {
@@ -1164,10 +1164,10 @@
         "Date": "19/05/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/",
         "Services": [
-            "AWS Compute Optimizer",
-            "AWS Lambda",
             "Amazon EBS",
-            "Amazon S3"
+            "AWS Compute Optimizer",
+            "Amazon S3",
+            "AWS Lambda"
         ]
     },
     {
@@ -1294,8 +1294,8 @@
         "Date": "28/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/",
         "Services": [
-            "AWS Systems Manager",
-            "AWS Security Hub"
+            "AWS Security Hub",
+            "AWS Systems Manager"
         ]
     },
     {
@@ -1421,8 +1421,8 @@
         "Date": "10/04/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-lambda-insights-now-supports-aws-lambda-container-images-general-availability/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1717,8 +1717,8 @@
         "Date": "03/02/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/",
         "Services": [
-            "Amazon API Gateway",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Amazon API Gateway"
         ]
     },
     {
@@ -1779,8 +1779,8 @@
         "Date": "29/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/",
         "Services": [
-            "AWS Organizations",
-            "AWS Control Tower"
+            "AWS Control Tower",
+            "AWS Organizations"
         ]
     },
     {
@@ -1830,9 +1830,9 @@
         "Date": "12/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/",
         "Services": [
-            "Amazon EFS",
+            "Amazon CloudWatch",
             "Amazon Elastic File System",
-            "Amazon CloudWatch"
+            "Amazon EFS"
         ]
     },
     {
@@ -1841,8 +1841,8 @@
         "Date": "09/01/2021",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/",
         "Services": [
-            "AWS DataSync",
-            "AWS CloudFormation"
+            "AWS CloudFormation",
+            "AWS DataSync"
         ]
     },
     {

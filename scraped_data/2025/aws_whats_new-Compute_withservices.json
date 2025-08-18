@@ -48,8 +48,8 @@
         "Date": "01/07/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/",
         "Services": [
-            "Amazon EBS",
-            "AWS Outposts"
+            "AWS Outposts",
+            "Amazon EBS"
         ]
     },
     {
@@ -446,8 +446,8 @@
         "Date": "17/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink",
         "Services": [
-            "AWS PrivateLink",
-            "Amazon Lightsail"
+            "Amazon Lightsail",
+            "AWS PrivateLink"
         ]
     },
     {
@@ -569,8 +569,8 @@
         "Date": "02/05/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -676,8 +676,8 @@
         "Date": "19/04/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/",
         "Services": [
-            "Red Hat OpenShift Service on AWS",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "Red Hat OpenShift Service on AWS"
         ]
     },
     {
@@ -972,8 +972,8 @@
         "Date": "12/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config",
         "Services": [
-            "AWS Config",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Config"
         ]
     },
     {
@@ -1071,8 +1071,8 @@
         "Date": "05/03/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/",
         "Services": [
-            "AWS Lambda",
-            "Amazon CloudWatch"
+            "Amazon CloudWatch",
+            "AWS Lambda"
         ]
     },
     {
@@ -1471,9 +1471,9 @@
         "Date": "10/01/2025",
         "Link": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups",
         "Services": [
-            "AWS Compute Optimizer",
             "Amazon EC2 Auto Scaling",
-            "Amazon EC2"
+            "Amazon EC2",
+            "AWS Compute Optimizer"
         ]
     },
     {
